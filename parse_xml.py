@@ -18,7 +18,7 @@ from collections import defaultdict
 def parse_args():
     """Parse script arguments."""
     parser = argparse.ArgumentParser()
-    parser.add_argument("xmlfile", type=str, help="Path to XML file to parse.")
+    parser.add_argument("xmlfiles", nargs='+', help="XML files to parse.")
     parser.add_argument("--lang", type=str, help="ISO 639-2/3 code for "
         "language to extract from XML file. Default arn = Mapuche.",
         default="arn", choices=("arn", "spa"))
@@ -46,6 +46,7 @@ def get_root(xmlfile):
     Any namespaces are stripped from tag and attribute names to make subsequent
     parsing cleaner.
     """
+    # TODO: maybe better to use namespace dict here?
     tree = ET.iterparse(xmlfile)
     for _, elem in tree:
         prefix, has_namespace, postfix = elem.tag.partition("}")
@@ -80,9 +81,8 @@ def parse_train_file(xmlfile, lang="arn", debug=False):
     # -- assuming we should extract every word in a given line if that line
     # is tagged with the target language
     words = []
-    for p in root.findall('./text/body/p'):
-        if p.attrib['lang'] == lang:
-            words.extend(p.findall('./w'))
+    for p in root.iterfind(".//p[@lang='{}']".format(lang)):
+        words.extend(p.findall('./w'))
     if debug:
         for w in words[:5]:
             print(w.attrib)
@@ -133,21 +133,17 @@ def compute_stats_from_words(words, pos=None):
     morpheme_counts = defaultdict(int)
     with open('text_from_words.txt', 'w') as outf:
         for word in words:
-            try:
-                if (pos is None) or (word.attrib['pos'] == pos):
-                    reconstructed_word = ""
-                    for morpheme in word.findall('./m'):
-                        # must be careful of deletions(?) e.g. n="12", line 135
-                        # <w xml:lang="arn" lemma="mapulen" pos="V" corresp="be distant"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m><m baseForm="le" type="vb">le</m><m baseForm="iy" type="ind3"></m></w>
-                        if morpheme.text is not None:
-                            morpheme_counts[morpheme.text.lower()] += 1
-                            reconstructed_word += morpheme.text.lower()
-                    reconstructed_word_counts[reconstructed_word] += 1
-                    outf.write("{}\n".format(reconstructed_word))
-                    stats['tokens'] += 1
-            # skip words with no pos information if we want specific statistics
-            except KeyError:
-                continue
+            if (pos is None) or (word.get('pos') == pos):
+                reconstructed_word = ""
+                for morpheme in word.findall('./m'):
+                    # must be careful of deletions(?) e.g. n="12", line 135
+                    # <w xml:lang="arn" lemma="mapulen" pos="V" corresp="be distant"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m><m baseForm="le" type="vb">le</m><m baseForm="iy" type="ind3"></m></w>
+                    if morpheme.text is not None:
+                        morpheme_counts[morpheme.text.lower()] += 1
+                        reconstructed_word += morpheme.text.lower()
+                reconstructed_word_counts[reconstructed_word] += 1
+                outf.write("{}\n".format(reconstructed_word))
+                stats['tokens'] += 1
     stats['reconstructed_word_tokens'] = sum(reconstructed_word_counts.values())
     stats['reconstructed_word_types'] = len(reconstructed_word_counts)
     stats['morpheme_tokens'] = sum(morpheme_counts.values())
@@ -171,8 +167,14 @@ def parse_test_file(xmlfile, lang="arn", debug=False):
       https://tei-c.org/ns/1.0/) for the target language.
     """
     root = get_root(xmlfile)
-    lines = [e.text for e in root.findall('./text/body/p')
-                if e.attrib['lang'] == lang]
+    # TODO: handle things like "<p xml:lang="arn" n="6"><w xml:lang="spa">Señor</w>...</p>"
+    #  which specifically fails because p.text is None, but generally this
+    #  kind of thing with <w> inside <p> is problematic: only get the first
+    #  bit of text before <w> (next text would be w.tail => find all <w> in <p>
+    #  and build up from there???)
+    # For now just filter out NoneType
+    lines = [e.text for e in root.iterfind(".//p[@lang='{}']".format(lang))
+                if e.text is not None]
     if debug:
         for l in lines[:5]:
             print(l)
@@ -207,6 +209,7 @@ def compute_stats_from_lines(lines):
     word_counts = defaultdict(int)
     with open('text_from_lines.txt', 'w') as outf:
         for line in lines:
+            print(line)
             # TODO: better text normalization
             # ' is part of orthography, some words compounded with en-dash(/hyphen?)
             # so only deal with obvious non-word chars to start with
@@ -229,12 +232,17 @@ def main():
     """Read input XML file and compute summary statistics."""
     args = parse_args()
     if args.tagged:
-        words = parse_train_file(args.xmlfile, args.lang, args.debug)
+        # TODO: neater way of handling multiple files
+        words = []
+        for f in args.xmlfiles:
+            words.extend(parse_train_file(f, args.lang, args.debug))
         stats = compute_stats_from_words(words, pos=args.pos)
     else:
-        lines = parse_test_file(args.xmlfile, args.lang, args.debug)
+        lines = []
+        for f in args.xmlfiles:
+            lines.extend(parse_test_file(f, args.lang, args.debug))
         stats = compute_stats_from_lines(lines)
-    print("File: {}".format(args.xmlfile))
+    print("File: {}".format(args.xmlfiles))
     print("Specific POS: {}".format(args.pos))
     pprint.pprint(stats)
 

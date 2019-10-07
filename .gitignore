@@ -1,1 +1,4 @@
+data/*
 __pycache__/*
+text_from_lines.txt
+text_from_words.txt
