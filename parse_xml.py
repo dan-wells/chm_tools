@@ -131,6 +131,7 @@ def compute_stats_from_words(words, pos=None):
     stats['tokens'] = 0
     reconstructed_word_counts = defaultdict(int)
     morpheme_counts = defaultdict(int)
+    lemma_counts = defaultdict(int)
     with open('text_from_words.txt', 'w') as outf:
         for word in words:
             if (pos is None) or (word.get('pos') == pos):
@@ -141,11 +142,13 @@ def compute_stats_from_words(words, pos=None):
                     if morpheme.text is not None:
                         morpheme_counts[morpheme.text.lower()] += 1
                         reconstructed_word += morpheme.text.lower()
+                lemma_counts[word.get('lemma')] += 1
                 reconstructed_word_counts[reconstructed_word] += 1
                 outf.write("{}\n".format(reconstructed_word))
                 stats['tokens'] += 1
     stats['reconstructed_word_tokens'] = sum(reconstructed_word_counts.values())
     stats['reconstructed_word_types'] = len(reconstructed_word_counts)
+    stats['lemmas'] = len(lemma_counts)
     stats['morpheme_tokens'] = sum(morpheme_counts.values())
     stats['morpheme_types'] = len(morpheme_counts)
     stats['morpheme_word_ratio'] = stats['morpheme_tokens'] / stats['tokens']
@@ -209,7 +212,6 @@ def compute_stats_from_lines(lines):
     word_counts = defaultdict(int)
     with open('text_from_lines.txt', 'w') as outf:
         for line in lines:
-            print(line)
             # TODO: better text normalization
             # ' is part of orthography, some words compounded with en-dash(/hyphen?)
             # so only deal with obvious non-word chars to start with
