@@ -901,7 +901,7 @@
          <p xml:lang="spa" n="93">Cerca dejar ven mesa.</p>
 
          <p xml:lang="arn" n="94">
-            <w xml:lang="arn" lemma="wiwün" pos="V" corresp="be thirsty"><m baseForm="wiwü" type="root" corresp="be thirsty">Wivü</m><m baseForm="(ü)n" type="ind1s">n</m></w>;
+            <w xml:lang="arn" lemma="wiwün" type="V" pos="be thirsty"><m baseForm="wiwü" type="root" corresp="be thirsty">Wivü</m><m baseForm="(ü)n" type="ind1s">n</m></w>;
             <w xml:lang="arn" lemma="tükun" pos="V" corresp="place/sow"><m baseForm="tüku" type="root" corresp="place/sow">təku</m><m baseForm="(l)el" type="appl">lel</m><m baseForm="en" type="ind2s-1s">en</m></w>
             <w xml:lang="arn" lemma="ko" pos="N" corresp="water"><m baseForm="ko" type="root" corresp="water">ko</m></w>
             <w xml:lang="arn" lemma="fasu" pos="N" corresp="glass" source="sp:vaso"><m baseForm="fasu" type="root" corresp="glass">vasu</m></w>-
@@ -3724,7 +3724,7 @@
             <w xml:lang="arn" lemma="ellkun" pos="V" type="hide"><m baseForm="ellka" type="root" corresp="hide">Eʎka</m><m>nie</m><m>ke</m><m>i</m></w>
             <w xml:lang="arn" lemma="minche" pos="AV" type="under"><m baseForm="minche" type="root" corresp="under">minche</m></w>
             <w xml:lang="arn" lemma="pinu" pos="N" type="straw/reeds"><m baseForm="pinu" type="root" corresp="straw/reeds">pinu</m></w>,
-            <w xml:lang="arn" lemma="küpan" pos="V" corresp="come"><m baseForm="küpa" type="root" corresp="come">kəpa</m><m baseForm="le" type="subj3s">le</m></w>
+            <w xml:lang="arn" lemma="küpale" pos="n" corresp="come"><m baseForm="küpa" type="root" corresp="come">kəpa</m><m baseForm="le" type="subj3s">le</m></w>
             <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w>
             <w xml:lang="arn" lemma="müna" pos="AV" corresp="very"><m baseForm="müna" type="root" corresp="very">mənna</m></w>
             <w xml:lang="arn" lemma="elun" pos="V" corresp="give"><m baseForm="elu" type="root" corresp="give">elu</m><m baseForm="rke" type="rep">rke</m><m baseForm="a" type="fut" change="glide epenthesis">ya</m><m baseForm="fi" type="dir3">vwi</m><m baseForm="lu" type="svn">lu</m></w>.</p>
