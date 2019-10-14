@@ -38,23 +38,6 @@ def parse_args():
     return parser.parse_args()
 
 
-def get_root(xmlfile):
-    """
-    Return the root element of an XML file.
-
-    Args
-      xmlfile: Path to XML file
-
-    Returns
-      xml.etree.ElementTree.Element containing the root of input XML
-
-    Any namespaces are stripped from tag and attribute names to make subsequent
-    parsing cleaner.
-    """
-    soup = BeautifulSoup(open(xmlfile), 'lxml')
-    return soup
-
-
 def parse_train_file(xml_in, connlu_out, lang="arn", debug=False):
     """
     Extract tagged words under XML root element for target language.
@@ -70,19 +53,18 @@ def parse_train_file(xml_in, connlu_out, lang="arn", debug=False):
       element as defined in the Text Encoding Initiative namespace
       (https://tei-c.org/ns/1.0/).
     """
-    root = BeautifulSoup(open(xml_in), 'lxml')
+    soup = BeautifulSoup(open(xml_in), 'lxml')
     # can have spa words inside arn <p> so need to decide at that level
     # (but e.g. "peso" is tagged as both arn and spa in those contexts)
     # -- assuming we should extract every word in a given line if that line
     # is tagged with the target language
     with open(connlu_out, 'w') as outf:
         outf.write('#ID\tFORM\tLEMMA\tUPOSTAG\tXPOSTAG\tFEATS\tHEAD\tDEPREL\tDEPS\tMISC\n')
-        for line in root.find_all('p', {'xml:lang': lang}):
+        for line in soup.find_all('p', {'xml:lang': lang}):
             # TODO: try and get anchor IDs from 1922AUGU as well
             if line.get('n') is not None:
                 outf.write("# {}\n".format(line.get('n')))
             # have to capture punctuation as well as things wrapped in <w>
-            #for i, word in enumerate(line.find_all('w'), 1):
             i = 1
             for elem in line:
                 if not elem.name and elem.strip():
@@ -108,8 +90,8 @@ def parse_train_file(xml_in, connlu_out, lang="arn", debug=False):
                     outf.write('\n')
                     i += 1
             outf.write('\n')
-    ### legacy
-    lines = root.find_all('p', {'xml:lang': lang})
+    ### stuff to work with stats calculation
+    lines = soup.find_all('p', {'xml:lang': lang})
     words = [line.find_all('w') for line in lines]
     # useful to keep this nested structure so we know which words are from
     # which sentence: connl-u format uses blank lines to separate sentences
@@ -194,7 +176,7 @@ def compute_stats_from_words(words, pos=None):
     return stats
 
 
-def parse_test_file(xmlfile, lang="arn", debug=False):
+def parse_test_file(xml_in, lang="arn", debug=False):
     """
     Extract lines of raw text under XML root element for target language.
 
@@ -208,15 +190,13 @@ def parse_test_file(xmlfile, lang="arn", debug=False):
       elements (as defined in the Text Encoding Initiative namespace:
       https://tei-c.org/ns/1.0/) for the target language.
     """
-    root = get_root(xmlfile)
-    # TODO: handle things like "<p xml:lang="arn" n="6"><w xml:lang="spa">Señor</w>...</p>"
-    #  which specifically fails because p.text is None, but generally this
-    #  kind of thing with <w> inside <p> is problematic: only get the first
-    #  bit of text before <w> (next text would be w.tail => find all <w> in <p>
-    #  and build up from there???)
-    # For now just filter out NoneType
-    lines = [e.text for e in root.iterfind(".//p[@lang='{}']".format(lang))
-                if e.text is not None]
+    soup = BeautifulSoup(open(xml_in), 'lxml')
+    lines = soup.find_all('p', {'xml:lang': lang})
+    lines = [p.text for p in lines]
+    # TODO: write out to CoNNL-U format with blank fields for most things, needs
+    #   tokenization etc.
+    # TODO: make sure stuff like `<p xml:lang="arn" n="6"><w xml:lang="spa">Señor</w>...</p>`
+    #   is properly handled so that any non-Mapudungun words are annotated as such
     if debug:
         for l in lines[:5]:
             print(l)
@@ -283,7 +263,8 @@ def main():
         lines = []
         for f in args.xmlfiles:
             lines.extend(parse_test_file(f, args.lang, args.debug))
-        stats = compute_stats_from_lines(lines)
+        if args.stats:
+            stats = compute_stats_from_lines(lines)
     if args.stats:
         print("File: {}".format(args.xmlfiles))
         print("Specific POS: {}".format(args.pos))
