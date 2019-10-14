@@ -1,0 +1,4972 @@
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+# 1
+1	Amuŋe	amun	_	V	imp2s	_	_	_	baseForms=amu|nge
+2	,	,	PUNCT	PUNCT	_	_	_	_	_
+3	inei	iney	_	WH	particle	_	_	_	baseForms=iney
+4	chei	chey	_	IDP	particle	_	_	_	baseForms=chey
+5	mət'ümi	mütrümn	_	V	ind3	_	_	_	baseForms=mütrüm|iy
+6	wekun	wekun	_	AV	_	_	_	_	baseForms=wekun
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 2
+1	küpape	küpan	_	V	_	_	_	_	baseForms=küpa|None
+2	,	,	PUNCT	PUNCT	_	_	_	_	_
+3	pieimeu	pin	_	V	ind3-2s	_	_	_	baseForms=pi|eymew
+4	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+5	kawaʎeru	kawalleru	_	N	_	_	_	_	baseForms=kawalleru
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 3
+1	Ramtuaviŋe	ramtun	_	V	fut|dir3|imp2s	_	_	_	baseForms=ramtu|a|fi|nge
+2	inei	iney	_	WH	particle	_	_	_	baseForms=iney
+3	an	an	_	IP	particle	_	_	_	baseForms=an
+4	chei	chey	_	IDP	particle	_	_	_	baseForms=chey
+5	,	,	PUNCT	PUNCT	_	_	_	_	_
+6	chem	chem	_	WH	particle	_	_	_	baseForms=chem
+7	–	–	PUNCT	PUNCT	_	_	_	_	_
+8	duam	duam	_	N	_	_	_	_	baseForms=duam
+9	–	–	PUNCT	PUNCT	_	_	_	_	_
+10	ŋei	ngen	_	V	ind3	_	_	_	baseForms=nge|iy
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 4
+1	konpape	konün	_	V	cis	_	_	_	baseForms=kon|pa|None
+2	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 5
+1	Vei	fey	_	D	D	_	_	_	baseForms=fey
+2	piviŋe	pin	_	V	dir3|imp2s	_	_	_	baseForms=pi|fi|nge
+3	;	;	PUNCT	PUNCT	_	_	_	_	_
+4	muchai	müchay	_	AV	_	_	_	_	baseForms=muchay
+5	məten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+6	amoan	amun	_	V	fut|ind1s	_	_	_	baseForms=amu|a|(ü)n
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 6
+1	Marimarri	marimari	_	IJ	_	_	_	_	baseForms=marimari
+2	,	,	PUNCT	PUNCT	_	_	_	_	_
+3	wenüi	wen'üy	_	N	_	_	_	_	baseForms=wen'üy
+4	(	(	PUNCT	PUNCT	_	_	_	_	_
+5	ñan	ñañ	_	N	_	_	_	_	baseForms=ñañ
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	nai	nay	_	N	_	_	_	_	baseForms=nay
+8	)	)	PUNCT	PUNCT	_	_	_	_	_
+9	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+10	chem	chem	_	WH	particle	_	_	_	baseForms=chem
+11	duamimi	duamün	_	V	ind2s	_	_	_	baseForms=duam|imi
+12	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 7
+1	Kəpapeyeyeu	küpan	_	V	indinv3-3	_	_	_	baseForms=küpa|pe|eyew
+2	,	,	PUNCT	PUNCT	_	_	_	_	_
+3	duŋul-pa-pe-tu-eyeu	düngulün	_	V	cause|cis|px|indinv3-3	_	_	_	baseForms=düngu|(ü)l|pa|pe|tu|eyew
+4	kai	kay	_	AV	_	_	_	_	baseForms=kay
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 8
+1	Ventepun	fentrepun	_	AV	_	_	_	_	baseForms=fentre|pun
+2	ayueyu	ayün	_	V	ind1s-2s	_	_	_	baseForms=ayü|eyu
+3	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+4	peviel	peyel	_	N	invNF2s-1s	_	_	_	baseForms=pe|fiel
+5	;	;	PUNCT	PUNCT	_	_	_	_	_
+6	anüŋe	anün	_	V	imp2s	_	_	_	baseForms=anü|nge
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 9
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Cheu	chew	_	WH	particle	_	_	_	baseForms=chew
+3	kəpaimi	küpan	_	V	ind2s	_	_	_	baseForms=küpa|imi
+4	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 10
+1	Kəpan	küpan	_	V	ind1s	_	_	_	baseForms=küpa|(ü)n
+2	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+3	mapu	mapu	_	N	_	_	_	_	baseForms=mapu
+4	–	–	PUNCT	PUNCT	_	_	_	_	_
+5	meu	mew	_	P	P	_	_	_	baseForms=mew
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 11
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Cheu	chew	_	WH	particle	_	_	_	baseForms=chew
+3	məlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+4	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+5	tukukán	tükukan	_	N	cont|nmlz	_	_	_	baseForms=tüku|ka|(ü)n
+6	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 12
+1	Tva-meu	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+2	məten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+3	,	,	PUNCT	PUNCT	_	_	_	_	_
+4	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+5	mapule	mapulen	_	V	vb|ind3	_	_	_	baseForms=mapu|le|iy
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 13
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Chunten	tunten	_	WH	particle	_	_	_	baseForms=tunten
+3	-	-	PUNCT	PUNCT	_	_	_	_	_
+4	meu	mew	_	P	P	_	_	_	baseForms=mew
+5	t'ipa-paimi	tripan	_	V	cis|ind2s	_	_	_	baseForms=tripa|pa|imi
+6	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+7	-	-	PUNCT	PUNCT	_	_	_	_	_
+8	meu	mew	_	P	P	_	_	_	baseForms=mew
+9	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 14
+1	Tai	tayi	_	AV	_	_	_	_	baseForms=tayi
+2	pu	pu	_	PL	particle	_	_	_	baseForms=pu
+3	liwen	liwen	_	N	_	_	_	_	baseForms=liwen
+4	kəpan	küpan	_	V	ind1s	_	_	_	baseForms=küpa|(ü)n
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 15
+1	Kuivi	kuyfi	_	AV	_	_	_	_	baseForms=kuyfi
+2	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+3	pe-we-no-vi-um	pen	_	V	neg|dir3|ind2d	_	_	_	baseForms=pe|psist|no|fi|iymu
+4	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 16
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Cheu	chew	_	WH	particle	_	_	_	baseForms=chew
+3	–	–	PUNCT	PUNCT	_	_	_	_	_
+4	məŋel	müngel	_	AV	_	_	_	_	baseForms=müngel
+5	məle-peimi	mülen	_	V	px|ind2s	_	_	_	baseForms=müle|pe|imi
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	kam	kam	_	IP	particle	_	_	_	baseForms=kam
+8	ka	ka	_	AV	_	_	_	_	baseForms=ka
+9	mapu	mapu	_	N	_	_	_	_	baseForms=mapu
+10	,	,	PUNCT	PUNCT	_	_	_	_	_
+11	kam	kam	_	IP	particle	_	_	_	baseForms=kam
+12	waria	waria	_	N	_	_	_	_	baseForms=waria
+13	–	–	PUNCT	PUNCT	_	_	_	_	_
+14	meu	mew	_	P	P	_	_	_	baseForms=mew
+15	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 17
+1	məle-pen	mülen	_	V	px|ind1s	_	_	_	baseForms=müle|pe|(ü)n
+2	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+3	maʎe	malle	_	N	_	_	_	_	baseForms=malle
+4	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+5	tukukán	tükukan	_	N	cont|nmlz	_	_	_	baseForms=tüku|ka|(ü)n
+6	-	-	PUNCT	PUNCT	_	_	_	_	_
+7	meu	mew	_	P	P	_	_	_	baseForms=mew
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 18
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Cheu	chew	_	WH	particle	_	_	_	baseForms=chew
+3	məlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+4	təveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+5	mapu	mapu	_	N	_	_	_	_	baseForms=mapu
+6	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 19
+1	Naqeltu	nageltu	_	AV	nmlz	_	_	_	baseForms=nag|el|advz
+2	leuvu	l'ewfü	_	N	_	_	_	_	baseForms=l'ewfü
+3	kayu	kayu	_	NUM	_	_	_	_	baseForms=kayu
+4	lewa	lewa	_	N	_	_	_	_	baseForms=lewa
+5	rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+6	–	–	PUNCT	PUNCT	_	_	_	_	_
+7	meu	mew	_	P	P	_	_	_	baseForms=mew
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 20
+1	Pu	pu	_	PL	particle	_	_	_	baseForms=pu
+2	liwen	liwen	_	N	_	_	_	_	baseForms=liwen
+3	t'ipalmi	tripan	_	V	subj2s	_	_	_	baseForms=tripa|(ü)lmi
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	puaimi	pun	_	V	fut|ind2s	_	_	_	baseForms=pu|a|imi
+6	raŋi-antə	rangiantü	_	CN	_	_	_	_	baseForms=rangiñ|antü
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 20a
+1	Kaʎe	kalle	_	AV	_	_	_	_	baseForms=kalle
+2	amupe	amun	_	V	imp3s	_	_	_	baseForms=amu|pe
+3	;	;	PUNCT	PUNCT	_	_	_	_	_
+4	kizhu	kidu	_	AV	_	_	_	_	baseForms=kidu
+5	kimí	kimün	_	V	ind3	_	_	_	baseForms=kim|iy
+6	vei	fey	_	D	D	_	_	_	baseForms=fey
+7	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+8	wüñoal	wüñoel	_	N	fut|nmlz	_	_	_	baseForms=wuño|a|el
+9	tunten	tunten	_	WH	particle	_	_	_	baseForms=tunten
+10	–	–	PUNCT	PUNCT	_	_	_	_	_
+11	meu	mew	_	P	P	_	_	_	baseForms=mew
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 21
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Chem	chem	_	WH	particle	_	_	_	baseForms=chem
+3	am	am	_	IP	particle	_	_	_	baseForms=kam
+4	tuku-ŋe-kei	tükun	_	V	pass|habit|ind3	_	_	_	baseForms=tüku|nge|ke|iy
+5	təveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+6	mapu	mapu	_	N	_	_	_	_	baseForms=mapu
+7	-	-	PUNCT	PUNCT	_	_	_	_	_
+8	meu	mew	_	P	P	_	_	_	baseForms=mew
+9	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 22
+1	Naqeltu	nageltu	_	AV	nmlz	_	_	_	baseForms=nag|el|advz
+2	leuvu	l'ewfü	_	N	_	_	_	_	baseForms=l'ewfü
+3	məlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+4	tukukán	tükukan	_	N	cont|nmlz	_	_	_	baseForms=tüku|ka|(ü)n
+5	wa	wa	_	N	_	_	_	_	baseForms=wa
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	kachiʎa	kachilla	_	N	_	_	_	_	baseForms=kachilla
+8	ka	ka	_	AV	_	_	_	_	baseForms=ka
+9	məlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+10	;	;	PUNCT	PUNCT	_	_	_	_	_
+11	newe	newe	_	AV	_	_	_	_	baseForms=newe
+12	wentetu	wentetu	_	AV	advz	_	_	_	baseForms=wente|tu
+13	məlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+14	poñi	poñü	_	N	_	_	_	_	baseForms=poñu
+15	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 23
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Tunten	tunten	_	WH	particle	_	_	_	baseForms=tunten
+3	kuʎin	kulliñ	_	N	_	_	_	_	baseForms=kulliñ
+4	niei	nien	_	V	ind3	_	_	_	baseForms=nien|iy
+5	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+6	maʎe	malle	_	N	_	_	_	_	baseForms=malle
+7	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+8	malal	malal	_	N	_	_	_	_	baseForms=malal
+9	-	-	PUNCT	PUNCT	_	_	_	_	_
+10	meu	mew	_	P	P	_	_	_	baseForms=mew
+11	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 24
+1	Malal	malal	_	N	_	_	_	_	baseForms=malal
+2	-	-	PUNCT	PUNCT	_	_	_	_	_
+3	meu	mew	_	P	P	_	_	_	baseForms=mew
+4	pichi-lei	pichilen	_	V	vb|ind3	_	_	_	baseForms=pichi|le|iy
+5	,	,	PUNCT	PUNCT	_	_	_	_	_
+6	welu	welu	_	AV	_	_	_	_	baseForms=welu
+7	kachu	kachu	_	N	_	_	_	_	baseForms=kachu
+8	–	–	PUNCT	PUNCT	_	_	_	_	_
+9	meu	mew	_	P	P	_	_	_	baseForms=mew
+10	,	,	PUNCT	PUNCT	_	_	_	_	_
+11	inaltu	inaltu	_	N	_	_	_	_	baseForms=inaltu
+12	wiŋkul	wingkul	_	N	_	_	_	_	baseForms=wingkul
+13	,	,	PUNCT	PUNCT	_	_	_	_	_
+14	vent'e-lei	fentrelen	_	V	vb|ind3	_	_	_	baseForms=fentren|le|iy
+15	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 25
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Kom	kom	_	AV	_	_	_	_	baseForms=kom
+3	tuntelei	tuntelen	_	V	particle|vb	_	_	_	baseForms=tunten|le|iy
+4	?	?	PUNCT	PUNCT	_	_	_	_	_
+5	Raki-la-viŋən	rakin	_	V	neg|dir3|ind3p	_	_	_	baseForms=raki|la|fi|ingün
+6	wiya	wiya	_	AV	_	_	_	_	baseForms=wiya
+7	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 26
+1	Məlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+2	epu	epu	_	NUM	_	_	_	_	baseForms=epu
+3	pataka	pataka	_	NUM	_	_	_	_	baseForms=pataka
+4	epu	epu	_	NUM	_	_	_	_	baseForms=epu
+5	mari	mari	_	NUM	_	_	_	_	baseForms=mari
+6	kechu	kechu	_	NUM	_	_	_	_	baseForms=kechu
+7	kuʎin	kulliñ	_	N	_	_	_	_	baseForms=kulliñ
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 27
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Kom	kom	_	AV	_	_	_	_	baseForms=kom
+3	vucha	fücha	_	AJ	_	_	_	_	baseForms=fücha
+4	ke	ke	_	PL	p	_	_	_	baseForms=ke
+5	kuʎin	kulliñ	_	N	_	_	_	_	baseForms=kulliñ
+6	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 28
+1	Məlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+2	pataka	pataka	_	NUM	_	_	_	_	baseForms=pataka
+3	vucha	fücha	_	AJ	_	_	_	_	baseForms=fücha
+4	ke	ke	_	PL	p	_	_	_	baseForms=ke
+5	waka	waka	_	N	_	_	_	_	baseForms=waka
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	meli	meli	_	NUM	_	_	_	_	baseForms=meli
+8	mari	mari	_	NUM	_	_	_	_	baseForms=mari
+9	mansun	mansun	_	N	_	_	_	_	baseForms=mansun
+10	,	,	PUNCT	PUNCT	_	_	_	_	_
+11	peno	pe	_	IDP	particle|neg	_	_	_	baseForms=pe|no
+12	,	,	PUNCT	PUNCT	_	_	_	_	_
+13	ka	ka	_	AV	_	_	_	_	baseForms=ka
+14	məlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+15	,	,	PUNCT	PUNCT	_	_	_	_	_
+16	mari	mari	_	NUM	_	_	_	_	baseForms=mari
+17	kechu-lei	kechulen	_	V	vb|ind3	_	_	_	baseForms=kechu|le|iy
+18	toro	toro	_	N	_	_	_	_	baseForms=toro
+19	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 29
+1	Kom	kom	_	AV	_	_	_	_	baseForms=kom
+2	puchulu	puchulu	_	N	svn	_	_	_	baseForms=puchu|lu
+3	weke	we	_	AJ	p	_	_	_	baseForms=we|ke
+4	kuʎiŋei	kullingen	_	V	vb|ind3	_	_	_	baseForms=kullin|nge|iy
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+6	—	—	PUNCT	PUNCT	_	_	_	_	_
+
+# 30
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Tunten	tunten	_	WH	particle	_	_	_	baseForms=tunten
+3	antə	antü	_	N	_	_	_	_	baseForms=antü
+4	(	(	PUNCT	PUNCT	_	_	_	_	_
+5	kiyen	küyen'	_	N	_	_	_	_	baseForms=küyen'
+6	)	)	PUNCT	PUNCT	_	_	_	_	_
+7	məleimi	mülen	_	V	ind2s	_	_	_	baseForms=müle|imi
+8	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 31
+1	Məlen	mülen	_	V	ind1s	_	_	_	baseForms=müle|(ü)n
+2	mari	mari	_	NUM	_	_	_	_	baseForms=mari
+3	reqle	regle	_	NUM	_	_	_	_	baseForms=regle
+4	antə	antü	_	N	_	_	_	_	baseForms=antü
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 32
+1	Tuntenma-patuimi	tunteñman	_	V	tr|cis|rest|ind2s	_	_	_	baseForms=tunteñma|(üñ)ma|pa|tu|imi
+2	kai	kay	_	AV	_	_	_	_	baseForms=kay
+3	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 33
+1	T'avia	trafuya	_	AV	_	_	_	_	baseForms=trafuya
+2	akutun	akutun	_	V	rest|ind1s	_	_	_	baseForms=aku|tu|(ü)n
+3	;	;	PUNCT	PUNCT	_	_	_	_	_
+4	epue	epuwe	_	AV	temp	_	_	_	baseForms=epu|we
+5	mu	mew	_	P	P	_	_	_	baseForms=mew
+6	pun	pun	_	N	_	_	_	_	baseForms=pun
+7	akutun	akutun	_	V	rest|ind1s	_	_	_	baseForms=aku|tu|(ü)n
+8	;	;	PUNCT	PUNCT	_	_	_	_	_
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 34
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Kisu	kidu	_	AV	_	_	_	_	baseForms=kidu
+3	(	(	PUNCT	PUNCT	_	_	_	_	_
+4	kizhu	kidu	_	AV	_	_	_	_	baseForms=kidu
+5	)	)	PUNCT	PUNCT	_	_	_	_	_
+6	kəpatuimi	küpatun	_	V	rest|ind2s	_	_	_	baseForms=küpa|tu|imi
+7	,	,	PUNCT	PUNCT	_	_	_	_	_
+8	kam	kam	_	IP	particle	_	_	_	baseForms=kam
+9	kompañŋeimi	kompañün	_	V	pass|ind2s	_	_	_	baseForms=kompañ|nge|imi
+10	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 35
+1	kəpatun	küpatun	_	V	rest|ind1s	_	_	_	baseForms=küpa|tu|(ü)n
+2	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+3	ŋiʎan	ngillañ	_	N	_	_	_	_	baseForms=ngillañ
+4	inchu	iñchiw	_	CP	1d	_	_	_	baseForms=iñchiw
+5	,	,	PUNCT	PUNCT	_	_	_	_	_
+6	ka	ka	_	C	particle	_	_	_	baseForms=ka
+7	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+8	kona	kon'a	_	N	_	_	_	_	baseForms=kon'a
+9	kechaniei	kechan	_	V	psist|ind3	_	_	_	baseForms=kecha|nie|iy
+10	chechem	chechüm	_	N	_	_	_	_	baseForms=chechüm
+11	mula	mula	_	N	_	_	_	_	baseForms=mula
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 36
+1	Vent'en	fentren	_	AV	_	_	_	_	baseForms=fentren
+2	ñampiauən	ñamün	_	V	trloc|amb|ind1s	_	_	_	baseForms=ñam|pu|yaw|(ü)n
+3	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+4	kom	kom	_	AJ	_	_	_	_	baseForms=kom
+5	antə	antü	_	N	_	_	_	_	baseForms=antü
+6	(	(	PUNCT	PUNCT	_	_	_	_	_
+7	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+8	antə	antü	_	N	_	_	_	_	baseForms=antü
+9	)	)	PUNCT	PUNCT	_	_	_	_	_
+10	;	;	PUNCT	PUNCT	_	_	_	_	_
+11	at'ülewen	atrulün	_	V	vb|reflex|ind1s	_	_	_	baseForms=atru|le|(u)w|(ü)n
+12	[	[	PUNCT	PUNCT	_	_	_	_	_
+13	miaupemum	miawmum	_	AV	px|situ	_	_	_	baseForms=miaw|pe|mum
+14	]	]	PUNCT	PUNCT	_	_	_	_	_
+15	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 37
+1	Aʎkütuŋe	allkütun	_	V	rest|imp2s	_	_	_	baseForms=allkü|tu|nge
+2	,	,	PUNCT	PUNCT	_	_	_	_	_
+3	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+4	che	che	_	N	_	_	_	_	baseForms=che
+5	;	;	PUNCT	PUNCT	_	_	_	_	_
+6	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+7	inei	iney	_	WH	particle	_	_	_	baseForms=iney
+8	piŋeimi	pin	_	V	pass|ind2s	_	_	_	baseForms=pi|nge|imi
+9	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 38
+1	Kaʎvün	kallfün	_	NP	_	_	_	_	baseForms=kallfün
+2	piŋen	pin	_	V	pass|ind1s	_	_	_	baseForms=pi|nge|(ü)n
+3	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 39
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Tunten	tunten	_	WH	particle	_	_	_	baseForms=tunten
+3	t'ipantu	tripantu	_	N	_	_	_	_	baseForms=tripantu
+4	nieimi	nien	_	V	ind2s	_	_	_	baseForms=nien|imi
+5	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 40
+1	Nien	nien	_	V	ind1s	_	_	_	baseForms=nien|(ü)n
+2	mari	mari	_	NUM	_	_	_	_	baseForms=mari
+3	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+4	t'ipantu	tripantu	_	N	_	_	_	_	baseForms=tripantu
+5	peno	pe	_	IDP	particle|neg	_	_	_	baseForms=pe|no
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 41
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Cheu	chew	_	WH	particle	_	_	_	baseForms=chew
+3	tuimi	tuwün	_	V	ind2s	_	_	_	baseForms=tuw|imi
+4	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 42
+1	Ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+2	chao	chaw	_	N	_	_	_	_	baseForms=chaw
+3	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+4	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+5	–	–	PUNCT	PUNCT	_	_	_	_	_
+6	meu	mew	_	P	P	_	_	_	baseForms=mew
+7	mlen	mülen	_	V	ind1s	_	_	_	baseForms=müle|(ü)n
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 43
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Nieimi	nien	_	V	ind2s	_	_	_	baseForms=nien|imi
+3	peñi	peñi	_	N	_	_	_	_	baseForms=peñi
+4	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 44
+1	¡	¡	PUNCT	PUNCT	_	_	_	_	_
+2	Mai	may	_	AV	_	_	_	_	baseForms=may
+3	!	!	PUNCT	PUNCT	_	_	_	_	_
+4	Wune	wüne	_	AV	_	_	_	_	baseForms=wüne
+5	lamŋen	lamngen	_	N	_	_	_	_	baseForms=lamngen
+6	nien	nien	_	V	ind1s	_	_	_	baseForms=nien|(ü)n
+7	;	;	PUNCT	PUNCT	_	_	_	_	_
+8	ka	ka	_	C	particle	_	_	_	baseForms=ka
+9	inan	inan	_	AV	nmlz	_	_	_	baseForms=ina|(ü)n
+10	peñi	peñi	_	N	_	_	_	_	baseForms=peñi
+11	ka	ka	_	AV	_	_	_	_	baseForms=ka
+12	nien	nien	_	V	ind1s	_	_	_	baseForms=nien|(ü)n
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 45
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Inei	iney	_	WH	particle	_	_	_	baseForms=iney
+3	ka	ka	_	AV	_	_	_	_	baseForms=ka
+4	mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+5	tamn	tamün	_	PP	2p	_	_	_	baseForms=tamün
+6	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+7	-	-	PUNCT	PUNCT	_	_	_	_	_
+8	meu	mew	_	P	P	_	_	_	baseForms=mew
+9	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 46
+1	Ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+2	vucha	fücha	_	N	_	_	_	_	baseForms=fücha
+3	ñi	ñi	_	PP	1s	_	_	_	baseForms=ñi
+4	lamŋen	lamngen	_	N	_	_	_	_	baseForms=lamngen
+5	ka	ka	_	C	particle	_	_	_	baseForms=ka
+6	mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+7	,	,	PUNCT	PUNCT	_	_	_	_	_
+8	ka	ka	_	AV	_	_	_	_	baseForms=ka
+9	ñi	ñi	_	PP	1s	_	_	_	baseForms=ñi
+10	chuchu	kuku	_	N	_	_	_	_	baseForms=kuku
+11	(	(	PUNCT	PUNCT	_	_	_	_	_
+12	kuku	kuku	_	N	_	_	_	_	baseForms=kukuu
+13	)	)	PUNCT	PUNCT	_	_	_	_	_
+14	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 47
+1	Tunten	tunten	_	WH	particle	_	_	_	baseForms=tunten
+2	t'ipantu	tripantu	_	N	_	_	_	_	baseForms=tripantu
+3	niei	nien	_	V	ind3	_	_	_	baseForms=nien|iy
+4	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+5	chuchu	kuku	_	N	_	_	_	_	baseForms=kuku
+6	(	(	PUNCT	PUNCT	_	_	_	_	_
+7	kuku	kuku	_	N	_	_	_	_	baseForms=kuku
+8	)	)	PUNCT	PUNCT	_	_	_	_	_
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 48
+1	Kimlavin	kimün	_	V	neg|dir3|ind1s	_	_	_	baseForms=kim|la|fi|(ü)n
+2	tunten	tunten	_	WH	particle	_	_	_	baseForms=tunten
+3	t'ipantu	tripantu	_	N	_	_	_	_	baseForms=tripantu
+4	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+5	nien	nien	_	N	nmlz	_	_	_	baseForms=nien|(ü)n
+6	;	;	PUNCT	PUNCT	_	_	_	_	_
+7	məte	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+8	kusei	kuden	_	V	ind3	_	_	_	baseForms=kude|iy
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 49
+1	Ŋəma-ŋəmaŋei	ngüman	_	V	redup|vb|ind3	_	_	_	baseForms=ngüma|ngüma|nge|iy
+2	am	am	_	IP	particle	_	_	_	baseForms=kam
+3	ve	fey	_	D	D	_	_	_	baseForms=fey
+4	.	.	PUNCT	PUNCT	_	_	_	_	_
+5	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+6	Chem	chem	_	WH	particle	_	_	_	baseForms=chem
+7	–	–	PUNCT	PUNCT	_	_	_	_	_
+8	meu	mew	_	P	P	_	_	_	baseForms=mew
+9	anta	kamta	_	IP	particle	_	_	_	baseForms=kamta
+10	ŋəmapeimi	ngüman	_	V	px|ind2s	_	_	_	baseForms=ngüma|pe|imi
+11	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 50
+1	Ŋəmawekillŋe	ngüman	_	V	psist|neg|imp2s	_	_	_	baseForms=ngüma|we|ki(l)|None|nge
+2	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 51
+1	Vei	fey	_	D	D	_	_	_	baseForms=fey
+2	pien	pin	_	V	ind2s-1s	_	_	_	baseForms=pi|en
+3	:	:	PUNCT	PUNCT	_	_	_	_	_
+4	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+5	chem	chem	_	WH	particle	_	_	_	baseForms=chem
+6	–	–	PUNCT	PUNCT	_	_	_	_	_
+7	meu	mew	_	P	P	_	_	_	baseForms=mew
+8	ŋümaimi	ngüman	_	V	ind2s	_	_	_	baseForms=ngüma|imi
+9	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 52
+1	Doi	doy	_	AV	_	_	_	_	baseForms=doy
+2	newentu	newentu	_	AV	advz	_	_	_	baseForms=newen|tu
+3	duŋuŋe	düngun	_	V	imp2s	_	_	_	baseForms=düngu|nge
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	kimənmalayu	kimüñman	_	V	tr|neg|ind1s-2s	_	_	_	baseForms=kim|(ñ)ma|la|eyu
+6	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+7	duŋun	düŋun	_	N	nmlz	_	_	_	baseForms=düngu|(ü)n
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 53
+1	Lai	l'an	_	V	ind3	_	_	_	baseForms=l'a|iy
+2	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+3	küme	küme	_	AJ	_	_	_	_	baseForms=küme
+4	chao	chaw	_	N	_	_	_	_	baseForms=chaw
+5	;	;	PUNCT	PUNCT	_	_	_	_	_
+6	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+7	ñuke	ñuke	_	N	_	_	_	_	baseForms=ñuke
+8	kut'anklei	kutranün	_	V	prog|ind3	_	_	_	baseForms=kutran|(kü)le|iy
+9	kai	kay	_	AV	_	_	_	_	baseForms=kay
+10	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 54
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Chem	chem	_	WH	particle	_	_	_	baseForms=chem
+3	kut'an	kutran	_	N	_	_	_	_	baseForms=kutran
+4	niei	nien	_	V	ind3	_	_	_	baseForms=nien|iy
+5	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+6	ñuke	ñuke	_	N	_	_	_	_	baseForms=ñuke
+7	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 55
+1	Perte	perte	_	N	_	_	_	_	baseForms=perte
+2	kut'an	kutran	_	N	_	_	_	_	baseForms=kutran
+3	niei	nien	_	V	ind3	_	_	_	baseForms=nien|iy
+4	.	.	PUNCT	PUNCT	_	_	_	_	_
+5	Layai	l'an	_	V	fut|ind3	_	_	_	baseForms=l'a|a|iy
+6	peno	pe	_	IDP	particle|neg	_	_	_	baseForms=pe|no
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 56
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Chumul	chumül	_	WH	particle	_	_	_	baseForms=chumül
+3	kut'ani	kutranün	_	V	ind3	_	_	_	baseForms=kutran|iy
+4	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 57
+1	Ŋətantu	ngütantu	_	N	_	_	_	_	baseForms=ngütantu
+2	–	–	PUNCT	PUNCT	_	_	_	_	_
+3	meu	mew	_	P	P	_	_	_	baseForms=mew
+4	mten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+5	mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	neŋəmuelai	nengümün	_	V	cause|psist|neg|ind3	_	_	_	baseForms=neng|(ü)m|we|la|iy
+8	reqle	regle	_	NUM	_	_	_	_	baseForms=regle
+9	antü	antü	_	N	_	_	_	_	baseForms=antü
+10	–	–	PUNCT	PUNCT	_	_	_	_	_
+11	meu	mew	_	P	P	_	_	_	baseForms=mew
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 58
+1	Ventepun	fentrepun	_	AV	trloc|nmlz	_	_	_	baseForms=fentre|pu|(ü)n
+2	arelei	arelen	_	V	vb|ind3	_	_	_	baseForms=are|le|iy
+3	;	;	PUNCT	PUNCT	_	_	_	_	_
+4	inei	iney	_	WH	particle	_	_	_	baseForms=iney
+5	no	no	_	AV	particle	_	_	_	baseForms=no
+6	rume	rume	_	N	_	_	_	_	baseForms=rume
+7	kimlai	kimün	_	V	neg|ind3	_	_	_	baseForms=kim|la|iy
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 59
+1	"	"	PUNCT	PUNCT	_	_	_	_	_
+2	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+3	Kintulaiŋn	kintun	_	V	neg|ind3p	_	_	_	baseForms=kintu|la|ingün
+4	machi	machi	_	N	_	_	_	_	baseForms=machi
+5	?	?	PUNCT	PUNCT	_	_	_	_	_
+6	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+7	Kintulaimn	kintun	_	V	neg|ind2p	_	_	_	baseForms=kintu|la|imün
+8	machi	machi	_	N	_	_	_	_	baseForms=machi
+9	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 60
+1	Werküiñ	werkün	_	V	ind1p	_	_	_	baseForms=werkü|(iy)iñ
+2	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+3	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+4	kona	kon'a	_	N	_	_	_	_	baseForms=kon'a
+5	kintualu	kintun	_	N	fut|svn	_	_	_	baseForms=kintu|a|lu
+6	machi	machi	_	N	_	_	_	_	baseForms=machi
+7	;	;	PUNCT	PUNCT	_	_	_	_	_
+8	welu	welu	_	AV	_	_	_	_	baseForms=welu
+9	küpalai	küpatun	_	V	neg|ind3	_	_	_	baseForms=küpa|la|iy
+10	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+11	machi	machi	_	N	_	_	_	_	baseForms=machi
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 61
+1	Tuwün	tuwün	_	V	ind1s	_	_	_	baseForms=tuw|(ü)n
+2	ka	ka	_	AV	_	_	_	_	baseForms=ka
+3	mapu	mapu	_	N	_	_	_	_	baseForms=mapu
+4	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 62
+1	Kimimi	kimün	_	V	ind2s	_	_	_	baseForms=kim|imi
+2	wiri-papeln	wiripapelün	_	NC	nmlz	_	_	_	baseForms=wiri|papel|(ü)n
+3	,	,	PUNCT	PUNCT	_	_	_	_	_
+4	duŋu-librolimi	düngulün	_	V	cause|ind2s	_	_	_	baseForms=düngu|libro|(ü)l|imi
+5	kai	kay	_	AV	_	_	_	_	baseForms=kay
+6	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 63
+1	Kimlan	kimün	_	V	neg|ind1s	_	_	_	baseForms=kim|la|(ü)n
+2	wiripapeln	wiripapelün	_	NC	ind1s	_	_	_	baseForms=wiri|papel|(ü)n
+3	;	;	PUNCT	PUNCT	_	_	_	_	_
+4	pichin	pichin	_	AV	nmlz	_	_	_	baseForms=pichi|(ü)n
+5	duŋulən	düngulün	_	V	cause|ind1s	_	_	_	baseForms=düngu|(ü)l|(ü)n
+6	məten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+7	libro	libro	_	N	_	_	_	_	baseForms=libro
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 64
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+3	papel	papel	_	N	_	_	_	_	baseForms=papel
+4	pepi-duŋulaimi	düngulün	_	V	prefix|cause|fut|ind2s	_	_	_	baseForms=pepi|düngu|(ü)l|a|imi
+5	?	?	PUNCT	PUNCT	_	_	_	_	_
+6	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+7	Kimimi	kimün	_	V	ind2s	_	_	_	baseForms=kim|imi
+8	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+9	chem	chem	_	WH	particle	_	_	_	baseForms=chem
+10	–	–	PUNCT	PUNCT	_	_	_	_	_
+11	pin	pin	_	V	inf	_	_	_	baseForms=pi|(ü)n
+12	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 65
+1	Kimlan	kimün	_	V	neg|ind1s	_	_	_	baseForms=kim|la|(ü)n
+2	;	;	PUNCT	PUNCT	_	_	_	_	_
+3	küme	küme	_	AJ	_	_	_	_	baseForms=küme
+4	wirin	wirin	_	N	nmlz	_	_	_	baseForms=wiri|(ü)n
+5	ŋelai	ngen	_	V	neg|ind3	_	_	_	baseForms=nge|la|iy
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 66
+1	Küpa-wiripapel-kevuimi	wirin	_	V	prefix|habit|bi|ind2s	_	_	_	baseForms=küpa|wiri|papel|ke|fu|imi
+2	am	am	_	IP	particle	_	_	_	baseForms=kam
+3	kai	kay	_	AV	_	_	_	_	baseForms=kay
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+6	kimelaveyeu	kimün	_	V	appl|fut|bi|indinv3-3	_	_	_	baseForms=kim|(l)el|a|fu|eyew
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 67
+1	Məte	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+2	kəpa-kim-kevun	kimün	_	V	prefix|habit|bi|ind1s	_	_	_	baseForms=küpa|kim|ke|fu|(ü)n
+3	;	;	PUNCT	PUNCT	_	_	_	_	_
+4	welu	welu	_	AV	_	_	_	_	baseForms=welu
+5	ʎekaken	llükan	_	V	habit|ind1s	_	_	_	baseForms=llüka|ke|(ü)n
+6	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+7	wezha	weda	_	AJ	_	_	_	_	baseForms=weda
+8	loŋko	longko	_	N	_	_	_	_	baseForms=longko
+9	–	–	PUNCT	PUNCT	_	_	_	_	_
+10	nien	nien	_	V	inf	_	_	_	baseForms=nien|(ü)n
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 68
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+3	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+4	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+5	tva-meu	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+6	nielai	nien	_	V	neg|ind3	_	_	_	baseForms=nien|la|iy
+7	(	(	PUNCT	PUNCT	_	_	_	_	_
+8	?	?	PUNCT	PUNCT	_	_	_	_	_
+9	)	)	PUNCT	PUNCT	_	_	_	_	_
+10	che	che	_	N	_	_	_	_	baseForms=che
+11	kizhulei	kidun	_	V	vb|ind3	_	_	_	baseForms=kidu|le|iy
+12	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 69
+1	Inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+2	mleavun	mülen	_	V	fut|bi|ind1s	_	_	_	baseForms=müle|a|fu|(ü)n
+3	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+4	kiyen	küyen'	_	N	_	_	_	_	baseForms=küyen'
+5	tva-meu	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	mapu-duŋu	mapudungu	_	N	_	_	_	_	baseForms=mapu|düngu
+8	küme	küme	_	CN	_	_	_	_	baseForms=küme
+9	kimavun	kimün	_	V	fut|bi|ind1s	_	_	_	baseForms=kim|a|fu|(ü)n
+10	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 70
+1	Weʎeai	wellin	_	V	fut	_	_	_	baseForms=welli|a|iy
+2	wüle	wüle	_	AV	_	_	_	_	baseForms=wüle
+3	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+4	inaltu–wiŋkul-klechi	inaltuchi	_	AJ	prog|ajvz	_	_	_	baseForms=inaltu|wingkul|(kü)le|chi
+5	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+7	Nielu	nielu	_	N	svn	_	_	_	baseForms=nie|lu
+8	amuai	amun	_	V	fut|ind3	_	_	_	baseForms=amu|a|iy
+9	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+10	pun	pun	_	N	_	_	_	_	baseForms=pun
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 71
+1	Küme	küme	_	AJ	_	_	_	_	baseForms=küme
+2	mai	may	_	AV	_	_	_	_	baseForms=may
+3	;	;	PUNCT	PUNCT	_	_	_	_	_
+4	duŋuavin	düngun	_	V	fut|dir3|ind1s	_	_	_	baseForms=düngu|a|fi|(ü)n
+5	ŋen	ngen	_	N	nmlz	_	_	_	baseForms=nge|(ü)n
+6	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+8	Elueli	elun	_	V	subj2s-1s	_	_	_	baseForms=elu|eli
+9	–	–	PUNCT	PUNCT	_	_	_	_	_
+10	meu	mew	_	P	P	_	_	_	baseForms=mew
+11	,	,	PUNCT	PUNCT	_	_	_	_	_
+12	lepuavimi	lepun	_	V	fut|dir3|ind2s	_	_	_	baseForms=lepu|a|fi|imi
+13	;	;	PUNCT	PUNCT	_	_	_	_	_
+14	wut'uko-avimi	wütrun	_	V	fut|dir3|ind2s	_	_	_	baseForms=wütru|a|fi|imi
+15	kai	kay	_	AV	_	_	_	_	baseForms=kay
+16	məna	müna	_	AV	_	_	_	_	baseForms=müna
+17	prapan	püran	_	V	cis	_	_	_	baseForms=püra|pa|None
+18	antü	antü	_	N	_	_	_	_	baseForms=antü
+19	wüle	wüle	_	AV	_	_	_	_	baseForms=wüle
+20	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 72
+1	Wet'alekilmi	witran	_	V	prog|neg|subj2s	_	_	_	baseForms=witra|(kü)le|ki(l)|(ü)lmi
+2	wülngin	wülngiñ	_	N	_	_	_	_	baseForms=wülŋiñ
+3	–	–	PUNCT	PUNCT	_	_	_	_	_
+4	meu	mew	_	P	P	_	_	_	baseForms=mew
+5	;	;	PUNCT	PUNCT	_	_	_	_	_
+6	dumiñtuleimi	dumiñtun	_	V	vb|prog|ind2s	_	_	_	baseForms=dumiñ|tu|(kü)le|imi
+7	;	;	PUNCT	PUNCT	_	_	_	_	_
+8	pepi-pelan	pen	_	V	prefix|neg|ind1s	_	_	_	baseForms=pepi|pe|la|(ü)n
+9	vau	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+10	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 73
+1	Kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+2	ple	püle	_	N	_	_	_	_	baseForms=püle
+3	künuŋe	künun	_	V	imp2s	_	_	_	baseForms=künu|nge
+4	;	;	PUNCT	PUNCT	_	_	_	_	_
+5	mütte	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+6	dumiŋei	dumiñngen	_	V	vb|ind3	_	_	_	baseForms=dumiñ|nge|iy
+7	vau	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 74
+1	Tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+2	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+3	məttewe	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+4	weza	weda	_	AJ	_	_	_	_	baseForms=weda
+5	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+7	Puüʎi	pülli	_	N	_	_	_	_	baseForms=pülli
+8	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+9	iʎvodklei	illfodün	_	V	prog|ind3	_	_	_	baseForms=illfod|(kü)le|iy
+10	wauwən	wagün	_	N	nmlz	_	_	_	baseForms=magün|(ü)n
+11	-	-	PUNCT	PUNCT	_	_	_	_	_
+12	meu	mew	_	P	P	_	_	_	baseForms=mew
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 76
+1	Tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+2	pu	pu	_	PL	particle	_	_	_	baseForms=pu
+3	chokov	chokof	_	N	_	_	_	_	baseForms=chokof
+4	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+5	vent'en	fentren	_	AV	_	_	_	_	baseForms=fentren
+6	wikürŋei	wikürngen	_	V	vb|ind3	_	_	_	baseForms=wikür|nge|iy
+7	;	;	PUNCT	PUNCT	_	_	_	_	_
+8	veimeu	feymew	_	AV	_	_	_	_	baseForms=feymew
+9	məttewe	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+10	konpai	konün	_	V	cis|ind3	_	_	_	baseForms=kon|pa|iy
+11	wüt'e	wütre	_	N	_	_	_	_	baseForms=wütre
+12	pun	pun	_	N	_	_	_	_	baseForms=pun
+13	krüv	kürüf	_	N	_	_	_	_	baseForms=kürüf
+14	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 76
+1	Məttewe	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+2	nümürkei	n'ümün	_	V	rep|ind3	_	_	_	baseForms=n'ümü|rke|iy
+3	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+4	vau	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+5	;	;	PUNCT	PUNCT	_	_	_	_	_
+6	kom	kom	_	AV	_	_	_	_	baseForms=kom
+7	vent'en	fentren	_	AV	_	_	_	_	baseForms=fentren
+8	podŋei	podngen	_	V	vb|ind3	_	_	_	baseForms=pod|nge|iy
+9	kai	kay	_	AV	_	_	_	_	baseForms=kay
+10	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 77
+1	Eimi	eymi	_	PN	2s	_	_	_	baseForms=eymi
+2	mi	mi	_	PP	2s	_	_	_	baseForms=mi
+3	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+4	rüv	rüf	_	AV	_	_	_	_	baseForms=rüf
+5	mətte	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+6	doi	doy	_	AV	_	_	_	_	baseForms=doy
+7	tutelu	tutelu	_	AJ	svn	_	_	_	baseForms=tute|lu
+8	,	,	PUNCT	PUNCT	_	_	_	_	_
+9	doi	doy	_	AV	_	_	_	_	baseForms=doy
+10	livŋei	lifngen	_	V	vb	_	_	_	baseForms=lif|nge|iy
+11	kai	kay	_	AV	_	_	_	_	baseForms=kay
+12	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+13	wenüi	wen'üy	_	N	_	_	_	_	baseForms=wen'üy
+14	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+15	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+16	–	–	PUNCT	PUNCT	_	_	_	_	_
+17	meu	mew	_	P	P	_	_	_	baseForms=mew
+18	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 78
+1	Nülalepe	nülalen	_	V	vb|imp3s	_	_	_	baseForms=nüla|le|pe
+2	wülŋin	wülngiñ	_	N	_	_	_	_	baseForms=wülngiñ
+3	pañüle	pañün	_	N	subj3s	_	_	_	baseForms=pañü|le
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	kaʎe	kalle	_	AV	_	_	_	_	baseForms=kalle
+6	aŋkai	angkün	_	V	fut|ind3	_	_	_	baseForms=angk|a|iy
+7	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+8	puüʎi	pülli	_	N	_	_	_	_	baseForms=pülli
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 79
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Rakümlayaimi	rakümün	_	V	neg|fut|ind2s	_	_	_	baseForms=raküm|la|a|imi
+3	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+4	wülŋin	wülngiñ	_	N	_	_	_	_	baseForms=wülngiñ
+5	?	?	PUNCT	PUNCT	_	_	_	_	_
+6	küpalelen	küpan	_	V	appl|ind2s-1s	_	_	_	baseForms=küpa|(l)el|en
+7	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+8	mamüʎ	mamüll	_	N	_	_	_	_	baseForms=mamüll
+9	,	,	PUNCT	PUNCT	_	_	_	_	_
+10	rakümvichi	rakümün	_	V	dir3	_	_	_	baseForms=raküm|fi|imp1s
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 80
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+3	weñeve	weñefe	_	N	agent	_	_	_	baseForms=weñe|fe
+4	tva-meu	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+5	?	?	PUNCT	PUNCT	_	_	_	_	_
+6	—	—	PUNCT	PUNCT	_	_	_	_	_
+7	Mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+8	,	,	PUNCT	PUNCT	_	_	_	_	_
+9	welu	welu	_	AV	_	_	_	_	baseForms=welu
+10	küpalayai	küpan	_	V	neg|fut|ind3	_	_	_	baseForms=küpa|la|a|iy
+11	vau	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 81
+1	Leʎvün	lelfün	_	N	_	_	_	_	baseForms=lelfün
+2	–	–	PUNCT	PUNCT	_	_	_	_	_
+3	meu	mew	_	P	P	_	_	_	baseForms=mew
+4	məten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+5	weñei	weñen	_	V	ind3	_	_	_	baseForms=weñe|iy
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	welu	welu	_	AV	_	_	_	_	baseForms=welu
+8	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+9	–	–	PUNCT	PUNCT	_	_	_	_	_
+10	meu	mew	_	P	P	_	_	_	baseForms=mew
+11	küpalayai	küpan	_	V	neg|fut|ind3	_	_	_	baseForms=küpa|la|a|iy
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 82
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Pepi-nien	nien	_	V	prefix|ind1s	_	_	_	baseForms=pepi|nien|(ü)n
+3	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+4	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+5	kona	kon'a	_	N	_	_	_	_	baseForms=kon'a
+6	tva-meu	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+7	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 83
+1	Mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+2	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+3	kona	kon'a	_	N	_	_	_	_	baseForms=kon'a
+4	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 84
+1	Mətte	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+2	at'ün	atrun	_	V	ind1s	_	_	_	baseForms=atru|(ü)n
+3	.	.	PUNCT	PUNCT	_	_	_	_	_
+4	Rupa-kudun	rupa-kudun	_	AV	ind1s	_	_	_	baseForms=rupa|kudu|(ün)
+5	məten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 85
+1	Tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+2	kawitu	kawitu	_	N	_	_	_	_	baseForms=kawitu
+3	mətte	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+4	ruŋelai	rungen	_	V	neg|ind3	_	_	_	baseForms=None|la|iy
+5	(	(	PUNCT	PUNCT	_	_	_	_	_
+6	yavui	yafün	_	V	ind3	_	_	_	baseForms=yafü|iy
+7	)	)	PUNCT	PUNCT	_	_	_	_	_
+8	;	;	PUNCT	PUNCT	_	_	_	_	_
+9	kom	kom	_	AV	_	_	_	_	baseForms=kom
+10	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+11	aŋka	angka	_	N	_	_	_	_	baseForms=angka
+12	kut'anklewei	kutranün	_	V	prog|psist|ind3	_	_	_	baseForms=kutran|(kü)le|we|iy
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 86
+1	Wüt'en	wütren	_	V	ind1s	_	_	_	baseForms=wütre|(ü)n
+2	;	;	PUNCT	PUNCT	_	_	_	_	_
+3	kəpalelen	küpan	_	V	appl|ind2s-1s	_	_	_	baseForms=küpa|(l)el|en
+4	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+5	makuñ	makuñ	_	N	_	_	_	_	baseForms=makuñ
+6	;	;	PUNCT	PUNCT	_	_	_	_	_
+7	ekuʎklean	ekullün	_	V	prog|fut|ind1s	_	_	_	baseForms=ekull|(kü)le|la|(ü)n
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 87
+1	Ŋütantu-kunupaen	ngütantun	_	N	cis|ind2s-1s	_	_	_	baseForms=ngütantu|künu|pa|en
+2	;	;	PUNCT	PUNCT	_	_	_	_	_
+3	inüv-nakəm-kənoviŋe	ünüf-nagümün	_	V	cause|dir3|imp2s	_	_	_	baseForms=ünüf|nag|(ü)m|None|no|fi|nge
+4	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+5	pont'o	poncho	_	N	_	_	_	_	baseForms=poncho
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 88
+1	T'epelaen	trepelün	_	V	cause|fut	_	_	_	baseForms=trepe|(ü)l|a|en
+2	wüle	wüle	_	AV	_	_	_	_	baseForms=wüle
+3	;	;	PUNCT	PUNCT	_	_	_	_	_
+4	wit'ayan	witran	_	V	fut	_	_	_	baseForms=witra|a|(ü)n
+5	pu	pu	_	PL	particle	_	_	_	baseForms=pu
+6	liwen	liwen	_	N	_	_	_	_	baseForms=liwen
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 89
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Chumŋechi	chumngechi	_	AV	_	_	_	_	baseForms=chumngechi
+3	rupaimi	rupan	_	V	ind2s	_	_	_	baseForms=rupa|imi
+4	pun	pun	_	N	_	_	_	_	baseForms=pun
+5	?	?	PUNCT	PUNCT	_	_	_	_	_
+6	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+7	küme	küme	_	AJ	_	_	_	_	baseForms=küme
+8	umaqtuimi	umawtun	_	V	vb|ind2s	_	_	_	baseForms=umag|tu|imi
+9	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 90
+1	Rüv	rüf	_	AV	_	_	_	_	baseForms=rüf
+2	küme	küme	_	AJ	_	_	_	_	baseForms=küme
+3	umaqtun	umawtun	_	V	vb|ind1s	_	_	_	baseForms=umag|tu|(ü)n
+4	(	(	PUNCT	PUNCT	_	_	_	_	_
+5	wezha	weda	_	AJ	_	_	_	_	baseForms=weda
+6	umaqtun	umawtun	_	V	vb|ind1s	_	_	_	baseForms=umag|tu|(ü)n
+7	)	)	PUNCT	PUNCT	_	_	_	_	_
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+9	Vent'en	fentren	_	AV	_	_	_	_	baseForms=fentren
+10	lelilen	lelin	_	V	prog|ind1s	_	_	_	baseForms=leli|(kü)le|(ü)n
+11	(	(	PUNCT	PUNCT	_	_	_	_	_
+12	t'epelen	trepen	_	V	prog|ind1s	_	_	_	baseForms=trepe|(kü)le|(ü)n
+13	)	)	PUNCT	PUNCT	_	_	_	_	_
+14	pun	pun	_	N	_	_	_	_	baseForms=pun
+15	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 91
+1	T'ewa	trewa	_	N	_	_	_	_	baseForms=trewa
+2	vent'en	fentren	_	AV	_	_	_	_	baseForms=fentren
+3	wankü-wanküŋei	wangküngen	_	V	redupl|vb|ind3	_	_	_	baseForms=wangkü|wangkü|nge|iy
+4	.	.	PUNCT	PUNCT	_	_	_	_	_
+5	Ka	ka	_	AV	_	_	_	_	baseForms=ka
+6	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+7	ülkatuŋekei	ülkantungen	_	V	vb|habit	_	_	_	baseForms=ülkantu|nge|ke|iy
+8	,	,	PUNCT	PUNCT	_	_	_	_	_
+9	wakeŋkümekei	wakeñün	_	V	and|habit|ind3	_	_	_	baseForms=wakeñ|me|ke|iy
+10	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 92
+1	Pilan	pin	_	V	neg|ind1s	_	_	_	baseForms=pi|la|(ü)n
+2	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+3	wit'ayael	witran	_	V	fut|nmlz	_	_	_	baseForms=witra|a|el
+4	petu	petu	_	AV	particle	_	_	_	baseForms=petu
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+6	Kona	kon'a	_	N	_	_	_	_	baseForms=kon'a
+7	,	,	PUNCT	PUNCT	_	_	_	_	_
+8	wente	wente	_	P	P	_	_	_	baseForms=wente
+9	waŋku	wangku	_	N	_	_	_	_	baseForms=wangku
+10	elpaŋe	elün	_	V	cis|imp2s	_	_	_	baseForms=el|pa|nge
+11	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+12	pont'o	poncho	_	N	_	_	_	_	baseForms=poncho
+13	,	,	PUNCT	PUNCT	_	_	_	_	_
+14	küpaanün	anün	_	V	prefix|ind1s	_	_	_	baseForms=küpa|anü|(ü)n
+15	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 93
+1	Inavəl	inafül	_	AV	_	_	_	_	baseForms=inafül
+2	elpaŋe	elün	_	V	cis|imp2s	_	_	_	baseForms=el|pa|nge
+3	mesa	mesa	_	N	_	_	_	_	baseForms=mesa
+4	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 94
+1	Wivün	wiwün	_	V	ind1s	_	_	_	baseForms=wiwü|(ü)n
+2	;	;	PUNCT	PUNCT	_	_	_	_	_
+3	təkulelen	tükun	_	V	appl|ind2s-1s	_	_	_	baseForms=tüku|(l)el|en
+4	ko	ko	_	N	_	_	_	_	baseForms=ko
+5	vasu	fasu	_	N	_	_	_	_	baseForms=fasu
+6	-	-	PUNCT	PUNCT	_	_	_	_	_
+7	meu	mew	_	P	P	_	_	_	baseForms=mew
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+9	Təvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+10	ko	ko	_	N	_	_	_	_	baseForms=ko
+11	podŋe	podngen	_	V	vb|ind3	_	_	_	baseForms=pod|nge|iy
+12	,	,	PUNCT	PUNCT	_	_	_	_	_
+13	eñümklei	eñümün	_	V	prog|ind3	_	_	_	baseForms=eñüm|(kü)le|iy
+14	ka	ka	_	AV	_	_	_	_	baseForms=ka
+15	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 95
+1	Küpalelen	küpan	_	V	appl|ind2s-1s	_	_	_	baseForms=küpa|(l)el|en
+2	liv	lif	_	AJ	_	_	_	_	baseForms=lif
+3	ko	ko	_	N	_	_	_	_	baseForms=ko
+4	;	;	PUNCT	PUNCT	_	_	_	_	_
+5	küchaviŋe	küchan	_	V	dir3|imp2s	_	_	_	baseForms=kücha|fi|nge
+6	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+7	vasu	fasu	_	N	_	_	_	_	baseForms=fasu
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 96
+1	Piwümlayavimi	piwümün	_	V	cause|neg|fut|dir3|ind2s	_	_	_	baseForms=piw|(ü)m|la|a|fi|imi
+2	pod	pod	_	AJ	_	_	_	_	baseForms=pod
+3	pañu	pañu	_	N	_	_	_	_	baseForms=pañu
+4	-	-	PUNCT	PUNCT	_	_	_	_	_
+5	meu	mew	_	P	P	_	_	_	baseForms=mew
+6	;	;	PUNCT	PUNCT	_	_	_	_	_
+7	liv	lif	_	AJ	_	_	_	_	baseForms=lif
+8	pañu	pañu	_	N	_	_	_	_	baseForms=pañu
+9	–	–	PUNCT	PUNCT	_	_	_	_	_
+10	meu	mew	_	P	P	_	_	_	baseForms=mew
+11	piwumavimi	piwümün	_	V	cause|fut|dir3|ind2s	_	_	_	baseForms=piw|(ü)m|a|fi|imi
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 97
+1	Lipümelen	lipüm	_	V	cause|appl|ind2s-1s	_	_	_	baseForms=lif|(ü)m|(l)el|en
+2	kuchiʎu	kuchillu	_	N	_	_	_	_	baseForms=kuchillu
+3	,	,	PUNCT	PUNCT	_	_	_	_	_
+4	küchayavimi	küchan	_	V	fut|dir3|ind2s	_	_	_	baseForms=kücha|a|fi|imi
+5	kuchara	kuchara	_	N	_	_	_	_	baseForms=kuchara
+6	kai	kay	_	AV	_	_	_	_	baseForms=kay
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 98
+1	Kəpalelen	küpan	_	V	appl|ind2s-1s	_	_	_	baseForms=küpa|(l)el|en
+2	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+3	iael	iael	_	N	_	_	_	_	baseForms=iael
+4	;	;	PUNCT	PUNCT	_	_	_	_	_
+5	mətte	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+6	ŋünüm	ngüñün	_	V	ind1s	_	_	_	baseForms=ngüñü|(ü)n
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 99
+1	küpa-ilavin	in	_	V	prefix|neg|dir3|ind1s	_	_	_	baseForms=küpa|i|la|fi|(ü)n
+2	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+3	ilo	ilo	_	N	_	_	_	_	baseForms=ilo
+4	;	;	PUNCT	PUNCT	_	_	_	_	_
+5	kümelai	kümen	_	V	neg|ind3	_	_	_	baseForms=küme|la|iy
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	weda	weda	_	AJ	_	_	_	_	baseForms=weda
+8	nümüi	n'ümün	_	V	ind3	_	_	_	baseForms=n'ümü|iy
+9	(	(	PUNCT	PUNCT	_	_	_	_	_
+10	nümüŋei	n'ümüngen	_	V	vb|ind3	_	_	_	baseForms=n'ümü|nge|iy
+11	)	)	PUNCT	PUNCT	_	_	_	_	_
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 100
+1	Aŋim	angim	_	N	_	_	_	_	baseForms=angim
+2	ili	in	_	V	subj1s	_	_	_	baseForms=None|li
+3	doi	doy	_	AV	_	_	_	_	baseForms=doy
+4	küme	küme	_	AJ	_	_	_	_	baseForms=küme
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+6	Vent'entu	fentrentu	_	AV	advz	_	_	_	baseForms=fentren|tu
+7	wadkəpei	wadkün	_	V	ind3	_	_	_	baseForms=wadkü|pe|iy
+8	yavuwelayai	yafün	_	V	psist|neg|fut|ind3	_	_	_	baseForms=yafü|we|la|a|iy
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 101
+1	Kümerkelai	kümen	_	V	rep|neg|ind3	_	_	_	baseForms=küme|(ü)rke|la|iy
+2	kət'al	kütral	_	N	_	_	_	_	baseForms=kütral
+3	.	.	PUNCT	PUNCT	_	_	_	_	_
+4	Pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+5	ke	ke	_	PL	p	_	_	_	baseForms=ke
+6	maməʎ	mamüll	_	N	_	_	_	_	baseForms=mamüll
+7	tukulelviŋe	tükun	_	V	appl|dir3|imp2s	_	_	_	baseForms=tüku|(l)el|fi|nge
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+9	Pimuviŋe	pimun	_	V	dir3|imp2s	_	_	_	baseForms=pimu|fi|nge
+10	kət'al	kütral	_	N	_	_	_	_	baseForms=kütral
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 102
+1	Kət'al	kütral	_	N	_	_	_	_	baseForms=kütral
+2	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+3	choŋai	chongün	_	V	fut|ind3	_	_	_	baseForms=chong|a|iy
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	üyümviŋe	üyümün	_	V	cause|dir3|imp2s	_	_	_	baseForms=üy|(ü)m|fi|nge
+6	perka	perka	_	AV	_	_	_	_	baseForms=perka
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 103
+1	Tukulviŋe	tükulün	_	V	cause|dir3|imp2s	_	_	_	baseForms=tüku|(ü)l|fi|nge
+2	t'uvken	trufken	_	N	_	_	_	_	baseForms=trufken
+3	wente	wente	_	P	P	_	_	_	baseForms=wente
+4	kwiul	kuyul'	_	N	_	_	_	_	baseForms=kuyul'
+5	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+6	choŋnoam	chongün	_	V	neg|purp	_	_	_	baseForms=chong|no|am
+7	kət'al	kütral	_	N	_	_	_	_	baseForms=kütral
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 104
+1	Wadkümelen	wadkümün	_	V	cause|appl|ind2s-1s	_	_	_	baseForms=wadkü|(ü)m|(l)el|en
+2	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+3	ko	ko	_	N	_	_	_	_	baseForms=ko
+4	.	.	PUNCT	PUNCT	_	_	_	_	_
+5	Petu	petu	_	AV	particle	_	_	_	baseForms=petu
+6	wadkülai	wadkün	_	V	neg|ind3	_	_	_	baseForms=wadkü|la|iy
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+8	Mlepe	mülen	_	V	imp3s	_	_	_	baseForms=müle|pe
+9	kət'al	kütral	_	N	_	_	_	_	baseForms=kütral
+10	–	–	PUNCT	PUNCT	_	_	_	_	_
+11	meu	mew	_	P	P	_	_	_	baseForms=mew
+12	chaʎa	challa	_	N	_	_	_	_	baseForms=challa
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 105
+1	Entuŋe	nentun	_	V	imp2s	_	_	_	baseForms=nentu|nge
+2	chaʎa	challa	_	N	_	_	_	_	baseForms=challa
+3	,	,	PUNCT	PUNCT	_	_	_	_	_
+4	wadküi	wadkün	_	V	ind3	_	_	_	baseForms=wadkü|iy
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+6	T'ipa-t'ipaŋe	tripan	_	V	redupl|imp2s	_	_	_	baseForms=tripa|tripa|nge
+7	ko	ko	_	N	_	_	_	_	baseForms=ko
+8	wente	wente	_	P	P	_	_	_	baseForms=wente
+9	chaʎa	challa	_	N	_	_	_	_	baseForms=challa
+10	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 106
+1	Ut'ulkilŋe	wütrulün	_	V	neg|imp2s	_	_	_	baseForms=wütru|ki(l)|nge
+2	ko	ko	_	N	_	_	_	_	baseForms=ko
+3	.	.	PUNCT	PUNCT	_	_	_	_	_
+4	Lüv-kuü-avuimi	lüfün	_	V	fut|bi|ind2s	_	_	_	baseForms=lüf|kug|a|fu|imi
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 107
+1	Nürulpaen	nürulün	_	V	cis|ind2s-1s	_	_	_	baseForms=nü|rul/wül|pa|en
+2	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+3	ukev	ukef	_	N	_	_	_	_	baseForms=ukef
+4	kovke	kofke	_	N	_	_	_	_	baseForms=kofke
+5	;	;	PUNCT	PUNCT	_	_	_	_	_
+6	welu	welu	_	AV	_	_	_	_	baseForms=welu
+7	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+8	kuivi	kuyfi	_	AV	_	_	_	_	baseForms=kuyfi
+9	kovke	kofke	_	N	_	_	_	_	baseForms=kofke
+10	no	no	_	AV	particle	_	_	_	baseForms=no
+11	;	;	PUNCT	PUNCT	_	_	_	_	_
+12	yavüi	yafün	_	V	ind3	_	_	_	baseForms=yafü|iy
+13	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+14	tvei	fey	_	D	D	_	_	_	baseForms=fey
+15	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 108
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Cheu	chew	_	WH	particle	_	_	_	baseForms=chew
+3	mlepeimi	mülen	_	V	px|ind2s	_	_	_	baseForms=müle|pe|imi
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+6	che	che	_	N	_	_	_	_	baseForms=che
+7	?	?	PUNCT	PUNCT	_	_	_	_	_
+8	—	—	PUNCT	PUNCT	_	_	_	_	_
+9	T'ipapelan	tripan	_	V	px|neg|ind1s	_	_	_	baseForms=tripa|pe|la|(ü)n
+10	,	,	PUNCT	PUNCT	_	_	_	_	_
+11	vau	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+12	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+13	mlekapen	mülen	_	V	cont|px|ind1s	_	_	_	baseForms=müle|ka|pe|(ü)n
+14	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 109
+1	Koilatuimi	koyl'atun	_	V	vb|ind2s	_	_	_	baseForms=koyl'a|tu|imi
+2	.	.	PUNCT	PUNCT	_	_	_	_	_
+3	Müt'ümkiyaulpeyu	mütrümün	_	V	amb|px|ind1s-2s	_	_	_	baseForms=mütrüm|(ki)yaw|pe|eyu
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	aʎkülaimi	allkün	_	V	neg|ind2s	_	_	_	baseForms=allkü|la|imi
+6	məlepürkeʎeel	mülel	_	N	trloc|rep|affirm|nmlz	_	_	_	baseForms=müle|pu|(ü)rke|lle|el
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 110
+1	Vei	fey	_	D	D	_	_	_	baseForms=fey
+2	pien	pin	_	V	ind2s-1s	_	_	_	baseForms=pi|en
+3	,	,	PUNCT	PUNCT	_	_	_	_	_
+4	küme	küme	_	AJ	_	_	_	_	baseForms=küme
+5	duŋuŋe	düngun	_	V	imp2s	_	_	_	baseForms=düngu|nge
+6	;	;	PUNCT	PUNCT	_	_	_	_	_
+7	koillatulmi	koyl'atun	_	V	vb|subj2s	_	_	_	baseForms=koyl'a|tu|(ü)lmi
+8	kewayayu	kewan	_	V	fut|ind1s-2s	_	_	_	baseForms=kewa|a|eyu
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 111
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Küme	küme	_	AJ	_	_	_	_	baseForms=küme
+3	miauimi	miawün	_	V	ind2s	_	_	_	baseForms=miaw|imi
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	nai	nay	_	N	_	_	_	_	baseForms=nay
+6	?	?	PUNCT	PUNCT	_	_	_	_	_
+7	—	—	PUNCT	PUNCT	_	_	_	_	_
+8	Moŋeimi	mongen	_	V	ind2s	_	_	_	baseForms=mongen|imi
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+10	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+11	Muchai	müchay	_	AV	_	_	_	_	baseForms=muchay
+12	wüla	wüla	_	AV	_	_	_	_	baseForms=wüla
+13	wit'aimi	witran	_	V	ind2s	_	_	_	baseForms=witra|imi
+14	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 112
+1	Mülewen	muliwen	_	AV	_	_	_	_	baseForms=muliwen
+2	antü	antü	_	N	_	_	_	_	baseForms=antü
+3	küdun	küdun	_	V	ind1s	_	_	_	baseForms=küdu|(ü)n
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	wit'aken	witran	_	V	habit|ind1s	_	_	_	baseForms=witra|ke|(ü)n
+6	t'ipapai	tripan	_	V	cis|ind3	_	_	_	baseForms=tripa|pa|iy
+7	antü	antü	_	N	_	_	_	_	baseForms=antü
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 113
+1	pichin	pichin	_	AJ	nmlz	_	_	_	baseForms=pichi|(ü)n
+2	kut'anən	kutranün	_	V	ind1s	_	_	_	baseForms=kutran|(ü)n
+3	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+4	antü	antü	_	N	_	_	_	_	baseForms=antü
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+6	—	—	PUNCT	PUNCT	_	_	_	_	_
+7	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+8	Chem	chem	_	WH	particle	_	_	_	baseForms=chem
+9	–	–	PUNCT	PUNCT	_	_	_	_	_
+10	meu	mew	_	P	P	_	_	_	baseForms=mew
+11	vemŋeimi	femngen	_	V	vb|ind2s	_	_	_	baseForms=None|nge|imi
+12	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 114
+1	Mauwənüi	mawünün	_	V	ind3	_	_	_	baseForms=mawün|iy
+2	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+3	miauwən	miawün	_	V	nmlz	_	_	_	baseForms=miaw|(ü)n
+4	-	-	PUNCT	PUNCT	_	_	_	_	_
+5	meu	mew	_	P	P	_	_	_	baseForms=mew
+6	;	;	PUNCT	PUNCT	_	_	_	_	_
+7	iʎvodüi	illfodün	_	V	ind3	_	_	_	baseForms=illfod|iy
+8	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+9	chaŋ	chang	_	N	_	_	_	_	baseForms=chang
+10	;	;	PUNCT	PUNCT	_	_	_	_	_
+11	veimeu	feymew	_	AV	_	_	_	_	baseForms=feymew
+12	wüt'en	wütren	_	V	ind1s	_	_	_	baseForms=wütre|(ü)n
+13	;	;	PUNCT	PUNCT	_	_	_	_	_
+14	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 115
+1	Kut'ani	kutranün	_	V	ind3	_	_	_	baseForms=kutran|iy
+2	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+3	luku	luku	_	N	_	_	_	_	baseForms=luku
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	pepi-amuwelan	amun	_	V	prefix|psist|neg|ind1s	_	_	_	baseForms=pepi|amu|we|la|(ü)n
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 116
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Pichin	pichin	_	AJ	nmlz	_	_	_	baseForms=pichi|(ü)n
+3	moŋeimi	mongen	_	V	ind2s	_	_	_	baseForms=monge|imi
+4	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+5	antü	antü	_	N	_	_	_	_	baseForms=antü
+6	?	?	PUNCT	PUNCT	_	_	_	_	_
+7	—	—	PUNCT	PUNCT	_	_	_	_	_
+8	Mai	may	_	AV	_	_	_	_	baseForms=may
+9	,	,	PUNCT	PUNCT	_	_	_	_	_
+10	pichin	pichin	_	AV	nmlz	_	_	_	baseForms=pichi|(ü)n
+11	veilen	feylen	_	V	D|vb|ind1s	_	_	_	baseForms=fey|le|(ü)m
+12	,	,	PUNCT	PUNCT	_	_	_	_	_
+13	anai	anay	_	N	_	_	_	_	baseForms=anay
+14	;	;	PUNCT	PUNCT	_	_	_	_	_
+15	welu	welu	_	AV	_	_	_	_	baseForms=welu
+16	petu	petu	_	AV	particle	_	_	_	baseForms=petu
+17	küme	küme	_	AJ	_	_	_	_	baseForms=küme
+18	t'emulan	tremon	_	V	neg|ind1s	_	_	_	baseForms=tremo|la|(ü)n
+19	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 117
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Ŋelai	ngen	_	V	neg|ind3	_	_	_	baseForms=nge|la|iy
+3	duŋu	düngu	_	N	_	_	_	_	baseForms=düngu
+4	waria	waria	_	N	_	_	_	_	baseForms=waria
+5	–	–	PUNCT	PUNCT	_	_	_	_	_
+6	meu	mew	_	P	P	_	_	_	baseForms=mew
+7	?	?	PUNCT	PUNCT	_	_	_	_	_
+8	Ñi	ñi	_	PP	1s	_	_	_	baseForms=ñi
+9	kompadre	kompadre	_	N	_	_	_	_	baseForms=kompadre
+10	pieneu	pin	_	V	ind3-1s	_	_	_	baseForms=pi|enew
+11	"	"	PUNCT	PUNCT	_	_	_	_	_
+12	kəpali	küpalün	_	V	cause|ind3	_	_	_	baseForms=küpa|(ü)l|iy
+13	küla	küla	_	NUM	_	_	_	_	baseForms=küla
+14	weñeve	weñefe	_	N	agent	_	_	_	baseForms=weñe|fe
+15	"	"	PUNCT	PUNCT	_	_	_	_	_
+16	,	,	PUNCT	PUNCT	_	_	_	_	_
+17	pi	pin	_	V	ind3	_	_	_	baseForms=pi|iy
+18	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 118
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Chem	chem	_	WH	particle	_	_	_	baseForms=chem
+3	weñei	weñen	_	V	ind3	_	_	_	baseForms=weñe|iy
+4	?	?	PUNCT	PUNCT	_	_	_	_	_
+5	—	—	PUNCT	PUNCT	_	_	_	_	_
+6	Weñei	weñen	_	V	ind3	_	_	_	baseForms=weñe|iy
+7	epu	epu	_	NUM	_	_	_	_	baseForms=epu
+8	mula	mula	_	N	_	_	_	_	baseForms=mula
+9	,	,	PUNCT	PUNCT	_	_	_	_	_
+10	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+11	pot'o	potro	_	N	_	_	_	_	baseForms=potro
+12	kai	kay	_	AV	_	_	_	_	baseForms=kay
+13	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+14	malal	malal	_	N	_	_	_	_	baseForms=malal
+15	–	–	PUNCT	PUNCT	_	_	_	_	_
+16	meu	mew	_	P	P	_	_	_	baseForms=mew
+17	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 119
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Inei	iney	_	WH	particle	_	_	_	baseForms=iney
+3	presui	presun	_	V	ind3	_	_	_	baseForms=presu|iy
+4	?	?	PUNCT	PUNCT	_	_	_	_	_
+5	—	—	PUNCT	PUNCT	_	_	_	_	_
+6	Meli	meli	_	NUM	_	_	_	_	baseForms=meli
+7	kovienu	kovienu	_	N	_	_	_	_	baseForms=kovierno
+8	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+9	soltau	soltau	_	N	_	_	_	_	baseForms=soltau
+10	ka	ka	_	AV	_	_	_	_	baseForms=ka
+11	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+12	soleqao	solegao	_	N	_	_	_	_	baseForms=solegau
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 120
+1	Pirkelavuiŋn	pin	_	V	rep|neg|bi|ind3p	_	_	_	baseForms=pi|rke|la|fu|ingün
+2	amualu	amulu	_	N	fut|svn	_	_	_	baseForms=amu|a|lu
+3	eŋn	engün	_	PN	3p	_	_	_	baseForms=engün
+4	preso	preso	_	AJ	_	_	_	_	baseForms=preso
+5	;	;	PUNCT	PUNCT	_	_	_	_	_
+6	welu	welu	_	AV	_	_	_	_	baseForms=welu
+7	soltau	soltau	_	N	_	_	_	_	baseForms=soltau
+8	laŋəmi	l'angümün	_	V	cause|ind3	_	_	_	baseForms=l'ang|(ü)m|iy
+9	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+10	,	,	PUNCT	PUNCT	_	_	_	_	_
+11	ka	ka	_	AV	_	_	_	_	baseForms=ka
+12	epu	epu	_	NUM	_	_	_	_	baseForms=epu
+13	trari-ŋeŋn	traringen	_	V	vb|ind3p	_	_	_	baseForms=trari|nge|engün
+14	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 121
+1	Kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+2	wenüi	wen'üy	_	N	_	_	_	_	baseForms=wen'üy
+3	mütte	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+4	cheŋarŋei	chüngarngen	_	V	vb|ind3	_	_	_	baseForms=chüngar|nge|iy
+5	kewan	kewan	_	N	nmlz	_	_	_	baseForms=kewa|(ü)n
+6	–	–	PUNCT	PUNCT	_	_	_	_	_
+7	meu	mew	_	P	P	_	_	_	baseForms=mew
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 122
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Cheu	chew	_	WH	particle	_	_	_	baseForms=chew
+3	kəpa-amuimi	amun	_	V	prefix|ind2s	_	_	_	baseForms=küpa|amu|imi
+4	?	?	PUNCT	PUNCT	_	_	_	_	_
+5	—	—	PUNCT	PUNCT	_	_	_	_	_
+6	Amualu	amulu	_	N	fut|svn	_	_	_	baseForms=amu|a|lu
+7	külpru	külpüru	_	N	_	_	_	_	baseForms=külpüru
+8	–	–	PUNCT	PUNCT	_	_	_	_	_
+9	meu	mew	_	P	P	_	_	_	baseForms=mew
+10	ŋiʎamealu	ngillalu	_	N	and|fut|svn	_	_	_	baseForms=ngilla|me|a|lu
+11	küme	küme	_	AJ	_	_	_	_	baseForms=küme
+12	ke	ke	_	PL	p	_	_	_	baseForms=ke
+13	vün	fün	_	N	_	_	_	_	baseForms=fün
+14	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 123
+1	Amulayaimi	amun	_	V	neg|fut|ind2s	_	_	_	baseForms=amu|la|a|imi
+2	;	;	PUNCT	PUNCT	_	_	_	_	_
+3	ŋelai	ngen	_	N	neg|ind3	_	_	_	baseForms=nge|la|iy
+4	kümekelu	küme	_	N	p	_	_	_	baseForms=küme|ke|lu
+5	eyeu	eyew	_	DP	DP	_	_	_	baseForms=eyew
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+7	Amuyu	amun	_	V	ind1d	_	_	_	baseForms=amu|iyu
+8	,	,	PUNCT	PUNCT	_	_	_	_	_
+9	anai	anay	_	N	_	_	_	_	baseForms=anay
+10	,	,	PUNCT	PUNCT	_	_	_	_	_
+11	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+12	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+13	–	–	PUNCT	PUNCT	_	_	_	_	_
+14	meu	mew	_	P	P	_	_	_	baseForms=mew
+15	,	,	PUNCT	PUNCT	_	_	_	_	_
+16	imeayu	in	_	V	and|fut|ind1d	_	_	_	baseForms=i|me|a|iyu
+17	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 124
+1	Ventepun	fentrepun	_	AV	trloc|nmlz	_	_	_	baseForms=fentre|pu|(ü)n
+2	mañumeyu	mañumün	_	V	ind1s-2s	_	_	_	baseForms=mañum|eyu
+3	,	,	PUNCT	PUNCT	_	_	_	_	_
+4	anai	anay	_	N	_	_	_	_	baseForms=anay
+5	;	;	PUNCT	PUNCT	_	_	_	_	_
+6	petu	petu	_	AV	particle	_	_	_	baseForms=petu
+7	ŋüñilan	ngüñün	_	V	neg|ind1s	_	_	_	baseForms=ngüñü|la|(ü)n
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+9	—	—	PUNCT	PUNCT	_	_	_	_	_
+10	Veilele	feylen	_	V	vb|subj3s	_	_	_	baseForms=fey|le|le
+11	,	,	PUNCT	PUNCT	_	_	_	_	_
+12	ŋüñinulmi	ngüñün	_	V	neg|subj2s	_	_	_	baseForms=ngüñü|no|(ü)lmi
+13	,	,	PUNCT	PUNCT	_	_	_	_	_
+14	pun	pun	_	N	_	_	_	_	baseForms=pun
+15	ula	wüla	_	AV	_	_	_	_	baseForms=wüla
+16	ipayaimi	in	_	V	cis|fut|ind2s	_	_	_	baseForms=i|pa|a|imi
+17	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 125
+1	Üŋümnieayu	üngümün	_	V	psist|fut|ind1s-2s	_	_	_	baseForms=ungüm|nie|a|eyu
+2	;	;	PUNCT	PUNCT	_	_	_	_	_
+3	kəpalaimi	küpan	_	V	neg|ind2s	_	_	_	baseForms=küpa|la|imi
+4	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+5	maʎe	malle	_	N	_	_	_	_	baseForms=malle
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+7	—	—	PUNCT	PUNCT	_	_	_	_	_
+8	Küme	küme	_	AJ	_	_	_	_	baseForms=küme
+9	,	,	PUNCT	PUNCT	_	_	_	_	_
+10	maunule	mawünün	_	V	subj3s	_	_	_	baseForms=mawün|le
+11	küpayayu	küpan	_	V	fut|ind1d	_	_	_	baseForms=küpa|a|iyu
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 126
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Chem	chem	_	WH	particle	_	_	_	baseForms=chem
+3	meu	mew	_	P	P	_	_	_	baseForms=mew
+4	?	?	PUNCT	PUNCT	_	_	_	_	_
+5	—	—	PUNCT	PUNCT	_	_	_	_	_
+6	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+7	Mupin	mupin	_	V	inf	_	_	_	baseForms=mupi|(ü)n
+8	duŋu	düngu	_	N	_	_	_	_	baseForms=düngu
+9	kəpakeimi	küpan	_	V	habit|ind2s	_	_	_	baseForms=küpa|ke|imi
+10	,	,	PUNCT	PUNCT	_	_	_	_	_
+11	anai	anay	_	N	_	_	_	_	baseForms=anay
+12	?	?	PUNCT	PUNCT	_	_	_	_	_
+13	—	—	PUNCT	PUNCT	_	_	_	_	_
+14	Müchai	müchay	_	AV	_	_	_	_	baseForms=muchay
+15	məten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+16	mupiltuwun	mupiltun	_	N	cause|vb|nmlz	_	_	_	baseForms=mupi|(ü)l|tu|(ü)n
+17	küpanoalu	küpalu	_	N	neg|fut|svn	_	_	_	baseForms=küpa|no|a|lu
+18	eŋu	engu	_	PN	3d	_	_	_	baseForms=engu
+19	chei	chey	_	IDP	particle	_	_	_	baseForms=chey
+20	t'okiwün	trokin	_	V	reflex|ind1s	_	_	_	baseForms=troki|(ü)w|(ü)n
+21	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 127
+1	Chumŋelu	chumngelu	_	WH	particle	_	_	_	baseForms=chumngelu
+2	mupiltuimi	mupiltun	_	V	cause|vb|ind2s	_	_	_	baseForms=mupi|(ü)l|tu|imi
+3	yu	yu	_	PP	1d	_	_	_	baseForms=yu
+4	kəpanoal	küpan	_	N	neg|fut|nmlz	_	_	_	baseForms=küpa|no|a|el
+5	;	;	PUNCT	PUNCT	_	_	_	_	_
+6	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+7	vei	fey	_	D	D	_	_	_	baseForms=fey
+8	pilayu	pin	_	V	neg|ind1d	_	_	_	baseForms=pi|la|iyu
+9	?	?	PUNCT	PUNCT	_	_	_	_	_
+10	"	"	PUNCT	PUNCT	_	_	_	_	_
+11	kəpayayu	küpan	_	V	fut|ind1d	_	_	_	baseForms=küpa|a|iyu
+12	"	"	PUNCT	PUNCT	_	_	_	_	_
+13	piyu	pin	_	V	ind1d	_	_	_	baseForms=pi|iyu
+14	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 128
+1	Pepi-kəpanoavuliu	küpan	_	V	prefix|neg|fut|bi|subj1d	_	_	_	baseForms=pepi|küpa|no|a|fu|liyu
+2	,	,	PUNCT	PUNCT	_	_	_	_	_
+3	kəmeŋenole	kümengen	_	V	vb|neg|subj3s	_	_	_	baseForms=küme|nge|no|le
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	werkün-mawavuyiñ	werkün	_	V	appl|reflex|fut|bi|ind1p	_	_	_	baseForms=werkü|(üñ)ma|(u)w|a|fu|(iy)iñ
+6	küpanualiu	küpan	_	V	neg|fut|subj1d	_	_	_	baseForms=küpa|no|a|liyu
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 129
+1	Küme	küme	_	AJ	_	_	_	_	baseForms=küme
+2	mai	may	_	AV	_	_	_	_	baseForms=may
+3	.	.	PUNCT	PUNCT	_	_	_	_	_
+4	Konpamu	konün	_	V	cis|imp2d	_	_	_	baseForms=kon|pa|mu
+5	məten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+7	Poui	pun	_	V	ind3	_	_	_	baseForms=pu|iy
+8	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+9	iam	iam	_	V	purp	_	_	_	baseForms=i|am
+10	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 130
+1	Korü	korü	_	N	_	_	_	_	baseForms=korü
+2	kochinule	kochin	_	V	neg|subj3s	_	_	_	baseForms=kochi|no|le
+3	,	,	PUNCT	PUNCT	_	_	_	_	_
+4	tukulelavimi	tükun	_	V	appl|fut|dir3|ind2s	_	_	_	baseForms=tüku|(l)el|a|fi|imi
+5	chadi	chadi	_	N	_	_	_	_	baseForms=chadi
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+7	Tva	tüfa	_	DP	DP	_	_	_	baseForms=tüfa
+8	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+9	məlen	mülen	_	N	nmlz	_	_	_	baseForms=müle|(ü)n
+10	karü	karü	_	AJ	_	_	_	_	baseForms=karü
+11	t'api	trapi	_	N	_	_	_	_	baseForms=trapi
+12	,	,	PUNCT	PUNCT	_	_	_	_	_
+13	keli	kelü	_	AJ	_	_	_	_	baseForms=kelü
+14	t'api	trapi	_	N	_	_	_	_	baseForms=trapi
+15	eŋu	engu	_	PC	3d	_	_	_	baseForms=engu
+16	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 131
+1	Avüi	afün	_	V	ind3	_	_	_	baseForms=af|iy
+2	;	;	PUNCT	PUNCT	_	_	_	_	_
+3	chem	chem	_	WH	particle	_	_	_	baseForms=chem
+4	no	no	_	AV	particle	_	_	_	baseForms=no
+5	rume	rume	_	N	_	_	_	_	baseForms=rume
+6	faltalai	faltan	_	V	neg|ind3	_	_	_	baseForms=falta|la|iy
+7	(	(	PUNCT	PUNCT	_	_	_	_	_
+8	kom	kom	_	AV	_	_	_	_	baseForms=kom
+9	kümelei	kümelen	_	V	vb|ind3	_	_	_	baseForms=küme|le|iy
+10	)	)	PUNCT	PUNCT	_	_	_	_	_
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+12	—	—	PUNCT	PUNCT	_	_	_	_	_
+13	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+14	Kəpa-imi	in	_	V	prefix|ind2s	_	_	_	baseForms=küpa|i|imi
+15	karü	karü	_	AJ	_	_	_	_	baseForms=karü
+16	wa	wa	_	N	_	_	_	_	baseForms=wa
+17	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 132
+1	Weŋei	wengen	_	V	vb|ind3	_	_	_	baseForms=we|nge|iy
+2	(	(	PUNCT	PUNCT	_	_	_	_	_
+3	yavulai	yafün	_	V	neg|ind3	_	_	_	baseForms=yafü|la|iy
+4	)	)	PUNCT	PUNCT	_	_	_	_	_
+5	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+6	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+7	wa	wa	_	N	_	_	_	_	baseForms=wa
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+9	Küpaiŋn	küpan	_	V	ind3p	_	_	_	baseForms=küpa|ingün
+10	inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+11	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+12	vuri	furi	_	N	_	_	_	_	baseForms=furi
+13	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+14	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+15	wa	wa	_	N	_	_	_	_	baseForms=wa
+16	–	–	PUNCT	PUNCT	_	_	_	_	_
+17	meu	mew	_	P	P	_	_	_	baseForms=mew
+18	,	,	PUNCT	PUNCT	_	_	_	_	_
+19	pevuimi	pen	_	V	bi|ind2s	_	_	_	baseForms=pe|fu|imi
+20	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 133
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Duamimi	duamün	_	V	ind2s	_	_	_	baseForms=duam|imi
+3	pichin	pichin	_	AV	nmlz	_	_	_	baseForms=pichi|(ü)n
+4	kankan	kankan	_	N	_	_	_	_	baseForms=kankan
+5	?	?	PUNCT	PUNCT	_	_	_	_	_
+6	—	—	PUNCT	PUNCT	_	_	_	_	_
+7	Mai	may	_	AV	_	_	_	_	baseForms=may
+8	,	,	PUNCT	PUNCT	_	_	_	_	_
+9	eluen	elun	_	V	ind2s-1s	_	_	_	baseForms=elu|en
+10	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+11	kat'ün	katrün	_	N	nmlz	_	_	_	baseForms=katr|(ü)n
+12	;	;	PUNCT	PUNCT	_	_	_	_	_
+13	welu	welu	_	AV	_	_	_	_	baseForms=welu
+14	wüne	wüne	_	AJ	_	_	_	_	baseForms=wüne
+15	putukoayu	pütun	_	V	fut|ind1d	_	_	_	baseForms=pütu|ko|a|iyu
+16	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+17	vaso	fasu	_	N	_	_	_	_	baseForms=fasu
+18	mansana	mansana	_	N	_	_	_	_	baseForms=mansana
+19	pəlku	pülku	_	N	_	_	_	_	baseForms=pülku
+20	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 134
+1	Vau	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+2	mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+3	kochü	kochü	_	AJ	_	_	_	_	baseForms=kochü
+4	poñi	poñü	_	N	_	_	_	_	baseForms=poñu
+5	;	;	PUNCT	PUNCT	_	_	_	_	_
+6	ka	ka	_	AV	_	_	_	_	baseForms=ka
+7	avünten	afünten	_	AJ	_	_	_	_	baseForms=afünten
+8	poñi	poñü	_	N	_	_	_	_	baseForms=poñu
+9	,	,	PUNCT	PUNCT	_	_	_	_	_
+10	küme	küme	_	AJ	_	_	_	_	baseForms=küme
+11	ke	ke	_	PL	p	_	_	_	baseForms=ke
+12	umita	umita	_	N	_	_	_	_	baseForms=umita
+13	kai	kay	_	AV	_	_	_	_	baseForms=kay
+14	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 135
+1	Doi	doy	_	AV	_	_	_	_	baseForms=doy
+2	kəpa-iwelan	in	_	V	prefix|psist|neg|ind1s	_	_	_	baseForms=küpa|i|we|la|(ü)n
+3	.	.	PUNCT	PUNCT	_	_	_	_	_
+4	Wedan	wedan	_	V	ind1s	_	_	_	baseForms=weda|(ü)n
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+6	—	—	PUNCT	PUNCT	_	_	_	_	_
+7	Pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+8	ilu	ilu	_	N	svn	_	_	_	baseForms=i|lu
+9	t'okiukavun	trokin	_	V	reflex|cont|bi|ind1s	_	_	_	baseForms=troki|(ü)w|ka|fu|(ü)n
+10	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 136
+1	Arol	arol	_	AV	_	_	_	_	baseForms=arol
+2	amukilŋe	amun	_	V	neg|imp2s	_	_	_	baseForms=amu|ki(l)|nge
+3	.	.	PUNCT	PUNCT	_	_	_	_	_
+4	Pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+5	veilekeʎeŋe	feylen	_	V	D|vb|habit|affirm|imp2s	_	_	_	baseForms=fey|le|ke|lle|nge
+6	;	;	PUNCT	PUNCT	_	_	_	_	_
+7	nüt'amkayayu	nütramün	_	V	cont|fut|ind1s-2s	_	_	_	baseForms=nütram|ka|a|eyu
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 137
+1	Wüdayu	wüdan	_	V	ind1s-2s	_	_	_	baseForms=wüda|yu
+2	mai	may	_	AV	_	_	_	_	baseForms=may
+3	,	,	PUNCT	PUNCT	_	_	_	_	_
+4	nai	nay	_	N	_	_	_	_	baseForms=nay
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+6	Ka	ka	_	AV	_	_	_	_	baseForms=ka
+7	antü	antü	_	N	_	_	_	_	baseForms=antü
+8	peukaʎen	pewün	_	V	reflex|cont|affirm|ind1s	_	_	_	baseForms=pe|(u)w|ka|lle|(ü)n
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+10	Küme	küme	_	AJ	_	_	_	_	baseForms=küme
+11	amuŋe	amun	_	V	imp2s	_	_	_	baseForms=amu|nge
+12	,	,	PUNCT	PUNCT	_	_	_	_	_
+13	mai	may	_	AV	_	_	_	_	baseForms=may
+14	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 138
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Tunten	tunten	_	WH	particle	_	_	_	baseForms=tunten
+3	–	–	PUNCT	PUNCT	_	_	_	_	_
+4	meu	mew	_	P	P	_	_	_	baseForms=mew
+5	amuaimi	amun	_	V	fut|ind2s	_	_	_	baseForms=amu|a|imi
+6	?	?	PUNCT	PUNCT	_	_	_	_	_
+7	—	—	PUNCT	PUNCT	_	_	_	_	_
+8	Amuyeavun	amun	_	V	fut|bi|ind1s	_	_	_	baseForms=amu|ye|a|fu|(ü)n
+9	,	,	PUNCT	PUNCT	_	_	_	_	_
+10	welu	welu	_	AV	_	_	_	_	baseForms=welu
+11	küme	küme	_	AJ	_	_	_	_	baseForms=küme
+12	elkunupuan	elün	_	V	trloc|fut|ind1s	_	_	_	baseForms=el|künu|pu|a|(ü)n
+13	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+14	duŋu	düngu	_	N	_	_	_	_	baseForms=düngu
+15	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 139
+1	Pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+2	che	che	_	N	_	_	_	_	baseForms=che
+3	,	,	PUNCT	PUNCT	_	_	_	_	_
+4	akuale	akun	_	V	fut|subj3s	_	_	_	baseForms=aku|a|le
+5	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+6	…	…	PUNCT	PUNCT	_	_	_	_	_
+7	küpayai	küpan	_	V	fut|ind3	_	_	_	baseForms=küpa|a|iy
+8	,	,	PUNCT	PUNCT	_	_	_	_	_
+9	pepayaeneu	pen	_	V	cis|fut|ind3-1s	_	_	_	baseForms=pe|pa|a|enew
+10	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 140
+1	Aküi	akun	_	V	ind3	_	_	_	baseForms=aku|iy
+2	loŋko	longko	_	N	_	_	_	_	baseForms=longko
+3	,	,	PUNCT	PUNCT	_	_	_	_	_
+4	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+5	kona	kon'a	_	N	_	_	_	_	baseForms=kon'a
+6	eŋn	engün	_	CP	3p	_	_	_	baseForms=engün
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+8	Küpa	küpa	_	AUX	prefix	_	_	_	baseForms=küpa
+9	-	-	PUNCT	PUNCT	_	_	_	_	_
+10	kompañai	kompañün	_	V	fut|ind3	_	_	_	baseForms=kompañ|a|i
+11	meu	mew	_	P	P	_	_	_	baseForms=mew
+12	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+13	nampəlkan	ñampüllkan	_	N	nmlz	_	_	_	baseForms=ñampüllka|(ü)n
+14	-	-	PUNCT	PUNCT	_	_	_	_	_
+15	meu	mew	_	P	P	_	_	_	baseForms=mew
+16	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 141
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Tunten	tunten	_	WH	particle	_	_	_	baseForms=tunten
+3	pimi	pin	_	V	ind2s	_	_	_	baseForms=pi|imi
+4	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+5	epu	epu	_	NUM	_	_	_	_	baseForms=epu
+6	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+7	–	–	PUNCT	PUNCT	_	_	_	_	_
+8	meu	mew	_	P	P	_	_	_	baseForms=mew
+9	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 142
+1	Kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+2	antü	antü	_	N	_	_	_	_	baseForms=antü
+3	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+4	peso	peso	_	N	_	_	_	_	baseForms=peso
+5	nampəlkan	ñampüllkan	_	N	nmlz	_	_	_	baseForms=ñampüllka|(ü)n
+6	–	–	PUNCT	PUNCT	_	_	_	_	_
+7	meu	mew	_	P	P	_	_	_	baseForms=mew
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 143
+1	Kəpalavimi	küpalün	_	V	cause|fut|dir3|ind2s	_	_	_	baseForms=küpa|(ü)l|a|fi|imi
+2	wüle	wüle	_	AV	_	_	_	_	baseForms=wüle
+3	petu	petu	_	AV	particle	_	_	_	baseForms=petu
+4	t'ipapanu	tripan	_	V	cis|neg	_	_	_	baseForms=tripa|pa|no|?
+5	antü	antü	_	N	_	_	_	_	baseForms=antü
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 144
+1	Deumayan	dewman	_	V	fut|ind1s	_	_	_	baseForms=dewma|a|(ü)n
+2	(	(	PUNCT	PUNCT	_	_	_	_	_
+3	veman	feyman	_	V	ind1s	_	_	_	baseForms=feyma|(ü)n
+4	)	)	PUNCT	PUNCT	_	_	_	_	_
+5	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+6	piel	piel	_	N	nmlz	_	_	_	baseForms=pi|el
+7	,	,	PUNCT	PUNCT	_	_	_	_	_
+8	pat'on	patron	_	N	_	_	_	_	baseForms=patron
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 145
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Chumŋelu	chumngelu	_	WH	particle	_	_	_	baseForms=chumngelu
+3	venten-maimi	fentrenman	_	V	tr|ind2s	_	_	_	baseForms=fentren|(ñ)ma|imi
+4	?	?	PUNCT	PUNCT	_	_	_	_	_
+5	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+6	Cheu	chew	_	WH	particle	_	_	_	baseForms=chew
+7	mlepeimi	mülen	_	V	px|ind2s	_	_	_	baseForms=müle|pe|imi
+8	?	?	PUNCT	PUNCT	_	_	_	_	_
+9	Vent'e	fentren	_	AV	_	_	_	_	baseForms=fentren
+10	prapai	püran	_	V	cis|ind3	_	_	_	baseForms=püra|pa|iy
+11	antü	antü	_	N	_	_	_	_	baseForms=antü
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 146
+1	Nielan	nien	_	V	neg|ind1s	_	_	_	baseForms=nien|la|(ü)n
+2	rulmen	rulmen	_	N	_	_	_	_	baseForms=rulmen
+3	,	,	PUNCT	PUNCT	_	_	_	_	_
+4	señor	señor	_	N	_	_	_	_	baseForms=señor
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+6	Kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+7	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+8	nami	ñamün	_	V	ind3	_	_	_	baseForms=ñam|iy
+9	pun	pun	_	N	_	_	_	_	baseForms=pun
+10	t'aviya	trafuya	_	AV	_	_	_	_	baseForms=trafuya
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 147
+1	Kintuken	kintun	_	V	habit|ind1s	_	_	_	baseForms=kintu|ke|(ü)n
+2	.	.	PUNCT	PUNCT	_	_	_	_	_
+3	Aldün	al'ün	_	AV	nmlz	_	_	_	baseForms=al'ü|(ü)n
+4	–	–	PUNCT	PUNCT	_	_	_	_	_
+5	meu	mew	_	P	P	_	_	_	baseForms=mew
+6	ula	wüla	_	AV	_	_	_	_	baseForms=wüla
+7	petuvin	petun	_	V	rest|dir3|ind1s	_	_	_	baseForms=pe|tu|fi|(ü)n
+8	mawida	mawida	_	N	_	_	_	_	baseForms=mawida
+9	–	–	PUNCT	PUNCT	_	_	_	_	_
+10	meu	mew	_	P	P	_	_	_	baseForms=mew
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 148
+1	Doi	doy	_	AV	_	_	_	_	baseForms=doy
+2	pikilmi	pin	_	V	neg|subj2s	_	_	_	baseForms=pi|ki(l)|(ü)lmi
+3	.	.	PUNCT	PUNCT	_	_	_	_	_
+4	Chiʎalen	chillan	_	N	appl	_	_	_	baseForms=chilla|(l)el|ind2s-1s
+5	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	chechəmavimi	chechümün	_	V	fut|dir3|ind2s	_	_	_	baseForms=chechüm|a|fi|imi
+8	kaŋelu	kangelu	_	N	vb|svn	_	_	_	baseForms=ka|nge|lu
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 149
+1	Sinta	sinta	_	N	_	_	_	_	baseForms=sinta
+2	mətte	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+3	kəltolei	kültolen	_	V	vb|ind3	_	_	_	baseForms=külto|le|iy
+4	;	;	PUNCT	PUNCT	_	_	_	_	_
+5	küviviŋe	küfün	_	V	dir3|imp2s	_	_	_	baseForms=küfü|fi|nge
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+7	—	—	PUNCT	PUNCT	_	_	_	_	_
+8	Küme	küme	_	AJ	_	_	_	_	baseForms=küme
+9	t'ariviŋe	trarin	_	V	dir3|imp2s	_	_	_	baseForms=trari|fi|nge
+10	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+11	sako	sako	_	N	_	_	_	_	baseForms=sako
+12	(	(	PUNCT	PUNCT	_	_	_	_	_
+13	kortal	kortal	_	N	_	_	_	_	baseForms=kortal
+14	)	)	PUNCT	PUNCT	_	_	_	_	_
+15	,	,	PUNCT	PUNCT	_	_	_	_	_
+16	üt'üv
+naqlayai	ütrüfün	_	V	neg|fut|ind3	_	_	_	baseForms=ütrüf|nag|la|a|iy
+
+# 150
+1	Itipu	itipu	_	N	_	_	_	_	baseForms=itipu
+2	pichikei	pichin	_	V	habit|ind3	_	_	_	baseForms=pichi|ke|iy
+3	,	,	PUNCT	PUNCT	_	_	_	_	_
+4	newe	newe	_	AV	_	_	_	_	baseForms=newe
+5	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+6	aldü	al'ü	_	AV	_	_	_	_	baseForms=al'ü
+7	t'apelve	trapelün	_	V	dir3|imp2s	_	_	_	baseForms=trapel|fi|ngee
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+9	—	—	PUNCT	PUNCT	_	_	_	_	_
+10	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+11	Nomŋei	ñomŋen	_	V	vb|ind3	_	_	_	baseForms=ñom|nge|iy
+12	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+13	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+14	,	,	PUNCT	PUNCT	_	_	_	_	_
+15	ñaiyuŋei	ñaiyunngen	_	V	vb|ind3	_	_	_	baseForms=ñaiyu|nge|iy
+16	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 151
+1	Nünielen	nün	_	V	appl|ind1s	_	_	_	baseForms=nü|nien|(l)el|(ü)n
+2	wit'antukuü	witrantükuwe	_	N	nmlz|inst	_	_	_	baseForms=witra|(ü)n|tüku|we
+3	–	–	PUNCT	PUNCT	_	_	_	_	_
+4	meu	mew	_	P	P	_	_	_	baseForms=mew
+5	,	,	PUNCT	PUNCT	_	_	_	_	_
+6	prayan	püran	_	V	fut|ind1s	_	_	_	baseForms=püra|a|(ü)n
+7	inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+9	T'apele	trapelün	_	V	subj3s	_	_	_	baseForms=trapel|le
+10	küme	küme	_	AV	_	_	_	_	baseForms=küme
+11	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+12	chechüm	chechüm	_	N	_	_	_	_	baseForms=chechüm
+13	>	>	PUNCT	PUNCT	_	_	_	_	_
+14	;	;	PUNCT	PUNCT	_	_	_	_	_
+15	ʎochoi	llochon	_	V	ind3	_	_	_	baseForms=llocho|iy
+16	(	(	PUNCT	PUNCT	_	_	_	_	_
+17	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+18	–	–	PUNCT	PUNCT	_	_	_	_	_
+19	ple	püle	_	N	_	_	_	_	baseForms=püle
+20	rupai	rupan	_	V	ind3	_	_	_	baseForms=rupa|iy
+21	)	)	PUNCT	PUNCT	_	_	_	_	_
+22	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 152
+1	Doi	doy	_	AV	_	_	_	_	baseForms=doy
+2	vanei	fanen	_	V	ind3	_	_	_	baseForms=fane|iy
+3	wele-ple	wele-püle	_	CN	_	_	_	_	baseForms=wele|püle
+4	.	.	PUNCT	PUNCT	_	_	_	_	_
+5	Tukuviŋe	tükun	_	V	dir3|imp2s	_	_	_	baseForms=tüku|fi|nge
+6	vau	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+7	–	–	PUNCT	PUNCT	_	_	_	_	_
+8	ple	püle	_	N	_	_	_	_	baseForms=püle
+9	pala	pala	_	N	_	_	_	_	baseForms=pala
+10	eŋu	engu	_	PC	3d	_	_	_	baseForms=engu
+11	toki	toki	_	N	_	_	_	_	baseForms=toki
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 153
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Chuchi	chuchi	_	WH	particle	_	_	_	baseForms=chuchi
+3	–	–	PUNCT	PUNCT	_	_	_	_	_
+4	ple	püle	_	N	_	_	_	_	baseForms=püle
+5	amuayiñ	amun	_	V	fut|ind1p	_	_	_	baseForms=amu|a|(iy)iñ
+6	?	?	PUNCT	PUNCT	_	_	_	_	_
+7	—	—	PUNCT	PUNCT	_	_	_	_	_
+8	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+9	Man-ple	man-püle	_	NC	_	_	_	_	baseForms=man|püle
+10	amuayiñ	amun	_	V	fut|ind1p	_	_	_	baseForms=amu|a|(iy)iñ
+11	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 154
+1	Vei	fey	_	D	D	_	_	_	baseForms=fey
+2	ula	wüla	_	AV	_	_	_	_	baseForms=wüla
+3	norpuayiñ	norün	_	V	trloc|fut|ind1p	_	_	_	baseForms=nor|pu|a|(iy)iñ
+4	leuvu	l'ewfü	_	N	_	_	_	_	baseForms=l'ewfü
+5	–	–	PUNCT	PUNCT	_	_	_	_	_
+6	meu	mew	_	P	P	_	_	_	baseForms=mew
+7	;	;	PUNCT	PUNCT	_	_	_	_	_
+8	prapuayiñ	püran	_	V	trloc|fut|ind1p	_	_	_	baseForms=püra|pu|a|(iy)iñ
+9	tiyechi	tüyechi	_	DP	_	_	_	_	baseForms=tüyechi
+10	winkul	wingkul	_	N	_	_	_	_	baseForms=wingkul
+11	-	-	PUNCT	PUNCT	_	_	_	_	_
+12	meu	mew	_	P	P	_	_	_	baseForms=mew
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 155
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	aldütui	al'ütun	_	V	vb|ind3	_	_	_	baseForms=al'ü|tu|iy
+3	pran	püran	_	V	inf	_	_	_	baseForms=püra|(ü)n
+4	-	-	PUNCT	PUNCT	_	_	_	_	_
+5	meu	mew	_	P	P	_	_	_	baseForms=mew
+6	?	?	PUNCT	PUNCT	_	_	_	_	_
+7	—	—	PUNCT	PUNCT	_	_	_	_	_
+8	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+9	Chumlei	chumlen	_	V	particle|vb|ind3	_	_	_	baseForms=chum|le|iy
+10	tvichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+11	rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+12	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 156
+1	Rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+2	məttewe	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+3	kurantuŋei	kurantuŋen	_	V	gr|vb|ind3	_	_	_	baseForms=kura|(e)ntu|nge|iy
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	welu	welu	_	AV	_	_	_	_	baseForms=welu
+6	mettewe	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+7	wit'alelai	witrale	_	V	vb|neg|ind3	_	_	_	baseForms=witra|le|la|iy
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 157
+1	Wuneviŋe	wünen	_	V	dir3|imp2s	_	_	_	baseForms=wüne|fi|nge
+2	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+3	chechəm	chechüm	_	N	_	_	_	_	baseForms=chechüm
+4	:	:	PUNCT	PUNCT	_	_	_	_	_
+5	inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+6	inalean	inalen	_	V	vb|fut|ind1s	_	_	_	baseForms=ina|le|a|(ü)n
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 158
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Vent'ekei	fentren	_	V	habit|ind3	_	_	_	baseForms=fentren|ke|iy
+3	cham	cham	_	IDP	particle	_	_	_	baseForms=cham
+4	ko	ko	_	N	_	_	_	_	baseForms=ko
+5	?	?	PUNCT	PUNCT	_	_	_	_	_
+6	—	—	PUNCT	PUNCT	_	_	_	_	_
+7	Put'a	pütra	_	N	_	_	_	_	baseForms=pütra
+8	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+9	–	–	PUNCT	PUNCT	_	_	_	_	_
+10	meu	mew	_	P	P	_	_	_	baseForms=mew
+11	rumepulai	rumen	_	V	trloc|neg|ind3	_	_	_	baseForms=rume|pu|la|iy
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 159
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Wit'üŋei	witran	_	V	vb|ind3	_	_	_	baseForms=witra|nge|iy
+3	cham	cham	_	IDP	particle	_	_	_	baseForms=cham
+4	leuvu	l'ewfü	_	N	_	_	_	_	baseForms=l'ewfü
+5	?	?	PUNCT	PUNCT	_	_	_	_	_
+6	—	—	PUNCT	PUNCT	_	_	_	_	_
+7	Vau	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+8	–	–	PUNCT	PUNCT	_	_	_	_	_
+9	ple	püle	_	N	_	_	_	_	baseForms=püle
+10	wit'ü-ŋelai	witran	_	V	vb|neg|ind3	_	_	_	baseForms=witra|nge|la|iy
+11	,	,	PUNCT	PUNCT	_	_	_	_	_
+12	doi	doy	_	AV	_	_	_	_	baseForms=doy
+13	muna	müna	_	AV	_	_	_	_	baseForms=müna
+14	wit'üŋei	witran	_	V	vb|ind3	_	_	_	baseForms=witra|nge|iy
+15	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+16	ñilawe	ngilawe	_	N	inst	_	_	_	baseForms=ngila|we
+17	–	–	PUNCT	PUNCT	_	_	_	_	_
+18	meu	mew	_	P	P	_	_	_	baseForms=mew
+19	.	.	PUNCT	PUNCT	_	_	_	_	_
+20	Pichin	pichin	_	AJ	nmlz	_	_	_	baseForms=pichi|(ü)n
+21	ko	ko	_	N	_	_	_	_	baseForms=ko
+22	məten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+23	mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+24	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 160
+1	Wechunpayiñ	wechun	_	V	inf|cis|ind1p	_	_	_	baseForms=wechu|(ü)n|pa|(iy)iñ
+2	(	(	PUNCT	PUNCT	_	_	_	_	_
+3	wedpayiñ	wechun	_	V	cis|ind1p	_	_	_	baseForms=wechu|pa|(iy)iñ
+4	)	)	PUNCT	PUNCT	_	_	_	_	_
+5	winkul	wingkul	_	N	_	_	_	_	baseForms=wingkul
+6	–	–	PUNCT	PUNCT	_	_	_	_	_
+7	meu	mew	_	P	P	_	_	_	baseForms=mew
+8	;	;	PUNCT	PUNCT	_	_	_	_	_
+9	vau	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+10	inaayiñ	inan	_	V	fut|ind1p	_	_	_	baseForms=ina|ya|(iy)iñ
+11	re	re	_	AV	_	_	_	_	baseForms=re
+12	lelvun	lelfün	_	N	_	_	_	_	baseForms=lelfün
+13	;	;	PUNCT	PUNCT	_	_	_	_	_
+14	vei	fey	_	D	D	_	_	_	baseForms=fey
+15	ula	wüla	_	AV	_	_	_	_	baseForms=wüla
+16	naqpuayiñ	nagün	_	V	trloc|fut|ind1p	_	_	_	baseForms=nag|pu|a|(iy)iñ
+17	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 161
+1	Vau	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+2	wüdai	wüdan	_	V	ind3	_	_	_	baseForms=wüda|iy
+3	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+4	rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+5	epu	epu	_	NUM	_	_	_	_	baseForms=epu
+6	–	–	PUNCT	PUNCT	_	_	_	_	_
+7	meu	mew	_	P	P	_	_	_	baseForms=mew
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+9	—	—	PUNCT	PUNCT	_	_	_	_	_
+10	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+11	Chuchi	chuchi	_	WH	particle	_	_	_	baseForms=chuchi
+12	inayayiñ	inan	_	V	fut|ind1p	_	_	_	baseForms=ina|a|(iy)iñ
+13	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 162
+1	Tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+2	Man-ple	man-püle	_	NC	_	_	_	_	baseForms=man|püle
+3	mlechi	mülechi	_	AJ	ajvz	_	_	_	baseForms=müle|chi
+4	rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+5	doi	doy	_	AV	_	_	_	_	baseForms=doy
+6	aldü	al'ü	_	AV	_	_	_	_	baseForms=al'ü
+7	rupai	rupan	_	V	ind3	_	_	_	baseForms=rupa|iy
+8	,	,	PUNCT	PUNCT	_	_	_	_	_
+9	doi	doy	_	AV	_	_	_	_	baseForms=doy
+10	miaukelu	miawün	_	N	habit|svn	_	_	_	baseForms=miaw|ke|lu
+11	che	che	_	N	_	_	_	_	baseForms=che
+12	t'okivin	trokin	_	V	dir3|ind1s	_	_	_	baseForms=troki|fi|(ü)n
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 163
+1	Wele-ple	wele-püle	_	CN	_	_	_	_	baseForms=wele|püle
+2	doi	doy	_	AV	_	_	_	_	baseForms=doy
+3	kümelu	kümelu	_	N	svn	_	_	_	baseForms=küme|lu
+4	t'okivin	trokin	_	V	dir3|ind1s	_	_	_	baseForms=troki|fi|(ü)n
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+6	Tiye	tüye	_	DP	_	_	_	_	baseForms=tüye
+7	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+8	mlen	mülen	_	N	nmlz	_	_	_	baseForms=müle|(ü)n
+9	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+10	che	che	_	N	_	_	_	_	baseForms=che
+11	;	;	PUNCT	PUNCT	_	_	_	_	_
+12	müt'ümviŋe	mütrümün	_	V	dir3|imp2s	_	_	_	baseForms=mütrüm|fi|nge
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 164
+1	Aʎkulan	allkün	_	V	neg|ind1s	_	_	_	baseForms=allkü|la|(ü)n
+2	,	,	PUNCT	PUNCT	_	_	_	_	_
+3	señor	señor	_	N	_	_	_	_	baseForms=señor
+4	.	.	PUNCT	PUNCT	_	_	_	_	_
+5	Eye	eyew	_	AV	_	_	_	_	baseForms=eyew
+6	naq-ple	nag-püle	_	CN	_	_	_	_	baseForms=nag|püle
+7	küpai	küpan	_	V	ind3	_	_	_	baseForms=küpa|iy
+8	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+9	domo	domo	_	N	_	_	_	_	baseForms=domo
+10	;	;	PUNCT	PUNCT	_	_	_	_	_
+11	ramtuviŋe	ramtun	_	V	dir3|imp2s	_	_	_	baseForms=ramtu|fi|nge
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 165
+1	¡	¡	PUNCT	PUNCT	_	_	_	_	_
+2	A	a	_	IJ	_	_	_	_	baseForms=a
+3	,	,	PUNCT	PUNCT	_	_	_	_	_
+4	domo	domo	_	N	_	_	_	_	baseForms=domo
+5	!	!	PUNCT	PUNCT	_	_	_	_	_
+6	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+7	Cheu	chew	_	WH	particle	_	_	_	baseForms=chew
+8	amui	amun	_	V	ind3	_	_	_	baseForms=amu|iy
+9	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+10	rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+11	?	?	PUNCT	PUNCT	_	_	_	_	_
+12	—	—	PUNCT	PUNCT	_	_	_	_	_
+13	Ta	ta	_	DA	DA	_	_	_	baseForms=ta
+14	tva	tüfa	_	DP	DP	_	_	_	baseForms=tüfa
+15	amui	amun	_	V	ind3	_	_	_	baseForms=amu|iy
+16	ket'an	ketran	_	N	_	_	_	_	baseForms=ketran
+17	kachiʎa	kachilla	_	N	_	_	_	_	baseForms=kachilla
+18	–	–	PUNCT	PUNCT	_	_	_	_	_
+19	meu	mew	_	P	P	_	_	_	baseForms=mew
+20	,	,	PUNCT	PUNCT	_	_	_	_	_
+21	pu	pu	_	PL	particle	_	_	_	baseForms=pu
+22	loma	loma	_	N	_	_	_	_	baseForms=loma
+23	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 166
+1	Tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+2	kaŋelu	kangelu	_	N	vb|svn	_	_	_	baseForms=ka|nge|lu
+3	amui	amun	_	V	ind3	_	_	_	baseForms=amu|iy
+4	Taiqen	traygen	_	NP	_	_	_	_	baseForms=Traygen
+5	,	,	PUNCT	PUNCT	_	_	_	_	_
+6	ina	ina	_	AV	_	_	_	_	baseForms=ina
+7	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+8	rumei	rumen	_	V	ind3	_	_	_	baseForms=rume|iy
+9	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+10	rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+11	;	;	PUNCT	PUNCT	_	_	_	_	_
+12	avkintuvilmi	afkintun	_	V	prefix|dir3|subj2s	_	_	_	baseForms=af|kintu|fi|(ü)lmi
+13	ka	ka	_	AV	_	_	_	_	baseForms=ka
+14	mapu	mapu	_	N	_	_	_	_	baseForms=mapu
+15	,	,	PUNCT	PUNCT	_	_	_	_	_
+16	peavimi	pen	_	V	fut|dir3|ind2s	_	_	_	baseForms=pe|a|fi|imi
+17	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 167
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Namn	ñamün	_	N	nmlz	_	_	_	baseForms=ñam|(ü)n
+3	ŋelai	ngen	_	V	neg|ind3	_	_	_	baseForms=nge|la|iy
+4	cham	cham	_	IDP	particle	_	_	_	baseForms=cham
+5	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+6	rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+7	?	?	PUNCT	PUNCT	_	_	_	_	_
+8	—	—	PUNCT	PUNCT	_	_	_	_	_
+9	Vemən	feymün	_	V	inf	_	_	_	baseForms=fem|(ü)n
+10	ŋelai	ngen	_	V	neg|ind3	_	_	_	baseForms=nge|la|iy
+11	,	,	PUNCT	PUNCT	_	_	_	_	_
+12	señor	señor	_	N	_	_	_	_	baseForms=señor
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+14	Vuri-ple	furi-püle	_	CN	_	_	_	_	baseForms=furi|püle
+15	winkul	wingkul	_	N	_	_	_	_	baseForms=wingkul
+16	wüñoi	wüño	_	N	ind3	_	_	_	baseForms=wuño|iy
+17	Man-ple	man-püle	_	NC	_	_	_	_	baseForms=man|püle
+18	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 168
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Norpuan	norün	_	V	trloc|fut|ind1s	_	_	_	baseForms=nor|pu|a|(ü)n
+3	chi	chi	_	DA	DA	_	_	_	baseForms=chi
+4	am	am	_	IP	particle	_	_	_	baseForms=kam
+5	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+6	leuvu	l'ewfü	_	N	_	_	_	_	baseForms=l'ewfü
+7	?	?	PUNCT	PUNCT	_	_	_	_	_
+8	—	—	PUNCT	PUNCT	_	_	_	_	_
+9	Mai	may	_	AV	_	_	_	_	baseForms=may
+10	,	,	PUNCT	PUNCT	_	_	_	_	_
+11	welu	welu	_	AV	_	_	_	_	baseForms=welu
+12	kəpali	küpalün	_	V	cause	_	_	_	baseForms=küpa|(ü)l|iy
+13	pichin	pichin	_	AV	nmlz	_	_	_	baseForms=pichi|(ü)n
+14	ko	ko	_	N	_	_	_	_	baseForms=ko
+15	.	.	PUNCT	PUNCT	_	_	_	_	_
+16	Mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+17	che	che	_	N	_	_	_	_	baseForms=che
+18	iyeu	eyew	_	DP	DP	_	_	_	baseForms=eyew
+19	;	;	PUNCT	PUNCT	_	_	_	_	_
+20	eluaimeu	elun	_	V	fut	_	_	_	baseForms=elu|a|eymew
+21	cheu	chew	_	WH	particle	_	_	_	baseForms=chew
+22	mi	mi	_	PP	2s	_	_	_	baseForms=mi
+23	rumeam	rumeam	_	V	purp	_	_	_	baseForms=rume|am
+24	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 169
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Tunten	tunten	_	WH	particle	_	_	_	baseForms=tunten
+3	–	–	PUNCT	PUNCT	_	_	_	_	_
+4	meu	mew	_	P	P	_	_	_	baseForms=mew
+5	chei	chey	_	IDP	particle	_	_	_	baseForms=chey
+6	puan	pun	_	V	fut|ind1s	_	_	_	baseForms=pu|a|(ü)n
+7	Vitoria	vitoria	_	NP	_	_	_	_	baseForms=vitoria
+8	?	?	PUNCT	PUNCT	_	_	_	_	_
+9	—	—	PUNCT	PUNCT	_	_	_	_	_
+10	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+11	Petu	petu	_	AV	particle	_	_	_	baseForms=petu
+12	aldü	al'ü	_	AV	_	_	_	_	baseForms=al'ü
+13	ka	ka	_	AV	_	_	_	_	baseForms=ka
+14	mapu lei	mapulen	_	V	vb|ind3	_	_	_	baseForms=mapu|le|iy
+15	cham	cham	_	IDP	particle	_	_	_	baseForms=cham
+16	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 170
+1	Nochi	ñochi	_	AV	_	_	_	_	baseForms=ñochi
+2	amulmu	amun	_	V	subj2d	_	_	_	baseForms=amu|(ü)lmu
+3	puaimu	pun	_	V	fut|ind2d	_	_	_	baseForms=pu|a|iymu
+4	epe	epe	_	AV	_	_	_	_	baseForms=epe
+5	kon	kon	_	N	_	_	_	_	baseForms=kon
+6	antü	antü	_	N	_	_	_	_	baseForms=antü
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 171
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+3	cham	cham	_	IDP	particle	_	_	_	baseForms=cham
+4	umantuam	umawtuam	_	V	vb|purp	_	_	_	baseForms=umaw|tu|am
+5	eyeu	eyew	_	DP	DP	_	_	_	baseForms=eyew
+6	?	?	PUNCT	PUNCT	_	_	_	_	_
+7	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+8	Chem	chem	_	WH	particle	_	_	_	baseForms=chem
+9	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+10	–	–	PUNCT	PUNCT	_	_	_	_	_
+11	meu	mew	_	P	P	_	_	_	baseForms=mew
+12	məŋel	müngel	_	AV	_	_	_	_	baseForms=müngel
+13	rumayayiñ	rumen	_	V	fut|ind1p	_	_	_	baseForms=rume|a|(iy)iñ
+14	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 172
+1	Ŋelai	ngen	_	V	neg|ind3	_	_	_	baseForms=nge|la|iy
+2	məttewe	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+3	winka	wingka	_	N	_	_	_	_	baseForms=wingka
+4	eyeu	eyew	_	DP	DP	_	_	_	baseForms=eyew
+5	;	;	PUNCT	PUNCT	_	_	_	_	_
+6	welu	welu	_	AV	_	_	_	_	baseForms=welu
+7	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+8	loŋko	longko	_	N	_	_	_	_	baseForms=longko
+9	inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+10	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+11	wenüi	wen'üy	_	N	_	_	_	_	baseForms=wen'üy
+12	;	;	PUNCT	PUNCT	_	_	_	_	_
+13	məlekayiñ	mülen	_	V	habit|fut|ind1p	_	_	_	baseForms=müle|ke|a|(iy)iñ
+14	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+15	pu	pu	_	PL	particle	_	_	_	baseForms=pu
+16	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+17	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 173
+1	Tukumekilŋe	tükun	_	V	and|neg|imp2s	_	_	_	baseForms=tüku|me|ki(l)|nge
+2	pot'eso	potreso	_	N	_	_	_	_	baseForms=potreso
+3	–	–	PUNCT	PUNCT	_	_	_	_	_
+4	meu	mew	_	P	P	_	_	_	baseForms=mew
+5	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+7	tva-meu	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+8	inavəl	inafül	_	AV	_	_	_	_	baseForms=inafül
+9	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+10	melekape	mülen	_	V	cont|imp3s	_	_	_	baseForms=müle|ka|pe
+11	;	;	PUNCT	PUNCT	_	_	_	_	_
+12	eluviŋe	elun	_	V	dir3|imp2s	_	_	_	baseForms=elu|fi|nge
+13	kai	kay	_	AV	_	_	_	_	baseForms=kay
+14	pichin	pichin	_	AV	nmlz	_	_	_	baseForms=pichi|(ü)n
+15	kachü	kachu	_	N	_	_	_	_	baseForms=kachu
+16	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 174
+1	Amuŋe	amun	_	V	imp2s	_	_	_	baseForms=amu|nge
+2	,	,	PUNCT	PUNCT	_	_	_	_	_
+3	pichin	pichin	_	AV	nmlz	_	_	_	baseForms=pichi|(ü)n
+4	ŋiʎameŋe	ngillan	_	V	and|imp2s	_	_	_	baseForms=ngilla|me|nge
+5	wa	wa	_	N	_	_	_	_	baseForms=wa
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+7	—	—	PUNCT	PUNCT	_	_	_	_	_
+8	Aʎkütüŋe	allkütun	_	V	rest|imp2s	_	_	_	baseForms=allkü|tu|nge
+9	,	,	PUNCT	PUNCT	_	_	_	_	_
+10	komadre	komadre	_	N	_	_	_	_	baseForms=komadre
+11	,	,	PUNCT	PUNCT	_	_	_	_	_
+12	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+13	nieimi	nien	_	V	ind2s	_	_	_	baseForms=nien|imi
+14	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+15	ke	ke	_	PL	p	_	_	_	baseForms=ke
+16	kuram	kuram	_	N	_	_	_	_	baseForms=kuram
+17	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 175
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+3	ilo	ilo	_	N	_	_	_	_	baseForms=ilo
+4	?	?	PUNCT	PUNCT	_	_	_	_	_
+5	Aŋim	angim	_	N	_	_	_	_	baseForms=angim
+6	məten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+7	nieiñ	nien	_	V	_	_	_	_	baseForms=nien
+8	;	;	PUNCT	PUNCT	_	_	_	_	_
+9	welu	welu	_	AV	_	_	_	_	baseForms=welu
+10	məttewe	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+11	kümei	kümen	_	V	ind3	_	_	_	baseForms=küme|iy
+12	;	;	PUNCT	PUNCT	_	_	_	_	_
+13	kizhu	kidu	_	AV	_	_	_	_	baseForms=kidu
+14	inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+15	deumavin	dewman	_	V	dir3|ind1s	_	_	_	baseForms=dewma|fi|(ü)n
+16	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 176
+1	Deumalmuyu	dewmalün	_	V	cause|ind2-1d	_	_	_	baseForms=dewma|(ü)l|muyu
+2	aŋim	angim	_	N	_	_	_	_	baseForms=angim
+3	korü	korü	_	N	_	_	_	_	baseForms=korü
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	sevoʎa	sefolla	_	N	_	_	_	_	baseForms=sefolla
+6	an	an	_	IP	particle	_	_	_	baseForms=an
+7	məlepe	mülen	_	V	imp3s	_	_	_	baseForms=müle|pe
+8	;	;	PUNCT	PUNCT	_	_	_	_	_
+9	tukulelviŋe	tükun	_	V	appl|dir3|imp2s	_	_	_	baseForms=tüku|(l)el|fi|nge
+10	doi	doy	_	AV	_	_	_	_	baseForms=doy
+11	poñi	poñü	_	N	_	_	_	_	baseForms=poñu
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 177
+1	Avümelmuyu	afümün	_	V	appl|ind2-1d	_	_	_	baseForms=afüm|(l)el|muyu
+2	kechu	kechu	_	NUM	_	_	_	_	baseForms=kechu
+3	we	we	_	AJ	_	_	_	_	baseForms=we
+4	kuram	kuram	_	N	_	_	_	_	baseForms=kuram
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+6	Vei	fey	_	D	D	_	_	_	baseForms=fey
+7	piviŋe	pin	_	V	dir3|imp2s	_	_	_	baseForms=pi|fi|nge
+8	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+9	ñawe	ñawe	_	N	_	_	_	_	baseForms=ñawe
+10	:	:	PUNCT	PUNCT	_	_	_	_	_
+11	"	"	PUNCT	PUNCT	_	_	_	_	_
+12	küpalkilpe	küpalün	_	V	cause|neg|imp3s	_	_	_	baseForms=küpa|(ü)l|kil|pe
+13	ko	ko	_	N	_	_	_	_	baseForms=ko
+14	mettawe	metawe	_	N	_	_	_	_	baseForms=metawe
+15	–	–	PUNCT	PUNCT	_	_	_	_	_
+16	meu	mew	_	P	P	_	_	_	baseForms=mew
+17	"	"	PUNCT	PUNCT	_	_	_	_	_
+18	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 178
+1	T'apelelen	trapelün	_	V	appl|ind2s-1s	_	_	_	baseForms=trapel|(l)el|en
+2	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+3	,	,	PUNCT	PUNCT	_	_	_	_	_
+4	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+5	amunuam	amun	_	V	neg|purp	_	_	_	baseForms=amu|no|am
+6	pun	pun	_	N	_	_	_	_	baseForms=pun
+7	–	–	PUNCT	PUNCT	_	_	_	_	_
+8	meu	mew	_	P	P	_	_	_	baseForms=mew
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 179
+1	Nielaimi	nien	_	V	neg|ind2s	_	_	_	baseForms=nie|la|imi
+2	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+3	achawaʎ	achawall	_	N	_	_	_	_	baseForms=achawall
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	papai	papay	_	N	_	_	_	_	baseForms=papay
+6	;	;	PUNCT	PUNCT	_	_	_	_	_
+7	eluaven	elun	_	V	fut|dir3|ind2s-1s	_	_	_	baseForms=elu|a|fi|en
+8	ŋiʎayavun	ngillan	_	V	fut|bi|ind1s	_	_	_	baseForms=ngilla|a|fu|(ü)n
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+10	—	—	PUNCT	PUNCT	_	_	_	_	_
+11	Mai	may	_	AV	_	_	_	_	baseForms=may
+12	,	,	PUNCT	PUNCT	_	_	_	_	_
+13	señor	señor	_	N	_	_	_	_	baseForms=señor
+14	,	,	PUNCT	PUNCT	_	_	_	_	_
+15	vau	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+16	mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+17	epu	epu	_	NUM	_	_	_	_	baseForms=epu
+18	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+19	achawaʎ	achawall	_	N	_	_	_	_	baseForms=achawall
+20	,	,	PUNCT	PUNCT	_	_	_	_	_
+21	ka	ka	_	AV	_	_	_	_	baseForms=ka
+22	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+23	achawaʎ	achawall	_	N	_	_	_	_	baseForms=achawall
+24	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 180
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Chumten	tunten	_	WH	particle	_	_	_	baseForms=tunten
+3	pimi	pin	_	V	ind2s	_	_	_	baseForms=pi|imi
+4	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+5	achawaʎ	achawall	_	N	_	_	_	_	baseForms=achawall
+6	–	–	PUNCT	PUNCT	_	_	_	_	_
+7	meu	mew	_	P	P	_	_	_	baseForms=mew
+8	?	?	PUNCT	PUNCT	_	_	_	_	_
+9	—	—	PUNCT	PUNCT	_	_	_	_	_
+10	Küla	küla	_	NUM	_	_	_	_	baseForms=küla
+11	chaucha	chawcha	_	N	_	_	_	_	baseForms=chawcha
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 181
+1	Elueyu	elun	_	V	ind1s-2s	_	_	_	baseForms=elu|eyu
+2	meli	meli	_	NUM	_	_	_	_	baseForms=meli
+3	real	real	_	N	_	_	_	_	baseForms=real
+4	.	.	PUNCT	PUNCT	_	_	_	_	_
+5	—	—	PUNCT	PUNCT	_	_	_	_	_
+6	Ya	ya	_	IJ	particle	_	_	_	baseForms=ya
+7	,	,	PUNCT	PUNCT	_	_	_	_	_
+8	mai	may	_	AV	_	_	_	_	baseForms=may
+9	,	,	PUNCT	PUNCT	_	_	_	_	_
+10	señor	señor	_	N	_	_	_	_	baseForms=señor
+11	,	,	PUNCT	PUNCT	_	_	_	_	_
+12	yeviŋe	yen	_	V	dir3|imp2s	_	_	_	baseForms=ye|fi|nge
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+14	Laŋəmelen	l'angümün	_	V	cause|appl|ind2s-1s	_	_	_	baseForms=l'a|(ü)m|(l)el|en
+15	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+16	achawaʎ	achawall	_	N	_	_	_	_	baseForms=achawall
+17	matukel	matukel	_	AV	_	_	_	_	baseForms=matukel
+18	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 182
+1	Deumalaen	dewmalün	_	V	cause|fut|ind2s-1s	_	_	_	baseForms=dewma|(ü)l|a|en
+2	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+3	achawaʎ	achawall	_	N	_	_	_	_	baseForms=achawall
+4	korü	korü	_	N	_	_	_	_	baseForms=korü
+5	wüle	wüle	_	AV	_	_	_	_	baseForms=wüle
+6	pu	pu	_	PL	particle	_	_	_	baseForms=pu
+7	liwen	liwen	_	N	_	_	_	_	baseForms=liwen
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+9	Inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+10	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+11	put'a	pütra	_	N	_	_	_	_	baseForms=pütra
+12	kut'ani	kutranün	_	V	ind3	_	_	_	baseForms=kutran|iy
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 183
+1	Pepi-ilan	in	_	V	prefix|neg|ind1s	_	_	_	baseForms=pepi|i|la|(ü)n
+2	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+3	aŋüm	angim	_	N	_	_	_	_	baseForms=angim
+4	korü	korü	_	N	_	_	_	_	baseForms=korü
+5	,	,	PUNCT	PUNCT	_	_	_	_	_
+6	ka	ka	_	AV	_	_	_	_	baseForms=ka
+7	vei	fey	_	D	D	_	_	_	baseForms=fey
+8	auka	awka	_	N	_	_	_	_	baseForms=awka
+9	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+10	ilo	ilo	_	N	_	_	_	_	baseForms=ilo
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+12	Tukukilŋe	tükun	_	V	neg|imp2s	_	_	_	baseForms=tüku|ki(l)|nge
+13	vent'en	fentren	_	AV	_	_	_	_	baseForms=fentren
+14	t'api	trapi	_	N	_	_	_	_	baseForms=trapi
+15	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 184
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Pepi-takulavimi	takun	_	V	prefix|neg|dir3|ind2s	_	_	_	baseForms=pepi|taku|la|fi|imi
+3	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+4	wikür	wikür	_	N	_	_	_	_	baseForms=wikür
+5	chokov	chokof	_	N	_	_	_	_	baseForms=chokof
+6	-	-	PUNCT	PUNCT	_	_	_	_	_
+7	meu	mew	_	P	P	_	_	_	baseForms=mew
+8	?	?	PUNCT	PUNCT	_	_	_	_	_
+9	Vent'en	fentren	_	AV	_	_	_	_	baseForms=fentren
+10	Konpai	konün	_	V	cis|ind3	_	_	_	baseForms=kon|pa|iy
+11	krüv	kürüf	_	N	_	_	_	_	baseForms=kürüf
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 185
+1	Inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+2	takuavin	takun	_	V	fut|dir3|ind1s	_	_	_	baseForms=taku|a|fi|(ü)n
+3	küna	küna	_	N	_	_	_	_	baseForms=küna
+4	–	–	PUNCT	PUNCT	_	_	_	_	_
+5	meu	mew	_	P	P	_	_	_	baseForms=mew
+6	;	;	PUNCT	PUNCT	_	_	_	_	_
+7	welu	welu	_	AV	_	_	_	_	baseForms=welu
+8	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+9	tva	tüfa	_	DP	DP	_	_	_	baseForms=tüfa
+10	pulai	pun	_	V	neg|ind3	_	_	_	baseForms=pu|la|iy
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+12	Doi	doy	_	AV	_	_	_	_	baseForms=doy
+13	kəpapelaen	küpan	_	V	px|cause|fut|ind2s-1s	_	_	_	baseForms=küpa|pe|(ü)l|a|en
+14	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 186
+1	Wüle	wüle	_	AV	_	_	_	_	baseForms=wüle
+2	pu	pu	_	PL	particle	_	_	_	baseForms=pu
+3	liwen	liwen	_	N	_	_	_	_	baseForms=liwen
+4	küpalelaen	küpan	_	V	appl|fut|ind2s-1s	_	_	_	baseForms=küpa|(l)el|a|en
+5	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+6	chaʎa	challa	_	N	_	_	_	_	baseForms=challa
+7	eñum	eñum	_	AJ	_	_	_	_	baseForms=eñüm
+8	ko	ko	_	N	_	_	_	_	baseForms=ko
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+10	—	—	PUNCT	PUNCT	_	_	_	_	_
+11	Veman	feymün	_	V	fut|ind1s	_	_	_	baseForms=feymew|a|(ü)n
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 187
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Kom	kom	_	AV	_	_	_	_	baseForms=kom
+3	küme	küme	_	AJ	_	_	_	_	baseForms=küme
+4	ii	in	_	V	ind3	_	_	_	baseForms=i|iy
+5	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+6	kuʎin	kulliñ	_	N	_	_	_	_	baseForms=kulliñ
+7	?	?	PUNCT	PUNCT	_	_	_	_	_
+8	—	—	PUNCT	PUNCT	_	_	_	_	_
+9	Ŋelai	ngen	_	V	neg|ind3	_	_	_	baseForms=nge|la|iy
+10	məttewe	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+11	kachü	kachu	_	N	_	_	_	_	baseForms=kachu
+12	;	;	PUNCT	PUNCT	_	_	_	_	_
+13	pulai	pun	_	V	neg|ind3	_	_	_	baseForms=pu|la|iy
+14	ko	ko	_	N	_	_	_	_	baseForms=ko
+15	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 188
+1	Tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+2	chechəm	chechüm	_	N	_	_	_	_	baseForms=chechüm
+3	werai	weran	_	V	ind3	_	_	_	baseForms=wera|iy
+4	.	.	PUNCT	PUNCT	_	_	_	_	_
+5	Chumaviiñ	chumün	_	V	fut|dir3|ind1p	_	_	_	baseForms=chum|a|fi|(iy)iñ
+6	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+7	doi	doy	_	AV	_	_	_	_	baseForms=doy
+8	weranuam	werayam	_	V	neg|purp	_	_	_	baseForms=wera|no|am
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 189
+1	Tukulelaviiñ	tükun	_	V	appl|fut|dir3|ind1p	_	_	_	baseForms=tüku|(l)el|a|fi|(iy)iñ
+2	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+3	ke	ke	_	PL	p	_	_	_	baseForms=ke
+4	ŋünkün	ngüñkün	_	AJ	nmlz	_	_	_	baseForms=ngüñkü|(ü)n
+5	t'əlki	trülke	_	N	_	_	_	_	baseForms=trülke
+6	ovicha	oficha	_	N	_	_	_	_	baseForms=oficha
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+8	Ramtuviŋe	ramtun	_	V	dir3|imp2s	_	_	_	baseForms=ramtu|fi|nge
+9	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+10	kolono	kolono	_	N	_	_	_	_	baseForms=kolono
+11	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+12	nien	nien	_	V	inf	_	_	_	baseForms=nien|(ü)n
+13	t'əlki	trülke	_	N	_	_	_	_	baseForms=trülke
+14	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 190
+1	Kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+2	ke	ke	_	PL	p	_	_	_	baseForms=ke
+3	niei	nien	_	V	ind3	_	_	_	baseForms=nien|iy
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	welu	welu	_	AV	_	_	_	_	baseForms=welu
+6	"	"	PUNCT	PUNCT	_	_	_	_	_
+7	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+8	ke	ke	_	PL	p	_	_	_	baseForms=ke
+9	t'əlki	trülke	_	N	_	_	_	_	baseForms=trülke
+10	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+11	ke	ke	_	PL	p	_	_	_	baseForms=ke
+12	peso	peso	_	N	_	_	_	_	baseForms=peso,wordLang=spa
+13	vale	vale	_	V	_	_	_	_	baseForms=vale,wordLang=spa
+14	"	"	PUNCT	PUNCT	_	_	_	_	_
+15	pi	pin	_	V	ind3	_	_	_	baseForms=pi|iy
+16	.	.	PUNCT	PUNCT	_	_	_	_	_
+17	—	—	PUNCT	PUNCT	_	_	_	_	_
+18	Vei	fey	_	D	D	_	_	_	baseForms=fey
+19	piavimi	pin	_	V	fut|dir3|ind2s	_	_	_	baseForms=pi|a|fi|imi
+20	"	"	PUNCT	PUNCT	_	_	_	_	_
+21	kechu	kechu	_	NUM	_	_	_	_	baseForms=kechu
+22	təlki	trülke	_	N	_	_	_	_	baseForms=trülke
+23	küla	küla	_	NUM	_	_	_	_	baseForms=küla
+24	peso	peso	_	N	_	_	_	_	baseForms=peso
+25	məten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+26	"	"	PUNCT	PUNCT	_	_	_	_	_
+27	,	,	PUNCT	PUNCT	_	_	_	_	_
+28	piavimi	pin	_	V	fut|dir3|ind2s	_	_	_	baseForms=pi|a|fi|imi
+29	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 191
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Deulai	dewün	_	V	neg|ind3	_	_	_	baseForms=dew|la|iy
+3	korü	korü	_	N	_	_	_	_	baseForms=korü
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	papai	papay	_	N	_	_	_	_	baseForms=papay
+6	?	?	PUNCT	PUNCT	_	_	_	_	_
+7	—	—	PUNCT	PUNCT	_	_	_	_	_
+8	Müchai	müchay	_	AV	_	_	_	_	baseForms=muchay
+9	,	,	PUNCT	PUNCT	_	_	_	_	_
+10	pat'onsito	patronsito	_	N	_	_	_	_	baseForms=patronsito
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 192
+1	Entu-tapuviŋe	nentun	_	V	dir3|imp2s	_	_	_	baseForms=nentu|tapu|fi|nge
+2	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+3	chaʎa	challa	_	N	_	_	_	_	baseForms=challa
+4	chem	chem	_	WH	particle	_	_	_	baseForms=chem
+5	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+6	mlen	mülen	_	V	ind1s	_	_	_	baseForms=müle|(ü)n
+7	leliwülan	leliwülün	_	V	reflex|cause|fut|ind1s	_	_	_	baseForms=leli|(u)w|(ü)l|a|(ü)n
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 193
+1	Matukilŋe	matukelün	_	V	imp2s	_	_	_	baseForms=matukel|nge
+2	;	;	PUNCT	PUNCT	_	_	_	_	_
+3	mətte	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+4	antuŋei	antüngen	_	V	vb|ind3	_	_	_	baseForms=antü|nge|iy
+5	deuman	dewman	_	V	inf	_	_	_	baseForms=dewma|(ü)n
+6	amuayiñ	amun	_	V	fut|ind1p	_	_	_	baseForms=amu|a|(iy)iñ
+7	muchai	müchay	_	AV	_	_	_	_	baseForms=muchay
+8	məten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 194
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Chumten	tunten	_	WH	particle	_	_	_	baseForms=tunten
+3	vali	falin	_	V	ind3	_	_	_	baseForms=fali|iy
+4	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+5	kawitu	kawitu	_	N	_	_	_	_	baseForms=kawitu
+6	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+7	umayam	umawyam	_	V	purp	_	_	_	baseForms=umaw|am
+8	?	?	PUNCT	PUNCT	_	_	_	_	_
+9	—	—	PUNCT	PUNCT	_	_	_	_	_
+10	Kimlan	kimün	_	V	neg|ind1s	_	_	_	baseForms=kim|la|(ü)n
+11	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+12	chumten	tunten	_	WH	particle	_	_	_	baseForms=tunten
+13	valin	falin	_	V	inf	_	_	_	baseForms=fali|(ü)n
+14	kachu	kachu	_	N	_	_	_	_	baseForms=kachu
+15	eimi	eymi	_	PN	2s	_	_	_	baseForms=eymi
+16	nieimi	nien	_	V	ind2s	_	_	_	baseForms=nien|imi
+17	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 195
+1	Ramtuavin	ramtun	_	V	fut|dir3|ind1s	_	_	_	baseForms=ramtu|a|fi|(ü)n
+2	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+3	vucha	fücha	_	N	_	_	_	_	baseForms=fücha
+4	.	.	PUNCT	PUNCT	_	_	_	_	_
+5	—	—	PUNCT	PUNCT	_	_	_	_	_
+6	Ya	ya	_	IJ	particle	_	_	_	baseForms=ya
+7	,	,	PUNCT	PUNCT	_	_	_	_	_
+8	mai	may	_	AV	_	_	_	_	baseForms=may
+9	;	;	PUNCT	PUNCT	_	_	_	_	_
+10	müt'ümelen	mütrümün	_	V	appl|ind2s-1s	_	_	_	baseForms=mütrüm|(l)el|en
+11	;	;	PUNCT	PUNCT	_	_	_	_	_
+12	duŋuavin	düngun	_	V	fut|dir3|ind1s	_	_	_	baseForms=düngu|a|fi|(ü)n
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 196
+1	Pichin	pichin	_	AJ	nmlz	_	_	_	baseForms=pichi|(ü)n
+2	üŋümkeʎeŋe	üngümün	_	V	habit|affirm|imp2s	_	_	_	baseForms=ungüm|ke|lle|nge
+3	,	,	PUNCT	PUNCT	_	_	_	_	_
+4	señor	señor	_	N	_	_	_	_	baseForms=señor
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+6	Eyeu	eyew	_	DP	DP	_	_	_	baseForms=eyew
+7	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+8	küpatun	küpatun	_	N	rest|nmlz	_	_	_	baseForms=küpa|tu|(ü)n
+9	vuta	fücha	_	N	_	_	_	_	baseForms=fücha
+10	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+11	wünen	wünen	_	N	nmlz	_	_	_	baseForms=wüne|(ü)n
+12	votəm	fotüm	_	N	_	_	_	_	baseForms=fotüm
+13	eŋu	engu	_	PC	3d	_	_	_	baseForms=engu
+14	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 197
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Kimvimi	kimün	_	V	dir3|ind2s	_	_	_	baseForms=kim|fi|imi
+3	rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+4	Temuko	temuko	_	NP	_	_	_	_	baseForms=temuko
+5	?	?	PUNCT	PUNCT	_	_	_	_	_
+6	—	—	PUNCT	PUNCT	_	_	_	_	_
+7	Kimvin	kimün	_	V	dir3|ind1s	_	_	_	baseForms=kim|fi|(ü)n
+8	,	,	PUNCT	PUNCT	_	_	_	_	_
+9	señor	señor	_	N	_	_	_	_	baseForms=señor
+10	;	;	PUNCT	PUNCT	_	_	_	_	_
+11	küme	küme	_	AJ	_	_	_	_	baseForms=küme
+12	Kimvin	kimün	_	V	dir3|ind1s	_	_	_	baseForms=kim|fi|(ü)n
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 198
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Pevali	pefalün	_	V	cause|ind3	_	_	_	baseForms=pe|fal|iy
+3	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+4	rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+5	?	?	PUNCT	PUNCT	_	_	_	_	_
+6	—	—	PUNCT	PUNCT	_	_	_	_	_
+7	Wünelelu	wünelelu	_	N	vb|svn	_	_	_	baseForms=wüne|le|lu
+8	ʎaq	llaq	_	N	_	_	_	_	baseForms=llag
+9	rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+10	rumeai	rumen	_	V	fut|ind3	_	_	_	baseForms=rume|a|iy
+11	lelvun	lelfün	_	N	_	_	_	_	baseForms=lelfün
+12	–	–	PUNCT	PUNCT	_	_	_	_	_
+13	meu	mew	_	P	P	_	_	_	baseForms=mew
+14	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 199
+1	Vei	fey	_	D	D	_	_	_	baseForms=fey
+2	ula	wüla	_	AV	_	_	_	_	baseForms=wüla
+3	koni	konün	_	V	ind3	_	_	_	baseForms=kon|iy
+4	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+5	rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+6	lemu	lemu	_	N	_	_	_	_	baseForms=lemu
+7	–	–	PUNCT	PUNCT	_	_	_	_	_
+8	meu	mew	_	P	P	_	_	_	baseForms=mew
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+10	Eyeu	eyew	_	DP	DP	_	_	_	baseForms=eyew
+11	perpuaimi	pen	_	V	trloc2|fut|ind2s	_	_	_	baseForms=pe|rpu|a|imi
+12	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+13	leuvu	l'ewfü	_	N	_	_	_	_	baseForms=l'ewfü
+14	,	,	PUNCT	PUNCT	_	_	_	_	_
+15	norpuaimi	norün	_	V	trloc|fut|ind2s	_	_	_	baseForms=nor|pu|a|imi
+16	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 200
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Ŋelai	ngen	_	V	neg|ind3	_	_	_	baseForms=nge|la|iy
+3	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+4	kuikui	kuikui	_	N	_	_	_	_	baseForms=kuykuy
+5	?	?	PUNCT	PUNCT	_	_	_	_	_
+6	—	—	PUNCT	PUNCT	_	_	_	_	_
+7	Mlekevui	mülen	_	V	habit|bi|ind3	_	_	_	baseForms=müle|ke|fu|iy
+8	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+9	,	,	PUNCT	PUNCT	_	_	_	_	_
+10	welu	welu	_	AV	_	_	_	_	baseForms=welu
+11	inaŋechi	inangechi	_	AJ	vb|ajvz	_	_	_	baseForms=ina|nge|chi
+12	pukem	pukem	_	N	_	_	_	_	baseForms=pukem
+13	amui	amun	_	V	ind3	_	_	_	baseForms=amu|iy
+14	ko	ko	_	N	_	_	_	_	baseForms=ko
+15	–	–	PUNCT	PUNCT	_	_	_	_	_
+16	meu	mew	_	P	P	_	_	_	baseForms=mew
+17	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 201
+1	Pepi-deumatulayaiŋn	dewmatun	_	V	prefix|rest|neg|fut|ind3p	_	_	_	baseForms=pepi|dewma|tu|la|a|ingun
+2	,	,	PUNCT	PUNCT	_	_	_	_	_
+3	pichikewele	pichin	_	V	habit|psist|subj3s	_	_	_	baseForms=pichi|ke|we|le
+4	ko	ko	_	N	_	_	_	_	baseForms=ko
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 202
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Cheu	chew	_	WH	particle	_	_	_	baseForms=chew
+3	məlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+4	ŋilawe	ngilawe	_	N	inst	_	_	_	baseForms=ngila|we
+5	?	?	PUNCT	PUNCT	_	_	_	_	_
+6	—	—	PUNCT	PUNCT	_	_	_	_	_
+7	Newe	newe	_	AV	_	_	_	_	baseForms=newe
+8	wentetu	wentetu	_	AV	advz	_	_	_	baseForms=wente|tu
+9	mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+10	;	;	PUNCT	PUNCT	_	_	_	_	_
+11	welu	welu	_	AV	_	_	_	_	baseForms=welu
+12	məttewe	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+13	lot'aŋi	lotrangen	_	V	vb|ind3	_	_	_	baseForms=lotra|nge|iy
+14	(	(	PUNCT	PUNCT	_	_	_	_	_
+15	chapadŋei	chapadngen	_	V	vb|ind3	_	_	_	baseForms=chapad|nge|iy
+16	)	)	PUNCT	PUNCT	_	_	_	_	_
+17	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 203
+1	Eyeu	eyew	_	DP	DP	_	_	_	baseForms=eyew
+2	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+3	mətte	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+4	wezale	wedalen	_	V	vb|ind3	_	_	_	baseForms=weda|le|iy
+5	rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	Newe	newe	_	AV	_	_	_	_	baseForms=newe
+8	peŋekelai	pen	_	V	pass|habit|neg|ind3	_	_	_	baseForms=pe|nge|ke|la|iy
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+10	Kimtuavimən	kimtun	_	V	rest|fut|dir3|ind2p	_	_	_	baseForms=kim|tu|a|fi|imün
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 204
+1	Kintulmeen	kintun	_	V	and|ind2s-1s	_	_	_	baseForms=kintu|(l)el|me|en
+2	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+3	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+4	che	che	_	N	_	_	_	_	baseForms=che
+5	peŋelkünoaeneu	pengel	_	N	pass|nmlz|fut|ind3-1s	_	_	_	baseForms=pe|nge|el|künu|a|enew
+6	rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 205
+1	Inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+2	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+3	epulechi	epulechi	_	AJ	vb|ajvz	_	_	_	baseForms=epu|le|chi
+4	votəm	fotüm	_	N	_	_	_	_	baseForms=fotüm
+5	kompañkompañai	kompañün	_	V	fut|ind3	_	_	_	baseForms=kompañ|a|i
+6	meu	mew	_	P	P	_	_	_	baseForms=mew
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+8	Tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+9	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+10	che	che	_	N	_	_	_	_	baseForms=che
+11	mütte	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+12	kimi	kimün	_	V	ind3	_	_	_	baseForms=kim|iy
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 206
+1	Vei	fey	_	D	D	_	_	_	baseForms=fey
+2	kimniei	kimün	_	V	ind3	_	_	_	baseForms=kim|nie|iy
+3	ñilawe	ngilawe	_	N	inst	_	_	_	baseForms=ngila|we
+4	inaltu	inaltu	_	N	_	_	_	_	baseForms=inaltu
+5	lot'a	lotra	_	N	_	_	_	_	baseForms=lotra
+6	(	(	PUNCT	PUNCT	_	_	_	_	_
+7	chapad	chapad	_	N	_	_	_	_	baseForms=chapad
+8	)	)	PUNCT	PUNCT	_	_	_	_	_
+9	rumei	rumen	_	V	ind3	_	_	_	baseForms=rume|iy
+10	rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+11	kai	kay	_	AV	_	_	_	_	baseForms=kay
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 207
+1	Ya	ya	_	IJ	particle	_	_	_	baseForms=ya
+2	;	;	PUNCT	PUNCT	_	_	_	_	_
+3	vei	fey	_	D	D	_	_	_	baseForms=fey
+4	piviŋe	pin	_	V	dir3|imp2s	_	_	_	baseForms=pi|fi|nge
+5	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+6	votəm	fotüm	_	N	_	_	_	_	baseForms=fotüm
+7	"	"	PUNCT	PUNCT	_	_	_	_	_
+8	küpape	küpan	_	V	imp3s	_	_	_	baseForms=küpa|pe
+9	matukel	matukel	_	AV	_	_	_	_	baseForms=matukel
+10	"	"	PUNCT	PUNCT	_	_	_	_	_
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+12	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+13	kompañKüpa-kompañen	kompañün	_	V	prefix|ind2s-1s	_	_	_	baseForms=küpa|kompañ|en
+14	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 208
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Küpa-peŋelkünoen	peyel	_	N	prefix|pass|nmlz|ind2s-1s	_	_	_	baseForms=küpa|pe|nge|el|künu|en
+3	rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+4	Pedro	pedro	_	NP	_	_	_	_	baseForms=pedro
+5	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+6	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+7	–	–	PUNCT	PUNCT	_	_	_	_	_
+8	meu	mew	_	P	P	_	_	_	baseForms=mew
+9	?	?	PUNCT	PUNCT	_	_	_	_	_
+10	—	—	PUNCT	PUNCT	_	_	_	_	_
+11	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+12	Küme	küme	_	AJ	_	_	_	_	baseForms=küme
+13	kimnieimi	kimün	_	V	ind2s	_	_	_	baseForms=kim|nie|imi
+14	rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+15	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 209
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Chumul	chumül	_	WH	particle	_	_	_	baseForms=chumül
+3	inaŋechi	inangechi	_	AJ	vb|ajvz	_	_	_	baseForms=ina|nge|chi
+4	norpuimi	norün	_	V	trloc|ind2s	_	_	_	baseForms=nor|pu|imi
+5	leuvu	l'ewfü	_	N	_	_	_	_	baseForms=l'ewfü
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	rumeimi	rumen	_	V	ind2s	_	_	_	baseForms=rume|imi
+8	lot'a	lotra	_	N	_	_	_	_	baseForms=lotra
+9	(	(	PUNCT	PUNCT	_	_	_	_	_
+10	chapad	chapad	_	N	_	_	_	_	baseForms=chapad
+11	)	)	PUNCT	PUNCT	_	_	_	_	_
+12	meu	mew	_	P	P	_	_	_	baseForms=mew
+13	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 210
+1	Epuwe	epuwe	_	AV	temp	_	_	_	baseForms=epu|we
+2	–	–	PUNCT	PUNCT	_	_	_	_	_
+3	meu	mew	_	P	P	_	_	_	baseForms=mew
+4	ula	wüla	_	AV	_	_	_	_	baseForms=wüla
+5	,	,	PUNCT	PUNCT	_	_	_	_	_
+6	señor	señor	_	N	_	_	_	_	baseForms=señor
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+8	Pepi-norpuai	norün	_	V	prefix|trloc|fut|ind3	_	_	_	baseForms=pepi|nor|pu|a|iy
+9	(	(	PUNCT	PUNCT	_	_	_	_	_
+10	mi	mi	_	PP	2s	_	_	_	baseForms=mi
+11	)	)	PUNCT	PUNCT	_	_	_	_	_
+12	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+13	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+14	leuvu	l'ewfü	_	N	_	_	_	_	baseForms=l'ewfü
+15	–	–	PUNCT	PUNCT	_	_	_	_	_
+16	meu	mew	_	P	P	_	_	_	baseForms=mew
+17	,	,	PUNCT	PUNCT	_	_	_	_	_
+18	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+19	iʎvodəlayai	illfodün	_	V	fut|fut|ind3	_	_	_	baseForms=illfod|la|a|iy
+20	chechəm	chechüm	_	N	_	_	_	_	baseForms=chechüm
+21	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 211
+1	Norpun	norün	_	V	trloc|ind1s	_	_	_	baseForms=nor|pu|(ü)n
+2	leuvu	l'ewfü	_	N	_	_	_	_	baseForms=l'ewfü
+3	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+4	vuru	furu	_	N	_	_	_	_	baseForms=furu
+5	,	,	PUNCT	PUNCT	_	_	_	_	_
+6	doi	doy	_	AV	_	_	_	_	baseForms=doy
+7	pichii	pichin	_	V	ind3	_	_	_	baseForms=pichi|iy
+8	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+9	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+10	vuru	furu	_	N	_	_	_	_	baseForms=furu
+11	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+12	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+13	–	–	PUNCT	PUNCT	_	_	_	_	_
+14	meu	mew	_	P	P	_	_	_	baseForms=mew
+15	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 212
+1	Ka	ka	_	AV	_	_	_	_	baseForms=ka
+2	antü	antü	_	N	_	_	_	_	baseForms=antü
+3	–	–	PUNCT	PUNCT	_	_	_	_	_
+4	meu	mew	_	P	P	_	_	_	baseForms=mew
+5	doi	doy	_	AV	_	_	_	_	baseForms=doy
+6	aldükevin	al'ün	_	V	habit|dir3|inf	_	_	_	baseForms=al'ü|ke|fi|(ü)n
+7	ko	ko	_	N	_	_	_	_	baseForms=ko
+8	;	;	PUNCT	PUNCT	_	_	_	_	_
+9	maulavui	mawünün	_	V	neg|bi|ind3	_	_	_	baseForms=mawün|la|fu|iy
+10	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 213
+1	Pichin	pichin	_	AJ	nmlz	_	_	_	baseForms=pichi|(ü)n
+2	iʎvodüi	illfodün	_	V	reflex|ind3	_	_	_	baseForms=illfod|(u)w|iy
+3	məten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+4	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+5	namun	n'amun	_	N	_	_	_	_	baseForms=n'amun
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+7	—	—	PUNCT	PUNCT	_	_	_	_	_
+8	¡	¡	PUNCT	PUNCT	_	_	_	_	_
+9	Amuyu	amun	_	V	ind1d	_	_	_	baseForms=amu|iyu
+10	mai	may	_	AV	_	_	_	_	baseForms=may
+11	!	!	PUNCT	PUNCT	_	_	_	_	_
+12	—	—	PUNCT	PUNCT	_	_	_	_	_
+13	Tva	tüfa	_	DP	DP	_	_	_	baseForms=tüfa
+14	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+15	mlen	mülen	_	N	nmlz	_	_	_	baseForms=müle|(ü)n
+16	leuvu	l'ewfü	_	N	_	_	_	_	baseForms=l'ewfü
+17	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 214
+1	Vechi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+2	–	–	PUNCT	PUNCT	_	_	_	_	_
+3	ple	püle	_	N	_	_	_	_	baseForms=püle
+4	rumekilŋe	rumen	_	V	neg|imp2s	_	_	_	baseForms=rume|ki(l)|nge
+5	(	(	PUNCT	PUNCT	_	_	_	_	_
+6	vachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+7	–	–	PUNCT	PUNCT	_	_	_	_	_
+8	ple	püle	_	N	_	_	_	_	baseForms=püle
+9	rupaŋe	rupan	_	V	imp2s	_	_	_	baseForms=rupa|nge
+10	)	)	PUNCT	PUNCT	_	_	_	_	_
+11	,	,	PUNCT	PUNCT	_	_	_	_	_
+12	pat'on	patron	_	N	_	_	_	_	baseForms=patron
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+14	Naqpupeel	nagel	_	N	trloc|px|nmlz	_	_	_	baseForms=nag|pu|pe|el
+15	–	–	PUNCT	PUNCT	_	_	_	_	_
+16	meu	mew	_	P	P	_	_	_	baseForms=mew
+17	pelkai	pelkan	_	V	ind3	_	_	_	baseForms=pelka|iy
+18	ŋei	ngen	_	V	ind3	_	_	_	baseForms=nge|iy
+19	.	.	PUNCT	PUNCT	_	_	_	_	_
+20	Vau	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+21	doi	doy	_	AV	_	_	_	_	baseForms=doy
+22	küme	küme	_	AJ	_	_	_	_	baseForms=küme
+23	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 215
+1	Vau	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+2	mətte	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+3	küme	küme	_	AJ	_	_	_	_	baseForms=küme
+4	naqn	nagün	_	N	nmlz	_	_	_	baseForms=nag|(ü)n
+5	–	–	PUNCT	PUNCT	_	_	_	_	_
+6	meu	mew	_	P	P	_	_	_	baseForms=mew
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+8	Inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+9	wunelean	wünelen	_	V	vb|fut|ind1s	_	_	_	baseForms=wüne|le|a|(ü)n
+10	;	;	PUNCT	PUNCT	_	_	_	_	_
+11	inaniepaen	inan	_	V	psist|cis|ind2s-1s	_	_	_	baseForms=ina|nie|pa|en
+12	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+13	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+14	–	–	PUNCT	PUNCT	_	_	_	_	_
+15	meu	mew	_	P	P	_	_	_	baseForms=mew
+16	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 216
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+3	vucha	fücha	_	AJ	_	_	_	_	baseForms=fücha
+4	ke	ke	_	PL	p	_	_	_	baseForms=ke
+5	kura	kura	_	N	_	_	_	_	baseForms=kura
+6	leuvu	l'ewfü	_	N	_	_	_	_	baseForms=l'ewfü
+7	–	–	PUNCT	PUNCT	_	_	_	_	_
+8	meu	mew	_	P	P	_	_	_	baseForms=mew
+9	?	?	PUNCT	PUNCT	_	_	_	_	_
+10	—	—	PUNCT	PUNCT	_	_	_	_	_
+11	Ŋelai	ngen	_	V	neg|ind3	_	_	_	baseForms=nge|la|iy
+12	;	;	PUNCT	PUNCT	_	_	_	_	_
+13	minchetu	minchetu	_	AV	advz	_	_	_	baseForms=minche|tu
+14	leuvu	l'ewfü	_	N	_	_	_	_	baseForms=l'ewfü
+15	lot'a	lotra	_	N	_	_	_	_	baseForms=lotra
+16	ŋei	ngen	_	V	ind3	_	_	_	baseForms=nge|iy
+17	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 217
+1	Pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+2	eye-ple	eyew-püle	_	CN	DP	_	_	_	baseForms=eyew|püle
+3	ʎitui	llitun	_	V	ind3	_	_	_	baseForms=llitu|iy
+4	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+5	chapad	chapad	_	N	_	_	_	_	baseForms=chapad
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 218
+1	Doi	doy	_	AV	_	_	_	_	baseForms=doy
+2	küme	küme	_	AJ	_	_	_	_	baseForms=küme
+3	naqalmi	nagün	_	V	fut|subj2s	_	_	_	baseForms=nag|a|(ü)lmi
+4	.	.	PUNCT	PUNCT	_	_	_	_	_
+5	Neweŋelai	newengen	_	V	vb|neg|ind3	_	_	_	baseForms=newen|nge|la|iy
+6	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+7	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+8	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+9	ʎodayael	llodael	_	N	fut|nmlz	_	_	_	baseForms=lloda|a|el
+10	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 219
+1	Deu	dew	_	AV	_	_	_	_	baseForms=dew
+2	rupayu	rupan	_	V	ind1d	_	_	_	baseForms=rupa|iyu
+3	lot'a	lotra	_	N	_	_	_	_	baseForms=lotra
+4	(	(	PUNCT	PUNCT	_	_	_	_	_
+5	chapad	chapad	_	N	_	_	_	_	baseForms=chapad
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	menoko	menoko	_	N	_	_	_	_	baseForms=menoko
+8	)	)	PUNCT	PUNCT	_	_	_	_	_
+9	–	–	PUNCT	PUNCT	_	_	_	_	_
+10	meu	mew	_	P	P	_	_	_	baseForms=mew
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+12	Pepi-prakaweʎutuŋe	püran	_	V	prefix|imp2s	_	_	_	baseForms=pepi|püra|kawellu|tu|nge
+
+# 220
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Inei	iney	_	WH	particle	_	_	_	baseForms=iney
+3	piŋei	pin	_	V	pass|ind3	_	_	_	baseForms=pi|nge|iy
+4	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+5	waria	waria	_	N	_	_	_	_	baseForms=waria
+6	inaltu	inaltu	_	N	_	_	_	_	baseForms=inaltu
+7	mawida	mawida	_	N	_	_	_	_	baseForms=mawida
+8	peviyu	pen	_	V	dir3|ind1d	_	_	_	baseForms=pe|fi|iyu
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 221
+1	¡	¡	PUNCT	PUNCT	_	_	_	_	_
+2	Waria	waria	_	N	_	_	_	_	baseForms=waria
+3	nu	no	_	AV	particle	_	_	_	baseForms=no
+4	!	!	PUNCT	PUNCT	_	_	_	_	_
+5	Epu	epu	_	NUM	_	_	_	_	baseForms=epu
+6	wit'an	witran	_	N	nmlz	_	_	_	baseForms=witra|(ü)n
+7	kolon	kolono	_	N	_	_	_	_	baseForms=kolono
+8	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+9	walwe	wallwe	_	N	inst	_	_	_	baseForms=wall|we
+10	məten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 222
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Niei	nien	_	V	ind3	_	_	_	baseForms=nien|iy
+3	üi	üy	_	N	_	_	_	_	baseForms=üy
+4	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+5	tiyechi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+6	winkül	wingkul	_	N	_	_	_	_	baseForms=wingkul
+7	?	?	PUNCT	PUNCT	_	_	_	_	_
+8	—	—	PUNCT	PUNCT	_	_	_	_	_
+9	Küme	küme	_	AJ	_	_	_	_	baseForms=küme
+10	kimlavin	kimün	_	V	neg|dir3|ind1s	_	_	_	baseForms=kim|la|fi|(ü)n
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+12	Kuri	kuri	_	AJ	_	_	_	_	baseForms=kuri
+13	winkul	wingkul	_	N	_	_	_	_	baseForms=wingkul
+14	piŋelu	pilu	_	N	pass|svn	_	_	_	baseForms=pi|nge|lu
+15	t'okivin	trokin	_	V	dir3|ind1s	_	_	_	baseForms=troki|fi|(ü)n
+16	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 223
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Inei	iney	_	WH	particle	_	_	_	baseForms=iney
+3	piŋei	pin	_	V	pass|ind3	_	_	_	baseForms=pi|nge|iy
+4	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+5	küt'al	kütral	_	N	_	_	_	_	baseForms=kütral
+6	deqin	degin	_	N	_	_	_	_	baseForms=degin
+7	?	?	PUNCT	PUNCT	_	_	_	_	_
+8	—	—	PUNCT	PUNCT	_	_	_	_	_
+9	Vei	fey	_	D	D	_	_	_	baseForms=fey
+10	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+11	tvei	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+12	…	…	PUNCT	PUNCT	_	_	_	_	_
+13	deqin	degin	_	N	_	_	_	_	baseForms=degin
+14	,	,	PUNCT	PUNCT	_	_	_	_	_
+15	señor	señor	_	N	_	_	_	_	baseForms=señor
+16	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 224
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Ŋelai	ngen	_	V	neg|ind3	_	_	_	baseForms=nge|la|iy
+3	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+4	lavken	lafken	_	N	_	_	_	_	baseForms=lafken
+5	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+6	inavül	inafül	_	AV	_	_	_	_	baseForms=inafül
+7	deqin	degin	_	N	_	_	_	_	baseForms=degin
+8	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 225
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+3	luan	luwan	_	N	_	_	_	_	baseForms=luwan
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	t'apial	trapial	_	N	_	_	_	_	baseForms=trapial
+6	che	che	_	N	_	_	_	_	baseForms=che
+7	am	am	_	IP	particle	_	_	_	baseForms=kam
+8	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+9	pu	pu	_	PL	particle	_	_	_	baseForms=pu
+10	winkul	wingkul	_	N	_	_	_	_	baseForms=wingkul
+11	–	–	PUNCT	PUNCT	_	_	_	_	_
+12	meu	mew	_	P	P	_	_	_	baseForms=mew
+13	?	?	PUNCT	PUNCT	_	_	_	_	_
+14	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+15	Chem	chem	_	WH	particle	_	_	_	baseForms=chem
+16	ünvi	ünfi	_	N	_	_	_	_	baseForms=ünfi
+17	mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+18	kai	kay	_	AV	_	_	_	_	baseForms=kay
+19	ka	ka	_	AV	_	_	_	_	baseForms=ka
+20	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 226
+1	Mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+2	luan	luwan	_	N	_	_	_	_	baseForms=luwan
+3	,	,	PUNCT	PUNCT	_	_	_	_	_
+4	…	…	PUNCT	PUNCT	_	_	_	_	_
+5	ka	ka	_	AV	_	_	_	_	baseForms=ka
+6	mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+7	,	,	PUNCT	PUNCT	_	_	_	_	_
+8	welu	welu	_	AV	_	_	_	_	baseForms=welu
+9	küpalai	küpatun	_	V	neg|ind3	_	_	_	baseForms=küpa|la|iy
+10	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+11	pu	pu	_	PL	particle	_	_	_	baseForms=pu
+12	kien	küyen'	_	N	_	_	_	_	baseForms=küyen'
+13	,	,	PUNCT	PUNCT	_	_	_	_	_
+14	ka	ka	_	AV	_	_	_	_	baseForms=ka
+15	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+16	kuivi	kuyfi	_	AV	_	_	_	_	baseForms=kuyfi
+17	ula	wüla	_	AV	_	_	_	_	baseForms=wüla
+18	küpayai	küpan	_	V	fut|ind3	_	_	_	baseForms=küpa|a|iy
+19	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 227
+1	ʎitule	llitun	_	V	subj3s	_	_	_	baseForms=llitu|le
+2	ula	wüla	_	AV	_	_	_	_	baseForms=wüla
+3	pire	pire	_	N	_	_	_	_	baseForms=pire
+4	deqin	degin	_	N	_	_	_	_	baseForms=degin
+5	–	–	PUNCT	PUNCT	_	_	_	_	_
+6	meu	mew	_	P	P	_	_	_	baseForms=mew
+7	,	,	PUNCT	PUNCT	_	_	_	_	_
+8	vei	fey	_	D	D	_	_	_	baseForms=fey
+9	ula	wüla	_	AV	_	_	_	_	baseForms=wüla
+10	naqpayai	nagün	_	V	cis|fut|ind3	_	_	_	baseForms=nag|pa|a|iy
+11	t'apial	trapial	_	N	_	_	_	_	baseForms=trapial
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 228
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	ʎekakevimi	llükan	_	V	habit|dir3|ind2s	_	_	_	baseForms=llüka|ke|fi|imi
+3	t'apial	trapial	_	N	_	_	_	_	baseForms=trapial
+4	?	?	PUNCT	PUNCT	_	_	_	_	_
+5	kat'utu-che-lai	katrutu	_	V	rest|neg|ind3	_	_	_	baseForms=katru|tu|che|la|iy
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 229
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Chumŋechi	chumngechi	_	AV	_	_	_	_	baseForms=chumngechi
+3	tuŋekei	tun	_	V	pass|habit|ind3	_	_	_	baseForms=tu|nge|ke|iy
+4	t'apial	trapial	_	N	_	_	_	_	baseForms=trapial
+5	vau	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+6	?	?	PUNCT	PUNCT	_	_	_	_	_
+7	T'ewa	trewa	_	N	_	_	_	_	baseForms=trewa
+8	–	–	PUNCT	PUNCT	_	_	_	_	_
+9	meu	mew	_	P	P	_	_	_	baseForms=mew
+10	,	,	PUNCT	PUNCT	_	_	_	_	_
+11	kam	kam	_	IP	particle	_	_	_	baseForms=kam
+12	ʎazu	lazu	_	N	_	_	_	_	baseForms=lazu
+13	–	–	PUNCT	PUNCT	_	_	_	_	_
+14	meu	mew	_	P	P	_	_	_	baseForms=mew
+15	,	,	PUNCT	PUNCT	_	_	_	_	_
+16	kam	kam	_	IP	particle	_	_	_	baseForms=kam
+17	t'alka	tralka	_	N	_	_	_	_	baseForms=tralka
+18	–	–	PUNCT	PUNCT	_	_	_	_	_
+19	meu	mew	_	P	P	_	_	_	baseForms=mew
+20	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 230
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+3	chaʎwa	challwa	_	N	_	_	_	_	baseForms=challwa
+4	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+5	leuvu	l'ewfü	_	N	_	_	_	_	baseForms=l'ewfü
+6	–	–	PUNCT	PUNCT	_	_	_	_	_
+7	meu	mew	_	P	P	_	_	_	baseForms=mew
+8	?	?	PUNCT	PUNCT	_	_	_	_	_
+9	Mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+10	,	,	PUNCT	PUNCT	_	_	_	_	_
+11	pichike	pichi	_	AJ	p	_	_	_	baseForms=pichi|ke
+12	welu	welu	_	AV	_	_	_	_	baseForms=welu
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+14	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+15	Tukei	tun	_	V	habit|ind3	_	_	_	baseForms=tu|ke|iy
+16	chaʎwa	challwa	_	N	_	_	_	_	baseForms=challwa
+17	eŋn	engün	_	CP	3p	_	_	_	baseForms=engün
+18	wilal	wilal	_	N	_	_	_	_	baseForms=wilal
+19	–	–	PUNCT	PUNCT	_	_	_	_	_
+20	meu	mew	_	P	P	_	_	_	baseForms=mew
+21	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 231
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Kimimi	kimün	_	V	ind2s	_	_	_	baseForms=kim|imi
+3	ka	ka	_	AV	_	_	_	_	baseForms=ka
+4	rume	rume	_	N	_	_	_	_	baseForms=rume
+5	chaʎwa	challwa	_	N	_	_	_	_	baseForms=challwa
+6	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 232
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Chem	chem	_	WH	particle	_	_	_	baseForms=chem
+3	kien	küyen'	_	N	_	_	_	_	baseForms=küyen'
+4	–	–	PUNCT	PUNCT	_	_	_	_	_
+5	meu	mew	_	P	P	_	_	_	baseForms=mew
+6	tukuŋekei	tükun	_	V	pass|habit|ind3	_	_	_	baseForms=tüku|nge|ke|iy
+7	wa	wa	_	N	_	_	_	_	baseForms=wa
+8	?	?	PUNCT	PUNCT	_	_	_	_	_
+9	Kachiʎa	kachilla	_	N	_	_	_	_	baseForms=kachilla
+10	kai	kay	_	AV	_	_	_	_	baseForms=kay
+11	chem	chem	_	WH	particle	_	_	_	baseForms=chem
+12	kien	küyen'	_	N	_	_	_	_	baseForms=küyen'
+13	–	–	PUNCT	PUNCT	_	_	_	_	_
+14	meu	mew	_	P	P	_	_	_	baseForms=mew
+15	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 233
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Tunten	tunten	_	WH	particle	_	_	_	baseForms=tunten
+3	–	–	PUNCT	PUNCT	_	_	_	_	_
+4	meu	mew	_	P	P	_	_	_	baseForms=mew
+5	tuŋekei	tun	_	V	pass|fut|ind3	_	_	_	baseForms=tu|nge|a|iy
+6	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+7	wune	wüne	_	AJ	_	_	_	_	baseForms=wüne
+8	we	we	_	AJ	_	_	_	_	baseForms=we
+9	ke	ke	_	PL	p	_	_	_	baseForms=ke
+10	poñi	poñü	_	N	_	_	_	_	baseForms=poñu
+11	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 234
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Vent'en	fentren	_	AV	_	_	_	_	baseForms=fentren
+3	poñi	poñü	_	N	_	_	_	_	baseForms=poñu
+4	nieiŋn	nien	_	V	_	_	_	_	baseForms=nien|ingün
+5	ka	ka	_	AV	_	_	_	_	baseForms=ka
+6	tipantu	tripantu	_	N	_	_	_	_	baseForms=tripantu
+7	–	–	PUNCT	PUNCT	_	_	_	_	_
+8	meu	mew	_	P	P	_	_	_	baseForms=mew
+9	,	,	PUNCT	PUNCT	_	_	_	_	_
+10	vent'en	fentren	_	AV	_	_	_	_	baseForms=fentren
+11	deŋüʎ	dengüll	_	N	_	_	_	_	baseForms=dengüll
+12	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 235
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Iavuimi	in	_	V	fut|bi|ind2s	_	_	_	baseForms=i|a|fu|imi
+3	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+4	üñüm	üñüm	_	N	_	_	_	_	baseForms=üñüm
+5	ilo	ilo	_	N	_	_	_	_	baseForms=ilo
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	kam	kam	_	IP	particle	_	_	_	baseForms=kam
+8	kümelai	kümen	_	V	neg|ind3	_	_	_	baseForms=küme|la|iy
+9	(	(	PUNCT	PUNCT	_	_	_	_	_
+10	kam	kam	_	IP	particle	_	_	_	baseForms=kam
+11	kümentulayavuimi	kümentun	_	V	vb|neg|fut|bi|ind2s	_	_	_	baseForms=küme|ntu|la|a|fu|imi
+12	?	?	PUNCT	PUNCT	_	_	_	_	_
+13	)	)	PUNCT	PUNCT	_	_	_	_	_
+14	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 236
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Chem	chem	_	WH	particle	_	_	_	baseForms=chem
+3	vücha	fücha	_	AJ	_	_	_	_	baseForms=fücha
+4	üñüm	üñüm	_	N	_	_	_	_	baseForms=üñüm
+5	mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+6	tva-meu	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+7	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 237
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+3	vent'en	fentren	_	AV	_	_	_	_	baseForms=fentren
+4	t'okür	trukür	_	N	_	_	_	_	baseForms=trukür
+5	vau	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+6	?	?	PUNCT	PUNCT	_	_	_	_	_
+7	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+8	Chem	chem	_	WH	particle	_	_	_	baseForms=chem
+9	kien	küyen'	_	N	_	_	_	_	baseForms=küyen'
+10	–	–	PUNCT	PUNCT	_	_	_	_	_
+11	meu	mew	_	P	P	_	_	_	baseForms=mew
+12	doi	doy	_	AV	_	_	_	_	baseForms=doy
+13	maukei	mawünün	_	V	habit|ind3	_	_	_	baseForms=mawün|ke|iy
+14	vau	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+15	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 238
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Tunten	tunten	_	WH	particle	_	_	_	baseForms=tunten
+3	–	–	PUNCT	PUNCT	_	_	_	_	_
+4	meu	mew	_	P	P	_	_	_	baseForms=mew
+5	vent'en	fentren	_	AV	_	_	_	_	baseForms=fentren
+6	naqai	nagün	_	V	fut|ind3	_	_	_	baseForms=nag|a|iy
+7	pire	pire	_	N	_	_	_	_	baseForms=pire
+8	?	?	PUNCT	PUNCT	_	_	_	_	_
+9	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+10	Arküi	arkün	_	V	ind3	_	_	_	baseForms=arkü|iy
+11	che	che	_	N	_	_	_	_	baseForms=che
+12	am	am	_	IP	particle	_	_	_	baseForms=kam
+13	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+14	ko	ko	_	N	_	_	_	_	baseForms=ko
+15	pewü	pewü	_	N	_	_	_	_	baseForms=pewü
+16	–	–	PUNCT	PUNCT	_	_	_	_	_
+17	meu	mew	_	P	P	_	_	_	baseForms=mew
+18	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 239
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Kimvimi	kimün	_	V	dir3|ind2s	_	_	_	baseForms=kim|fi|imi
+3	raqintu	ragintu	_	N	gr	_	_	_	baseForms=rag|(e)ntu
+4	deqin	degin	_	N	_	_	_	_	baseForms=degin
+5	rumen	rumen	_	V	inf	_	_	_	baseForms=rume|(ü)n
+6	rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+7	?	?	PUNCT	PUNCT	_	_	_	_	_
+8	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+9	kechaŋekei	kechan	_	V	pass|habit|ind3	_	_	_	baseForms=kecha|nge|ke|iy
+10	che	che	_	N	_	_	_	_	baseForms=che
+11	am	am	_	IP	particle	_	_	_	baseForms=kam
+12	waka	waka	_	N	_	_	_	_	baseForms=waka
+13	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+14	rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+15	–	–	PUNCT	PUNCT	_	_	_	_	_
+16	meu	mew	_	P	P	_	_	_	baseForms=mew
+17	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 240
+1	Mənna	müna	_	AV	_	_	_	_	baseForms=müna
+2	arelan	arelen	_	V	neg|ind1s	_	_	_	baseForms=are|la|(ü)n
+3	.	.	PUNCT	PUNCT	_	_	_	_	_
+4	Pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+5	wit'ayiñ	witran	_	V	ind1p	_	_	_	baseForms=witra|(iy)iñ
+6	(	(	PUNCT	PUNCT	_	_	_	_	_
+7	veleiñ	felen	_	V	ind1p	_	_	_	baseForms=fele|(iy)iñ
+8	,	,	PUNCT	PUNCT	_	_	_	_	_
+9	mleiñ	mülen	_	V	ind1p	_	_	_	baseForms=müle|(iy)iñ
+10	)	)	PUNCT	PUNCT	_	_	_	_	_
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+12	Küpa-naq-kaweʎun	nagün	_	V	prefix|ind1s	_	_	_	baseForms=küpa|nag|kawellu|(ü)n
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+14	Keʎuen	kellun	_	V	ind2s-1s	_	_	_	baseForms=kellu|en
+15	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 241
+1	Eyeu	eyew	_	DP	DP	_	_	_	baseForms=eyew
+2	mlen	mülen	_	V	inf	_	_	_	baseForms=müle|(ü)n
+3	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+4	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+6	Amuŋe	amun	_	V	imp2s	_	_	_	baseForms=amu|nge
+7	;	;	PUNCT	PUNCT	_	_	_	_	_
+8	nievui	nien	_	V	bi|ind3	_	_	_	baseForms=nien|fu|iy
+9	che	che	_	N	_	_	_	_	baseForms=che
+10	am	am	_	IP	particle	_	_	_	baseForms=kam
+11	mi	mi	_	PP	2s	_	_	_	baseForms=mi
+12	iael	iael	_	N	_	_	_	_	baseForms=iael
+13	,	,	PUNCT	PUNCT	_	_	_	_	_
+14	ramtumeŋe	ramtun	_	V	and|imp2s	_	_	_	baseForms=ramtu|me|nge
+15	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 242
+1	Mari mari	marimari	_	IJ	_	_	_	_	baseForms=marimari
+2	,	,	PUNCT	PUNCT	_	_	_	_	_
+3	nai	nay	_	N	_	_	_	_	baseForms=nay
+4	.	.	PUNCT	PUNCT	_	_	_	_	_
+5	"	"	PUNCT	PUNCT	_	_	_	_	_
+6	Pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+7	kansatuan	kansatun	_	V	vb|fut|ind1s	_	_	_	baseForms=kansa|tu|a|(ü)n
+8	"	"	PUNCT	PUNCT	_	_	_	_	_
+9	pipen	pin	_	V	px|ind1s	_	_	_	baseForms=pi|pe|(ü)n
+10	,	,	PUNCT	PUNCT	_	_	_	_	_
+11	anai	anay	_	N	_	_	_	_	baseForms=anay
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 243
+1	Vau	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+2	inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+3	ñi	ñi	_	PP	1s	_	_	_	baseForms=ñi
+4	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+5	–	–	PUNCT	PUNCT	_	_	_	_	_
+6	meu	mew	_	P	P	_	_	_	baseForms=mew
+7	konpaŋe	konün	_	V	cis|imp2s	_	_	_	baseForms=kon|pa|nge
+8	,	,	PUNCT	PUNCT	_	_	_	_	_
+9	wit'an	witran	_	N	nmlz	_	_	_	baseForms=witra|(ü)n
+10	.	.	PUNCT	PUNCT	_	_	_	_	_
+11	—	—	PUNCT	PUNCT	_	_	_	_	_
+12	Anüpa	anün	_	V	cis|imp2s	_	_	_	baseForms=anü|pa|nge
+13	vau	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+14	wülŋin	wülngiñ	_	N	_	_	_	_	baseForms=wülngiñ
+15	–	–	PUNCT	PUNCT	_	_	_	_	_
+16	ple	püle	_	N	_	_	_	_	baseForms=püle
+17	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 244
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+3	müna	müna	_	AV	_	_	_	_	baseForms=müna
+4	küme	küme	_	AJ	_	_	_	_	baseForms=küme
+5	domo	domo	_	N	_	_	_	_	baseForms=domo
+6	eimi	eymi	_	PN	2s	_	_	_	baseForms=eymi
+7	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+8	kure	kure	_	N	_	_	_	_	baseForms=kure
+9	?	?	PUNCT	PUNCT	_	_	_	_	_
+10	—	—	PUNCT	PUNCT	_	_	_	_	_
+11	Mü	mü	_	AV	particle	_	_	_	baseForms=mü
+12	;	;	PUNCT	PUNCT	_	_	_	_	_
+13	inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+14	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+15	kərun	kürun	_	N	_	_	_	_	baseForms=kürun
+16	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 245
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Chumten	tunten	_	WH	particle	_	_	_	baseForms=tunten
+3	piñeñ	püñeñ	_	N	_	_	_	_	baseForms=püñeñ
+4	(	(	PUNCT	PUNCT	_	_	_	_	_
+5	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+6	ke	ke	_	PL	p	_	_	_	baseForms=ke
+7	che	che	_	N	_	_	_	_	baseForms=che
+8	)	)	PUNCT	PUNCT	_	_	_	_	_
+9	nieimi	nien	_	V	ind2s	_	_	_	baseForms=nien|imi
+10	?	?	PUNCT	PUNCT	_	_	_	_	_
+11	—	—	PUNCT	PUNCT	_	_	_	_	_
+12	Tami	tami	_	PP	2s	_	_	_	baseForms=tami
+13	mapu	mapu	_	N	_	_	_	_	baseForms=mapu
+14	–	–	PUNCT	PUNCT	_	_	_	_	_
+15	meu	mew	_	P	P	_	_	_	baseForms=mew
+16	poukeimi	pun	_	V	habit|ind2s	_	_	_	baseForms=pu|ke|imi
+17	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+18	moŋen	mongen	_	V	inf	_	_	_	baseForms=monge|(ü)n
+19	?	?	PUNCT	PUNCT	_	_	_	_	_
+20	—	—	PUNCT	PUNCT	_	_	_	_	_
+21	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+22	Chumŋechi	chumngechi	_	AV	_	_	_	_	baseForms=chumngechi
+23	moŋeimi	mongen	_	V	ind2s	_	_	_	baseForms=monge|imi
+24	chei	chey	_	IDP	particle	_	_	_	baseForms=chey
+25	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 246
+1	Inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+2	,	,	PUNCT	PUNCT	_	_	_	_	_
+3	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+4	epulechi	epulechi	_	AJ	vb|ajvz	_	_	_	baseForms=epu|le|chi
+5	votəm	fotüm	_	N	_	_	_	_	baseForms=fotüm
+6	kudaumeyu	küdawün	_	V	and|ind1d	_	_	_	baseForms=küdaw|me|iyu
+7	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+8	kawaʎeru	kawalleru	_	N	_	_	_	_	baseForms=kawalleru
+9	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+10	koŋin	kongin	_	N	nmlz	_	_	_	baseForms=kongi|(ü)n
+11	–	–	PUNCT	PUNCT	_	_	_	_	_
+12	meu	mew	_	P	P	_	_	_	baseForms=mew
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 247
+1	Ñi	ñi	_	PP	1s	_	_	_	baseForms=ñi
+2	wünen	wünen	_	N	nmlz	_	_	_	baseForms=wüne|(ü)n
+3	votəm	fotüm	_	N	_	_	_	_	baseForms=fotüm
+4	məleai	mülen	_	V	fut	_	_	_	baseForms=müle|a|ind3
+5	vau	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+6	pranket'analu	püranülu	_	V	nmlz|fut|svn	_	_	_	baseForms=püra|(ü)n|ketran|a|lu
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 248
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Chuchi	chuchi	_	WH	particle	_	_	_	baseForms=chuchi
+3	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+4	kure	kure	_	N	_	_	_	_	baseForms=kure
+5	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+6	loŋko	longko	_	N	_	_	_	_	baseForms=longko
+7	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 249
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Nieimi	nien	_	V	ind2s	_	_	_	baseForms=nien|imi
+3	plata	plata	_	N	_	_	_	_	baseForms=plata
+4	am	kam	_	IP	particle	_	_	_	baseForms=kam
+5	kai	kay	_	AV	_	_	_	_	baseForms=kay
+6	?	?	PUNCT	PUNCT	_	_	_	_	_
+7	Inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+8	küme	küme	_	AV	_	_	_	_	baseForms=küme
+9	kuʎiayu	kullin	_	V	fut|ind1s-2s	_	_	_	baseForms=kulli|a|eyu
+10	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 250
+1	Inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+2	mətte	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+3	t'ewaŋewen	trewangen	_	V	vb|psist|ind1s	_	_	_	baseForms=trewa|nge|we|(ü)n
+4	(	(	PUNCT	PUNCT	_	_	_	_	_
+5	kuñivalŋewen	kuñifalngen	_	V	vb|psist|ind1s	_	_	_	baseForms=kuñifal|nge|we|(ü)n
+6	)	)	PUNCT	PUNCT	_	_	_	_	_
+7	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+8	Chumten	tunten	_	WH	particle	_	_	_	baseForms=tunten
+9	eluaen	elun	_	V	fut|ind2s-1s	_	_	_	baseForms=elu|a|en
+10	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+11	ponson	ponson	_	N	_	_	_	_	baseForms=ponson
+12	–	–	PUNCT	PUNCT	_	_	_	_	_
+13	meu	mew	_	P	P	_	_	_	baseForms=mew
+14	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 251
+1	Tuviŋe	tun	_	V	ind3|imp2s	_	_	_	baseForms=tu|fi|nge
+2	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+3	chiʎka	chillka	_	N	_	_	_	_	baseForms=chillka
+4	soleqao	solegao	_	N	_	_	_	_	baseForms=solegau
+5	–	–	PUNCT	PUNCT	_	_	_	_	_
+6	meu	mew	_	P	P	_	_	_	baseForms=mew
+7	yeŋe	yen	_	V	imp2s	_	_	_	baseForms=ye|nge
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+9	Ŋuyukilŋe	nguyün	_	V	neg|imp2s	_	_	_	baseForms=nguyü|ki(l)|nge
+10	,	,	PUNCT	PUNCT	_	_	_	_	_
+11	ñammumkilŋe	ñamümün	_	V	imp2s	_	_	_	baseForms=ñamüm|nge
+12	kai	kay	_	AV	_	_	_	_	baseForms=kay
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 252
+1	Küme	küme	_	AJ	_	_	_	_	baseForms=küme
+2	elviŋe	elün	_	V	dir3|imp2s	_	_	_	baseForms=el|fi|nge
+3	chechəm	chechüm	_	N	_	_	_	_	baseForms=chechüm
+4	;	;	PUNCT	PUNCT	_	_	_	_	_
+5	wüt'uvnaqalu	ütrüfülu	_	N	fut|svn	_	_	_	baseForms=ütrüf|nag|a|lu
+6	t'okivin	trokin	_	V	dir3|ind1s	_	_	_	baseForms=troki|fi|(ü)n
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+8	Kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+9	weʎin	wellin	_	AJ	nmlz	_	_	_	baseForms=welli|(ü)n
+10	sako	sako	_	N	_	_	_	_	baseForms=sako
+11	ñami	ñamümün	_	V	ind3	_	_	_	baseForms=ñamüm|iy
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 253
+1	Entuchiʎaviŋe	nentun	_	V	dir3|imp2s	_	_	_	baseForms=nentu|chilla|fi|nge
+2	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+3	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	eluviŋe	elun	_	V	dir3|imp2s	_	_	_	baseForms=elu|fi|nge
+6	ko	ko	_	N	_	_	_	_	baseForms=ko
+7	kai	kay	_	AV	_	_	_	_	baseForms=kay
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 254
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Chem	chem	_	WH	particle	_	_	_	baseForms=chem
+3	piŋei	pin	_	V	pass|ind3	_	_	_	baseForms=pi|nge|iy
+4	tva	tüfa	_	DP	DP	_	_	_	baseForms=tüfa
+5	?	?	PUNCT	PUNCT	_	_	_	_	_
+6	—	—	PUNCT	PUNCT	_	_	_	_	_
+7	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+8	Cheu	chew	_	WH	particle	_	_	_	baseForms=chew
+9	tuimi	tuwün	_	V	ind2s	_	_	_	baseForms=tuw|imi
+10	?	?	PUNCT	PUNCT	_	_	_	_	_
+11	—	—	PUNCT	PUNCT	_	_	_	_	_
+12	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+13	Cheu	chew	_	WH	particle	_	_	_	baseForms=chew
+14	küpaimi	küpan	_	V	ind2s	_	_	_	baseForms=küpa|imi
+15	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 255
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Tva	tüfa	_	DP	DP	_	_	_	baseForms=tüfa
+3	–	–	PUNCT	PUNCT	_	_	_	_	_
+4	meu	mew	_	P	P	_	_	_	baseForms=mew
+5	küpaimi	küpan	_	V	ind2s	_	_	_	baseForms=küpa|imi
+6	?	?	PUNCT	PUNCT	_	_	_	_	_
+7	Küpaimi	küpan	_	V	ind2s	_	_	_	baseForms=küpa|imi
+8	ka	ka	_	AV	_	_	_	_	baseForms=ka
+9	mapu	mapu	_	N	_	_	_	_	baseForms=mapu
+10	–	–	PUNCT	PUNCT	_	_	_	_	_
+11	meu	mew	_	P	P	_	_	_	baseForms=mew
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 256
+1	Kimlaeyu	kimün	_	V	neg|ind1s-2s	_	_	_	baseForms=kim|la|eyu
+2	;	;	PUNCT	PUNCT	_	_	_	_	_
+3	pekelayu	pen	_	V	habit|neg|ind1s-2s	_	_	_	baseForms=pe|ke|la|eyu
+4	inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+6	Rüv	rüf	_	AV	_	_	_	_	baseForms=rüf
+7	duŋuimi	düngun	_	V	ind2s	_	_	_	baseForms=düngu|imi
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 257
+1	Inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+2	tva	tüfa	_	DP	DP	_	_	_	baseForms=tüfa
+3	–	–	PUNCT	PUNCT	_	_	_	_	_
+4	meu	mew	_	P	P	_	_	_	baseForms=mew
+5	t'emən	tremün	_	V	ind1s	_	_	_	baseForms=trem|(ü)n
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+7	Kuivi	kuyfi	_	AV	_	_	_	_	baseForms=kuyfi
+8	kimkeveyu	kimün	_	V	habit|dir3|ind1s-2s	_	_	_	baseForms=kim|ke|fi|eyu
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 258
+1	Ŋwiüeyu	nguyün	_	V	ind1s-2s	_	_	_	baseForms=nguyü|eyu
+2	.	.	PUNCT	PUNCT	_	_	_	_	_
+3	Chuməl	chumül	_	WH	particle	_	_	_	baseForms=chumül
+4	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+5	ke	ke	_	PL	p	_	_	_	baseForms=ke
+6	che	che	_	N	_	_	_	_	baseForms=che
+7	ŋeyu	ngen	_	V	ind1s-2s	_	_	_	baseForms=nge|eyu
+8	,	,	PUNCT	PUNCT	_	_	_	_	_
+9	kimuvuyu	kimün	_	V	reflex|bi|ind1s-2s	_	_	_	baseForms=kim|(u)w|fu|eyu
+10	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 259
+1	Chuməl	chumül	_	WH	particle	_	_	_	baseForms=chumül
+2	məten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+3	tuan	tun	_	V	fut|ind1s	_	_	_	baseForms=tu|a|(ü)n
+4	mapuduŋun	mapudungun	_	V	ind1s	_	_	_	baseForms=mapu|düngu|(ü)n
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 260
+1	Kom	kom	_	AV	_	_	_	_	baseForms=kom
+2	che	che	_	N	_	_	_	_	baseForms=che
+3	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+4	vau	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+5	kümelkalei	kümelen	_	V	vb|cont|prog|ind3	_	_	_	baseForms=küme|le|ka|(kü)le|iy
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 261
+1	Vent'en	fentren	_	AV	_	_	_	_	baseForms=fentren
+2	duŋu	düngu	_	N	_	_	_	_	baseForms=düngu
+3	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+4	nüt'amkayayu	nütramün	_	V	cont|fut|ind1s-2s	_	_	_	baseForms=nütram|ka|a|eyu
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+6	Inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+7	pekeeyu	pen	_	V	habit|ind1s-2s	_	_	_	baseForms=pe|ke|eyu
+8	,	,	PUNCT	PUNCT	_	_	_	_	_
+9	veimeu	feymew	_	AV	_	_	_	_	baseForms=feymew
+10	kimeyu	kimün	_	V	ind1s-2s	_	_	_	baseForms=kim|eyu
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 262
+1	Wia	wiya	_	AV	_	_	_	_	baseForms=wiya
+2	peeyu	pen	_	V	ind1s-2s	_	_	_	baseForms=pe|eyu
+3	.	.	PUNCT	PUNCT	_	_	_	_	_
+4	Anüan	anün	_	V	fut|ind1s	_	_	_	baseForms=anü|a|(ü)n
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+6	Anün	anün	_	V	ind1s	_	_	_	baseForms=anü|(ü)n
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+8	(	(	PUNCT	PUNCT	_	_	_	_	_
+9	Anülen	anün	_	V	prog|ind1s	_	_	_	baseForms=anü|(kü)le|(ü)n
+10	)	)	PUNCT	PUNCT	_	_	_	_	_
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 263
+1	Anüŋe	anün	_	V	imp2s	_	_	_	baseForms=anü|nge
+2	(	(	PUNCT	PUNCT	_	_	_	_	_
+3	anükeʎeŋe	anün	_	V	habit|affirm|imp2s	_	_	_	baseForms=anü|ke|lle|nge
+4	)	)	PUNCT	PUNCT	_	_	_	_	_
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+6	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+7	Chem	chem	_	WH	particle	_	_	_	baseForms=chem
+8	mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+9	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 264
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Tunten	tunten	_	WH	particle	_	_	_	baseForms=tunten
+3	t'ipantu	tripantu	_	N	_	_	_	_	baseForms=tripantu
+4	nieimi	nien	_	V	ind2s	_	_	_	baseForms=nien|imi
+5	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 265
+1	Doi	doy	_	AV	_	_	_	_	baseForms=doy
+2	nien	nien	_	V	ind1s	_	_	_	baseForms=nien|(ü)n
+3	plata	plata	_	N	_	_	_	_	baseForms=plata
+4	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+5	wenüi	wen'üy	_	N	_	_	_	_	baseForms=wen'üy
+6	–	–	PUNCT	PUNCT	_	_	_	_	_
+7	meu	mew	_	P	P	_	_	_	baseForms=mew
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 266
+1	Yekünoen	yekün	_	N	ind2s-1s	_	_	_	baseForms=ye|künu|en
+2	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+3	mamüʎ	mamüll	_	N	_	_	_	_	baseForms=mamüll
+4	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 267
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Inei	iney	_	WH	particle	_	_	_	baseForms=iney
+3	deumai	dewman	_	V	ind3	_	_	_	baseForms=dewma|iy
+4	tva	tüfa	_	DP	DP	_	_	_	baseForms=tüfa
+5	,	,	PUNCT	PUNCT	_	_	_	_	_
+6	eimi	eymi	_	PN	2s	_	_	_	baseForms=eymi
+7	,	,	PUNCT	PUNCT	_	_	_	_	_
+8	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+9	lamŋen	lamngen	_	N	_	_	_	_	baseForms=lamngen
+10	che	che	_	N	_	_	_	_	baseForms=che
+11	am	am	_	IP	particle	_	_	_	baseForms=kam
+12	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 268
+1	Put'apai	pütran	_	V	cis|ind3	_	_	_	baseForms=pütra|pa|iy
+2	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+3	iʎvodən	illfodün	_	V	ind1s	_	_	_	baseForms=illfod|(ü)n
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+6	nopapei	norün	_	V	cis|px|ind3	_	_	_	baseForms=nor|pa|pe|iy
+7	leuvu	l'ewfü	_	N	_	_	_	_	baseForms=l'ewfü
+8	–	–	PUNCT	PUNCT	_	_	_	_	_
+9	meu	mew	_	P	P	_	_	_	baseForms=mew
+10	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 269
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Vent'en	fentren	_	AV	_	_	_	_	baseForms=fentren
+3	küdau	küdaw	_	N	_	_	_	_	baseForms=küdaw
+4	mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+5	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+6	moŋeam	mongeam	_	V	purp	_	_	_	baseForms=None|am
+7	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 270
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Kimimi	kimün	_	V	ind2s	_	_	_	baseForms=kim|imi
+3	wiŋku	wingka	_	N	_	_	_	_	baseForms=wingka
+4	duŋun	düngun	_	N	nmlz	_	_	_	baseForms=düngu|(ü)n
+5	?	?	PUNCT	PUNCT	_	_	_	_	_
+6	—	—	PUNCT	PUNCT	_	_	_	_	_
+7	Kimlan	kimün	_	V	neg|ind1s	_	_	_	baseForms=kim|la|(ü)n
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+9	Pichin	pichin	_	AJ	nmlz	_	_	_	baseForms=pichi|(ü)n
+10	məten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 271
+1	Ñi	ñi	_	PP	1s	_	_	_	baseForms=ñi
+2	maʎe	malle	_	N	_	_	_	_	baseForms=malle
+3	doi	doy	_	AV	_	_	_	_	baseForms=doy
+4	kimi	kimün	_	V	ind3	_	_	_	baseForms=kim|iy
+5	duŋun	düngun	_	V	inf	_	_	_	baseForms=düngu|(ü)n
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 272
+1	Tva	tüfa	_	DP	DP	_	_	_	baseForms=tüfa
+2	doi	doy	_	AV	_	_	_	_	baseForms=doy
+3	kimi	kimün	_	V	ind3	_	_	_	baseForms=kim|i
+4	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+5	lemu	lemu	_	N	_	_	_	_	baseForms=lemu
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 273
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Kümelai	kümen	_	V	neg|ind3	_	_	_	baseForms=küme|la|iy
+3	cham	cham	_	IDP	particle	_	_	_	baseForms=cham
+4	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+5	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+6	?	?	PUNCT	PUNCT	_	_	_	_	_
+7	—	—	PUNCT	PUNCT	_	_	_	_	_
+8	Kümelai	kümen	_	V	neg|ind3	_	_	_	baseForms=küme|la|iy
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+10	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+11	Küpale	küpan	_	V	subj3s	_	_	_	baseForms=küpa|le
+12	krüv	kürüf	_	N	_	_	_	_	baseForms=kürüf
+13	,	,	PUNCT	PUNCT	_	_	_	_	_
+14	larai	larün	_	V	fut|ind3	_	_	_	baseForms=lar|a|iy
+15	chei	chey	_	IDP	particle	_	_	_	baseForms=chey
+16	am	am	_	IP	particle	_	_	_	baseForms=kam
+17	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 274
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Cheu	chew	_	WH	particle	_	_	_	baseForms=chew
+3	pevimi	pen	_	V	dir3|ind2s	_	_	_	baseForms=pe|fi|imi
+4	Pedro	pedro	_	NP	_	_	_	_	baseForms=pedro
+5	?	?	PUNCT	PUNCT	_	_	_	_	_
+6	—	—	PUNCT	PUNCT	_	_	_	_	_
+7	Inaltun	inaltu	_	N	_	_	_	_	baseForms=inaltu
+8	leuvu	l'ewfü	_	N	_	_	_	_	baseForms=l'ewfü
+9	t'avyevin	trafyen	_	V	dir3|ind1s	_	_	_	baseForms=trafyen|fi|(ü)n
+10	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 275
+1	mawida	mawida	_	N	_	_	_	_	baseForms=mawida
+2	–	–	PUNCT	PUNCT	_	_	_	_	_
+3	meu	mew	_	P	P	_	_	_	baseForms=mew
+4	mlemn	mülen	_	V	ind2p	_	_	_	baseForms=müle|imün
+5	kom	kom	_	AV	_	_	_	_	baseForms=kom
+6	pun	pun	_	N	_	_	_	_	baseForms=pun
+7	,	,	PUNCT	PUNCT	_	_	_	_	_
+8	vent'en	fentren	_	AV	_	_	_	_	baseForms=fentren
+9	newentui	newentun	_	V	vb|ind3	_	_	_	baseForms=newen|tu|iy
+10	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+11	mauün	mawün	_	N	_	_	_	_	baseForms=mawün
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 276
+1	Tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+2	pu	pu	_	PL	particle	_	_	_	baseForms=pu
+3	wentru	wentru	_	N	_	_	_	_	baseForms=went'u
+4	kewai	kewan	_	V	ind3	_	_	_	baseForms=kewa|iy
+5	weñeve	weñefe	_	N	agent	_	_	_	baseForms=weñe|fe
+6	eŋn	engün	_	CP	3p	_	_	_	baseForms=engün
+7	>	>	PUNCT	PUNCT	_	_	_	_	_
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+9	Vent'en	fentren	_	AV	_	_	_	_	baseForms=fentren
+10	laiŋn	l'an	_	V	ind3p	_	_	_	baseForms=l'a|ingün
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 277
+1	Kom	kom	_	AV	_	_	_	_	baseForms=kom
+2	pu	pu	_	PL	particle	_	_	_	baseForms=pu
+3	wenüi	wen'üy	_	N	_	_	_	_	baseForms=wen'üy
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	ŋoʎilu	ngollilu	_	N	svn	_	_	_	baseForms=ngolli|lu
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	iʎkuiŋən	illkun	_	V	ind3p	_	_	_	baseForms=illku|ingün
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 278
+1	Lai	l'an	_	V	ind3	_	_	_	baseForms=l'a|iy
+2	,	,	PUNCT	PUNCT	_	_	_	_	_
+3	piŋen	pin	_	V	pass|ind1s	_	_	_	baseForms=pi|nge|(ü)n
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	lai	l'an	_	V	ind3	_	_	_	baseForms=l'a|iy
+6	mi	mi	_	PP	2s	_	_	_	baseForms=mi
+7	ñukentu	ñukentu	_	N	_	_	_	_	baseForms=ñukentu
+8	(	(	PUNCT	PUNCT	_	_	_	_	_
+9	paldu	paldu	_	N	_	_	_	_	baseForms=paldu
+10	)	)	PUNCT	PUNCT	_	_	_	_	_
+11	,	,	PUNCT	PUNCT	_	_	_	_	_
+12	piŋen	pin	_	V	pass|ind1s	_	_	_	baseForms=pi|nge|(ü)n
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+14	Inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+15	welu	welu	_	AV	_	_	_	_	baseForms=welu
+16	veientulan	feyentu	_	V	neg|ind1s	_	_	_	baseForms=fey|nentu|la|(ü)n
+17	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 279
+1	Putulaiŋu	pütun	_	V	neg|ind3d	_	_	_	baseForms=pütu|la|ingu
+2	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+3	epu	epu	_	NUM	_	_	_	_	baseForms=epu
+4	che	che	_	N	_	_	_	_	baseForms=che
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+6	Mətte	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+7	wiwiŋu	wiwün	_	V	ind3d	_	_	_	baseForms=wiwü|ingu
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 280
+1	ʎekai	llükan	_	V	ind3	_	_	_	baseForms=llüka|iy
+2	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+3	che	che	_	N	_	_	_	_	baseForms=che
+4	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+5	kewayateu	kewael	_	V	fut|invNF3	_	_	_	baseForms=kewa|a|etew
+6	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+7	chao	chaw	_	N	_	_	_	_	baseForms=chaw
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 281
+1	Tva	tüfa	_	DP	DP	_	_	_	baseForms=tüfa
+2	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+3	mlen	mülen	_	V	ind1s	_	_	_	baseForms=müle|(ü)n
+4	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+5	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+6	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+7	chao	chaw	_	N	_	_	_	_	baseForms=chaw
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 282
+1	Tva	tüfa	_	DP	DP	_	_	_	baseForms=tüfa
+2	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+3	mlen	mülen	_	V	ind1s	_	_	_	baseForms=müle|(ü)n
+4	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+5	pu	pu	_	PL	particle	_	_	_	baseForms=pu
+6	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+7	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+8	maʎe	malle	_	N	_	_	_	_	baseForms=malle
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 283
+1	Tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+2	domo	domo	_	N	_	_	_	_	baseForms=domo
+3	niekevui	nien	_	V	habit|bi|ind3	_	_	_	baseForms=nien|ke|fu|iy
+4	kechu	kechu	_	NUM	_	_	_	_	baseForms=kechu
+5	piñen	püñeñ	_	N	_	_	_	_	baseForms=püñeñ
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	epu	epu	_	NUM	_	_	_	_	baseForms=epu
+8	wentru	wentru	_	N	_	_	_	_	baseForms=went'u
+9	,	,	PUNCT	PUNCT	_	_	_	_	_
+10	küla	küla	_	NUM	_	_	_	_	baseForms=küla
+11	domo	domo	_	N	_	_	_	_	baseForms=domo
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 284
+1	Tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+2	wentru	wentru	_	N	_	_	_	_	baseForms=went'u
+3	niekevui	nien	_	V	habit|bi|ind3	_	_	_	baseForms=nien|ke|fu|iy
+4	kechu	kechu	_	NUM	_	_	_	_	baseForms=kechu
+5	piñen	püñeñ	_	N	_	_	_	_	baseForms=püñeñ
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	epu	epu	_	NUM	_	_	_	_	baseForms=epu
+8	ñawe	ñawe	_	N	_	_	_	_	baseForms=ñawe
+9	,	,	PUNCT	PUNCT	_	_	_	_	_
+10	küla	küla	_	NUM	_	_	_	_	baseForms=küla
+11	votəm	fotüm	_	N	_	_	_	_	baseForms=fotüm
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 285
+1	Welu	welu	_	AV	_	_	_	_	baseForms=welu
+2	epu	epu	_	NUM	_	_	_	_	baseForms=epu
+3	vot'əm	fotüm	_	N	_	_	_	_	baseForms=fotüm
+4	;	;	PUNCT	PUNCT	_	_	_	_	_
+5	norkeavulu	norülu	_	N	habit|fut|bi|svn	_	_	_	baseForms=nor|ke|a|fu|lu
+6	pu kem	pukem	_	N	_	_	_	_	baseForms=pukem
+7	leuvu	l'ewfü	_	N	_	_	_	_	baseForms=l'ewfü
+8	–	–	PUNCT	PUNCT	_	_	_	_	_
+9	meu	mew	_	P	P	_	_	_	baseForms=mew
+10	ürvi	ürfin	_	V	ind3	_	_	_	baseForms=ürfi|iy
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 286
+1	Müná	müna	_	AV	_	_	_	_	baseForms=müna
+2	wit'ürkelai	witran	_	V	rep|neg|ind3	_	_	_	baseForms=witra|rke|la|iy
+3	;	;	PUNCT	PUNCT	_	_	_	_	_
+4	nakəmeyu	nagümün	_	V	cause	_	_	_	baseForms=nag|üm|eyew
+5	wit'un	witran	_	V	inf	_	_	_	baseForms=witra|(ü)n
+6	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 287
+1	Inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+2	küpa-entuvuiñ	nentun	_	V	prefix|bi|ind1p	_	_	_	baseForms=küpa|nentu|fu|(iy)iñ
+3	eŋu	engu	_	PN	3d	_	_	_	baseForms=engu
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	welu	welu	_	AV	_	_	_	_	baseForms=welu
+6	pepi-entulavin	nentun	_	V	prefix|neg|dir3|ind1s	_	_	_	baseForms=pepi|nentu|la|fi|(ü)n
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 288
+1	Inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+2	ke	ke	_	AV	particle	_	_	_	baseForms=ke
+3	epe	epe	_	AV	_	_	_	_	baseForms=epe
+4	ürvivun	ürfin	_	V	bi|ind1s	_	_	_	baseForms=ürfi|fu|(ü)n
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 289
+1	Loŋko	longko	_	N	_	_	_	_	baseForms=longko
+2	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+3	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+4	doi	doy	_	AV	_	_	_	_	baseForms=doy
+5	kümei	kümen	_	V	ind3	_	_	_	baseForms=küme|iy
+6	pu	pu	_	PL	particle	_	_	_	baseForms=pu
+7	kuñival	kuñifal	_	AJ	_	_	_	_	baseForms=kuñifal
+8	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+9	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+10	–	–	PUNCT	PUNCT	_	_	_	_	_
+11	meu	mew	_	P	P	_	_	_	baseForms=mew
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 290
+1	Kom	kom	_	AV	_	_	_	_	baseForms=kom
+2	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+3	–	–	PUNCT	PUNCT	_	_	_	_	_
+4	meu	mew	_	P	P	_	_	_	baseForms=mew
+5	pevin	pen	_	V	dir3|ind1s	_	_	_	baseForms=pe|fi|(ü)n
+6	doi	doy	_	AV	_	_	_	_	baseForms=doy
+7	kümei	kümen	_	V	ind3	_	_	_	baseForms=küme|iy
+8	Valdivia	valdivia	_	NP	_	_	_	_	baseForms=valdivia
+9	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+10	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 291
+1	Kəpalelən	küpan	_	V	appl|ind1s	_	_	_	baseForms=küpa|(l)el|(ü)n
+2	vau	tüfamew	_	AV	_	_	_	_	baseForms=tüfamew
+3	kiñeke	kiñe	_	NUM	p	_	_	_	baseForms=kiñe|ke
+4	itipu	itipu	_	N	_	_	_	_	baseForms=itipu
+5	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+6	wenüi	wen'üy	_	N	_	_	_	_	baseForms=wen'üy
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+8	Nievuliu	nien	_	V	bi|subj1d	_	_	_	baseForms=nien|fu|liyu
+9	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+10	chiʎa	chilla	_	N	_	_	_	_	baseForms=chilla
+11	,	,	PUNCT	PUNCT	_	_	_	_	_
+12	pepi-chiʎauvuyu	chilla	_	N	prefix|reflex|bi|ind1d	_	_	_	baseForms=pepi|chilla|(u)w|fu|iyu
+13	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+14	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 292
+1	Ñi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+2	wenüi	wen'üy	_	N	_	_	_	_	baseForms=wen'üy
+3	ülkukoni	ülkun	_	V	ind3	_	_	_	baseForms=ülku|kon|iy
+4	küpalelərkeneu	küpan	_	V	appl|rep|ind3-1s	_	_	_	baseForms=küpa|(l)el|rke|enew
+5	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+6	vün rüŋi	fün	_	CN	_	_	_	_	baseForms=fün|rüngi
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+8	«	«	PUNCT	PUNCT	_	_	_	_	_
+9	Peli	pen	_	V	subj1s	_	_	_	baseForms=pe|li
+10	küpalan	küpalün	_	V	cause|fut|ind1s	_	_	_	baseForms=küpa|(ü)l|a|(ü)n
+11	vün rüŋi	fün	_	CN	_	_	_	_	baseForms=fün|rüngi
+12	»	»	PUNCT	PUNCT	_	_	_	_	_
+13	,	,	PUNCT	PUNCT	_	_	_	_	_
+14	pivui	pin	_	V	bi|ind3	_	_	_	baseForms=pi|fu|iy
+15	(	(	PUNCT	PUNCT	_	_	_	_	_
+16	pieneu	pin	_	V	ind3-1s	_	_	_	baseForms=pi|enew
+17	,	,	PUNCT	PUNCT	_	_	_	_	_
+18	piveneu	pin	_	V	bi|ind3-1s	_	_	_	baseForms=pi|fu|enew
+19	)	)	PUNCT	PUNCT	_	_	_	_	_
+20	,	,	PUNCT	PUNCT	_	_	_	_	_
+21	petu	petu	_	AV	particle	_	_	_	baseForms=petu
+22	pepiavui	pepin	_	V	fut|bi|ind3	_	_	_	baseForms=pepi|a|fu|iy
+23	veimeu	feymew	_	AV	_	_	_	_	baseForms=feymew
+24	akulai	akun	_	V	neg|ind3	_	_	_	baseForms=aku|la|iy
+25	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 293
+1	Pilmi	pin	_	V	subj2s	_	_	_	baseForms=pi|(ü)lmi
+2	konaimi	konün	_	V	fut|ind2s	_	_	_	baseForms=kon|a|imi
+3	inchiñ	iñchiñ	_	PN	1p	_	_	_	baseForms=iñchiñ
+4	taiñ	taiñ	_	PP	1p	_	_	_	baseForms=taiñ
+5	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+6	–	–	PUNCT	PUNCT	_	_	_	_	_
+7	meu	mew	_	P	P	_	_	_	baseForms=mew
+8	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+9	küdauain	küdawün	_	N	fut|nmlz	_	_	_	baseForms=küdaw|a|(ü)n
+10	;	;	PUNCT	PUNCT	_	_	_	_	_
+11	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+12	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+13	eluayiñ	elun	_	V	fut|ind1p	_	_	_	baseForms=elu|a|(iy)iñ
+14	,	,	PUNCT	PUNCT	_	_	_	_	_
+15	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+16	iam	iam	_	V	purp	_	_	_	baseForms=i|am
+17	,	,	PUNCT	PUNCT	_	_	_	_	_
+18	meli	meli	_	NUM	_	_	_	_	baseForms=meli
+19	real	real	_	N	_	_	_	_	baseForms=real
+20	künoleluayiñ	künun	_	V	reflex|fut|ind1p	_	_	_	baseForms=künu|(l)el|(u)w|a|(iy)iñ
+21	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+22	antü	antü	_	N	_	_	_	_	baseForms=antü
+23	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 294
+1	Tami	tami	_	PP	2s	_	_	_	baseForms=tami
+2	kure	kure	_	N	_	_	_	_	baseForms=kure
+3	küpayavui	küpan	_	V	fut|bi|ind3	_	_	_	baseForms=küpa|a|fu|iy
+4	inarume-payaveneu	inarumen	_	V	cis|fut|dir3|ind3-1s	_	_	_	baseForms=inarume|pa|a|fi|enew
+5	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+6	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+7	che	che	_	N	_	_	_	_	baseForms=che
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+9	Werkülen	werkün	_	V	appl|ind1s	_	_	_	baseForms=werkü|(l)el|(ü)n
+10	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+11	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+12	mallen	mal'en	_	N	_	_	_	_	baseForms=mal'en
+13	,	,	PUNCT	PUNCT	_	_	_	_	_
+14	amualu	amulu	_	N	fut|svn	_	_	_	baseForms=amu|a|lu
+15	waria	waria	_	N	_	_	_	_	baseForms=waria
+16	–	–	PUNCT	PUNCT	_	_	_	_	_
+17	meu	mew	_	P	P	_	_	_	baseForms=mew
+18	ŋiʎalmeaneu	ngillan	_	V	appl|and|fut|ind3-1s	_	_	_	baseForms=ngilla|(l)el|me|a|enew
+19	ilo	ilo	_	N	_	_	_	_	baseForms=ilo
+20	eŋu	engu	_	PC	3d	_	_	_	baseForms=engu
+21	kovke	kofke	_	N	_	_	_	_	baseForms=kofke
+22	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 295
+1	Maule	mawün	_	N	subj3s	_	_	_	baseForms=mawün|le
+2	wüle	wüle	_	AV	_	_	_	_	baseForms=wüle
+3	pival-lai	pifalün	_	V	cause|neg|ind3	_	_	_	baseForms=pi|fal|la|iy
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	küpatuavuimi	küpatun	_	V	rest|fut|bi|ind2s	_	_	_	baseForms=küpa|tu|a|fu|imi
+6	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+7	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+8	–	–	PUNCT	PUNCT	_	_	_	_	_
+9	meu	mew	_	P	P	_	_	_	baseForms=mew
+10	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+11	kimam	kimam	_	V	purp	_	_	_	baseForms=kim|am
+12	mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+13	küdau	küdaw	_	N	_	_	_	_	baseForms=küdaw
+14	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 296
+1	Ñi	ñi	_	PP	1s	_	_	_	baseForms=ñi
+2	epu	epu	_	NUM	_	_	_	_	baseForms=epu
+3	votəm	fotüm	_	N	_	_	_	_	baseForms=fotüm
+4	amuavulu	amun	_	V	fut|bi|svn	_	_	_	baseForms=amu|a|fu|lu
+5	leuvu	l'ewfü	_	N	_	_	_	_	baseForms=l'ewfü
+6	–	–	PUNCT	PUNCT	_	_	_	_	_
+7	meu	mew	_	P	P	_	_	_	baseForms=mew
+8	,	,	PUNCT	PUNCT	_	_	_	_	_
+9	welu	welu	_	AV	_	_	_	_	baseForms=welu
+10	«	«	PUNCT	PUNCT	_	_	_	_	_
+11	pepirumelayu	rumen	_	V	prefix|neg|ind1d	_	_	_	baseForms=pepi|rume|la|iyu
+12	küla	küla	_	N	_	_	_	_	baseForms=küla
+13	–	–	PUNCT	PUNCT	_	_	_	_	_
+14	meu	mew	_	P	P	_	_	_	baseForms=mew
+15	»	»	PUNCT	PUNCT	_	_	_	_	_
+16	piŋu	pin	_	V	ind3d	_	_	_	baseForms=pi|ingu
+17	.	.	PUNCT	PUNCT	_	_	_	_	_
+18	Veimeu	feymew	_	AV	_	_	_	_	baseForms=feymew
+19	pepi-pelayu	pen	_	V	prefix|neg|ind1s	_	_	_	baseForms=pepi|pe|la|iyu
+20	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+21	ojota	ojota	_	N	_	_	_	_	baseForms=ojota
+22	eŋu	engu	_	PN	3d	_	_	_	baseForms=engu
+23	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 297
+1	Sapatu	sapatu	_	N	_	_	_	_	baseForms=sapatu
+2	ŋenolu	ngelu	_	N	neg|svn	_	_	_	baseForms=nge|no|lu
+3	mətte	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+4	neweŋei	newenngen	_	V	vb|ind3	_	_	_	baseForms=newen|nge|iy
+5	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+6	rumeael	rumeyel	_	V	fut|nmlz	_	_	_	baseForms=rume|a|el
+7	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+8	wiŋkul	wingkul	_	N	_	_	_	_	baseForms=wingkul
+9	–	–	PUNCT	PUNCT	_	_	_	_	_
+10	meu	mew	_	P	P	_	_	_	baseForms=mew
+11	,	,	PUNCT	PUNCT	_	_	_	_	_
+12	vent'en	fentren	_	AV	_	_	_	_	baseForms=fentren
+13	t'olt'o	troltro	_	N	_	_	_	_	baseForms=troltro
+14	mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+15	;	;	PUNCT	PUNCT	_	_	_	_	_
+16	t'olt'otuai	troltrotun	_	V	vb|fut|ind3	_	_	_	baseForms=troltro|None|a|iy
+17	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+18	namun	n'amun	_	N	_	_	_	_	baseForms=n'amun
+19	eŋu	engu	_	PC	3d	_	_	_	baseForms=engu
+20	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 298
+1	Inautuyauün	inawtun	_	V	vb|amb|ind1s	_	_	_	baseForms=inaw|tu|yaw|(ü)n
+2	;	;	PUNCT	PUNCT	_	_	_	_	_
+3	yeñmaŋen	yen	_	V	appl|pass|ind1s	_	_	_	baseForms=ye|(üñ)ma|nge|(ü)n
+4	meli	meli	_	NUM	_	_	_	_	baseForms=meli
+5	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	ka	ka	_	AV	_	_	_	_	baseForms=ka
+8	kechu	kechu	_	NUM	_	_	_	_	baseForms=kechu
+9	chechəm	chechüm	_	N	_	_	_	_	baseForms=chechüm
+10	mula	mula	_	N	_	_	_	_	baseForms=mula
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 299
+1	Kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+2	mula	mula	_	N	_	_	_	_	baseForms=mula
+3	üt'uvkoni	ütrufkonün	_	V	ind3	_	_	_	baseForms=ütrüf|kon|iy
+4	vücha	fücha	_	AJ	_	_	_	_	baseForms=fücha
+5	lil	lil	_	N	_	_	_	_	baseForms=lil
+6	–	–	PUNCT	PUNCT	_	_	_	_	_
+7	meu	mew	_	P	P	_	_	_	baseForms=mew
+8	,	,	PUNCT	PUNCT	_	_	_	_	_
+9	lai	l'an	_	V	ind3	_	_	_	baseForms=l'a|iy
+10	kai	kay	_	AV	_	_	_	_	baseForms=kay
+11	kakelu	kalu	_	N	p|svn	_	_	_	baseForms=ka|ke|lu
+12	urvirpui	ürfin	_	V	trloc2|ind3	_	_	_	baseForms=ürfi|rpu|iy
+13	nopalu	norün	_	N	cis|svn	_	_	_	baseForms=nor|pa|lu
+14	ko	ko	_	N	_	_	_	_	baseForms=ko
+15	–	–	PUNCT	PUNCT	_	_	_	_	_
+16	meu	mew	_	P	P	_	_	_	baseForms=mew
+17	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 300
+1	Kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+2	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+3	keʎuadi	kellwadün	_	V	ind3	_	_	_	baseForms=kellwad|iy
+4	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+5	t'analechi	tranalechi	_	AJ	vb|ajvz	_	_	_	baseForms=trana|le|chi
+6	mamüʎ	mamüll	_	N	_	_	_	_	baseForms=mamüll
+7	–	–	PUNCT	PUNCT	_	_	_	_	_
+8	meu	mew	_	P	P	_	_	_	baseForms=mew
+9	;	;	PUNCT	PUNCT	_	_	_	_	_
+10	veimeu	feymew	_	AV	_	_	_	_	baseForms=feymew
+11	wat'oi	watron	_	V	ind3	_	_	_	baseForms=watro|iy
+12	(	(	PUNCT	PUNCT	_	_	_	_	_
+13	t'avoi	trafon	_	V	ind3	_	_	_	baseForms=trafo|iy
+14	)	)	PUNCT	PUNCT	_	_	_	_	_
+15	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+16	chaŋ	chang	_	N	_	_	_	_	baseForms=chang
+17	(	(	PUNCT	PUNCT	_	_	_	_	_
+18	lipaŋ	lipang	_	N	_	_	_	_	baseForms=lipang
+19	)	)	PUNCT	PUNCT	_	_	_	_	_
+20	.	.	PUNCT	PUNCT	_	_	_	_	_
+21	Veimeu	feymew	_	AV	_	_	_	_	baseForms=feymew
+22	t'alkatukünoviyu	tralkatun	_	N	vb|dir3|ind1d	_	_	_	baseForms=tralka|tu|künu|fi|iyu
+23	,	,	PUNCT	PUNCT	_	_	_	_	_
+24	entut'ülkiaviyu	nentun	_	V	fut|dir3|ind1d	_	_	_	baseForms=nentu|trulke|a|fi|iyu
+25	kai	kay	_	AV	_	_	_	_	baseForms=kay
+26	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 301
+1	Kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+2	kuʎin	kulliñ	_	N	_	_	_	_	baseForms=kulliñ
+3	,	,	PUNCT	PUNCT	_	_	_	_	_
+4	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+5	yewa	yewa	_	N	_	_	_	_	baseForms=yewa
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	muna	müna	_	AV	_	_	_	_	baseForms=müna
+8	lovokontulai	lofokontun	_	V	rest|neg|ind3	_	_	_	baseForms=lofo|kon|tu|la|iy
+9	;	;	PUNCT	PUNCT	_	_	_	_	_
+10	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+11	pu	pu	_	PL	particle	_	_	_	baseForms=pu
+12	liwen	liwen	_	N	_	_	_	_	baseForms=liwen
+13	chiʎavuiñ	chilla	_	V	bi|ind1p	_	_	_	baseForms=chilla|fu|(iy)iñ
+14	manküeneu	mankün	_	V	ind3-1s	_	_	_	baseForms=mankü|enew
+15	lipaŋ	lipang	_	N	_	_	_	_	baseForms=lipang
+16	,	,	PUNCT	PUNCT	_	_	_	_	_
+17	kiʎieneu	küllin	_	V	ind3-1s	_	_	_	baseForms=külli|enew
+18	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 302
+1	Müná	müna	_	AV	_	_	_	_	baseForms=müna
+2	kut'ani	kutranün	_	V	ind3	_	_	_	baseForms=kutran|iy
+3	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+4	lipaŋ	lipang	_	N	_	_	_	_	baseForms=lipang
+5	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+6	ke	ke	_	PL	p	_	_	_	baseForms=ke
+7	antü	antü	_	N	_	_	_	_	baseForms=antü
+8	–	–	PUNCT	PUNCT	_	_	_	_	_
+9	meu	mew	_	P	P	_	_	_	baseForms=mew
+10	;	;	PUNCT	PUNCT	_	_	_	_	_
+11	neweŋewelai	newenngen	_	V	vb|psist|neg|ind3	_	_	_	baseForms=newen|nge|we|la|iy
+12	;	;	PUNCT	PUNCT	_	_	_	_	_
+13	puwelan	pun	_	V	psist|neg|ind1s	_	_	_	baseForms=pu|we|la|(ü)n
+14	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+15	küdauael	küdawel	_	N	fut|nmlz	_	_	_	baseForms=küdaw|a|el
+16	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+17	lipaŋ	lipang	_	N	_	_	_	_	baseForms=lipang
+18	–	–	PUNCT	PUNCT	_	_	_	_	_
+19	meu	mew	_	P	P	_	_	_	baseForms=mew
+20	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 303
+1	Kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+2	kona	kon'a	_	N	_	_	_	_	baseForms=kon'a
+3	üt'uvnaqi	ütrüfün	_	V	ind3	_	_	_	baseForms=ütrüf|nag|iy
+4	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+5	–	–	PUNCT	PUNCT	_	_	_	_	_
+6	meu	mew	_	P	P	_	_	_	baseForms=mew
+7	,	,	PUNCT	PUNCT	_	_	_	_	_
+8	veimeu	feymew	_	AV	_	_	_	_	baseForms=feymew
+9	t'avoi	trafon	_	V	_	_	_	_	baseForms=trafo|ind3
+10	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+11	longko	longko	_	N	_	_	_	_	baseForms=longko
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+13	Wente	wente	_	P	P	_	_	_	baseForms=wente
+14	yüŋelechi	yungelechi	_	AJ	vb|ajvz	_	_	_	baseForms=yünge|le|chi
+15	kura	kura	_	N	_	_	_	_	baseForms=kura
+16	–	–	PUNCT	PUNCT	_	_	_	_	_
+17	meu	mew	_	P	P	_	_	_	baseForms=mew
+18	ʎeqpui	llegpun	_	V	ind3	_	_	_	baseForms=llegpu|iy
+19	.	.	PUNCT	PUNCT	_	_	_	_	_
+20	Vent'en	fentren	_	AV	_	_	_	_	baseForms=fentren
+21	moʎvün	mollfüñ	_	N	_	_	_	_	baseForms=mollfüñ
+22	t'ipai	tripan	_	V	ind3	_	_	_	baseForms=tripa|iy
+23	;	;	PUNCT	PUNCT	_	_	_	_	_
+24	chem	chem	_	WH	particle	_	_	_	baseForms=chem
+25	–	–	PUNCT	PUNCT	_	_	_	_	_
+26	no	no	_	AV	particle	_	_	_	baseForms=no
+27	–	–	PUNCT	PUNCT	_	_	_	_	_
+28	rume	rume	_	N	_	_	_	_	baseForms=rume
+29	kimlavui	kimün	_	V	fut|dir3	_	_	_	baseForms=kim|la|fu|iy
+30	,	,	PUNCT	PUNCT	_	_	_	_	_
+31	wit'añ	witran	_	V	nmlz	_	_	_	baseForms=witra|(ü)n
+32	–	–	PUNCT	PUNCT	_	_	_	_	_
+33	pramviiñ	püramün	_	V	cause|dir3|ind1p	_	_	_	baseForms=püra|(ü)m|fi|(iy)iñ
+34	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 304
+1	Kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+2	antü	antü	_	N	_	_	_	_	baseForms=antü
+3	–	–	PUNCT	PUNCT	_	_	_	_	_
+4	meu	mew	_	P	P	_	_	_	baseForms=mew
+5	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+6	–	–	PUNCT	PUNCT	_	_	_	_	_
+7	rume	rume	_	N	_	_	_	_	baseForms=rume
+8	rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+9	–	–	PUNCT	PUNCT	_	_	_	_	_
+10	meu	mew	_	P	P	_	_	_	baseForms=mew
+11	,	,	PUNCT	PUNCT	_	_	_	_	_
+12	t'avieviiñ	trafien	_	V	dir3|ind1p	_	_	_	baseForms=trafie|fi|(iy)iñ
+13	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+14	chiŋkon	chingkon	_	N	_	_	_	_	baseForms=chingkon
+15	che	che	_	N	_	_	_	_	baseForms=che
+16	re	re	_	AV	_	_	_	_	baseForms=re
+17	wapu	wapu	_	AJ	_	_	_	_	baseForms=wapu
+18	(	(	PUNCT	PUNCT	_	_	_	_	_
+19	kewave	kewafe	_	N	agent	_	_	_	baseForms=kewa|fe
+20	)	)	PUNCT	PUNCT	_	_	_	_	_
+21	;	;	PUNCT	PUNCT	_	_	_	_	_
+22	rulmelaiñ	rulme	_	V	neg|ind1p	_	_	_	baseForms=rulme|la|(iy)iñ
+23	–	–	PUNCT	PUNCT	_	_	_	_	_
+24	meu	mew	_	P	P	_	_	_	baseForms=mew
+25	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 305
+1	Tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+2	longko	longko	_	N	_	_	_	_	baseForms=longko
+3	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+4	wiŋka	wingka	_	N	_	_	_	_	baseForms=wingka
+5	ŋei	ngen	_	V	ind3	_	_	_	baseForms=nge|iy
+6	kuri	kuri	_	AJ	_	_	_	_	baseForms=kuri
+7	payun	payun'	_	N	_	_	_	_	baseForms=payun'
+8	ŋei	ngen	_	V	ind3	_	_	_	baseForms=nge|iy
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+10	Məna	müna	_	AV	_	_	_	_	baseForms=müna
+11	weda	weda	_	AJ	_	_	_	_	baseForms=weda
+12	ad	ad	_	N	_	_	_	_	baseForms=ad
+13	ŋei	ngen	_	V	ind3	_	_	_	baseForms=nge|iy
+14	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+15	wentru	wentru	_	N	_	_	_	_	baseForms=went'u
+16	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 306
+1	Kat'ün	katrün	_	AJ	nmlz	_	_	_	baseForms=katr|(ü)n
+2	–	–	PUNCT	PUNCT	_	_	_	_	_
+3	tol	tol	_	N	_	_	_	_	baseForms=tol
+4	–	–	PUNCT	PUNCT	_	_	_	_	_
+5	ŋei	ngen	_	V	ind3	_	_	_	baseForms=nge|iy
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+8	–	–	PUNCT	PUNCT	_	_	_	_	_
+9	ple	püle	_	N	_	_	_	_	baseForms=püle
+10	pilun	pilun	_	N	_	_	_	_	baseForms=pilun
+11	ŋelai	ngen	_	V	neg|ind3	_	_	_	baseForms=nge|la|iy
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+13	Aʎkün	allkün	_	V	ind1s	_	_	_	baseForms=allkü|(ü)n
+14	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+15	vemŋechi	femngechi	_	AV	_	_	_	_	baseForms=femngechi
+16	wentru	wentru	_	N	_	_	_	_	baseForms=went'u
+17	mütiküi	mütikün	_	V	ind3	_	_	_	baseForms=mütikü|iy
+18	Valdivia	valdivia	_	NP	_	_	_	_	baseForms=valdivia
+19	kwartel	kwartel	_	N	_	_	_	_	baseForms=kwartel
+20	–	–	PUNCT	PUNCT	_	_	_	_	_
+21	meu	mew	_	P	P	_	_	_	baseForms=mew
+22	ka	ka	_	AV	_	_	_	_	baseForms=ka
+23	t'ipantu	tripantu	_	N	_	_	_	_	baseForms=tripantu
+24	piŋei	pin	_	V	pass|ind3	_	_	_	baseForms=pi|nge|iy
+25	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 307
+1	Kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+2	kewan	kewan	_	N	nmlz	_	_	_	baseForms=kewa|(ü)n
+3	(	(	PUNCT	PUNCT	_	_	_	_	_
+4	nal	nal	_	N	_	_	_	_	baseForms=nal
+5	)	)	PUNCT	PUNCT	_	_	_	_	_
+6	meu	mew	_	P	P	_	_	_	baseForms=mew
+7	laŋəmvi	l'angümün	_	V	cause|dir3|ind3	_	_	_	baseForms=l'a|(ü)m|fi|iy
+8	epu	epu	_	NUM	_	_	_	_	baseForms=epu
+9	wentru	wentru	_	N	_	_	_	_	baseForms=went'u
+10	,	,	PUNCT	PUNCT	_	_	_	_	_
+11	veimeu	feymew	_	AV	_	_	_	_	baseForms=feymew
+12	elŋevui	elün	_	V	pass|bi|ind3	_	_	_	baseForms=el|nge|fu|iy
+13	kwartel	kwartel	_	N	_	_	_	_	baseForms=kwartel
+14	>	>	PUNCT	PUNCT	_	_	_	_	_
+15	–	–	PUNCT	PUNCT	_	_	_	_	_
+16	meu	mew	_	P	P	_	_	_	baseForms=mew
+17	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 308
+1	Məttewe	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+2	ʎekanieviiñ	llükan	_	V	psist|dir3|ind1p	_	_	_	baseForms=llüka|nie|fi|(iy)iñ
+3	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+4	wentru	wentru	_	N	_	_	_	_	baseForms=went'u
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+6	Welu	welu	_	AV	_	_	_	_	baseForms=welu
+7	inchiñ	iñchiñ	_	PN	1p	_	_	_	baseForms=iñchiñ
+8	penieviiñ	pen	_	V	psist|dir3|ind1p	_	_	_	baseForms=pe|nie|fi|(iy)iñ
+9	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+10	doi	doy	_	AV	_	_	_	_	baseForms=doy
+11	aldülen	al'ülen	_	V	vb	_	_	_	baseForms=al'ü|le|inf
+12	eŋn	engün	_	PN	3p	_	_	_	baseForms=engün
+13	,	,	PUNCT	PUNCT	_	_	_	_	_
+14	küme	küme	_	AJ	_	_	_	_	baseForms=küme
+15	elukleŋn	elukülen	_	V	vb|ind3p	_	_	_	baseForms=eluk|le|engün
+16	kai	kay	_	AV	_	_	_	_	baseForms=kay
+17	,	,	PUNCT	PUNCT	_	_	_	_	_
+18	kintuvuiñ	kintun	_	V	_	_	_	_	baseForms=kintu
+19	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+20	weñeŋen	weñengen	_	N	vb|nmlz	_	_	_	baseForms=weñe|nge|(ü)n
+21	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 309
+1	Ramtueyu-meu	ramtun	_	V	ind3-1d	_	_	_	baseForms=ramtu|eyumew
+2	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+3	tapayu	tapayu	_	N	_	_	_	_	baseForms=tapayu
+4	"	"	PUNCT	PUNCT	_	_	_	_	_
+5	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+6	küme	küme	_	AJ	_	_	_	_	baseForms=küme
+7	mula	mula	_	N	_	_	_	_	baseForms=mula
+8	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+9	chechəm	chechüm	_	N	_	_	_	_	baseForms=chechüm
+10	eŋu	engu	_	PN	3d	_	_	_	baseForms=engu
+11	eluaenen	elun	_	V	fut|ind3-1s	_	_	_	baseForms=elu|a|enew
+12	"	"	PUNCT	PUNCT	_	_	_	_	_
+13	pieyu-meu	pin	_	V	ind3s-1d	_	_	_	baseForms=pi|eyu
+14	.	.	PUNCT	PUNCT	_	_	_	_	_
+15	Mürkelei	mürkelen	_	V	vb|ind3	_	_	_	baseForms=mürke|le|iy
+16	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+17	chechəm	chechüm	_	N	_	_	_	_	baseForms=chechüm
+18	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 310
+1	"	"	PUNCT	PUNCT	_	_	_	_	_
+2	Kuʎiwiiñ	kulliwün	_	V	reflex|ind1p	_	_	_	baseForms=kulli|(u)w|(iy)iñ
+3	rimü	rimü	_	N	_	_	_	_	baseForms=rümü
+4	–	–	PUNCT	PUNCT	_	_	_	_	_
+5	meu	mew	_	P	P	_	_	_	baseForms=mew
+6	Valdivia	valdivia	_	NP	_	_	_	_	baseForms=valdivia
+7	"	"	PUNCT	PUNCT	_	_	_	_	_
+8	pieyu-meu	pin	_	V	ind3-1d	_	_	_	baseForms=pi|eyumew
+9	;	;	PUNCT	PUNCT	_	_	_	_	_
+10	welu	welu	_	AV	_	_	_	_	baseForms=welu
+11	chuməl-no-rume	chumül-no-rume	_	AV	particle|particle	_	_	_	baseForms=chumül|no|rume
+12	pounule	pun	_	V	neg|subj3s	_	_	_	baseForms=pu|no|le
+13	Valdivia	valdivia	_	NP	_	_	_	_	baseForms=valdivia
+14	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+15	kuʎiam	kulliam	_	V	purp	_	_	_	baseForms=kulli|am
+16	,	,	PUNCT	PUNCT	_	_	_	_	_
+17	t'okivin	trokin	_	V	dir3|ind1s	_	_	_	baseForms=troki|fi|(ü)n
+18	.	.	PUNCT	PUNCT	_	_	_	_	_
+19	Chumŋelu	chumngelu	_	WH	particle	_	_	_	baseForms=chumngelu
+20	presotuaviŋn	presotun	_	V	vb|fut|dir3|ind3p	_	_	_	baseForms=preso|tu|a|fi|ingün
+21	chuməl	chumül	_	WH	particle	_	_	_	baseForms=chumül
+22	peviŋn	pen	_	N	dir3|ind3p	_	_	_	baseForms=pe|fi|ingün
+23	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 311
+1	Chuməl	chumül	_	WH	particle	_	_	_	baseForms=chumül
+2	am	am	_	IP	particle	_	_	_	baseForms=kam
+3	amuvule	amun	_	V	bi|subj3s	_	_	_	baseForms=amu|fu|le
+4	eŋu	engu	_	PN	3d	_	_	_	baseForms=engu
+5	ka	ka	_	AV	_	_	_	_	baseForms=ka
+6	mapu	mapu	_	N	_	_	_	_	baseForms=mapu
+7	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+8	pu	pu	_	PL	particle	_	_	_	baseForms=pu
+9	weñeve	weñefe	_	N	agent	_	_	_	baseForms=weñe|fe
+10	,	,	PUNCT	PUNCT	_	_	_	_	_
+11	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+12	mula	mula	_	N	_	_	_	_	baseForms=mula
+13	məten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+14	am	am	_	IP	particle	_	_	_	baseForms=kam
+15	yetulu	yetulu	_	N	rest|svn	_	_	_	baseForms=ye|tu|lu
+16	eŋu	engu	_	PN	3d	_	_	_	baseForms=engu
+17	;	;	PUNCT	PUNCT	_	_	_	_	_
+18	veimeu	feymew	_	AV	_	_	_	_	baseForms=feymew
+19	ayüuvuiñ	ayün	_	V	reflex|bi|ind1p	_	_	_	baseForms=ayü|(u)w|fu|(iy)iñ
+20	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 312
+1	Vei	fey	_	D	D	_	_	_	baseForms=fey
+2	pevimi	pen	_	V	dir3|ind2s	_	_	_	baseForms=pe|fi|imi
+3	,	,	PUNCT	PUNCT	_	_	_	_	_
+4	inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+5	nien	nien	_	V	_	_	_	_	baseForms=nien|(ü)n
+6	kom	kom	_	AV	_	_	_	_	baseForms=kom
+7	rume	rume	_	N	_	_	_	_	baseForms=rume
+8	inauqtun	inawtun	_	V	vb|ind1s	_	_	_	baseForms=inaw|tu|(ü)n
+9	nampəlkan	ñampüllkan	_	N	nmlz	_	_	_	baseForms=ñampüllka|(ü)n
+10	–	–	PUNCT	PUNCT	_	_	_	_	_
+11	meu	mew	_	P	P	_	_	_	baseForms=mew
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 313
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Inei	iney	_	WH	particle	_	_	_	baseForms=iney
+3	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+4	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+5	tva	tüfa	_	DP	DP	_	_	_	baseForms=tüfa
+6	?	?	PUNCT	PUNCT	_	_	_	_	_
+7	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+8	Eimi	eymi	_	PN	2s	_	_	_	baseForms=eymi
+9	mi	mi	_	PP	2s	_	_	_	baseForms=mi
+10	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+11	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 314
+1	Mu	mü	_	AV	particle	_	_	_	baseForms=mü
+2	,	,	PUNCT	PUNCT	_	_	_	_	_
+3	inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+4	no	no	_	AV	particle	_	_	_	baseForms=no
+5	;	;	PUNCT	PUNCT	_	_	_	_	_
+6	inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+7	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+8	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+9	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+10	peñi	peñi	_	N	_	_	_	_	baseForms=peñi
+11	;	;	PUNCT	PUNCT	_	_	_	_	_
+12	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+13	wit'andükuü	witrantükuwe	_	N	nmlz|inst	_	_	_	baseForms=witra|(ü)n|tüku|we
+14	məten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+15	inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+16	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 315
+1	Ñi	ñi	_	PP	1s	_	_	_	baseForms=ñi
+2	peñi	peñi	_	N	_	_	_	_	baseForms=peñi
+3	inchu	iñchiw	_	CP	1d	_	_	_	baseForms=iñchiw
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	mleyu	mülen	_	V	ind1d	_	_	_	baseForms=müle|iyu
+6	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+7	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+8	–	–	PUNCT	PUNCT	_	_	_	_	_
+9	meu	mew	_	P	P	_	_	_	baseForms=mew
+10	;	;	PUNCT	PUNCT	_	_	_	_	_
+11	eyeu	eyew	_	DP	DP	_	_	_	baseForms=eyew
+12	winaltu	inaltu	_	N	_	_	_	_	baseForms=inaltu
+13	winkul	wingkul	_	N	_	_	_	_	baseForms=wingkul
+14	,	,	PUNCT	PUNCT	_	_	_	_	_
+15	welu	welu	_	AV	_	_	_	_	baseForms=welu
+16	tie	tie	_	DP	DP	_	_	_	baseForms=tie
+17	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+18	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+19	prañmakelavin	püran	_	V	appl|habit|neg|dir3|ind1s	_	_	_	baseForms=püra|(ü)ñma|ke|la|fi|(ü)n
+20	.	.	PUNCT	PUNCT	_	_	_	_	_
+21	Inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+22	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+23	vün	fün	_	N	_	_	_	_	baseForms=fün
+24	mansana	mansana	_	N	_	_	_	_	baseForms=masana
+25	nümekelai	ñümün	_	V	habit|neg|ind3	_	_	_	baseForms=ñümü|ke|la|iy
+26	kai	kay	_	AV	_	_	_	_	baseForms=kay
+27	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 316
+1	Veimeu	feymew	_	AV	_	_	_	_	baseForms=feymew
+2	ayüuün	ayün	_	V	reflex|ind1s	_	_	_	baseForms=ayü|(u)w|(ü)n
+3	mlekeyu	mülen	_	V	habit|ind1d	_	_	_	baseForms=müle|ke|iyu
+4	ka	ka	_	AV	_	_	_	_	baseForms=ka
+5	ke	ke	_	PL	p	_	_	_	baseForms=ke
+6	nieyu	nien	_	V	ind1d	_	_	_	baseForms=nien|iyu
+7	tayu	tayu	_	PP	1d	_	_	_	baseForms=tayu
+8	duŋu	düngu	_	N	_	_	_	_	baseForms=düngu
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 317
+1	Tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+2	peñi	peñi	_	N	_	_	_	_	baseForms=peñi
+3	inei	iney	_	WH	particle	_	_	_	baseForms=iney
+4	eimi	eymi	_	PN	2s	_	_	_	baseForms=eymi
+5	duŋu	düngu	_	N	_	_	_	_	baseForms=düngu
+6	–	–	PUNCT	PUNCT	_	_	_	_	_
+7	pevimi	pen	_	N	dir3|ind2s	_	_	_	baseForms=pe|fi|imi
+8	,	,	PUNCT	PUNCT	_	_	_	_	_
+9	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+10	wünen	wünen	_	N	nmlz	_	_	_	baseForms=wüne|(ü)n
+11	inan	inan	_	AV	nmlz	_	_	_	baseForms=ina|(ü)n
+12	anchi	anchi	_	IP	particle	_	_	_	baseForms=anchi
+13	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 318
+1	Mai	may	_	AV	_	_	_	_	baseForms=may
+2	,	,	PUNCT	PUNCT	_	_	_	_	_
+3	señor	señor	_	N	_	_	_	_	baseForms=señor
+4	;	;	PUNCT	PUNCT	_	_	_	_	_
+5	wünen	wünen	_	N	nmlz	_	_	_	baseForms=wüne|(ü)n
+6	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+7	tvei	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+8	;	;	PUNCT	PUNCT	_	_	_	_	_
+9	welu	welu	_	AV	_	_	_	_	baseForms=welu
+10	nien	nien	_	V	ind1s	_	_	_	baseForms=nien|(ü)n
+11	kai	kay	_	AV	_	_	_	_	baseForms=kay
+12	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+13	inan	inan	_	AV	nmlz	_	_	_	baseForms=ina|(ü)n
+14	peñi	peñi	_	N	_	_	_	_	baseForms=peñi
+15	;	;	PUNCT	PUNCT	_	_	_	_	_
+16	mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+17	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+18	maʎe	malle	_	N	_	_	_	_	baseForms=malle
+19	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+20	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+21	–	–	PUNCT	PUNCT	_	_	_	_	_
+22	meu	mew	_	P	P	_	_	_	baseForms=mew
+23	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 319
+1	Tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+2	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+3	che	che	_	N	_	_	_	_	baseForms=che
+4	amukelu	amulu	_	N	habit|svn	_	_	_	baseForms=amu|ke|lu
+5	epu	epu	_	NUM	_	_	_	_	baseForms=epu
+6	t'ipantu	tripantu	_	N	_	_	_	_	baseForms=tripantu
+7	eskuela	eskuela	_	N	_	_	_	_	baseForms=eskuela
+8	–	–	PUNCT	PUNCT	_	_	_	_	_
+9	meu	mew	_	P	P	_	_	_	baseForms=mew
+10	,	,	PUNCT	PUNCT	_	_	_	_	_
+11	deu	dew	_	AV	_	_	_	_	baseForms=dew
+12	kimchiʎkatui	kimün	_	V	ind3	_	_	_	baseForms=kim|chillka|tu|iy
+13	,	,	PUNCT	PUNCT	_	_	_	_	_
+14	kimduŋu-libroi	kimün	_	V	ind3	_	_	_	baseForms=kim|dungu|libro|iy
+15	kai	kay	_	AV	_	_	_	_	baseForms=kay
+16	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 320
+1	Tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+2	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+3	ke	ke	_	PL	p	_	_	_	baseForms=ke
+4	che	che	_	N	_	_	_	_	baseForms=che
+5	məte	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+6	wezaleiŋn	wedalen	_	V	vb|ind3p	_	_	_	baseForms=weda|le|ingün
+7	;	;	PUNCT	PUNCT	_	_	_	_	_
+8	muntuñmaeneu	muntun	_	V	appl|ind3-1s	_	_	_	baseForms=muntu|(ü)ñma|enew
+9	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+10	chimpiru	chumpiru	_	N	_	_	_	_	baseForms=chumpiru
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+12	Pilai	pin	_	V	neg|ind3	_	_	_	baseForms=pi|la|iy
+13	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+14	elutuateu	elutuel	_	V	rest|fut|invNF3	_	_	_	baseForms=elu|tu|a|etew
+15	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 321
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Chumŋelu	chumngelu	_	WH	particle	_	_	_	baseForms=chumngelu
+3	muntuñmavimn	muntun	_	V	appl|dir3|ind2p	_	_	_	baseForms=muntu|(ü)ñma|fi|imün
+4	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+5	chimpiru	chumpiru	_	N	_	_	_	_	baseForms=chumpiru
+6	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+7	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+8	che	che	_	N	_	_	_	_	baseForms=che
+9	?	?	PUNCT	PUNCT	_	_	_	_	_
+10	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+11	Pelavimn	pen	_	N	neg|dir3|ind2p	_	_	_	baseForms=pe|la|fi|imün
+12	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+13	mətte	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+14	ŋüma-ŋümaŋen	ngüman	_	N	redup|pass|nmlz	_	_	_	baseForms=ngüma|ngüma|nge|(ü)n
+15	?	?	PUNCT	PUNCT	_	_	_	_	_
+16	Ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+17	ñuke	ñuke	_	N	_	_	_	_	baseForms=ñuke
+18	kewayayu	kewan	_	V	fut|ind1d	_	_	_	baseForms=kewa|a|iyu
+19	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+20	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+21	che	che	_	N	_	_	_	_	baseForms=che
+22	putule	putun	_	V	subj3s	_	_	_	baseForms=pu|rest|le
+23	chimpiru	chumpiru	_	N	_	_	_	_	baseForms=chumpiru
+24	ŋenon	ngen	_	V	neg|inf	_	_	_	baseForms=nge|no|(ü)n
+25	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 322
+1	Re	re	_	AV	_	_	_	_	baseForms=re
+2	ayekapeviiñ	ayen	_	V	cont|px|dir3|ind1p	_	_	_	baseForms=aye|ka|pe|fi|(iy)iñ
+3	,	,	PUNCT	PUNCT	_	_	_	_	_
+4	señor	señor	_	N	_	_	_	_	baseForms=señor
+5	;	;	PUNCT	PUNCT	_	_	_	_	_
+6	welu	welu	_	AV	_	_	_	_	baseForms=welu
+7	weda	weda	_	AJ	_	_	_	_	baseForms=weda
+8	duŋueiñ-meu	düngun	_	V	ind3-1p	_	_	_	baseForms=düngu|eiñmew
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 323
+1	"	"	PUNCT	PUNCT	_	_	_	_	_
+2	Inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+3	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+4	t'avon	trafon	_	V	ind1s	_	_	_	baseForms=trafo|(ü)n
+5	chaʎa	challa	_	N	_	_	_	_	baseForms=challa
+6	"	"	PUNCT	PUNCT	_	_	_	_	_
+7	pieneu	pin	_	V	ind3-1s	_	_	_	baseForms=pi|enew
+8	,	,	PUNCT	PUNCT	_	_	_	_	_
+9	welu	welu	_	AV	_	_	_	_	baseForms=welu
+10	mupin	mupin	_	V	inf	_	_	_	baseForms=mupi|(ü)n
+11	no	no	_	AV	particle	_	_	_	baseForms=no
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+13	Eʎkaniekei	ellkun	_	V	_	_	_	_	baseForms=ellka|None|None|None
+14	minche	minche	_	AV	_	_	_	_	baseForms=minche
+15	pinu	pinu	_	N	_	_	_	_	baseForms=pinu
+16	,	,	PUNCT	PUNCT	_	_	_	_	_
+17	kəpale	küpan	_	V	subj3s	_	_	_	baseForms=küpa|le
+18	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+19	mənna	müna	_	AV	_	_	_	_	baseForms=müna
+20	elurkeyavwilu	elun	_	V	rep|fut|dir3|svn	_	_	_	baseForms=elu|rke|a|fi|lu
+21	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 324
+1	Deuma	dewma	_	AV	_	_	_	_	baseForms=dewma
+2	vent'en	fentren	_	AV	_	_	_	_	baseForms=fentren
+3	weñeeneu	weñefe	_	N	ind3-1s	_	_	_	baseForms=weñe|enew
+4	tveichi	tüfeychi	_	DP	DP	_	_	_	baseForms=tüfeychi
+5	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+6	che	che	_	N	_	_	_	_	baseForms=che
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+8	Weməntuavin	wemüntun	_	V	fut|dir3|ind1s	_	_	_	baseForms=wemün|tu|a|fi|(ü)n
+9	chuməl	chumül	_	WH	particle	_	_	_	baseForms=chumül
+10	məten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+11	peavin	pen	_	V	fut|dir3|ind1s	_	_	_	baseForms=pe|a|fi|(ü)n
+12	ka	ka	_	AV	_	_	_	_	baseForms=ka
+13	kona	kon'a	_	N	_	_	_	_	baseForms=kon'a
+14	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 325
+1	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+2	Inei	iney	_	WH	particle	_	_	_	baseForms=iney
+3	deumai	dewman	_	V	ind3	_	_	_	baseForms=dewma|iy
+4	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+5	tva	tüfa	_	DP	DP	_	_	_	baseForms=tüfa
+6	?	?	PUNCT	PUNCT	_	_	_	_	_
+7	—	—	PUNCT	PUNCT	_	_	_	_	_
+8	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+9	Eimi	eymi	_	PN	2s	_	_	_	baseForms=eymi
+10	deumaimi	dewman	_	V	ind2s	_	_	_	baseForms=dewma|imi
+11	che	che	_	N	_	_	_	_	baseForms=che
+12	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+13	lamŋen	lamngen	_	N	_	_	_	_	baseForms=lamngen
+14	che	che	_	N	_	_	_	_	baseForms=che
+15	?	?	PUNCT	PUNCT	_	_	_	_	_
+
+# 326
+1	Mlevuyu	mülen	_	V	bi|ind1d	_	_	_	baseForms=müle|fu|iyu
+2	(	(	PUNCT	PUNCT	_	_	_	_	_
+3	mlepupevuyu	mülen	_	V	trloc|px|bi|ind1d	_	_	_	baseForms=müle|pu|pe|fu|iyu
+4	)	)	PUNCT	PUNCT	_	_	_	_	_
+5	winkül	wingkul	_	N	_	_	_	_	baseForms=wingkul
+6	–	–	PUNCT	PUNCT	_	_	_	_	_
+7	meu	mew	_	P	P	_	_	_	baseForms=mew
+8	kom	kom	_	AV	_	_	_	_	baseForms=kom
+9	pun	pun	_	N	_	_	_	_	baseForms=pun
+10	.	.	PUNCT	PUNCT	_	_	_	_	_
+11	Məttewe	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+12	maui	mawün	_	N	ind3	_	_	_	baseForms=mawün|iy
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 327
+1	Kintuvuyu	kintun	_	V	bi|ind1d	_	_	_	baseForms=kintu|fu|iyu
+2	(	(	PUNCT	PUNCT	_	_	_	_	_
+3	kintupevuyu	kintun	_	V	px|bi|ind1d	_	_	_	baseForms=kintu|pe|fu|iyu
+4	)	)	PUNCT	PUNCT	_	_	_	_	_
+5	yu	yu	_	PP	1d	_	_	_	baseForms=yu
+6	laku	laku	_	N	_	_	_	_	baseForms=laku
+7	(	(	PUNCT	PUNCT	_	_	_	_	_
+8	cheche	cheche	_	N	_	_	_	_	baseForms=cheche
+9	)	)	PUNCT	PUNCT	_	_	_	_	_
+10	wiya	wiya	_	AV	_	_	_	_	baseForms=wiya
+11	ñamumvulu	ñamumlu	_	N	cause|bi|svn	_	_	_	baseForms=ñamu|(ü)m|fu|lu
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 328
+1	Petuviyu	petun	_	V	rest|dir3|ind1d	_	_	_	baseForms=pe|tu|fi|iyu
+2	anülürkei	anülün	_	V	cause|rep|ind3	_	_	_	baseForms=anü|(ü)l|rke|iy
+3	pupulul	pupulul	_	AJ	_	_	_	_	baseForms=pupulul
+4	mamüʎ	mamüll	_	N	_	_	_	_	baseForms=mamüll
+5	;	;	PUNCT	PUNCT	_	_	_	_	_
+6	ŋoʎiʎürkei	ngollilün	_	N	cause|rep|ind3	_	_	_	baseForms=ngolli|(ü)l|rke|iy
+7	umaukʎürkei	umawün	_	V	cause|rep|ind3	_	_	_	baseForms=umag|(ü)l|rke|iy
+8	kai	kay	_	AV	_	_	_	_	baseForms=kay
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 329
+1	Kimlai	kimün	_	V	neg|ind3	_	_	_	baseForms=kim|la|iy
+2	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+3	mauüntun	mawüntun	_	N	nmlz	_	_	_	baseForms=mawün|vb|(ü)n
+4	(	(	PUNCT	PUNCT	_	_	_	_	_
+5	mauünman	mawünman	_	N	tr|nmlz	_	_	_	baseForms=mawün|(ñ)ma|(ü)n
+6	)	)	PUNCT	PUNCT	_	_	_	_	_
+7	t'okivin	trokin	_	V	dir3|ind1s	_	_	_	baseForms=troki|fi|(ü)n
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 330
+1	Duamlavin	duamün	_	V	neg|dir3|ind1s	_	_	_	baseForms=duam|la|fi|(ü)n
+2	tvachi	tüfachi	_	DP	DP	_	_	_	baseForms=tüfachi
+3	kudau	küdaw	_	N	_	_	_	_	baseForms=küdaw
+4	lelvün	lelfün	_	N	_	_	_	_	baseForms=lelfün
+5	–	–	PUNCT	PUNCT	_	_	_	_	_
+6	meu	mew	_	P	P	_	_	_	baseForms=mew
+7	;	;	PUNCT	PUNCT	_	_	_	_	_
+8	doi	doy	_	AV	_	_	_	_	baseForms=doy
+9	kümei	kümen	_	V	ind3	_	_	_	baseForms=küme|iy
+10	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+11	kat'ümamüʎmeael	katrel	_	N	and|fut|nmlz	_	_	_	baseForms=katr|mamüll|me|a|el
+12	mawida	mawida	_	N	_	_	_	_	baseForms=mawida
+13	–	–	PUNCT	PUNCT	_	_	_	_	_
+14	meu	mew	_	P	P	_	_	_	baseForms=mew
+15	cheu	chew	_	WH	particle	_	_	_	baseForms=chew
+16	taiñ	taiñ	_	PP	1p	_	_	_	baseForms=taiñ
+17	lüvmum	lüfmum	_	N	situ	_	_	_	baseForms=lüf|mum
+18	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 331
+1	Wüle	wüle	_	AV	_	_	_	_	baseForms=wüle
+2	amuaimu	amun	_	V	fut|ind2d	_	_	_	baseForms=amu|a|iymu
+3	eimu	eymu	_	PN	2d	_	_	_	baseForms=eymu
+4	,	,	PUNCT	PUNCT	_	_	_	_	_
+5	lipümmeaimu	lipüm	_	V	and|fut|ind2d	_	_	_	baseForms=lif|me|a|iymu
+6	külven	kul'fen	_	N	_	_	_	_	baseForms=kul'fen
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 332
+1	Tva	tüfa	_	DP	DP	_	_	_	baseForms=tüfa
+2	–	–	PUNCT	PUNCT	_	_	_	_	_
+3	meu	mew	_	P	P	_	_	_	baseForms=mew
+4	vent'en	fentren	_	AV	_	_	_	_	baseForms=fentren
+5	ket'an	ketran	_	N	_	_	_	_	baseForms=ketran
+6	məlealu	mülelu	_	V	fut|svn	_	_	_	baseForms=müle|a|lu
+7	,	,	PUNCT	PUNCT	_	_	_	_	_
+8	t'okivin	trokin	_	V	dir3|ind1s	_	_	_	baseForms=troki|fi|(ü)n
+9	.	.	PUNCT	PUNCT	_	_	_	_	_
+10	Mətte	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+11	küme	küme	_	AJ	_	_	_	_	baseForms=küme
+12	mapu	mapu	_	N	_	_	_	_	baseForms=mapu
+13	,	,	PUNCT	PUNCT	_	_	_	_	_
+14	ankulayai	angkün	_	V	neg|fut|ind3	_	_	_	baseForms=angk|la|a|iy
+15	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 333
+1	Arelen	arelün	_	V	ind2s-1s	_	_	_	baseForms=arel|en
+2	toki	toki	_	N	_	_	_	_	baseForms=toki
+3	;	;	PUNCT	PUNCT	_	_	_	_	_
+4	inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+5	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+6	toki	toki	_	N	_	_	_	_	baseForms=toki
+7	t'avoi	trafon	_	V	ind3	_	_	_	baseForms=trafo|iy
+8	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 334
+1	Arelayu	arelün	_	V	fut|ind1s-2s	_	_	_	baseForms=arel|a|eyu
+2	,	,	PUNCT	PUNCT	_	_	_	_	_
+3	welu	welu	_	AV	_	_	_	_	baseForms=welu
+4	yüŋümavimi	yüngümün	_	V	cause|fut|dir3|ind2s	_	_	_	baseForms=yüng|(ü)m|a|fi|imi
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+6	Rüpunakümlu	rüpunakümlu	_	N	cause|svn	_	_	_	baseForms=rüpü|nag|üm|lu
+7	kura	kura	_	N	_	_	_	_	baseForms=kura
+8	–	–	PUNCT	PUNCT	_	_	_	_	_
+9	meu	mew	_	P	P	_	_	_	baseForms=mew
+10	məten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+11	t'okivin	trokin	_	V	dir3|ind1s	_	_	_	baseForms=troki|fi|(ü)n
+12	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+13	che	che	_	N	_	_	_	_	baseForms=che
+14	kat'ü-ro-mekevulu	katrülu	_	N	and|habit|bi|svn	_	_	_	baseForms=katr|row|me|ke|fu|lu
+15	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 335
+1	Müt'ümavin	mütrümün	_	V	fut|dir3|ind1s	_	_	_	baseForms=mütrüm|a|fi|(ü)n
+2	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+3	maʎe	malle	_	N	_	_	_	_	baseForms=malle
+4	;	;	PUNCT	PUNCT	_	_	_	_	_
+5	doitui	doytun	_	AV	vb|ind3	_	_	_	baseForms=doy|tu|iy
+6	chileno	chileno	_	N	_	_	_	_	baseForms=chileno
+7	duŋu	düngu	_	N	_	_	_	_	baseForms=düngu
+8	ta	ta	_	DA	DA	_	_	_	baseForms=ta
+9	inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+10	–	–	PUNCT	PUNCT	_	_	_	_	_
+11	meu	mew	_	P	P	_	_	_	baseForms=mew
+12	.	.	PUNCT	PUNCT	_	_	_	_	_
+13	Kom	kom	_	AV	_	_	_	_	baseForms=kom
+14	tami	tami	_	PP	2s	_	_	_	baseForms=tami
+15	ramtun	ramtun	_	N	nmlz	_	_	_	baseForms=ramtu|(ü)n
+16	pepi-wüño-duŋu-tuai	wüñodüngutun	_	V	prefix|rest|fut|ind3	_	_	_	baseForms=pepi|wuño|düngu|tu|a|iy
+17	–	–	PUNCT	PUNCT	_	_	_	_	_
+18	meu	mew	_	P	P	_	_	_	baseForms=mew
+19	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 336
+1	Aʎkülayu	allkün	_	V	neg|ind1s-2s	_	_	_	baseForms=allkü|la|eyu
+2	.	.	PUNCT	PUNCT	_	_	_	_	_
+3	Matukel	matukel	_	AV	_	_	_	_	baseForms=matukel
+4	duŋulai	düngun	_	V	neg|ind3	_	_	_	baseForms=düngu|la|iy
+5	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 337
+1	Lil	lil	_	N	_	_	_	_	baseForms=lil
+2	–	–	PUNCT	PUNCT	_	_	_	_	_
+3	meu	mew	_	P	P	_	_	_	baseForms=mew
+4	t'avievin	trafien	_	V	dir3|ind1s	_	_	_	baseForms=trafie|fi|(ü)n
+5	epu	epu	_	NUM	_	_	_	_	baseForms=epu
+6	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+7	ke	ke	_	PL	p	_	_	_	baseForms=ke
+8	che	che	_	N	_	_	_	_	baseForms=che
+9	,	,	PUNCT	PUNCT	_	_	_	_	_
+10	cheu	chew	_	WH	particle	_	_	_	baseForms=chew
+11	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+12	amun	amun	_	N	nmlz	_	_	_	baseForms=amu|(ü)n
+13	rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+14	tañi	tañi	_	PP	3	_	_	_	baseForms=tañi
+15	pu	pu	_	PL	particle	_	_	_	baseForms=pu
+16	chao	chaw	_	N	_	_	_	_	baseForms=chaw
+17	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+18	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+19	–	–	PUNCT	PUNCT	_	_	_	_	_
+20	meu	mew	_	P	P	_	_	_	baseForms=mew
+21	kimelkünueneu	kimün	_	V	appl|ind3-1s	_	_	_	baseForms=kim|(l)el|künu|enew
+22	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 338
+1	Amuaimi	amun	_	V	fut|ind2s	_	_	_	baseForms=amu|a|imi
+2	müchai	müchay	_	AV	_	_	_	_	baseForms=muchay
+3	məten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+4	puavulmi	pun	_	V	fut|bi|subj2s	_	_	_	baseForms=pu|a|vu|(ü)lmi
+5	chei	chey	_	IDP	particle	_	_	_	baseForms=chey
+6	petu	petu	_	AV	particle	_	_	_	baseForms=petu
+7	konun	konün	_	V	inf	_	_	_	baseForms=kon|(ü)n
+8	antü	antü	_	N	_	_	_	_	baseForms=antü
+9	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+10	laku	laku	_	N	_	_	_	_	baseForms=laku
+11	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+12	ruka	ruka	_	N	_	_	_	_	baseForms=ruka
+13	–	–	PUNCT	PUNCT	_	_	_	_	_
+14	meu	mew	_	P	P	_	_	_	baseForms=mew
+15	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 339
+1	¡	¡	PUNCT	PUNCT	_	_	_	_	_
+2	Ya	ya	_	IJ	particle	_	_	_	baseForms=ya
+3	,	,	PUNCT	PUNCT	_	_	_	_	_
+4	mai	may	_	AV	_	_	_	_	baseForms=may
+5	!	!	PUNCT	PUNCT	_	_	_	_	_
+6	amuan	amun	_	V	fut|ind1s	_	_	_	baseForms=amu|a|(ü)n
+7	mai	may	_	AV	_	_	_	_	baseForms=may
+8	(	(	PUNCT	PUNCT	_	_	_	_	_
+9	Vei	fey	_	D	D	_	_	_	baseForms=fey
+10	ürke	ürke	_	AV	particle	_	_	_	baseForms=ürke
+11	mai	may	_	AV	_	_	_	_	baseForms=may
+12	)	)	PUNCT	PUNCT	_	_	_	_	_
+13	.	.	PUNCT	PUNCT	_	_	_	_	_
+14	¿	¿	PUNCT	PUNCT	_	_	_	_	_
+15	kompañKüpa-kompañlaen	kompañün	_	V	prefix|neg|ind2s-1s	_	_	_	baseForms=küpa|kompañ|la|en
+16	am	am	_	IP	particle	_	_	_	baseForms=kam
+17	?	?	PUNCT	PUNCT	_	_	_	_	_
+18	Rupatuayu	rupatun	_	V	rest|fut|ind1d	_	_	_	baseForms=rupa|tu|a|iyu
+19	,	,	PUNCT	PUNCT	_	_	_	_	_
+20	pivuyu	pin	_	V	bi|ind1d	_	_	_	baseForms=pi|fu|iyu
+21	nga	nga	_	EP	particle	_	_	_	baseForms=nga
+22	,	,	PUNCT	PUNCT	_	_	_	_	_
+23	amuyu	amun	_	V	ind1d	_	_	_	baseForms=amu|iyu
+24	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+25	wün	wün	_	N	_	_	_	_	baseForms=wün
+26	,	,	PUNCT	PUNCT	_	_	_	_	_
+27	doi	doy	_	AV	_	_	_	_	baseForms=doy
+28	kümeavui	kümen	_	V	fut|bi|ind3	_	_	_	baseForms=küme|a|fu|iy
+29	rüpü	rüpü	_	N	_	_	_	_	baseForms=rüpü
+30	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 340
+1	Maŋkadaali	mangkadan	_	V	fut|subj1s	_	_	_	baseForms=mangkada|a|li
+2	mi	mi	_	PP	2s	_	_	_	baseForms=mi
+3	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+4	–	–	PUNCT	PUNCT	_	_	_	_	_
+5	meu	mew	_	P	P	_	_	_	baseForms=mew
+6	,	,	PUNCT	PUNCT	_	_	_	_	_
+7	veimeu	feymew	_	AV	_	_	_	_	baseForms=feymew
+8	kümei	kümen	_	V	ind3	_	_	_	baseForms=küme|iy
+9	amoan	amun	_	N	fut|nmlz	_	_	_	baseForms=amu|a|(ü)n
+10	;	;	PUNCT	PUNCT	_	_	_	_	_
+11	inche	iñche	_	PN	1s	_	_	_	baseForms=iñche
+12	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+13	kaweʎu	kawellu	_	N	_	_	_	_	baseForms=kawellu
+14	yeñmaeneu	yen	_	V	appl|ind3-1s	_	_	_	baseForms=ye|(üñ)ma|enew
+15	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+16	chao	chaw	_	N	_	_	_	_	baseForms=chaw
+17	nome	nome	_	AJ	_	_	_	_	baseForms=nome
+18	leuvu	l'ewfü	_	N	_	_	_	_	baseForms=l'ewfü
+19	mlechi	mülechi	_	AJ	ajvz	_	_	_	baseForms=müle|chi
+20	ŋüyon	ngüyon	_	N	_	_	_	_	baseForms=ngüyon
+21	(	(	PUNCT	PUNCT	_	_	_	_	_
+22	pot'ezo	potreso	_	N	_	_	_	_	baseForms=potreso
+23	,	,	PUNCT	PUNCT	_	_	_	_	_
+24	kachü	kachu	_	N	_	_	_	_	baseForms=kachu
+25	)	)	PUNCT	PUNCT	_	_	_	_	_
+26	meu	mew	_	P	P	_	_	_	baseForms=mew
+27	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 341
+1	Mütte	müt'e	_	AV	_	_	_	_	baseForms=müt'e
+2	aldunma-meavuyu	al'ün	_	V	appl|and|fut|bi|ind1d	_	_	_	baseForms=al'ü|(ü)ñma|me|a|fu|iyu
+3	küpa–kintuavuliu	kintun	_	V	prefix|fut|bi|subj1d	_	_	_	baseForms=küpa|kintu|a|fu|liyu
+4	lasuavuliu	lazu	_	N	fut|bi|subj1d	_	_	_	baseForms=lazu|a|fu|liyu
+5	kai	kay	_	AV	_	_	_	_	baseForms=kay
+6	muchai	müchay	_	AV	_	_	_	_	baseForms=muchay
+7	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 342
+1	Pivallai	pifalün	_	V	cause|neg|ind3	_	_	_	baseForms=pi|fal|la|iy
+2	konael	konel	_	N	fut|nmlz	_	_	_	baseForms=kon|a|el
+3	antü	antü	_	N	_	_	_	_	baseForms=antü
+4	wema	wema	_	AV	_	_	_	_	baseForms=wema
+5	tayu	tayu	_	PP	1d	_	_	_	baseForms=tayu
+6	pouael	puel	_	N	fut|nmlz	_	_	_	baseForms=pu|a|el
+7	tañi	tañi	_	PP	1s	_	_	_	baseForms=tañi
+8	laku	laku	_	N	_	_	_	_	baseForms=laku
+9	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+10	ruká	ruka	_	N	_	_	_	_	baseForms=ruka
+11	–	–	PUNCT	PUNCT	_	_	_	_	_
+12	meu	mew	_	P	P	_	_	_	baseForms=mew
+13	;	;	PUNCT	PUNCT	_	_	_	_	_
+14	apon	apon	_	AJ	nmlz	_	_	_	baseForms=apo|(ü)n
+15	kien	küyen'	_	N	_	_	_	_	baseForms=küyen'
+16	mlei	mülen	_	V	ind3	_	_	_	baseForms=müle|iy
+17	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 343
+1	Kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+2	sako	sako	_	N	_	_	_	_	baseForms=sako
+3	mürke	mürke	_	N	_	_	_	_	baseForms=mürke
+4	yeyu	yen	_	V	ind1d	_	_	_	baseForms=ye|iyu
+5	,	,	PUNCT	PUNCT	_	_	_	_	_
+6	ka	ka	_	C	particle	_	_	_	baseForms=ka
+7	pichin	pichin	_	AV	nmlz	_	_	_	baseForms=pichi|(ü)n
+8	aŋim	angim	_	N	_	_	_	_	baseForms=angim
+9	ka	ka	_	C	particle	_	_	_	baseForms=ka
+10	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+11	boteʎa	fotella	_	N	_	_	_	_	baseForms=fotella
+12	wiŋka	wingka	_	AJ	_	_	_	_	baseForms=wingka
+13	pəlku	pülku	_	N	_	_	_	_	baseForms=pülku
+14	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 344
+1	Veimeu	feymew	_	AV	_	_	_	_	baseForms=feymew
+2	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+3	ke	ke	_	PL	p	_	_	_	baseForms=ke
+4	meu	mew	_	P	P	_	_	_	baseForms=mew
+5	pichi	pichi	_	AJ	_	_	_	_	baseForms=pichi
+6	ke	ke	_	PL	p	_	_	_	baseForms=ke
+7	niekei	nien	_	V	habit|ind3	_	_	_	baseForms=nien|ke|iy
+8	mətten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+9	iael	iael	_	N	_	_	_	_	baseForms=iael
+10	eyeu	eyew	_	DP	DP	_	_	_	baseForms=eyew
+11	ñi	ñi	_	PP	1s	_	_	_	baseForms=ñi
+12	chuchu	kuku	_	N	_	_	_	_	baseForms=kuku
+13	eŋu	engu	_	PC	3d	_	_	_	baseForms=engu
+14	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+15	ñoño	ñoño	_	N	_	_	_	_	baseForms=ñoño
+16	.	.	PUNCT	PUNCT	_	_	_	_	_
+17	Ka	ka	_	AV	_	_	_	_	baseForms=ka
+18	pukem	pukem	_	N	_	_	_	_	baseForms=pukem
+19	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+20	ke	ke	_	PL	p	_	_	_	baseForms=ke
+21	chi	chi	_	DA	DA	_	_	_	baseForms=chi
+22	epe	epu	_	NUM	_	_	_	_	baseForms=epu
+23	no	no	_	AV	particle	_	_	_	baseForms=no
+24	rume	rume	_	N	_	_	_	_	baseForms=rume
+25	ilaiŋu	in	_	V	neg	_	_	_	baseForms=i|la|ingu
+26	kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+27	kom	kom	_	AV	_	_	_	_	baseForms=kom
+28	antü	antü	_	N	_	_	_	_	baseForms=antü
+29	.	.	PUNCT	PUNCT	_	_	_	_	_
+
+# 345
+1	Kiñe	kiñe	_	NUM	_	_	_	_	baseForms=kiñe
+2	waka	waka	_	N	_	_	_	_	baseForms=waka
+3	ñi	ñi	_	PP	3	_	_	_	baseForms=ñi
+4	liche	liche	_	N	_	_	_	_	baseForms=liche
+5	nieiŋu	nien	_	V	_	_	_	_	baseForms=nien|ingu
+6	məten	müt'en	_	AV	nmlz	_	_	_	baseForms=müt'e|(ü)n
+7	pichin	pichin	_	AV	nmlz	_	_	_	baseForms=pichi|(ü)n
+8	mansana	mansana	_	N	_	_	_	_	baseForms=masana
+9	ka	ka	_	AV	_	_	_	_	baseForms=ka
+10	nieiŋu	nien	_	V	_	_	_	_	baseForms=nien|ingu
+11	.	.	PUNCT	PUNCT	_	_	_	_	_
+12	Avi	afün	_	V	ind3	_	_	_	baseForms=af|iy
+13	mürke	mürke	_	N	_	_	_	_	baseForms=mürke
+14	eŋu	engu	_	PC	3d	_	_	_	baseForms=engu
+15	aŋim	angim	_	N	_	_	_	_	baseForms=angim
+16	.	.	PUNCT	PUNCT	_	_	_	_	_
+

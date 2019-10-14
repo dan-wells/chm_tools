@@ -29,6 +29,10 @@ def parse_args():
         "statistics to words tagged with a specific POS. If None, calculate "
         "statistics over all word types. Words with missing POS attributes are "
         "ignored when specifying this argument, but not in the general case.")
+    parser.add_argument("--connlu_out", default="connlu.txt", help="Output "
+        "file to write in CoNNL-U format.")
+    parser.add_argument("--stats", action="store_true", help="Flag to compute "
+        "statistics over input file(s).")
     parser.add_argument("--debug", action='store_true', help="Print sample "
         "lines from processed files to check output.")
     return parser.parse_args()
@@ -51,7 +55,7 @@ def get_root(xmlfile):
     return soup
 
 
-def parse_train_file(xmlfile, lang="arn", debug=False):
+def parse_train_file(xml_in, connlu_out, lang="arn", debug=False):
     """
     Extract tagged words under XML root element for target language.
 
@@ -66,12 +70,12 @@ def parse_train_file(xmlfile, lang="arn", debug=False):
       element as defined in the Text Encoding Initiative namespace
       (https://tei-c.org/ns/1.0/).
     """
-    root = BeautifulSoup(open(xmlfile), 'lxml')
+    root = BeautifulSoup(open(xml_in), 'lxml')
     # can have spa words inside arn <p> so need to decide at that level
     # (but e.g. "peso" is tagged as both arn and spa in those contexts)
     # -- assuming we should extract every word in a given line if that line
     # is tagged with the target language
-    with open('connlu.txt', 'w') as outf:
+    with open(connlu_out, 'w') as outf:
         outf.write('#ID\tFORM\tLEMMA\tUPOSTAG\tXPOSTAG\tFEATS\tHEAD\tDEPREL\tDEPS\tMISC\n')
         for line in root.find_all('p', {'xml:lang': lang}):
             # TODO: try and get anchor IDs from 1922AUGU as well
@@ -272,16 +276,18 @@ def main():
         # TODO: neater way of handling multiple files
         words = []
         for f in args.xmlfiles:
-            words.extend(parse_train_file(f, args.lang, args.debug))
-        stats = compute_stats_from_words(words, pos=args.pos)
+            words.extend(parse_train_file(f, args.connlu_out, args.lang, args.debug))
+        if args.stats:
+            stats = compute_stats_from_words(words, pos=args.pos)
     else:
         lines = []
         for f in args.xmlfiles:
             lines.extend(parse_test_file(f, args.lang, args.debug))
         stats = compute_stats_from_lines(lines)
-    print("File: {}".format(args.xmlfiles))
-    print("Specific POS: {}".format(args.pos))
-    pprint.pprint(stats)
+    if args.stats:
+        print("File: {}".format(args.xmlfiles))
+        print("Specific POS: {}".format(args.pos))
+        pprint.pprint(stats)
 
 
 if __name__ == "__main__":
