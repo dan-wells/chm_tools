@@ -59,14 +59,17 @@ def parse_train_file(xml_in, connlu_out, lang="arn", debug=False):
     # -- assuming we should extract every word in a given line if that line
     # is tagged with the target language
     with open(connlu_out, 'w') as outf:
-        outf.write('#ID\tFORM\tLEMMA\tUPOSTAG\tXPOSTAG\tFEATS\tHEAD\tDEPREL\tDEPS\tMISC\n')
+        outf.write('# ID\tFORM\tLEMMA\tUPOSTAG\tXPOSTAG\tFEATS\tHEAD\tDEPREL\tDEPS\tMISC\n')
         for line in soup.find_all('p', {'xml:lang': lang}):
             # TODO: try and get anchor IDs from 1922AUGU as well
             if line.get('n') is not None:
                 outf.write("# {}\n".format(line.get('n')))
             # have to capture punctuation as well as things wrapped in <w>
+            # also track whether we hit end-of-sentence to deal with multi-sentence <p>
+            eos = 0
             i = 1
             for elem in line:
+                # non-empty strings not contained inside a tag: this is where punctuation lives
                 if not elem.name and elem.strip():
                     # e.g. "Marimarri, wenüi (ñan, nai) ¿chem duamimi?"
                     for char in elem.strip():
@@ -74,6 +77,11 @@ def parse_train_file(xml_in, connlu_out, lang="arn", debug=False):
                             continue
                         outf.write("{0}\t{1}\t{1}\tPUNCT\tPUNCT\t_\t_\t_\t_\t_\n".format(i, char))
                         i += 1
+                        # 1922AUGU has multiple sentences per <p> (at least multiple '.')
+                        if '1922AUGU' in xml_in and char == '.':
+                            outf.write('\n')
+                            eos = 1
+                            i = 1
                 elif elem.name == 'w':
                     morphemes = elem.find_all('m')
                     morph_tags = list(filter(lambda x:x not in [None, 'root'], [m.get('type') for m in morphemes]))
@@ -89,7 +97,8 @@ def parse_train_file(xml_in, connlu_out, lang="arn", debug=False):
                         outf.write(',wordLang={}'.format(word_lang))
                     outf.write('\n')
                     i += 1
-            outf.write('\n')
+            if not eos:
+                outf.write('\n')
     ### stuff to work with stats calculation
     lines = soup.find_all('p', {'xml:lang': lang})
     words = [line.find_all('w') for line in lines]
