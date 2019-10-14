@@ -1418,7 +1418,8 @@
             <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w>
             <w xml:lang="arn" lemma="kon'a" pos="N" corresp="assistant"><m baseForm="kon'a" type="root" corresp="assistant">kona</m></w>
             <w xml:lang="arn" lemma="engün" pos="CP" corresp="with them"><m baseForm="engün" type="3p">eŋn</m></w>.
-            <w xml:lang="arn" lemma="kompañün" pos="V" corresp="accompany" source="sp:acompañar">kompañ<m baseForm="küpa" type="prefix" corresp="want">Küpa</m>-<m baseForm="kompañ" type="root" corresp="accompany">kompañ</m><m baseForm="a" type="fut">a</m><m baseForm="i" type="ind3">i</m></w><w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>
+            <w xml:lang="arn" lemma="küpa" pos="AUX" corresp="want"><m baseForm="küpa" type="prefix" corresp="want">Küpa</m></w>-
+            <w xml:lang="arn" lemma="kompañün" pos="V" corresp="accompany" source="sp:acompañar"><m baseForm="kompañ" type="root" corresp="accompany">kompañ</m><m baseForm="a" type="fut">a</m><m baseForm="i" type="ind3">i</m></w><w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>
             <w xml:lang="arn" lemma="tami" pos="PP" corresp="your(s)"><m baseForm="tami" type="2s" corresp="your(s)">tami</m></w>
             <w xml:lang="arn" lemma="ñampüllkan" pos="N" corresp="trip/travels"><m baseForm="ñampüllka">nampəlka</m><m baseForm="(ü)n" type="nmlz">n</m></w>-
             <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>

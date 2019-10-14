@@ -206,7 +206,7 @@
             <w xml:lang="arn" lemma="trawün" pos="V" corresp="meet"><m baseForm="traw" type="root" corresp="meet">traw</m><m baseForm="fu" type="bi" change="epenthesis">əf</m><m baseForm="eyew" type="indinv3-3">eyeu</m></w>
             <w xml:lang="arn" lemma="meñcholongko" pos="NP" corresp="Meñcholonco"><m baseForm="meñcholonko" type="root" corresp="Meñcholonco">Meñcholongko</m></w>;
             <w xml:lang="arn" lemma="müntun" pos="V" corresp="snatch"><m baseForm="müntu" type="root" corresp="snatch">məntu</m><m baseForm="nge" type="pass">nge</m><m baseForm="fu" type="bi">fu</m><m baseForm="iy" type="ind3">i</m></w>,
-            <w xml:lang="arn" lemma="yen" pos="V" corresp="carry/take"><m baseForm="ye" type="root" corresp="carry/take">ye</m><m baseForm="nge" type="pass">nge</m><m baseForm="rpu" type="trloc2">rpu</m><m baseForm="la" type="neg">la</m><m baseForm="iy" type="ind3">i</m>">yengerpulai</w>
+            <w xml:lang="arn" lemma="yen" pos="V" corresp="carry/take"><m baseForm="ye" type="root" corresp="carry/take">ye</m><m baseForm="nge" type="pass">nge</m><m baseForm="rpu" type="trloc2">rpu</m><m baseForm="la" type="neg">la</m><m baseForm="iy" type="ind3">i</m></w>
             <w xml:lang="arn" lemma="traru" pos="NP" corresp="Traro"><m baseForm="traru" type="root" corresp="traro (a bird of prey)">Traru</m></w>.</p>
 
          <p xml:lang="arn">
