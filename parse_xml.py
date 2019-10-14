@@ -66,11 +66,45 @@ def parse_train_file(xmlfile, lang="arn", debug=False):
       element as defined in the Text Encoding Initiative namespace
       (https://tei-c.org/ns/1.0/).
     """
-    root = get_root(xmlfile)
+    root = BeautifulSoup(open(xmlfile), 'lxml')
     # can have spa words inside arn <p> so need to decide at that level
     # (but e.g. "peso" is tagged as both arn and spa in those contexts)
     # -- assuming we should extract every word in a given line if that line
     # is tagged with the target language
+    with open('connlu.txt', 'w') as outf:
+        outf.write('#ID\tFORM\tLEMMA\tUPOSTAG\tXPOSTAG\tFEATS\tHEAD\tDEPREL\tDEPS\tMISC\n')
+        for line in root.find_all('p', {'xml:lang': lang}):
+            # TODO: try and get anchor IDs from 1922AUGU as well
+            if line.get('n') is not None:
+                outf.write("# {}\n".format(line.get('n')))
+            # have to capture punctuation as well as things wrapped in <w>
+            #for i, word in enumerate(line.find_all('w'), 1):
+            i = 1
+            for elem in line:
+                if not elem.name and elem.strip():
+                    # e.g. "Marimarri, wenüi (ñan, nai) ¿chem duamimi?"
+                    for char in elem.strip():
+                        if char == ' ':
+                            continue
+                        outf.write("{0}\t{1}\t{1}\tPUNCT\tPUNCT\t_\t_\t_\t_\t_\n".format(i, char))
+                        i += 1
+                elif elem.name == 'w':
+                    morphemes = elem.find_all('m')
+                    morph_tags = list(filter(lambda x:x not in [None, 'root'], [m.get('type') for m in morphemes]))
+                    if len(morph_tags) > 0:
+                        morph_tags = '|'.join(morph_tags)
+                    else:
+                        morph_tags = '_'
+                    # TODO: some morphemes with no baseForm, find out why (epenthetic stuff?)
+                    base_forms = '|'.join(str(m.get('baseform')) for m in morphemes)
+                    outf.write("{}\t{}\t{}\t_\t{}\t{}\t_\t_\t_\tbaseForms={}".format(i, elem.text, elem.get('lemma'), elem.get('pos'), morph_tags, base_forms))
+                    if elem.get('xml:lang') != lang:
+                        word_lang = elem.get('xml:lang')
+                        outf.write(',wordLang={}'.format(word_lang))
+                    outf.write('\n')
+                    i += 1
+            outf.write('\n')
+    ### legacy
     lines = root.find_all('p', {'xml:lang': lang})
     words = [line.find_all('w') for line in lines]
     # useful to keep this nested structure so we know which words are from
@@ -86,18 +120,6 @@ def parse_train_file(xmlfile, lang="arn", debug=False):
                     form += m.text
                 print(form)
                 #print(type(words[0]))
-    with open('connlu.txt', 'w') as outf:
-        outf.write('#ID\tFORM\tLEMMA\tUPOSTAG\tXPOSTAG\tFEATS\tHEAD\tDEPREL\tDEPS\tMISC\n')
-        for l in words:
-            for i, word in enumerate(l, 1):
-                morphemes = word.find_all('m')
-                morph_tags = list(filter(lambda x:x not in [None, 'root'], [m.get('type') for m in morphemes]))
-                if len(morph_tags) > 0:
-                    morph_tags = '|'.join(morph_tags)
-                else:
-                    morph_tags = '_'
-                outf.write("{}\t{}\t{}\t_\t{}\t{}\t_\t_\t_\t_\n".format(i, word.text, word.get('lemma'), word.get('pos'), morph_tags))
-            outf.write('\n')
     return words
 # <w xml:lang="arn" lemma="atrulün" pos="V" corresp="make tired"><m baseForm="atru" type="root" corresp="tired">at'ü</m><m baseForm="le" type="vb">le</m><m baseForm="(u)w" type="reflex">w</m><m baseForm="(ü)n" type="ind1s">en</m></w>
 
