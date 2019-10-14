@@ -102,7 +102,7 @@
          <p xml:lang="spa" n="7">Viene a verte él, hablar venir parecer hace te él también.</p>
 
          <p xml:lang="arn" n="8">
-            <w xml:lang="arn" lemma="fentrepun" type="AV" corresp="late at night"><m baseForm="fentre" type="root" corresp="much">Vente</m><m baseForm="pun" type="root" corresp="night">pun</m></w>
+            <w xml:lang="arn" lemma="fentrepun" pos="AV" corresp="late at night"><m baseForm="fentre" type="root" corresp="much">Vente</m><m baseForm="pun" type="root" corresp="night">pun</m></w>
             <w xml:lang="arn" lemma="ayün" pos="V" corresp="want/love"><m baseForm="ayü" type="root" corresp="want/love">ayu</m><m baseForm="eyu" type="ind1s-2s">eyu</m></w>
             <w xml:lang="arn" lemma="tami" pos="PP" corresp="your(s)"><m baseForm="tami" type="2s" corresp="your(s)">tami</m></w>
             <w xml:lang="arn" lemma="peyel" pos="N" corresp="seeing"><m baseForm="pe" type="root" corresp="see">pe</m><m baseForm="fiel" type="invNF2s-1s">viel</m></w>;
@@ -144,7 +144,7 @@
          <p xml:lang="spa" n="13">¿Cuánto desde salir viniste casa de?</p>
 
          <p xml:lang="arn" n="14">
-            <w xml:lang="arn" lemma="tayi" type="AV" corresp="now"><m baseForm="tayi" type="root" corresp="now">Tai</m></w>
+            <w xml:lang="arn" lemma="tayi" pos="AV" corresp="now"><m baseForm="tayi" type="root" corresp="now">Tai</m></w>
             <w xml:lang="arn" lemma="pu" pos="PL" corresp="into/in"><m baseForm="pu" type="particle" corresp="into/in">pu</m></w>
             <w xml:lang="arn" lemma="liwen" pos="N" corresp="morning/daybreak"><m baseForm="liwen" type="root" corresp="morning/daybreak">liwen</m></w>
             <w xml:lang="arn" lemma="küpan" pos="V" corresp="come"><m baseForm="küpa" type="root" corresp="come">kəpa</m><m baseForm="(ü)n" type="ind1s">n</m></w>.</p>
@@ -153,7 +153,7 @@
          <p xml:lang="arn" n="15">
             <w xml:lang="arn" lemma="kuyfi" pos="AV" corresp="long time"><m baseForm="kuyfi" type="root" corresp="long time">Kuivi</m></w>
             <w xml:lang="arn" lemma="tami" pos="PP" corresp="your(s)"><m baseForm="tami" type="2s" corresp="your(s)">tami</m></w>
-            <w xml:lang="arn" lemma="pen" type="V" corresp="see"><m baseForm="pe" corresp="see">pe</m>-<m baseForm="psist">we</m>-<m baseForm="no" type="neg">no</m>-<m baseForm="fi" type="dir3">vi</m>-<m baseForm="iymu" type="ind2d">um</m></w>.</p>
+            <w xml:lang="arn" lemma="pen" pos="V" corresp="see"><m baseForm="pe" corresp="see">pe</m>-<m baseForm="psist">we</m>-<m baseForm="no" type="neg">no</m>-<m baseForm="fi" type="dir3">vi</m>-<m baseForm="iymu" type="ind2d">um</m></w>.</p>
          <p xml:lang="spa" n="15">Hace tiempo tu ver más no lo.</p>
 
          <p xml:lang="arn" n="16"> ¿
@@ -542,7 +542,7 @@
          <p xml:lang="spa" n="57">Cama en no más está, no se mueve más siete días desde.</p>
 
          <p xml:lang="arn" n="58">
-            <w xml:lang="arn" lemma="fentrepun" type="AV" corresp="so much"><m baseForm="fentre" type="root" corresp="much">Vente</m><m baseForm="pu" type="trloc">pu</m><m baseForm="(ü)n" type="nmlz">n</m></w>
+            <w xml:lang="arn" lemma="fentrepun" pos="AV" corresp="so much"><m baseForm="fentre" type="root" corresp="much">Vente</m><m baseForm="pu" type="trloc">pu</m><m baseForm="(ü)n" type="nmlz">n</m></w>
             <w xml:lang="arn" lemma="arelen" pos="V" corresp="be hot"><m baseForm="are" type="root" corresp="hot">are</m><m baseForm="le" type="vb">le</m><m baseForm="iy" type="ind3">i</m></w>;
             <w xml:lang="arn" lemma="iney" pos="WH" corresp="who"><m baseForm="iney" type="particle" corresp="who">inei</m></w>
             <w xml:lang="arn" lemma="no" pos="AV" corresp="not"><m baseForm="no" type="particle" corresp="not">no</m></w>
@@ -594,7 +594,7 @@
 
          <p xml:lang="arn" n="64"> ¿
             <w xml:lang="arn" lemma="tüfachi" pos="DP" corresp="this/those"><m baseForm="tüfachi" type="DP">Tvachi</m></w>
-            <w xml:lang="arn" lemma="papel" pos="pos" corresp="paper" source="sp:papel"><m baseForm="papel" type="root" corresp="paper">papel</m></w>
+            <w xml:lang="arn" lemma="papel" pos="N" corresp="paper" source="sp:papel"><m baseForm="papel" type="root" corresp="paper">papel</m></w>
             <w xml:lang="arn" lemma="düngulün" pos="V" corresp="cause to speak/think"><m baseForm="pepi" type="prefix" corresp="be able">pepi</m>-<m baseForm="düngu" type="root" corresp="thing/news/word/thought">duŋu</m><m baseForm="(ü)l" type="cause">l</m><m baseForm="a" type="fut">a</m><m baseForm="imi" type="ind2s">imi</m></w>? ¿
             <w xml:lang="arn" lemma="kimün" pos="V" corresp="know"><m baseForm="kim" type="root" corresp="know">Kim</m><m baseForm="imi" type="ind2s">imi</m></w>
             <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w>
@@ -739,7 +739,7 @@
             <w xml:lang="arn" lemma="eymi" pos="PN" corresp="you(s)"><m baseForm="eymi" type="2s">Eimi</m></w>
             <w xml:lang="arn" lemma="mi" pos="PP" corresp="your"><m baseForm="mi" type="2s">mi</m></w>
             <w xml:lang="arn" lemma="ruka" pos="N" corresp="house"><m baseForm="ruka" type="root" corresp="house">ruka</m></w>
-            <w xml:lang="arn" lemma="rüf" type="AV" corresp="really"><m baseForm="rüf" type="root" corresp="really">rüv</m></w>
+            <w xml:lang="arn" lemma="rüf" pos="AV" corresp="really"><m baseForm="rüf" type="root" corresp="really">rüv</m></w>
             <w xml:lang="arn" lemma="müt'e" pos="AV" corresp="very/much"><m baseForm="müt'e" type="root" corresp="very/much">mətte</m></w>
             <w xml:lang="arn" lemma="doy" pos="AV" corresp="more/most"><m baseForm="doy" type="root" corresp="more/most">doi</m></w>
             <w xml:lang="arn" lemma="tutelu" pos="AJ" corresp="pretty"><m baseForm="tute" type="root" corresp="be pretty">tute</m><m baseForm="lu" type="svn">lu</m></w>,
@@ -859,7 +859,7 @@
          <p xml:lang="spa" n="89">¿ Cómo siendo pasaste noche? ¿ bien dormiste? </p>
 
          <p xml:lang="arn" n="90">
-            <w xml:lang="arn" lemma="rüf" type="AV" corresp="really"><m baseForm="rüf" type="root" corresp="really">Rüv</m></w>
+            <w xml:lang="arn" lemma="rüf" pos="AV" corresp="really"><m baseForm="rüf" type="root" corresp="really">Rüv</m></w>
             <w xml:lang="arn" lemma="küme" pos="AJ" corresp="good"><m baseForm="küme" type="root" corresp="good">küme</m></w>
             <w xml:lang="arn" lemma="umawtun" pos="V" corresp="sleep"><m baseForm="umag" type="root" corresp="lodge/sleep">umaq</m><m baseForm="tu" type="vb">tu</m><m baseForm="(ü)n" type="ind1s">n</m></w> (
             <w xml:lang="arn" lemma="weda" pos="AJ" corresp="bad"><m baseForm="weda" type="root" corresp="bad">wezha</m></w>
@@ -901,7 +901,7 @@
          <p xml:lang="spa" n="93">Cerca dejar ven mesa.</p>
 
          <p xml:lang="arn" n="94">
-            <w xml:lang="arn" lemma="wiwün" type="V" pos="be thirsty"><m baseForm="wiwü" type="root" corresp="be thirsty">Wivü</m><m baseForm="(ü)n" type="ind1s">n</m></w>;
+            <w xml:lang="arn" lemma="wiwün" pos="V" corresp="be thirsty"><m baseForm="wiwü" type="root" corresp="be thirsty">Wivü</m><m baseForm="(ü)n" type="ind1s">n</m></w>;
             <w xml:lang="arn" lemma="tükun" pos="V" corresp="place/sow"><m baseForm="tüku" type="root" corresp="place/sow">təku</m><m baseForm="(l)el" type="appl">lel</m><m baseForm="en" type="ind2s-1s">en</m></w>
             <w xml:lang="arn" lemma="ko" pos="N" corresp="water"><m baseForm="ko" type="root" corresp="water">ko</m></w>
             <w xml:lang="arn" lemma="fasu" pos="N" corresp="glass" source="sp:vaso"><m baseForm="fasu" type="root" corresp="glass">vasu</m></w>-
@@ -1220,7 +1220,7 @@
          <p xml:lang="spa" n="123">No irás; no hay bueno siempre siendo allá. Vayamos los dos, amigo, mi casa a, iremos a comer.</p>
 
          <p xml:lang="arn" n="124">
-            <w xml:lang="arn" lemma="fentrepun" type="AV" corresp="so much"><m baseForm="fentre" type="root" corresp="much">Vente</m><m baseForm="pu" type="trloc">pu</m><m baseForm="(ü)n" type="nmlz">n</m></w>
+            <w xml:lang="arn" lemma="fentrepun" pos="AV" corresp="so much"><m baseForm="fentre" type="root" corresp="much">Vente</m><m baseForm="pu" type="trloc">pu</m><m baseForm="(ü)n" type="nmlz">n</m></w>
             <w xml:lang="arn" lemma="mañumün" pos="V" corresp="thank"><m baseForm="mañum" type="root" corresp="thank">mañum</m><m baseForm="eyu" type="ind1s-2s">eyu</m></w>,
             <w xml:lang="arn" lemma="anay" pos="N" corresp="friend"><m baseForm="anay" type="root" corresp="friend">anai</m></w>;
             <w xml:lang="arn" lemma="petu" pos="AV" corresp="yet/still"><m baseForm="petu" type="particle" corresp="yet/still">petu</m></w>
@@ -1527,7 +1527,7 @@
          <p xml:lang="spa" n="150">Estribo chico está, más chico mucho átalo. — ¿ Manso es este caballo, cosquilloso es?</p>
 
          <p xml:lang="arn" n="151">
-            <w xml:lang="arn" lemma="nün"><m baseForm="nü" type="root" corresp="grab/get">Nü</m><m baseForm="nien" type="root" corresp="have">nie</m><m baseForm="(l)el" type="appl">le</m><m baseForm="(ü)n" type="ind1s">n</m></w>
+            <w xml:lang="arn" lemma="nün" pos="V"><m baseForm="nü" type="root" corresp="grab/get">Nü</m><m baseForm="nien" type="root" corresp="have">nie</m><m baseForm="(l)el" type="appl">le</m><m baseForm="(ü)n" type="ind1s">n</m></w>
             <w xml:lang="arn" lemma="witrantükuwe" pos="N" corresp="reins"><m baseForm="witra" corresp="stand/pull along">wit'a</m><m baseForm="(ü)n" type="nmlz">n</m><m baseForm="tüku" type="root" corresp="place/sow">tuku</m><m baseForm="we" type="inst">ü</m></w>–
             <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>,
             <w xml:lang="arn" lemma="püran" pos="V" corresp="rise/mount"><m baseForm="püra" type="root" corresp="rise/mount">pra</m><m baseForm="a" type="fut" change="glide epenthesis">ya</m><m baseForm="(ü)n" type="ind1s">n</m></w>
@@ -2178,7 +2178,7 @@
          <p xml:lang="spa" n="200">¿No hay un puente? — Había siempre uno, pero siguiente en invierno fue agua con.</p>
 
          <p xml:lang="arn" n="201">
-            <w xml:lang="arn" lemma="dewmatun" type="V" corresp="rebuild/remake"><m baseForm="pepi" type="prefix" corresp="be able">Pepi</m>-<m baseForm="dewma" type="root" corresp="build/make">deuma</m><m baseForm="tu" type="rest">tu</m><m baseForm="la" type="neg">la</m><m baseForm="a" type="fut" change="glide epenthesis">ya</m><m baseForm="ingun" type="ind3p">iŋn</m></w>,
+            <w xml:lang="arn" lemma="dewmatun" pos="V" corresp="rebuild/remake"><m baseForm="pepi" type="prefix" corresp="be able">Pepi</m>-<m baseForm="dewma" type="root" corresp="build/make">deuma</m><m baseForm="tu" type="rest">tu</m><m baseForm="la" type="neg">la</m><m baseForm="a" type="fut" change="glide epenthesis">ya</m><m baseForm="ingun" type="ind3p">iŋn</m></w>,
             <w xml:lang="arn" lemma="pichin" pos="V" corresp="be little/young"><m baseForm="pichi" type="root" corresp="young/small">pichi</m><m baseForm="ke" type="habit">ke</m><m baseForm="we" type="psist">we</m><m baseForm="le" type="subj3s">le</m></w>
             <w xml:lang="arn" lemma="ko" pos="N" corresp="water"><m baseForm="ko" type="root" corresp="water">ko</m></w>.</p>
          <p xml:lang="spa" n="201">No pueden volver a concluirla [cuando] poca siempre ya esté agua.</p>
@@ -2837,7 +2837,7 @@
             <w xml:lang="arn" lemma="kimün" pos="V" corresp="know"><m baseForm="kim" type="root" corresp="know">Kim</m><m baseForm="la" type="neg">la</m><m baseForm="eyu" type="ind1s-2s">eyu</m></w>;
             <w xml:lang="arn" lemma="pen" pos="V" corresp="see"><m baseForm="pe" type="root" corresp="see">pe</m><m baseForm="ke" type="habit">ke</m><m baseForm="la" type="neg">la</m><m baseForm="eyu" type="ind1s-2s" change="deletion">yu</m></w>
             <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">inche</m></w>.
-            <w xml:lang="arn" lemma="rüf" type="AV" corresp="really"><m baseForm="rüf" type="root" corresp="really">Rüv</m></w>
+            <w xml:lang="arn" lemma="rüf" pos="AV" corresp="really"><m baseForm="rüf" type="root" corresp="really">Rüv</m></w>
             <w xml:lang="arn" lemma="düngun" pos="V" corresp="speak/think"><m baseForm="düngu" type="root" corresp="thing/news/word/thought">duŋu</m><m baseForm="imi" type="ind2s">imi</m></w>.</p>
          <p xml:lang="spa" n="256">No te conozco; no te he visto yo. Cierto hablas.</p>
 
@@ -3035,7 +3035,7 @@
             <w xml:lang="arn" lemma="l'an" pos="V" corresp="die"><m baseForm="l'a" type="root" corresp="die">la</m><m baseForm="iy" type="ind3">i</m></w>
             <w xml:lang="arn" lemma="mi" pos="PP" corresp="your(s)"><m baseForm="mi" type="2s">mi</m></w>
             <w xml:lang="arn" lemma="ñukentu" pos="N" corresp="maternal aunt"><m baseForm="ñukentu" type="root" corresp="maternal aunt">ñukentu</m></w> (
-            <w xml:lang="arn" lemma="paldu" type="N" corresp="paternal aunt"><m baseForm="paldu" type="root" corresp="paternal aunt">paldu</m></w>),
+            <w xml:lang="arn" lemma="paldu" pos="N" corresp="paternal aunt"><m baseForm="paldu" type="root" corresp="paternal aunt">paldu</m></w>),
             <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="(ü)n" type="ind1s">n</m></w>.
             <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">Inche</m></w>
             <w xml:lang="arn" lemma="welu" pos="AV" corresp="however"><m baseForm="welu" type="root" corresp="however">welu</m></w>
@@ -3048,7 +3048,7 @@
             <w xml:lang="arn" lemma="epu" pos="NUM" corresp="two"><m baseForm="epu" type="root" corresp="two">epu</m></w>
             <w xml:lang="arn" lemma="che" pos="N" corresp="person"><m baseForm="che" type="root" corresp="person">che</m></w>.
             <w xml:lang="arn" lemma="müt'e" pos="AV" corresp="very/much"><m baseForm="müt'e" type="root" corresp="very/much">Mətte</m></w>
-            <w xml:lang="arn" lemma="wiwün" type="V" pos="be thirsty"><m baseForm="wiwü" type="root" corresp="be thirsty">wiw</m><m baseForm="ingu" type="ind3d">iŋu</m></w>.</p>
+            <w xml:lang="arn" lemma="wiwün" pos="V" corresp="be thirsty"><m baseForm="wiwü" type="root" corresp="be thirsty">wiw</m><m baseForm="ingu" type="ind3d">iŋu</m></w>.</p>
          <p xml:lang="spa" n="279">No bebieron los dos estos dos hombres. Mucha sed tienen los dos.</p>
 
          <p xml:lang="arn" n="280">
@@ -3266,7 +3266,7 @@
             <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>»
             <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="ingu" type="ind3d" change="deletion">ŋu</m></w>.
             <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">Veimeu</m></w>
-            <w xml:lang="arn" lemma="pen" type="V" corresp="see"><m baseForm="pepi" type="prefix" corresp="be able">pepi</m>-<m baseForm="pe" type="root" corresp="see">pe</m><m baseForm="la" type="neg">la</m><m baseForm="iyu" type="ind1s">yu</m></w>
+            <w xml:lang="arn" lemma="pen" pos="V" corresp="see"><m baseForm="pepi" type="prefix" corresp="be able">pepi</m>-<m baseForm="pe" type="root" corresp="see">pe</m><m baseForm="la" type="neg">la</m><m baseForm="iyu" type="ind1s">yu</m></w>
             <w xml:lang="arn" lemma="tañi" pos="PP" corresp="his/her/their"><m baseForm="tañi" type="3" corresp="his/her/their">tañi</m></w>
             <w xml:lang="arn" lemma="ojota" pos="N" corresp="sandal" source="sp:ojota"><m baseForm="ojota" type="root" corresp="sandal">ojota</m></w>
             <w xml:lang="arn" lemma="engu" pos="PN" corresp="they two"><m baseForm="engu" type="3d">eŋu</m></w>.</p>
@@ -3444,7 +3444,7 @@
             <w xml:lang="arn" lemma="ngen" pos="V" corresp="be"><m baseForm="nge" type="root" corresp="be">ŋe</m><m baseForm="la" type="neg">la</m><m baseForm="iy" type="ind3">i</m></w>.
             <w xml:lang="arn" lemma="allkün" pos="V" corresp="hear"><m baseForm="allkü" type="root" corresp="hear">Aʎkü</m><m baseForm="(ü)n" type="ind1s">n</m></w>
             <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w>
-            <w xml:lang="arn" lemma="femngechi" type="AV" corresp="thus"><m baseForm="femngechi" type="root" corresp="thus">vemŋechi</m></w>
+            <w xml:lang="arn" lemma="femngechi" pos="AV" corresp="thus"><m baseForm="femngechi" type="root" corresp="thus">vemŋechi</m></w>
             <w xml:lang="arn" lemma="wentru" pos="N" corresp="man"><m baseForm="went'u" type="root" corresp="man">wentru</m></w>
             <w xml:lang="arn" lemma="mütikün" pos="V" corresp="escape?"><m baseForm="mütikü" type="root" corresp="escape?">mütikü</m><m baseForm="iy" type="ind3">i</m></w>
             <w xml:lang="arn" lemma="valdivia" pos="NP" corresp="Valdivia"><m baseForm="valdivia" type="root" corresp="Valdivia">Valdivia</m></w>
@@ -3513,7 +3513,7 @@
             <w xml:lang="arn" lemma="valdivia" pos="NP" corresp="Valdivia"><m baseForm="valdivia" type="root" corresp="Valdivia">Valdivia</m></w>"
             <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="eyumew" type="ind3-1d">eyu-meu</m></w>;
             <w xml:lang="arn" lemma="welu" pos="AV" corresp="however"><m baseForm="welu" type="root" corresp="however">welu</m></w>
-            <w xml:lang="arn" lemma="chumül-no-rume" type="AV" corresp="never"><m baseForm="chumül" type="particle" corresp="how long/when">chuməl</m>-<m baseForm="no" type="particle" corresp="not">no</m>-<m baseForm="rume" type="root" corresp="anything">rume</m></w>
+            <w xml:lang="arn" lemma="chumül-no-rume" pos="AV" corresp="never"><m baseForm="chumül" type="particle" corresp="how long/when">chuməl</m>-<m baseForm="no" type="particle" corresp="not">no</m>-<m baseForm="rume" type="root" corresp="anything">rume</m></w>
             <w xml:lang="arn" lemma="pun" pos="V" corresp="enter/arrive/fulfill"><m baseForm="pu" type="root" corresp="inside">pou</m><m baseForm="no" type="neg">nu</m><m baseForm="le" type="subj3s">le</m></w>
             <w xml:lang="arn" lemma="valdivia" pos="NP" corresp="Valdivia"><m baseForm="valdivia" type="root" corresp="Valdivia">Valdivia</m></w>
             <w xml:lang="arn" lemma="tañi" pos="PP" corresp="his/her/their"><m baseForm="tañi" type="3" corresp="his/her/their">tañi</m></w>
@@ -3724,7 +3724,7 @@
             <w xml:lang="arn" lemma="ellkun" pos="V" type="hide"><m baseForm="ellka" type="root" corresp="hide">Eʎka</m><m>nie</m><m>ke</m><m>i</m></w>
             <w xml:lang="arn" lemma="minche" pos="AV" type="under"><m baseForm="minche" type="root" corresp="under">minche</m></w>
             <w xml:lang="arn" lemma="pinu" pos="N" type="straw/reeds"><m baseForm="pinu" type="root" corresp="straw/reeds">pinu</m></w>,
-            <w xml:lang="arn" lemma="küpale" pos="n" corresp="come"><m baseForm="küpa" type="root" corresp="come">kəpa</m><m baseForm="le" type="subj3s">le</m></w>
+            <w xml:lang="arn" lemma="küpan" pos="V" corresp="come"><m baseForm="küpa" type="root" corresp="come">kəpa</m><m baseForm="le" type="subj3s">le</m></w>
             <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w>
             <w xml:lang="arn" lemma="müna" pos="AV" corresp="very"><m baseForm="müna" type="root" corresp="very">mənna</m></w>
             <w xml:lang="arn" lemma="elun" pos="V" corresp="give"><m baseForm="elu" type="root" corresp="give">elu</m><m baseForm="rke" type="rep">rke</m><m baseForm="a" type="fut" change="glide epenthesis">ya</m><m baseForm="fi" type="dir3">vwi</m><m baseForm="lu" type="svn">lu</m></w>.</p>
@@ -4018,7 +4018,7 @@
             <w xml:lang="arn" lemma="kuku" pos="N" corresp="maternal grandmother"><m baseForm="kuku" type="root" corresp="maternal grandmother">chuchu</m></w>
             <w xml:lang="arn" lemma="engu" pos="PC" corresp="along with"><m baseForm="engu" type="3d">eŋu</m></w>
             <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w>
-            <w xml:lang="arn" lemma="ñoño" type="N" corresp="inlaws(on the wife's side)"><m baseForm="ñoño" type="root" corresp="inlaws(on the wife's side)">ñoño</m></w>.
+            <w xml:lang="arn" lemma="ñoño" pos="N" corresp="inlaws(on the wife's side)"><m baseForm="ñoño" type="root" corresp="inlaws(on the wife's side)">ñoño</m></w>.
             <w xml:lang="arn" lemma="ka" pos="AV" corresp="other/also"><m baseForm="ka" type="root" corresp="other/also">Ka</m></w>
             <w xml:lang="arn" lemma="pukem" pos="N" corresp="winter"><m baseForm="pukem" type="root" corresp="winter">pukem</m></w>
             <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w>
@@ -4027,7 +4027,7 @@
             <w xml:lang="arn" lemma="epu" pos="NUM" corresp="two"><m baseForm="epu" type="root" corresp="two">epe</m></w>
             <w xml:lang="arn" lemma="no" pos="AV" corresp="not"><m baseForm="no" type="particle" corresp="not">no</m></w>
             <w xml:lang="arn" lemma="rume" pos="N" corresp="anything"><m baseForm="rume" type="root" corresp="anything">rume</m></w>
-            <w xml:lang="arn" lemma="in" type="root" corresp="eat"><m baseForm="i" type="root" corresp="eat">i</m><m baseForm="la" type="neg">la</m><m baseForm="ingu" corresp="ind3d">iŋu</m></w>
+            <w xml:lang="arn" lemma="in" pos="V" corresp="eat"><m baseForm="i" type="root" corresp="eat">i</m><m baseForm="la" type="neg">la</m><m baseForm="ingu" corresp="ind3d">iŋu</m></w>
             <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w>
             <w xml:lang="arn" lemma="kom" pos="AV" corresp="all"><m baseForm="kom" type="root" corresp="all">kom</m></w>
             <w xml:lang="arn" lemma="antü" pos="N" corresp="day/sun"><m baseForm="antü" type="root" corresp="day/sun">antü</m></w>.</p>
@@ -4037,7 +4037,7 @@
             <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">Kiñe</m></w>
             <w xml:lang="arn" lemma="waka" pos="N" corresp="cow" source="sp:vaca"><m baseForm="waka" type="root" corresp="cow">waka</m></w>
             <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w>
-            <w xml:lang="arn" lemma="liche" type="N" corresp="milk" source="sp:leche"><m baseForm="liche" type="root" corresp="milk">liche</m></w>
+            <w xml:lang="arn" lemma="liche" pos="N" corresp="milk" source="sp:leche"><m baseForm="liche" type="root" corresp="milk">liche</m></w>
             <w xml:lang="arn" lemma="nien" pos="V" corresp="have"><m baseForm="nien" type="root" corresp="have">nie</m><m baseForm="ingu" corresp="ind3d">iŋu</m></w>
             <w xml:lang="arn" lemma="müt'en" pos="AV" corresp="merely/only"><m baseForm="müt'e" type="root" corresp="very/much">məte</m><m baseForm="(ü)n" type="nmlz">n</m></w>
             <w xml:lang="arn" lemma="pichin" pos="AV" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m><m baseForm="(ü)n" type="nmlz">n</m></w>

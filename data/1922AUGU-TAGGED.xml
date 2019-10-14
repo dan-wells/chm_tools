@@ -251,7 +251,7 @@
             <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pí</m><m baseForm="iy" type="ind3" change="deletion"></m></w>: “
             <w xml:lang="arn" lemma="wallma" pos="V" corresp="surround"><m baseForm="wall" type="root"  corresp="surroundings">Wall</m><m baseForm="(üñ)ma" type="appl">ma</m> <m baseForm="künu" type="root" corresp="place/help">kənu</m><m baseForm="a" type="fut">a</m><m baseForm="fi" type="dir3">fi</m><m baseForm="(iy)iñ" type="ind1p">iñ</m></w>,
             <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w>
-            <w xml:lang="arn" lemma="küntrol-kawell-elün"><m baseForm="küntro" type="root" corresp="limp/horse-dance">küncho</m><m baseForm="(ü)l" type="cause">l</m>-<m baseForm="kawell" type="root" corresp="horse" source="sp:caballo">kawel</m>-<m baseForm="el" type="root" corresp="place/set">el</m><m baseForm="a" type="fut">a</m><m baseForm="fi" type="dir3">fi</m><m baseForm="(iy)iñ" type="ind1p">iñ</m></w>.
+            <w xml:lang="arn" lemma="küntrol-kawell-elün" pos="V"><m baseForm="küntro" type="root" corresp="limp/horse-dance">küncho</m><m baseForm="(ü)l" type="cause">l</m>-<m baseForm="kawell" type="root" corresp="horse" source="sp:caballo">kawel</m>-<m baseForm="el" type="root" corresp="place/set">el</m><m baseForm="a" type="fut">a</m><m baseForm="fi" type="dir3">fi</m><m baseForm="(iy)iñ" type="ind1p">iñ</m></w>.
             <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">Fei</m></w>
             <w xml:lang="arn" lemma="wallke" pos="N" corresp="surroundings"><m baseForm="wall" type="root" corresp="surroundings">wall</m><m baseForm="ke" type="p">ke</m></w>
             <w xml:lang="arn" lemma="adkintun" pos="V" corresp="look"><m baseForm="adkintu" type="root" corresp="look">adkintu</m><m baseForm="le" type="subj3s">le</m></w>,
@@ -279,7 +279,7 @@
             <w xml:lang="arn" lemma="katrün" pos="V" corresp="cut"><m baseForm="katr" type="root" corresp="cut">katrü</m>-<m baseForm="pel'" type="root" corresp="throat">pel</m>-<m baseForm="a" type="fut">a</m><m baseForm="fi" type="dir3">fi</m><m baseForm="iy" type="ind3" change="deletion"></m></w>
             <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w>
             <w xml:lang="arn" lemma="traru" pos="NP" corresp="Traro"><m baseForm="traru" type="root" corresp="traro (a bird of prey)">Traru</m></w>;
-            <w xml:lang="arn" lemma="femngechi" type="AV" corresp="thus"><m baseForm="femngechi" type="root" corresp="thus">femngechi</m></w>
+            <w xml:lang="arn" lemma="femngechi" pos="AV" corresp="thus"><m baseForm="femngechi" type="root" corresp="thus">femngechi</m></w>
             <w xml:lang="arn" lemma="montun" pos="V" corresp="escape" source="arn:mew"><m baseForm="montu" type="root" corresp="escape">montu</m><m baseForm="a" type="fut">a</m><m baseForm="iy" type="ind3">i</m></w>”,
             <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="nge" type="pass">nge</m><m baseForm="iy" type="ind3">i</m></w>
             <w xml:lang="arn" lemma="pishmaiwile" pos="NP" corresp="Pismahuile"><m baseForm="pishmaiwile" type="root">Pishmaiwile</m></w>.</p>
@@ -287,8 +287,8 @@
          <pb n="388"/>
 
          <p xml:lang="arn">
-            <w xml:lang="arn" lemma="femngechi" type="AV" corresp="thus"><m baseForm="femngechi" type="root" corresp="thus">Femngechi</m></w>
-            <w xml:lang="arn" lemma="küntrol-kawell-elün"><m baseForm="küntro" type="root" corresp="limp/horse-dance">küncho</m><m baseForm="(ü)l" type="cause">l</m>-<m baseForm="kawell" type="root" corresp="horse" source="sp:caballo">kawell</m>-<m baseForm="el" type="root" corresp="place/set">el</m><m baseForm="nge" type="pass">nge</m><m baseForm="iy" type="ind3">i</m></w>.
+            <w xml:lang="arn" lemma="femngechi" pos="AV" corresp="thus"><m baseForm="femngechi" type="root" corresp="thus">Femngechi</m></w>
+            <w xml:lang="arn" lemma="küntrol-kawell-elün" pos="V"><m baseForm="küntro" type="root" corresp="limp/horse-dance">küncho</m><m baseForm="(ü)l" type="cause">l</m>-<m baseForm="kawell" type="root" corresp="horse" source="sp:caballo">kawell</m>-<m baseForm="el" type="root" corresp="place/set">el</m><m baseForm="nge" type="pass">nge</m><m baseForm="iy" type="ind3">i</m></w>.
             <w xml:lang="arn" lemma="traru" pos="NP" corresp="Traro"><m baseForm="traru" type="root" corresp="traro (a bird of prey)">Traru</m></w>.
             <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">Fei</m></w>
             <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>
@@ -309,7 +309,7 @@
             <w xml:lang="arn" lemma="elun" pos="V" corresp="give"><m baseForm="elu" type="root" corresp="give">Elu</m><m baseForm="nge" type="pass">nge</m><m baseForm="iy" type="ind3">i</m></w>
             <w xml:lang="arn" lemma="feluke" pos="N" corresp="knife/dagger?"><m baseForm="feluke" type="root" corresp="knife/dagger?">feluke</m></w>
             <w xml:lang="arn" lemma="pishmaiwile" pos="NP" corresp="Pismahuile"><m baseForm="pishmaiwile" type="root">Pishmaiwile</m></w>;
-            <w xml:lang="arn" lemma="femngechi" type="AV" corresp="thus"><m baseForm="femngechi" type="root" corresp="thus">femngechi</m></w>
+            <w xml:lang="arn" lemma="femngechi" pos="AV" corresp="thus"><m baseForm="femngechi" type="root" corresp="thus">femngechi</m></w>
             <w xml:lang="arn" lemma="katrün" pos="V" corresp="cut"><m baseForm="katr" type="root" corresp="cut">katr</m><m baseForm="(üñ)ma" type="appl">üñma</m><m baseForm="nge" type="pass">nge</m><m baseForm="a" type="fut">a</m><m baseForm="iy" type="ind3">i</m></w>
             <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w>
             <w xml:lang="arn" lemma="pel'" pos="N" corresp="throat"><m baseForm="pel'" type="root" corresp="throat">pel</m></w>
@@ -345,7 +345,7 @@
             <w xml:lang="arn" lemma="pishmaiwile" pos="NP" corresp="Pismahuile"><m baseForm="pishmaiwile" type="root">Pishmaiwile</m></w>.</p>
 
          <p xml:lang="arn">
-            <w xml:lang="arn" lemma="femngechi" type="AV" corresp="thus"><m baseForm="femngechi" type="root" corresp="thus">Femngechi</m></w>
+            <w xml:lang="arn" lemma="femngechi" pos="AV" corresp="thus"><m baseForm="femngechi" type="root" corresp="thus">Femngechi</m></w>
             <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">mai</m></w>
             <w xml:lang="arn" lemma="nentun" pos="V" corresp="remove"><m baseForm="nentu" type="root" corresp="remove">Nentu</m><m baseForm="(ñ)ma" type="tr">ñma</m><m baseForm="nge" type="pass">nge</m><m baseForm="iy" type="ind3">i</m></w>
             <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w>
@@ -386,7 +386,7 @@
             <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="nge" type="pass">nge</m><m baseForm="iy" type="ind3">i</m></w>
             <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="particle">pu</m></w>
             <w xml:lang="arn" lemma="meñcholongko" pos="NP" corresp="Meñcholonco"><m baseForm="meñcholonko" type="root" corresp="Meñcholonco">Meñcholongko</m></w>.
-            <w xml:lang="arn" lemma="femngechi" type="AV" corresp="thus"><m baseForm="femngechi" type="root" corresp="thus">Femngechi</m></w>
+            <w xml:lang="arn" lemma="femngechi" pos="AV" corresp="thus"><m baseForm="femngechi" type="root" corresp="thus">Femngechi</m></w>
             <w xml:lang="arn" lemma="chalin" pos="V" corresp="greet"><m>chali</m><m baseForm="(u)w" type="reflex">w</m><m baseForm="ingu" type="ind3d">ingu</m></w>.</p>
 
          <anchor n="6"/>
@@ -568,7 +568,7 @@
             <w xml:lang="arn" lemma="in" pos="V" corresp="eat"><m baseForm="i" type="root" corresp="eat">i</m><m baseForm="lu" type="svn">lu</m></w>.
             <w xml:lang="arn" lemma="atapay" pos="NP" corresp="Atapay"><m baseForm="Atapay" type="root">Atapay</m></w>
             <w xml:lang="arn" lemma="fücha" pos="AJ" corresp="old/big"><m baseForm="fücha" type="root" corresp="old/big">fücha</m></w>
-            <w xml:lang="arn" lemma="ramtun"><m baseForm="ramtu" type="root" corresp="ask">ramtu</m><m baseForm="fi" type="dir3">fí</m><m baseForm="iy" type="ind3" change="deletion"></m></w>
+            <w xml:lang="arn" lemma="ramtun" pos="V"><m baseForm="ramtu" type="root" corresp="ask">ramtu</m><m baseForm="fi" type="dir3">fí</m><m baseForm="iy" type="ind3" change="deletion"></m></w>
             <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w>
             <w xml:lang="arn" lemma="fücha" pos="AJ" corresp="old/big"><m baseForm="fücha" type="root" corresp="old/big">füchá</m></w>
             <w xml:lang="arn" lemma="wentru" pos="N" corresp="man"><m baseForm="wentru" type="root" corresp="man">wentru</m></w>
@@ -758,7 +758,7 @@
             <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w>
             <w xml:lang="arn" lemma="lükai" pos="N" corresp="bolas/sling"><m baseForm="lükai" type="root" corresp="bolas/sling">ləkai</m></w>,
             <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w>
-            <w xml:lang="arn" lemma="lükaitun"><m baseForm="lükai" type="root" corresp="bolas/sling">ləkai</m><m baseForm="tu" type="vb">tu</m><m baseForm="fi" type="dir3">fí</m><m baseForm="iy" type="ind3" change="deletion"></m></w>
+            <w xml:lang="arn" lemma="lükaitun" pos="V"><m baseForm="lükai" type="root" corresp="bolas/sling">ləkai</m><m baseForm="tu" type="vb">tu</m><m baseForm="fi" type="dir3">fí</m><m baseForm="iy" type="ind3" change="deletion"></m></w>
             <w xml:lang="arn" lemma="fücha" pos="AJ" corresp="old/big"><m baseForm="fücha" type="root" corresp="old/big">füchá</m></w>
             <w xml:lang="arn" lemma="wentru" pos="N" corresp="man"><m baseForm="wentru" type="root" corresp="man">wentru</m></w>
             <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w>
@@ -809,7 +809,7 @@
             <w xml:lang="arn" lemma="ngen" pos="V" corresp="be"><m baseForm="nge" type="root" corresp="be">nge</m><m baseForm="(ü)rke" type="rep">rke</m><m baseForm="imi" type="ind2s">imi</m></w>
             <w xml:lang="arn" lemma="n'ai" pos="IJ" corresp="what a pitty"><m baseForm="n'ai" type="root" corresp="what a pitty">n·ai</m></w>,
             <w xml:lang="arn" lemma="shañi" pos="NP" corresp="Sañi"><m baseForm="shañi" type="root" corresp="Sañi">Shañi</m></w>.
-            <w xml:lang="arn" lemma="kimün"><m baseForm="kim" type="root" corresp="know">Kim</m><m baseForm="pe" type="px">pe</m><m baseForm="(l)el" type="appl">el</m><m baseForm="imi" type="ind2s">mi</m></w>
+            <w xml:lang="arn" lemma="kimün" pos="V"><m baseForm="kim" type="root" corresp="know">Kim</m><m baseForm="pe" type="px">pe</m><m baseForm="(l)el" type="appl">el</m><m baseForm="imi" type="ind2s">mi</m></w>
             <w xml:lang="arn" lemma="mi" pos="PP" corresp="my"><m baseForm="mi" type="2s">mi</m></w>
             <w xml:lang="arn" lemma="üllkun" pos="N" corresp="anger"><m baseForm="üllku" type="root" corresp="anger">üllku</m><m baseForm="ke" type="habit">ke</m><m baseForm="(ü)n" type="nmlz">n</m></w>,
             <w xml:lang="arn" lemma="run" pos="V" corresp="pass"><m baseForm="ru" type="root" corresp="pass">ru</m><m baseForm="pa" type="cis">pa</m><m baseForm="pe" type="px">pe</m><m baseForm="la" type="neg">la</m><m baseForm="a" type="fut" change="glide epenthesis">ia</m><m baseForm="(ü)n" type="ind1s">n</m></w>
@@ -870,7 +870,7 @@
             <w xml:lang="arn" lemma="fücha" pos="AJ" corresp="old/big"><m baseForm="fücha" type="root" corresp="old/big">füchá</m></w>
             <w xml:lang="arn" lemma="pishmaiwile" pos="NP" corresp="Pismahuile"><m baseForm="pishmaiwile" type="root">Pishmaiwile</m></w>;
             <w xml:lang="arn" lemma="amun" pos="V" corresp="go/walk"><m baseForm="amu" type="root" corresp="go/walk">amu</m><m baseForm="iy" type="ind3">i</m></w>
-            <w xml:lang="arn" lemma="palin"><m baseForm="pali" type="root" corresp="ball">pali</m><m baseForm="künu" type="root" corresp="place/help">küno</m><m baseForm="me" type="and">me</m><m baseForm="a" type="fut">a</m><m baseForm="lu" corresp="nonfin">lu</m></w>.</p>
+            <w xml:lang="arn" lemma="palin" pos="V"><m baseForm="pali" type="root" corresp="ball">pali</m><m baseForm="künu" type="root" corresp="place/help">küno</m><m baseForm="me" type="and">me</m><m baseForm="a" type="fut">a</m><m baseForm="lu" corresp="nonfin">lu</m></w>.</p>
 
          <anchor n="13"/>
          <p xml:lang="arn">
@@ -935,7 +935,7 @@
             <w xml:lang="arn" lemma="nga" pos="EP"><m baseForm="nga" type="particle">nga</m></w>
             <w xml:lang="arn" lemma="lükai" pos="N" corresp="bolas/sling"><m baseForm="lükai" type="root" corresp="bolas/sling">ləkai</m><m baseForm="tu" type="vb">tu</m><m baseForm="kawellu" type="root" corresp="horse">kawell</m><m baseForm="enew" type="ind3-1s">eneu</m></w>.
             <w xml:lang="arn" lemma="wedañma" pos="N" corresp="bad-person"><m baseForm="weda" type="root" corresp="bad">Weda</m><m baseForm="(üñ)ma" type="appl">ñma</m></w>,
-            <w xml:lang="arn" lemma="konün"><m baseForm="kon" type="root" corresp="enter">kon</m><m baseForm="tu" type="rest">tu</m><m baseForm="nge" type="imp2s">nge</m></w>
+            <w xml:lang="arn" lemma="konün" pos="V"><m baseForm="kon" type="root" corresp="enter">kon</m><m baseForm="tu" type="rest">tu</m><m baseForm="nge" type="imp2s">nge</m></w>
             <w xml:lang="arn" lemma="mi" pos="PP" corresp="my"><m baseForm="mi" type="2s">mi</m></w>
             <w xml:lang="arn" lemma="ruka" pos="N" corresp="house"><m baseForm="ruka" type="root" corresp="house">ruká</m></w>
             <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>”,
@@ -1118,7 +1118,7 @@
             <w xml:lang="arn" lemma="pishmaiwile" pos="NP" corresp="Pismahuile"><m baseForm="pishmaiwile" type="root">Pishmaiwile</m></w>
             <w xml:lang="arn" lemma="nün" pos="V" corresp="grab/get"><m baseForm="nü" type="root" corresp="grab/get">nü</m><m baseForm="eyew" type="indinv3-3">eyeu</m></w>
             <w xml:lang="arn" lemma="ka" pos="C" corresp="and"><m baseForm="ka" type="particle">ka</m></w>
-            <w xml:lang="arn" lemma="ütrüfün"><m baseForm="ütrüf" type="root" corresp="throw">ütrəf</m><m baseForm="pu" type="trloc">pu</m><m>wəl</m><m baseForm="eyew" type="indinv3-3">eyeu</m></w>
+            <w xml:lang="arn" lemma="ütrüfün" pos="V"><m baseForm="ütrüf" type="root" corresp="throw">ütrəf</m><m baseForm="pu" type="trloc">pu</m><m>wəl</m><m baseForm="eyew" type="indinv3-3">eyeu</m></w>
             <w xml:lang="arn" lemma="atapay" pos="NP" corresp="Atapay"><m baseForm="Atapay" type="root">Atapay</m></w>
             <w xml:lang="arn" lemma="fücha" pos="AJ" corresp="old/big"><m baseForm="fücha" type="root" corresp="old/big">fücha</m></w>
             <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w>
@@ -1197,10 +1197,10 @@
             <w xml:lang="arn" lemma="l'ewfü" pos="N" corresp="river"><m baseForm="l'ewfü" type="root" corresp="river">leufü</m></w>
             <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>,
             <w xml:lang="arn" lemma="felen" pos="V" corresp="be thus"><m baseForm="fele" type="root" corresp="be thus">fele</m><m baseForm="(ü)n" type="inf">n</m></w>
-            <w xml:lang="arn" lemma="ütrüfün"><m baseForm="ütrüf" type="root" corresp="throw">ütrəf</m><m baseForm="tu" type="tr"></m>tu<m baseForm="(u)w" type="reflex">u</m><m baseForm="pu" type="trloc">pu</m><m baseForm="iy" type="ind3">i</m></w>
+            <w xml:lang="arn" lemma="ütrüfün" pos="V"><m baseForm="ütrüf" type="root" corresp="throw">ütrəf</m><m baseForm="tu" type="tr"></m>tu<m baseForm="(u)w" type="reflex">u</m><m baseForm="pu" type="trloc">pu</m><m baseForm="iy" type="ind3">i</m></w>
             <w xml:lang="arn" lemma="l'ewfü" pos="N" corresp="river"><m baseForm="l'ewfü" type="root" corresp="river">leufü</m></w>
             <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.
-            <w xml:lang="arn" lemma="femngechi" type="AV" corresp="thus"><m baseForm="femngechi" type="root" corresp="thus">Femngechi</m></w>
+            <w xml:lang="arn" lemma="femngechi" pos="AV" corresp="thus"><m baseForm="femngechi" type="root" corresp="thus">Femngechi</m></w>
             <w xml:lang="arn" lemma="l'an" pos="V" corresp="die"><m baseForm="l'a" type="root" corresp="die">la</m><m baseForm="iy" type="ind3">i</m></w>
             <w xml:lang="arn" lemma="atapay" pos="NP" corresp="Atapay"><m baseForm="Atapay" type="root">Atapay</m></w>
             <w xml:lang="arn" lemma="fücha" pos="AJ" corresp="old/big"><m baseForm="fücha" type="root" corresp="old/big">fücha</m></w>.</p>
@@ -1215,7 +1215,7 @@
             <w xml:lang="arn" lemma="ka" pos="C" corresp="and"><m baseForm="ka" type="particle">ka</m></w>
             <w xml:lang="arn" lemma="rangiñ" pos="AJ" corresp="half"><m baseForm="rangiñ" type="root" corresp="middle">rangiñ</m></w>
             <w xml:lang="arn" lemma="wüdamün" pos="V" corresp="split up"><m baseForm="wüda" type="root" corresp="split">wəda</m><m baseForm="(ü)m" type="cause">m</m><m baseForm="iy" type="ind3">i</m></w>
-            <w xml:lang="arn" lemma="wewel" corresp="winnings"><m baseForm="wew" type="root" corresp="win">wew</m><m baseForm="el" corresp="nmlz">el</m></w>
+            <w xml:lang="arn" lemma="wewel" pos="N" corresp="winnings"><m baseForm="wew" type="root" corresp="win">wew</m><m baseForm="el" corresp="nmlz">el</m></w>
             <w xml:lang="arn" lemma="plata" pos="N" corresp="silver/money" source="sp:plata"><m baseForm="plata" type="root" corresp="silver/money">plata</m></w>
             <w xml:lang="arn" lemma="konküimawile" pos="NP" corresp="Konküimawile"><m baseForm="konkïmawile" type="root" corresp="Concuimahuile">Konküimawile</m></w>,
             <w xml:lang="arn" lemma="füchá-ñamku" pos="NP" corresp="Big-Ñamco"><m baseForm="fücha" type="root" corresp="old/big">Füchá</m><m baseForm="ñamku" type="root" corresp="buzzard">ñamko</m></w>,
