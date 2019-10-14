@@ -12,6 +12,7 @@ import pprint
 import string
 import xml.etree.ElementTree as ET
 
+from bs4 import BeautifulSoup
 from collections import defaultdict
 
 
@@ -46,18 +47,8 @@ def get_root(xmlfile):
     Any namespaces are stripped from tag and attribute names to make subsequent
     parsing cleaner.
     """
-    # TODO: maybe better to use namespace dict here?
-    tree = ET.iterparse(xmlfile)
-    for _, elem in tree:
-        prefix, has_namespace, postfix = elem.tag.partition("}")
-        if has_namespace:
-            elem.tag = postfix
-        for attrib in elem.attrib:
-            prefix, has_namespace, postfix = attrib.partition("}")
-            if has_namespace:
-                elem.attrib[postfix] = elem.attrib.pop(attrib)
-    root = tree.root
-    return root
+    soup = BeautifulSoup(open(xmlfile), 'lxml')
+    return soup
 
 
 def parse_train_file(xmlfile, lang="arn", debug=False):
@@ -80,18 +71,33 @@ def parse_train_file(xmlfile, lang="arn", debug=False):
     # (but e.g. "peso" is tagged as both arn and spa in those contexts)
     # -- assuming we should extract every word in a given line if that line
     # is tagged with the target language
-    words = []
-    for p in root.iterfind(".//p[@lang='{}']".format(lang)):
-        words.extend(p.findall('./w'))
+    lines = root.find_all('p', {'xml:lang': lang})
+    words = [line.find_all('w') for line in lines]
+    # useful to keep this nested structure so we know which words are from
+    # which sentence: connl-u format uses blank lines to separate sentences
     if debug:
-        for w in words[:5]:
-            print(w.attrib)
-            form = ""
-            for m in w.findall('./m'):
-                print(m.text, m.attrib)
-                form += m.text
-            print(form)
-            print(type(words[0]))
+        for l in words[:5]:
+            for w in l:
+                print(w.text)
+                print(w.attrs)
+                form = ""
+                for m in w.find_all('m'):
+                    print(m.text, m.attrs)
+                    form += m.text
+                print(form)
+                #print(type(words[0]))
+    with open('connlu.txt', 'w') as outf:
+        outf.write('#ID\tFORM\tLEMMA\tUPOSTAG\tXPOSTAG\tFEATS\tHEAD\tDEPREL\tDEPS\tMISC\n')
+        for l in words:
+            for i, word in enumerate(l, 1):
+                morphemes = word.find_all('m')
+                morph_tags = list(filter(lambda x:x not in [None, 'root'], [m.get('type') for m in morphemes]))
+                if len(morph_tags) > 0:
+                    morph_tags = '|'.join(morph_tags)
+                else:
+                    morph_tags = '_'
+                outf.write("{}\t{}\t{}\t_\t{}\t{}\t_\t_\t_\t_\n".format(i, word.text, word.get('lemma'), word.get('pos'), morph_tags))
+            outf.write('\n')
     return words
 # <w xml:lang="arn" lemma="atrulün" pos="V" corresp="make tired"><m baseForm="atru" type="root" corresp="tired">at'ü</m><m baseForm="le" type="vb">le</m><m baseForm="(u)w" type="reflex">w</m><m baseForm="(ü)n" type="ind1s">en</m></w>
 
@@ -133,19 +139,26 @@ def compute_stats_from_words(words, pos=None):
     morpheme_counts = defaultdict(int)
     lemma_counts = defaultdict(int)
     with open('text_from_words.txt', 'w') as outf:
-        for word in words:
-            if (pos is None) or (word.get('pos') == pos):
-                reconstructed_word = ""
-                for morpheme in word.findall('./m'):
-                    # must be careful of deletions(?) e.g. n="12", line 135
-                    # <w xml:lang="arn" lemma="mapulen" pos="V" corresp="be distant"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m><m baseForm="le" type="vb">le</m><m baseForm="iy" type="ind3"></m></w>
-                    if morpheme.text is not None:
-                        morpheme_counts[morpheme.text.lower()] += 1
-                        reconstructed_word += morpheme.text.lower()
-                lemma_counts[word.get('lemma')] += 1
-                reconstructed_word_counts[reconstructed_word] += 1
-                outf.write("{}\n".format(reconstructed_word))
-                stats['tokens'] += 1
+        for l in words:
+            for word in l:
+                if (pos is None) or (word.get('pos') == pos):
+                    reconstructed_word = ""
+                    morph_tags = ""
+                    morphemes = word.find_all('m')
+                    for morpheme in morphemes:
+                        # must be careful of deletions(?) e.g. n="12", line 135
+                        # <w xml:lang="arn" lemma="mapulen" pos="V" corresp="be distant"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m><m baseForm="le" type="vb">le</m><m baseForm="iy" type="ind3"></m></w>
+                        if morpheme.text is not None:
+                            morpheme_counts[morpheme.text.lower()] += 1
+                            reconstructed_word += morpheme.text.lower()
+                        if morpheme.get("type") is not None:
+                            morph_tags += "{} ".format(morpheme.get("type"))
+                        else:
+                            morph_tags += "MISSING_TYPE ".format(morpheme.get("type"))
+                    lemma_counts[word.get('lemma')] += 1
+                    reconstructed_word_counts[reconstructed_word] += 1
+                    outf.write("{},{},{},{}\n".format(word.text, word.get('pos'), len(morphemes), morph_tags))
+                    stats['tokens'] += 1
     stats['reconstructed_word_tokens'] = sum(reconstructed_word_counts.values())
     stats['reconstructed_word_types'] = len(reconstructed_word_counts)
     stats['lemmas'] = len(lemma_counts)
