@@ -1509,8 +1509,8 @@
             <w xml:lang="arn" lemma="tüfachi" pos="DP" corresp="this/those"><m baseForm="tüfachi" type="DP">tvachi</m></w>
             <w xml:lang="arn" lemma="sako" pos="N" corresp="sack" source="sp:saco"><m baseForm="sako" type="root" corresp="sack">sako</m></w> (
             <w xml:lang="arn" lemma="kortal" pos="N" corresp="sack" source="sp:kostal"><m baseForm="kortal" type="root" corresp="sack">kortal</m></w>),
-            <w xml:lang="arn" lemma="ütrüfün" pos="V" corresp="throw"><m baseForm="ütrüf" type="root" corresp="throw">üt'üv</m>
-             <m baseForm="nag" type="root" corresp="down">naq</m><m baseForm="la" type="neg">la</m><m baseForm="a" type="fut" change="glide epenthesis">ya</m><m baseForm="iy" type="ind3">i</m></w>
+            <w xml:lang="arn" lemma="ütrüfün" pos="V" corresp="throw"><m baseForm="ütrüf" type="root" corresp="throw">üt'üv</m></w>
+            <w xml:lang="arn" lemma="nag" pos="V" corresp="descend?"><m baseForm="nag" type="root" corresp="down">naq</m><m baseForm="la" type="neg">la</m><m baseForm="a" type="fut" change="glide epenthesis">ya</m><m baseForm="iy" type="ind3">i</m></w>
          </p>
          <p xml:lang="spa" n="149">Cinta muy floja está; apriétala. — Bien amarralo este saco ( costal), de golpe no bajará.</p>
 

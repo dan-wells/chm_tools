@@ -1803,8 +1803,8 @@
 13	kortal	kortal	_	N	_	_	_	_	baseForms=kortal
 14	)	)	PUNCT	PUNCT	_	_	_	_	_
 15	,	,	PUNCT	PUNCT	_	_	_	_	_
-16	üt'üv
-naqlayai	ütrüfün	_	V	neg|fut|ind3	_	_	_	baseForms=ütrüf|nag|la|a|iy
+16	üt'üv	ütrüfün	_	V	_	_	_	_	baseForms=ütrüf
+17	naqlayai	nag	_	V	neg|fut|ind3	_	_	_	baseForms=nag|la|a|iy
 
 # 150
 1	Itipu	itipu	_	N	_	_	_	_	baseForms=itipu
