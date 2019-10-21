@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import argparse
 import csv
 from collections import defaultdict
 
@@ -84,3 +85,27 @@ def evaluate_predicted(reference, predicted, merged='merged.tsv'):
             merge_tsv.writerow(merge_word)
     pred_acc = correct / total
     return pred_acc
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--reference', help="Reference file containing "
+            "gold-standard lemmata in CoNNL-U format.")
+    parser.add_argument('--predicted', help="File of predicted outputs to evaluate "
+            "against gold-standard lemmata from `reference` file. Should be in "
+            "(abridged) CoNNL-2009 format.")
+    parser.add_argument('--train', help="File in CoNNL-U format containing "
+            "distinct training data to calculate most-frequent lemmata for "
+            "baseline evaluation against `reference` file.")
+    parser.add_argument('--merge', default="merged.tsv", help="File to merge "
+            "information from `reference` and `predicted` files.")
+    args = parser.parse_args()
+
+    if args.reference is not None:
+        copy_acc = baseline_copy(args.reference)
+        print("Copy baseline:\t{0:.2%}".format(copy_acc))
+    if args.train is not None and args.reference is not None:
+        most_frequent_acc = baseline_most_frequent(args.train, args.reference)
+        print("Most frequent baseline:\t{0:.2%}".format(most_frequent_acc))
+    if args.reference is not None and args.predicted is not None:
+        pred_acc = evaluate_predicted(args.reference, args.predicted, args.merge)
+        print("Predicted accuracy:\t{0:.2%}".format(pred_acc))
