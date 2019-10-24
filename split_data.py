@@ -3,10 +3,8 @@ import random
 import csv
 
 #read in the files as textfiles:
-
-doc_1897 = open('/afs/inf.ed.ac.uk/user/s16/s1683998/Documents/GPNLP/chm_tools/data/1897LENZ-11_CoNNL-U.tsv', 'r')
-#line_1897 = doc_1897.read()
-doc_1922 = open('/afs/inf.ed.ac.uk/user/s16/s1683998/Documents/GPNLP/chm_tools/data/1922AUGU_CoNNL-U.tsv', 'r')
+doc_1897 = open('./data/1897LENZ-11_CoNNL-U.tsv', 'r')
+doc_1922 = open('./data/1922AUGU_CoNNL-U.tsv', 'r')
 sentences = []
 words = []
 
@@ -19,6 +17,7 @@ for line in doc_1897:
     else:
         words.append(line)
 
+
 for line in doc_1922:
     if line == '\n':
         sentences.append(words)
@@ -27,9 +26,6 @@ for line in doc_1922:
         continue
     else:
         words.append(line)
-
-print(sentences)
-#print(len(sentences))
 
 #split the lists and then export 10/10/80 or if I will
 
@@ -48,10 +44,6 @@ def extract_data(sentences, percentage, percentage2):
     return test, validation, training
 
 test, validation, training = extract_data(sentences, 0.1, 0.1)
-print(len(test))
-print(len(validation))
-print(len(training))
-print(test)
 
 #the next thing we want to do is to export our list back to a .tsv file for processing:
 with open('data.test', 'w', newline='') as f:
