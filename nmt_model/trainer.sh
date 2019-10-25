@@ -19,11 +19,11 @@ onmt_preprocess -train_src $exp_dir/train.$2.src  \
 
 onmt_train -data $exp_dir/exp \
            -save_model $exp_dir/exp_model \
-           -config $exp_dir/train.yaml
+           -config train.yaml
 
 
 onmt_translate -model $exp_dir/exp_model\_step_5000.pt \
-               -config $exp_dir/translate.yaml \
+               -config translate.yaml \
                -src $exp_dir/valid.$2.src \
                -output $exp_dir/valid.$2.pred 
 
