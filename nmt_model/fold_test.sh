@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Experiments on 7-fold cross validation
 
 mkdir fold_test
