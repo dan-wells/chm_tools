@@ -16,7 +16,7 @@ def preprocess(args):
 
     if args.mode == 'conllu2mt':
 
-        with open(args.file) as file:
+        with open(args.file_name) as file:
 
             srcs, tgts, poss = [], [], []
             src, tgt, pos = "", "", ""
@@ -30,6 +30,9 @@ def preprocess(args):
                     poss.append(pos)
 
                     src, tgt, pos = "", "", ""
+
+                elif line.startswith('#'):
+                    continue
 
                 else:
                     tokens = line.split('\n')[0].split('\t')
@@ -57,11 +60,11 @@ def preprocess(args):
             for snt in poss:
                 file.write('{}\n'.format(snt[1:]))
 
-    elif args.mode == 'mt2char':
+    elif args.mode == 'char':
 
         srcs = open(args.src_name).readlines()
         
-        with open("char-"+args.src_name, "w+") as src_file:
+        with open(args.src_name[:-4]+".char.src", "w+") as src_file:
 
             for src in srcs:
                 src_tokens = src[:-1].split() # remove \n
@@ -94,7 +97,7 @@ def preprocess(args):
 
 
         tgts = open(args.tgt_name).readlines()
-        with open("char-"+args.tgt_name, "w+") as tgt_file:
+        with open(args.tgt_name[:-4]+".char.tgt", "w+") as tgt_file:
 
             for tgt in tgts:
 
@@ -106,7 +109,7 @@ def preprocess(args):
 
                     tgt_file.write(tgt_token)
 
-    elif args.mode == 'mt2bpe':
+    elif args.mode == 'bpe':
 
         pass
 
@@ -116,27 +119,44 @@ def preprocess(args):
 
             with open(args.predict_name) as pred_file:
 
-                total = 0
-                correct = 0
-                distance = 0
-                wrong_total = 0
+                with open(args.pos_name) as pos_file:
 
-                for tgt_line in tgt_file.readlines():
+                    # make a POS tag stream
 
-                    pred_line = pred_file.readline()[:-1]
-                    tgt_line  = tgt_line[:-2]
-                    
-                    total += 1
+                    poss = []
+                    for pos_lines in pos_file.readlines():
+                        poss = poss + pos_lines.split()
 
-                    if pred_line == tgt_line:
+                    total = 0
+                    correct = 0
+                    v_total = 0
+                    v_correct = 0
+                    distance = 0
+                    wrong_total = 0
 
-                        correct += 1
+                    for idx, tgt_line in enumerate(tgt_file.readlines()):
 
-                    else:
-                        wrong_total += 1
-                        distance += Levenshtein.distance(pred_line, tgt_line)
+                        pred_line = pred_file.readline()[:-1]
+                        tgt_line  = tgt_line[:-2]
+                        
+                        total += 1
 
-            print('{}   Accuracy: {}  Wrong Levenstein AVG: {}'.format(args.predict_name, correct/total, distance/wrong_total))
+                        if pred_line == tgt_line:
+                            correct += 1
+
+                        if poss[idx] == 'V':
+                            v_total += 1
+                            if pred_line == tgt_line:
+                                v_correct += 1
+
+                        else:
+                            wrong_total += 1
+                            distance += Levenshtein.distance(pred_line, tgt_line)
+
+                print('{}:: acc: {:.3f}%, v_acc: {:.3f}%, edit_avg: {:.3f}'.format(args.predict_name,
+                                                                                 correct/total*100,
+                                                                                 v_correct/v_total*100, 
+                                                                                 distance/wrong_total))
 
     elif args.mode == 'fold':
 
@@ -193,13 +213,13 @@ def preprocess(args):
 if __name__ == "__main__":
     
     argparser = argparse.ArgumentParser()
-    argparser.add_argument('--file', help='CONLLU file')
+    argparser.add_argument('--file_name', help='CONLLU file')
     argparser.add_argument('--src_name', default='src', help='source file name')
     argparser.add_argument('--tgt_name', default='tgt', help='target file name')
     argparser.add_argument('--pos_name', default='pos', help='part-of-speech file name')
     argparser.add_argument('--predict_name', default='predict.tgt', help='prediction file name')
     argparser.add_argument('--num_folds', default=7, help='number of folds')
-    argparser.add_argument('--mode', default='conllu2mt', help='Possible models: [conllu2mt, mt2char, mt2bpe, eval, fold]')
+    argparser.add_argument('--mode', default='conllu2mt', help='Possible models: [conllu2mt, char, bpe, eval, fold]')
     argparser.add_argument('--context', default=1, help='number of context words to include')
 
     args = argparser.parse_args()
