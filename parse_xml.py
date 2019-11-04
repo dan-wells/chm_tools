@@ -8,37 +8,18 @@ project (https://benmolineaux.github.io).
 # TODO: wrap these things into an object defined for each file processed
 
 import argparse
+import os
 import pprint
+import re
 import string
+import subprocess
 import xml.etree.ElementTree as ET
 
 from bs4 import BeautifulSoup
 from collections import defaultdict
 
 
-def parse_args():
-    """Parse script arguments."""
-    parser = argparse.ArgumentParser()
-    parser.add_argument("xmlfiles", nargs='+', help="XML files to parse.")
-    parser.add_argument("--lang", type=str, help="ISO 639-2/3 code for "
-        "language to extract from XML file. Default arn = Mapuche.",
-        default="arn", choices=("arn", "spa"))
-    parser.add_argument("--tagged", action='store_true', help="Use to specify "
-        "that input XML file has already been morphologically tagged.")
-    parser.add_argument("--pos", default=None, help="Restrict calculation of "
-        "statistics to words tagged with a specific POS. If None, calculate "
-        "statistics over all word types. Words with missing POS attributes are "
-        "ignored when specifying this argument, but not in the general case.")
-    parser.add_argument("--connlu_out", default="connlu.txt", help="Output "
-        "file to write in CoNNL-U format.")
-    parser.add_argument("--stats", action="store_true", help="Flag to compute "
-        "statistics over input file(s).")
-    parser.add_argument("--debug", action='store_true', help="Print sample "
-        "lines from processed files to check output.")
-    return parser.parse_args()
-
-
-def parse_train_file(xml_in, connlu_out, lang="arn", debug=False):
+def parse_train_file(xml_in, connlu_out, lang="arn", textnorm=False, thraxbin=None, far=None, debug=False):
     """
     Extract tagged words under XML root element for target language.
 
@@ -53,6 +34,8 @@ def parse_train_file(xml_in, connlu_out, lang="arn", debug=False):
       element as defined in the Text Encoding Initiative namespace
       (https://tei-c.org/ns/1.0/).
     """
+    text_id = os.path.splitext(os.path.basename(xml_in))[0]
+    thrax_pat = re.compile(r'.*Output string: (.*)$')
     soup = BeautifulSoup(open(xml_in), 'lxml')
     # can have spa words inside arn <p> so need to decide at that level
     # (but e.g. "peso" is tagged as both arn and spa in those contexts)
@@ -60,7 +43,7 @@ def parse_train_file(xml_in, connlu_out, lang="arn", debug=False):
     # is tagged with the target language
     with open(connlu_out, 'w') as outf:
         outf.write('# ID\tFORM\tLEMMA\tUPOSTAG\tXPOSTAG\tFEATS\tHEAD\tDEPREL\tDEPS\tMISC\n')
-        for line in soup.find_all('p', {'xml:lang': lang}):
+        for line_id, line in enumerate(soup.find_all('p', {'xml:lang': lang}), 1):
             # TODO: try and get anchor IDs from 1922AUGU as well
             if line.get('n') is not None:
                 outf.write("# {}\n".format(line.get('n')))
@@ -75,7 +58,7 @@ def parse_train_file(xml_in, connlu_out, lang="arn", debug=False):
                     for char in elem.strip():
                         if char == ' ':
                             continue
-                        outf.write("{0}\t{1}\t{1}\tPUNCT\tPUNCT\t_\t_\t_\t_\t_\n".format(i, char))
+                        outf.write("{0}_{1}_{2}\t{3}\t{3}\tPUNCT\tPUNCT\t_\t_\t_\t_\t_\n".format(text_id, line_id, i, char))
                         i += 1
                         # 1922AUGU has multiple sentences per <p> (at least multiple '.')
                         if '1922AUGU' in xml_in and char == '.':
@@ -83,6 +66,16 @@ def parse_train_file(xml_in, connlu_out, lang="arn", debug=False):
                             eos = 1
                             i = 1
                 elif elem.name == 'w':
+                    train_text = elem.text
+                    if textnorm:
+                        grm = subprocess.Popen((os.path.join(thraxbin, 'thraxrewrite-tester'), '--far={}'.format(far), '--rules={}_MAP'.format(text_id[4:8])), stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+                        output = grm.communicate(elem.text.encode())
+                        output_str = output[0].decode().split('\n')[0]
+                        thrax_match = thrax_pat.match(output_str)
+                        if thrax_match is None:
+                            print("{}_{}_{}: Rewrite failed".format(text_id, line_id, i))
+                        else:
+                            train_text = thrax_match.group(1)
                     morphemes = elem.find_all('m')
                     morph_tags = list(filter(lambda x:x not in [None, 'root'], [m.get('type') for m in morphemes]))
                     if len(morph_tags) > 0:
@@ -91,7 +84,8 @@ def parse_train_file(xml_in, connlu_out, lang="arn", debug=False):
                         morph_tags = '_'
                     # TODO: some morphemes with no baseForm, find out why (epenthetic stuff?)
                     base_forms = '|'.join(str(m.get('baseform')) for m in morphemes)
-                    outf.write("{}\t{}\t{}\t_\t{}\t{}\t_\t_\t_\tbaseForms={}".format(i, elem.text, elem.get('lemma'), elem.get('pos'), morph_tags, base_forms))
+                    outf.write("{}_{}_{}\t{}\t{}\t_\t{}\t{}\t_\t_\t_\torigText={},baseForms={}".format(
+                        text_id, line_id, i, train_text, elem.get('lemma'), elem.get('pos'), morph_tags, elem.text, base_forms))
                     if elem.get('xml:lang') != lang:
                         word_lang = elem.get('xml:lang')
                         outf.write(',wordLang={}'.format(word_lang))
@@ -258,6 +252,34 @@ def compute_stats_from_lines(lines):
     return stats
 
 
+def parse_args():
+    """Parse script arguments."""
+    parser = argparse.ArgumentParser()
+    parser.add_argument("xmlfiles", nargs='+', help="XML files to parse.")
+    parser.add_argument("--lang", type=str, help="ISO 639-2/3 code for "
+        "language to extract from XML file. Default arn = Mapuche.",
+        default="arn", choices=("arn", "spa"))
+    parser.add_argument("--tagged", action='store_true', help="Use to specify "
+        "that input XML file has already been morphologically tagged.")
+    parser.add_argument("--pos", default=None, help="Restrict calculation of "
+        "statistics to words tagged with a specific POS. If None, calculate "
+        "statistics over all word types. Words with missing POS attributes are "
+        "ignored when specifying this argument, but not in the general case.")
+    parser.add_argument("--connlu_out", default="connlu.txt", help="Output "
+        "file to write in CoNNL-U format.")
+    parser.add_argument("--stats", action="store_true", help="Flag to compute "
+        "statistics over input file(s).")
+    parser.add_argument("--textnorm", action="store_true", help="Flag to run "
+        "text normalization over input XML.")
+    parser.add_argument("--thraxbin", default=None, help="Path to compiled "
+        "OpenGRM Thrax utilities.")
+    parser.add_argument("--far", default=None, help="Path to OpenGRM Thrax "
+        "FAR compiled grammar for text normalization.")
+    parser.add_argument("--debug", action='store_true', help="Print sample "
+        "lines from processed files to check output.")
+    return parser.parse_args()
+
+
 def main():
     """Read input XML file and compute summary statistics."""
     args = parse_args()
@@ -265,13 +287,15 @@ def main():
         # TODO: neater way of handling multiple files
         words = []
         for f in args.xmlfiles:
-            words.extend(parse_train_file(f, args.connlu_out, args.lang, args.debug))
+            words.extend(parse_train_file(f, args.connlu_out, args.lang, args.textnorm, args.thraxbin, args.far, args.debug))
         if args.stats:
             stats = compute_stats_from_words(words, pos=args.pos)
     else:
-        lines = []
+        #lines = []
         for f in args.xmlfiles:
-            lines.extend(parse_test_file(f, args.lang, args.debug))
+            lines = parse_test_file(f, args.lang, args.debug)
+            with open('{}.txt'.format(os.path.splitext(os.path.basename(f))[0]), 'w') as outf:
+                outf.writelines("{}\n".format(l) for l in lines)
         if args.stats:
             stats = compute_stats_from_lines(lines)
     if args.stats:

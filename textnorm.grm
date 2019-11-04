@@ -1,0 +1,158 @@
+import '/home/s1462938/tools/thrax/share/thrax/grammars/byte.grm' as b;
+
+export TEST = (("ch":"1") | ("c":"2") | ("h":"3") | " ")+;
+amu = (
+  "a" | "ch" | "d" | "e" | "f" | "g" | "i" | "k" | "l" | "l'" | "ll" | "m" |
+  "n" | "n'" | "ñ" | "ng" | "o" | "p" | "r" | "s" | "sh" | "t" | "t'" | "tr" |
+  "u" | "ü" | "w" | "y"
+);
+v_accent = (
+  (("á" | "à" | "â" | "ą" | "ạ" | "ă" | "ặ") : "a") |
+  (("Á" | "Â") : "a") |
+  (("é" | "è" | "ė" | "ę" | "ệ") : "e") |
+  (("É" | "Ë" | "Ẽ") : "e") |
+  (("í" | "ì" | "î" | "ï" | "і") : "i") |
+  (("ó" | "ò" | "ô" | "ö" | "ồ") : "o") |
+  (("ú" | "ù" | "û" | "ủ") : "u") |
+  (("Ú" | "Ù" | "Û") : "u") | 
+  ("ǘ" : "ü") |
+  (("ә" | "ǝ") : "ə") |
+  ("ť" : "t")
+);
+# in decreasing order of frequency
+junk = (
+  "¡" | "¿" | "«" | "»" | "„" | "“" | "”" | ">" | "℞" | "´" |
+  "ç" | "…" | "¶" | "" | "ß" | "‘" | "ũ" | "✠" | "¨" | "ā" |
+  "§" | "ū" | "º" | "ć" | "ɒ" | "в" | "ã" | "·" | "–" | "—" |
+  "ſ"
+);
+# love the cyrillic confusions from ocr
+cyrillic = (
+  ("е" : "e") | (("с" | "С") : "c") | ("а" : "a") | ("п" : "n") |
+  ("р" : "p") | ("у" : "y") | (("һ" | "Н") : "h") | ("о" : "o") |
+  ("М" : "m")
+);
+weird_caps = ("Ə" : "ə") | ("Ñ" : "ñ") | ("Ŋ" | "ŋ") | ("Ü" : "ü");
+pass = b.kLower | b.kDigit | b.kSpace | b.kPunct | v_accent | weird_caps | junk | cyrillic;
+to_lower = (
+  ("A":"a") | ("B":"b") | ("C":"c") | ("D":"d") | ("E":"e") | ("F":"f") |
+  ("G":"g") | ("H":"h") | ("I":"i") | ("J":"j") | ("K":"k") | ("L":"l") |
+  ("M":"m") | ("N":"n") | ("O":"o") | ("P":"p") | ("Q":"q") | ("R":"r") |
+  ("S":"s") | ("T":"t") | ("U":"u") | ("V":"v") | ("W":"w") | ("X":"x") |
+  ("Y":"y") | ("Z":"z")
+);
+preprocess = to_lower | pass;
+
+
+vald = (
+  ("ɐ" : "a") |
+  (("e" : "e")<-1>) |
+  ("e" : "ü") |
+  (("i" : "i")<-1>) |
+  ("i" : "ü") |
+  ("ù" : "ü") |
+  ("g" : "ng") |
+  (("ng" : "ng")<-1>) |
+  (("n" : "n")<-1>) |
+  ("n" : "n'") |
+  (("l" : "l")<-1>) |
+  ("l" : "l'") |
+  ("·l" : "l'") |
+  ("v" : "f") |
+  ("b" : "f") |
+  ("c" : "k") |
+  ("qu" : "k") |
+  ("j" : "y") |
+  (("ch" : "ch")<-1>) |
+  ("hu" : "w") |
+  ("t\[r\]" : "tr") |
+  ("ḡ" : "g") |
+  ("q" : "g") |
+  (("d" : "d")<-1>) |
+  ("d" : "sh") |
+  ("h" : "h")
+);
+vald_amu = amu - RmWeight[Project[vald, 'input']];
+#vald_pass = pass - ("\[" | "\]");
+# this needs to be very liberal so that to_lower doesn't block the parse
+# for any possible input character (alternative would be CDRewrite but the
+# sigma_star definition is basically equivalent to this set)
+export vald_pass = ((vald<-1>)| amu | preprocess)+;
+export VALD_MAP = Optimize[(vald_pass @ ((vald<-1>) | vald_amu | pass))+];
+
+febr = (
+  ("e" : "ü") |
+  ("i" : "ü") |
+  ("ù" : "ü") |
+  ("g" : "ng") |
+  ("n" : "n'") |
+  ("l" : "l'") |
+  ("v" : "f") |
+  ("c" : "k") |
+  ("qu" : "k") |
+  ("hu" : "w") |
+  ("th" : "tr") |
+  ("gh" : "g") |
+  (("d" : "d")<-1>) |
+  ("d" : "sh")
+);
+febr_amu = amu - RmWeight[Project[febr, 'input']];
+export FEBR_MAP = Optimize[(febr | febr_amu)+];
+
+lenz = (
+  ("ə":  "ü") |
+  (("Ŋ" | "ŋ"):  "ng") |
+  ("n·":  "n'") |
+  ("l·":  "l'") |
+  ("v":  "f") |
+  ("v'":  "f") |
+  ("ʎ":  "ll") |
+  ("t'":  "tr") |
+  ("q":  "g") |
+  ("s'":  "r") |
+  ("z'":  "r") |
+  ("z":  "d") |
+  ("d'":  "d") |
+  ("zh":  "sh")
+);
+lenz_amu = amu - Project[lenz, 'input'];
+export lenz_pass = ((lenz<-1>) | amu | preprocess)+;
+export LENZ_MAP = Optimize[(lenz_pass @ ((lenz<-1>) | lenz_amu | pass))+];
+
+augu = (
+  ("ə" : "ü") |
+  ("ŋ" : "ng") |
+  ("n·" : "n'") |
+  ("l·" : "l'") |
+  ("qu" : "k") |
+  ("q" : "g") |
+  ("∫" : "sh") |
+  #("ſ" : "sh")
+  # these seem to be characteristic transcription errors for this text
+  ("ſ" : "f") |
+  ("º" : "ə") |
+  ("ö" : "ə")
+);
+augu_amu = amu - RmWeight[Project[augu, 'input']];
+#export augu_pass = (Project[augu, 'input'] | amu | preprocess)+;
+export augu_pass = ((augu<-1>) | amu | preprocess)+;
+export AUGU_MAP = Optimize[(augu_pass @ ((augu<-1>) | augu_amu | pass))+];
+
+guev = (
+  ("ŋ" : "ng") |
+  ("n" : "n'") |
+  ("l" : "l'") |
+  ("d" : "t")
+);
+guev_amu = amu - Project[guev, 'input'];
+export GUEV_MAP = Optimize[(guev | guev_amu)+];
+
+moes = (
+  ("ë" : "ü") |
+  ("ŋ" : "ng") |
+  ("n·" : "n'") |
+  ("l·" : "l'") |
+  ("q" : "g")
+);
+moes_amu = amu - Project[amu, 'input'];
+export MOES_MAP = Optimize[(moes | moes_amu)+];
