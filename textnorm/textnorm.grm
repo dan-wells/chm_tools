@@ -1,4 +1,4 @@
-import '/home/s1462938/tools/thrax/share/thrax/grammars/byte.grm' as b;
+import 'byte.grm' as b;
 
 export TEST = (("ch":"1") | ("c":"2") | ("h":"3") | " ")+;
 amu = (
