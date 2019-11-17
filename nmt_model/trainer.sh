@@ -31,6 +31,8 @@ python util.py --mode mt2char \
 # preprocess
 onmt_preprocess -train_src $exp_dir/train.char.src  \
                 -train_tgt $exp_dir/train.char.tgt  \
+                -valid_src $exp_dir/valid.char.src  \
+                -valid_tgt $exp_dir/valid.char.tgt  \
                 --dynamic_dict \
                 -save_data $exp_dir/exp
 
@@ -40,10 +42,12 @@ onmt_train -data $exp_dir/exp \
            -config $exp_dir/train.yaml
 
 # translate (evaluate)
-onmt_translate -model $exp_dir/exp_model\_step_7000.pt \
+model_file=$(find $exp_dir -name "exp_model*")
+
+onmt_translate -model $model_file \
                -config $exp_dir/translate.yaml \
                -src $exp_dir/valid.char.src \
-               -output $exp_dir/valid.char.prd 
+               -output $exp_dir/valid.char.prd > $exp_dir/valid.char.verbose
 
 # mt2conllu
 

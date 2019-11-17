@@ -1,0 +1,35 @@
+param_init_glorot: 'true'
+model_dtype: fp32
+normalization: sents
+
+optim: adam
+learning_rate: 1
+learning_rate_decay: 0.01
+max_grad_norm: 5
+decay_method: noam
+decay_steps: 1000
+
+valid_batch_size: 16
+batch_size: 16
+batch_type: sents
+
+seed: 2019
+train_steps: 10000
+valid_steps: 1000
+warmup_steps: 1000
+keep_checkpoint: 1
+report_every: 50
+early_stopping: 2
+
+world_size: 1
+gpu_ranks: 0
+
+rnn_type: LSTM
+decoder_type: rnn
+encoder_type: rnn
+rnn_size: 50
+word_vec_size: 50
+layers: 1
+
+global_attention: general
+global_attention_function: softmax

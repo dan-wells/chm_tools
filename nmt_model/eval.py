@@ -1,5 +1,5 @@
 """
-Evaluation and Error Analysis
+Evaluation and Error Analysis for file output in CONLLU format
 """
 
 import argparse
@@ -95,7 +95,7 @@ def eval(args):
         unseen_acc = unseen_correct[pos] / unseen_totals[pos] if unseen_totals[pos] else 'N/A'
         unseen_edit = unseen_distance[pos] / unseen_wrongs[pos] if unseen_wrongs[pos] else 'N/A'
 
-        stats.write(f'{pos.capitalize()}\t{seen_acc}\t{seen_edit}\t{unseen_acc}\t{unseen_edit}\n')
+        stats.write(f'{pos.upper()}\t{seen_acc}\t{seen_edit}\t{unseen_acc}\t{unseen_edit}\n')
 
     # Accumulative Stats 
     seen_acc  = sum(seen_correct.values())/sum(seen_totals.values()) if sum(seen_totals.values()) else 'N/A'

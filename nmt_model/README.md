@@ -1,25 +1,30 @@
-# NMT model for lematization
+# NMT-based models for lematization
 
 ## Installation
 
-to install used packages use ``requirements.txt`` file.
+Envirenment setup is specified in ``requirements.txt`` and can be installed using ``pip``.
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Data Preparation
+## Preprocessing
 
-Use the ``util.py`` with its various modes to perform a variety of function asociated with ``nmt_model``:
+``util.py`` has various modes to perform a variety of function asociated with ``nmt_model`` preprocessing:
 
-- ``conllu2mt``: converts ``conllu`` files to format suitable for MT system of parallel source (src) and target (tgt) sentences.
-- ``chart``: converts parallel src and tgt sentences to src and tgt for char-level lematization based on [lematus](https://www.aclweb.org/anthology/N18-1126/)
-- ``bpe``: converstion of src and tgt sentences to src and tgt bpe-level lemematization based on [lematus](https://www.aclweb.org/anthology/N18-1126/) (``TODO``)
-- ``eval``: evaluation nmt_model prediction and gold standard. Currently recording 0/1 accuracy and wrong lematization edit-distance between gold standard.
-- ``fold``: make a dataset for fold testing given original train and valid data. Stored in ``fold_test`` folder.
+- conllu2mt : convert ``CONLLU`` style files to the parallel language sentence pairs of source and target.
+- mt2char : tokenize the parallel language sentence predictions using characters.
+- mt2conllu : convert paralle language sentence predictions to CONLLU format for evaluation.
 
-## Experiments
+## Training
 
-### Fold_test
+To train an nmt_model use ``trainer.sh`` to which you need to specify the experiment directory that contains:
 
-Minimialistic 7-fold cross validation for the given dataset.
+- ``data.train``: data used for model trainining.
+- ``data.valid``: data used for model comparison when doing parameter tuning.
+- ``train.yaml``: nmt_model specification. (see ``exp_template/train.yaml``).
+- ``translate.yaml``: decoding specification (see ``exp_template/train.yaml``).
+
+## Evaluation
+
+To evaluate the model ``trainer.sh`` calls ``eval.py`` that takes releavant files and computes: accuracy, edit Distance, ROUGE for both seen and unseen data in training.
