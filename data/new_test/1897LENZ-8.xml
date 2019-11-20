@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Estudios Araucanos: materiales para el estudio de la lengua, la literatura, i las costumbres de los indios mapuche o araucanos : diálogos en cuatro dialectos, cuentos populares, narraciones históricas i descriptivas i cartas de los indios en la lengua mapuche<lb/>X cantos araucanos en dialecto moluche y pehuenche chileno (Moluche)</title>
+            <author>Rodolfo Lenz</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1895-1898 (elicited 1896)</date>
+               <name>Santiago de Chile, Imprenta Cervantes </name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Anales de la Universidad de Chile</publisher>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Tomo XCVII</p>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic texts</ab>
+            <ab>DIALECT: Moluche</ab>
+            <ab>INFORMANT: Benito Naguin Trensao (1) and other Moluche people (2-4), </ab>
+            <ab>TRANSCRIBER: these annonymous verses were taken down by Chiappa and corrected by Lenz and Calvun</ab>
+            <ab>LOCATION: Chollcholl (place of residence of informant) and other locations</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>TEXT OCR AND CORRETIONS: Belén Villena and Team </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>ADDITIONAL FORMATTING: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p xml:lang="spa" n="1"> VERSOS DEL MOLUCHE BENITO NAGUIN TRENSAO</p>
+         
+         <p xml:lang="arn" n="a"> <w xml:lang="arn" lemma="lamngen" pos="N" corresp="brother (of a woman) or sister"><m baseForm="lamngen" type="root" corresp="brother (of a woman) or sister">Lamŋén</m></w> <w xml:lang="arn" lemma="anay" pos="EP" corresp="friend!"><m baseForm="anay" type="root" corresp="friend!">anái</m></w>, <w xml:lang="arn" lemma="lamngen" pos="N" corresp="brother (of a woman) or sister"><m baseForm="lamngen" type="root" corresp="brother (of a woman) or sister">lamŋén</m></w> <w xml:lang="arn" lemma="anay" pos="EP" corresp="friend!"><m baseForm="anay" type="root" corresp="friend!">anái</m></w><lb/>
+            <w xml:lang="arn" lemma="fücha" pos="AJ" corresp="old/big"><m baseForm="fücha" type="root" corresp="old/big">vəta</m></w> <w xml:lang="arn" lemma="kuyfi" pos="AV" corresp="long time"><m baseForm="kuyfi" type="root" corresp="long time">kúivi</m></w> <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">mái</m></w> <w xml:lang="arn" lemma="pen" pos="V" corresp="see"><m baseForm="pe" type="root" corresp="see">pe</m><m baseForm="(u)w" type="reflex">ú</m><m baseForm="iyu" type="ind1d">yu</m></w> <w xml:lang="arn" lemma="lamngen" pos="N" corresp="brother (of a woman) or sister"><m baseForm="lamngen" type="root" corresp="brother (of a woman) or sister">lamŋən</m></w>,<lb/>
+            <w xml:lang="arn" lemma="lamngen" pos="N" corresp="brother (of a woman) or sister"><m baseForm="lamngen" type="root" corresp="brother (of a woman) or sister">ʎamŋén</m></w>  <w xml:lang="arn" lemma="anay" pos="EP" corresp="friend!"><m baseForm="anay" type="root" corresp="friend!">anái</m></w>, <w xml:lang="arn" lemma="lamngen" pos="N" corresp="brother (of a woman) or sister"><m baseForm="lamngen" type="root" corresp="brother (of a woman) or sister">ʎamŋén</m></w>.</p>
+         
+         <p xml:lang="arn" n="b"> <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">Pə´chi</m></w> <w xml:lang="arn" lemma="kompañen" pos="V" corresp="accompany" source="sp:acompañar"><m baseForm="kompañe" type="root" corresp="accompany">kómpañé</m><m baseForm="(ü)n" type="ind1s">n</m></w>, <w xml:lang="arn" lemma="anay" pos="EP" corresp="friend!"><m baseForm="anay" type="root" corresp="friend!">anai</m></w>;<lb/>
+            <w xml:lang="arn" lemma="amun" pos="V" corresp="go/walk"><m baseForm="amu" type="root" corresp="go/walk">ámu</m><m baseForm="tu" type="rest">ty</m><m baseForm="a" type="fut">á</m><m baseForm="iyu" corresp="ind1d">yu</m></w> <w xml:lang="arn" lemma="kay" pos="AV" corresp="other/also"><m baseForm="kay" type="root" corresp="other/also">ká</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mápu</m></w>.</p>
+         
+         <p xml:lang="arn" n="c"> Papái anái, papái,<lb/>
+                  pasíviku Kúrináo.</p>
+         
+         <p xml:lang="arn" n="d"> Və´ta kómpañén, vtá ka mápu,<lb/>
+                     ámukaáyu ká mapú, kompáñ.</p>
+         
+         <p xml:lang="arn" n="e"> Káita táñi mápu,<lb/>
+                        káita támən mápu,<lb/>
+         konáyu lek’áituálu <lb/>
+         áiʎa mári ñáwe .</p>
+         
+         <p xml:lang="arn" n="2">WIŊKƏFE</p>
+         
+         <p xml:lang="arn">Uüle ula amuan,<lb/>
+         amuan nome Kaqtün;<lb/>
+         pemean ñi kuʎin,<lb/>
+         ñi chumlen,</p>
+         <p xml:lang="arn" n="5">chumpeichamai , wiŋkəñmaŋen.<lb/>
+         Kuom t’apəmkənomean;<lb/>
+         ŋəneltumean ñi kuʎin,<lb/>
+         ñi kaweʎu kuom pemean<lb/>
+         ñi kuom məlen kam.—</p>
+         <p xml:lang="arn" n="10">Kiñe ŋerkelai ñi waka.<lb/>
+         ¿Iñei wiŋkəñmaeneu?<lb/>
+         —Təva-meu məlei kiñe wiŋkəve.<lb/>
+         —¿Cheu məlei? —Kaniupaŋ piŋelu.—<lb/>
+         —Vei presoavin.</p>
+         <p xml:lang="arn" n="15">Elutuelimu ñi waka,<lb/>
+         veimeu presolavin.<lb/>
+         Amuan kues-meu,<lb/>
+         veimeu t’aipuavin.<lb/>
+         “¡Rüppü, wiŋkəve, niekeimi! </p>
+         <p xml:lang="arn" n="20">Elutunoeli ñi waka,<lb/>
+         kat’üntuñmaeyu pilun.<lb/>
+         Kat’üntuñmanoeliu,<lb/>
+         pataka wiravú nieimi 
+         mi potou-meu;</p>
+         <p xml:lang="arn" n="25">¡kəme t’ipayai mi moʎfün!<lb/>
+         —¿Iñei presoeyu , Kaniupaŋ? piŋelmi,<lb/>
+         —Veita presoeyu, piŋeaimi.”</p>
+         
+         
+         <p xml:lang="arn" n="3">NOʎINCHE</p>
+         
+         <p xml:lang="arn"><anchor n="A"/>. Noʎin, anai peñi,<lb/>
+         pülku meu pəchi azən ,<lb/>
+         wiŋka tañi pülku-meu.<lb/>
+         ʎaqpayen pülku,<lb/>
+         mətte kəpa-ŋoʎin!<lb/>
+            <anchor n="B"/>ʎaqayu, anai peñi,<lb/>
+         kiñe limeta pülku!<lb/>
+            <anchor n="A"/>Puttuweayu,<lb/>
+         veita amutuayu.</p>
+         <p xml:lang="arn" n="10"> <anchor n="B"/> ¿Chumŋeweavui ŋoʎiliu?<lb/>
+         ¡Vei ke tai venté azən, anai! 
+         Eyeu-pəle, rüppu-pəle<lb/>
+         puttu-putuayu.<lb/>
+            <anchor n="A"/>—¿Cheu məlei ñi kaweʎu?<lb/>
+         ¡Kəppalelmutuchi!<lb/>
+         Prakaweʎutuchi,<lb/>
+         umautuputuan.<lb/>
+         Peli pülku am(?) ka mapu<lb/>
+         puttul-putuan.</p>
+         <p xml:lang="arn" n="20">Fentepun ŋoʎilean,<lb/>
+         puwtuan ruka-meu.<lb/>
+         ¿Cheu məlei ñi ruka?<lb/>
+         ¿Cheu məlei rüppu?<lb/>
+         ¡Ñam amutuan!</p>
+         <p xml:lang="arn" n="25"><anchor n="A"/>Papai, akutun;<lb/>
+         kure, re mətte ŋoʎin<lb/>
+         wiŋka tañi pülku-meu.<lb/>
+            <anchor n="C"/>¿Cheu ŋoʎipeyeimi?<lb/>
+            <anchor n="A"/>Tañi peñi tañi ruka-meu.</p>
+         <p xml:lang="arn" n="30">Məlerkei puttun veimeu;<lb/>
+         puttu-ŋoʎi che<lb/>
+         s’t’aulerkei kəmeke went’u<lb/>
+         Akun veimeu pun,<lb/>
+         veimeu “naqpaŋe piŋevun.</p>
+         <p xml:lang="arn" n="35">Pilavun ñi naqael.<lb/>
+         Veimeu ʎaqŋen;<lb/>
+         veimeu puttun təvachi pülku.<lb/>
+         Kəpa-putunkalavun,<lb/>
+         veimeu vei piŋen:</p>
+         <p xml:lang="arn" n="40">“¿Ka ke che ñi ruka-meu 
+         anda putuaimi?<lb/>
+         Inche tañi ruka putuaimi.<lb/>
+         Ñamle tami wesakelu<lb/>
+         inche ta peleltuayu;</p>
+         <p xml:lang="arn" n="45">veimeu ta kəme ŋoʎiayu.<lb/>
+         Uüle ta amuaimi,<lb/>
+         inche ta kəme elmetuayu<lb/>
+         eimi mi ruka-meu;<lb/>
+         ʎadketu ŋelayaimi”.</p>
+         <p xml:lang="arn" n="50">Veimeu kəme putuin<lb/>
+         inche tañi piuke-meu ,<lb/>
+         puttupei tañi peñi.<lb/>
+            <anchor n="C"/>¿Chumŋelu kəpatulaimi?<lb/>
+            <anchor n="B"/>Inche tañi doam.</p>
+         <p xml:lang="arn" n="55">S’t’aulelmeu kəmeke went’u,<lb/>
+         veimeu ta vei pivin tañi peñi:<lb/>
+         “naqkaweʎuŋe” pivin, 
+         veimeu naqkaweʎui .</p>
+         
+         
+         
+         <p xml:lang="arn" n="4"> CANTOS DE AMOR</p>
+         
+         <anchor n="I"/>
+         
+         <p xml:lang="arn">Elelen kiñe kaweʎu<lb/>
+         ñi amuam, inakudumean .<lb/>
+         Kəpalelen ñi piña ,<lb/>
+         ñi chiʎa kəttu;</p>
+         <p xml:lang="arn" n="5">kəpalelen ñi zipuela.<lb/>
+         Eppe uün akutuan<lb/>
+         kiñetu müt’əmlei achawaʎ<lb/>
+         rupan inakudumean.</p>
+         
+         <anchor n="II"/> 
+         
+         <p xml:lang="arn">Elelen kut’i. —Pilan.<lb/>
+         Mətte allü-pelai mi pünün.<lb/>
+         —Püchi kai tañi pünün.<lb/>
+         Eluaven kut’i</p>
+         <p xml:lang="arn" n="5">welu mətte kəmentuavuimi;<lb/>
+         kəmentuavuimi kut’i.<lb/>
+         ¡Ta pünün! —¡Ta kut’i!<lb/>
+         —¡Kalcha kut’i! —¡Kalcha pünün!</p>
+         
+         <anchor n="III"/>
+         
+         <p xml:lang="arn">—¡Kureyeavuyu!<lb/>
+         —Ya, eimi allü kuʎiaeimi,<lb/>
+         kuom tañi ayüafin.<lb/>
+         —Tie mu peuayu kuo-ple,</p>
+         <p xml:lang="arn" n="5">veimeu t’auayu.<lb/>
+         Kiñe püchi seña eleluyu<lb/>
+         tayu t’auam.<lb/>
+         Mətten kunoaimi püchi rüŋi;<lb/>
+         raŋi antə, veimeu peuayu.</p>
+         <p xml:lang="arn" n="10">Chuchi une puwle<lb/>
+         veimeu üŋümuayu .<lb/>
+         —Tai pun kuonpayaimi,<lb/>
+         veimeu kəme nüt’amkauayu.<lb/>
+         Eppúe veimeu kureyeuayu;</p>
+         <p xml:lang="arn" n="15">veimeu amuayu ka mapu;<lb/>
+         maŋkad-payaen.<lb/>
+         —Chumŋechi inaŋeʎeliu rume diŋela-ayu.<lb/>
+         —Vei ula yepatuan wesakelu,</p>
+         <p xml:lang="arn" n="20">mavüpayalmi veimeula.<lb/>
+         —Yepatuan kuom wesakelu.<lb/>
+         —T’apümaimi kuʎin<lb/>
+         ta-mi mafüpayael.<lb/>
+         Eppu küyen-meu</p>
+         <p xml:lang="arn" n="25">mavüpayaimi.<lb/>
+         Veimeu kəme ŋiʎan piŋeimi<lb/>
+         kəme yeweŋeaimi.<lb/>
+         Məlei ñi chao, kəme kaweʎu aluavimi;<lb/>
+         məlei ñi ñuke, “kəme ʎaʎa” piaimi.</p>
+         
+         
+      </body>
+   </text>
+</TEI>

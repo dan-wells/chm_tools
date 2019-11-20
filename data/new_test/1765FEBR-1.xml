@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Arte de la lengua general del reyno de Chile: Epu ghulmen gañi dugulun (Dialogue
+               of two chiefs)</title>
+            <author>Andres Febres</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1765 (1st Edition)</date>
+               <name>Lima, Peru (Calle de la Encarnación)</name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Tomo XCVII</p>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>DIALECT: Imperial/Angol (Central/Northern Mapudungun)</ab>
+            <ab>Grammar/Missionary Texts</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>ORIGINAL DOCUMENT: Biblioteca Nacional de Chile (id MC: MC0013039/id BN: 62696)</p>
+            <p>DOCUMENT SCAN: http://www.memoriachilena.cl/602/w3-article-8486.html</p>
+            <p>TEXT OCR AND CORRETIONS: Transcribed (single key) by AEL Data 01.2014. RN1
+               (http://darwin-online.org.uk/content/frameset?pageseq=1&amp;itemID=A709&amp;ampviewtype=text) </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>ADDITIONAL FORMATTING AND OCR CORRECTIONS: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <pb n="100"/>
+
+         <head>EPU GHÙLMEN GAÑI DUGULUN. Quiñegelu D. Ighnacio Levihueque, cagelu D.Pedro
+            Llancahuenu pigelu.</head>
+
+         <anchor n="267"/>
+         <p xml:lang="arn" n="LEvihueque"> <w xml:lang="arn" lemma="marimari" pos="IJ" corresp="hello/greetings!"><m baseForm="marimari" type="root" corresp="hello/greetings">Marimari</m></w> <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w>, <w xml:lang="arn" lemma="nay" pos="N" corresp="friend"><m baseForm="nay" type="root" corresp="friend">nay</m></w>. </p>
+         <p xml:lang="arn" n="Liancahucnu"> <w xml:lang="arn" lemma="marimari" pos="IJ" corresp="hello/greetings!"><m baseForm="marimari" type="root" corresp="hello/greetings">Marimari</m></w> <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w>, <w xml:lang="arn" lemma="nay" pos="N" corresp="friend"><m baseForm="nay" type="root" corresp="friend">nay</m></w>. </p>
+         <p xml:lang="arn" n="Lev"> <w xml:lang="arn" lemma="feyllefe" pos="N" corresp="?"><m baseForm="fey" type="D">Vey</m><m baseForm="lle" type="affirm">lle</m><m baseForm="fe" type="agent">ve</m></w>, <w xml:lang="arn" lemma="tüfachiyawn" pos="V" corresp="be around here"><m baseForm="tüfachi" type="DP">Vachi</m><m baseForm="(ki)yaw" corresp="amb">yau</m><m baseForm="imi" type="ind2s">ymi</m></w>? </p>
+         <p xml:lang="arn" n="Llanc"> <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">May</m></w>, <w xml:lang="arn" lemma="tüfachiyawn" pos="V" corresp="be around here"><m baseForm="tüfachi" type="DP">vachi</m><m baseForm="(ki)yaw" corresp="amb">yau</m><m baseForm="(ü)n" type="ind1s">n</m></w> <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w>, <w xml:lang="arn" lemma="peñi" pos="N" corresp="brother (of a man)"><m baseForm="peñi" type="root" corresp="brother (of a man)">peñi</m></w>. </p>
+         <p xml:lang="arn" n="Lev"> <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">Ca</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="ngepen" pos="V" corresp="seem"><m baseForm="nge" type="root" corresp="be">ge</m><m baseForm="pe" type="px">pe</m><m baseForm="imi" type="ind2s">ymi</m></w> <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="tüfa" pos="DP"><m baseForm="tüfa" type="DP">tva</m></w>, <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">inche</m></w> <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">may</m></w> <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="pen" pos="V" corresp="see"><m baseForm="pe" type="root" corresp="see">pe</m><m baseForm="ke" type="habit">que</m><m baseForm="la" type="neg">la</m><m baseForm="eyu" type="ind1s-2s">yu</m></w> <w xml:lang="arn" lemma="tüfachi" pos="DP" corresp="this/those"><m baseForm="tüfachi" type="DP">vachi</m> </w><w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. </p>
+         <p xml:lang="arn" n="Llanc"> <w xml:lang="arn" lemma="mupin" pos="V" corresp="tell the truth"><m baseForm="mupi" type="root" corresp="tell the truth">Mupi</m><m baseForm="imi" type="ind2s">mi</m></w> <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w>, <w xml:lang="arn" lemma="nay" pos="N" corresp="friend"><m baseForm="nay" type="root" corresp="friend">nay</m></w>; <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="ngen" pos="V" corresp="be"><m baseForm="nge" type="root" corresp="be">ge</m><m baseForm="(ü)n" type="ind1s">n</m></w> <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">inche</m></w>, <w xml:lang="arn" lemma="fewla" pos="AV" corresp="now"><m baseForm="fewla" type="root" corresp="now">veula</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="my"><m baseForm="ñi" type="1">ñi</m></w> <w xml:lang="arn" lemma="konün" pos="V" corresp="enter"><m baseForm="kon" type="root" corresp="enter">con</m><m baseForm="pa" type="cis">pa</m><m baseForm="(ü)n" corresp="ind1s">n</m></w> <w xml:lang="arn" lemma="tüfachi" pos="DP" corresp="this/those"><m baseForm="tüfachi" type="DP">vachi</m></w>
+            <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>. </p>
+         <p xml:lang="arn" n="Lev"> <w xml:lang="arn" lemma="feyllechi" pos="N" corresp="it is thus"><m baseForm="fey" type="D">Vey</m><m baseForm="lle" type="affirm">lle</m><m baseForm="chi" type="DA">chi</m></w>, <w xml:lang="arn" lemma="feyllechi" pos="N" corresp="it is thus"><m baseForm="fey" type="D">vey</m><m baseForm="lle" type="affirm">lle</m><m baseForm="chi" type="DA">chi</m></w>: <w xml:lang="arn" lemma="tuchi" pos="WH" corresp="which (one)"><m baseForm="tuchi" type="root" corresp="which">chuchi</m></w> <w xml:lang="arn" lemma="kam" pos="IP"><m baseForm="kam" type="particle">cam</m></w> <w xml:lang="arn" lemma="mi" pos="PP" corresp="your"><m baseForm="mi" type="2s">mi</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, <w xml:lang="arn" lemma="peñi" pos="N" corresp="brother (of a man)"><m baseForm="peñi" type="root" corresp="brother (of a man)">peñi</m></w>? </p>
+         <p xml:lang="arn" n="Llanc"> Inche ñi mapumunapuley, huelu veymo themlan., <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> themn:
+            Eneol <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> molleghn <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">inche</m></w>, huelu aldù pichi hueñi gevulu petu, ulgen, veymo vey <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>
+            themn. </p>
+         <p xml:lang="arn" n="Lev"> Iney cam <anchor n="(a)"/> eymi, ga Encol <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> lleghimi ? <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">inche</m></w> ga
+            quimniequevio vill veychi <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>. </p>
+         <p xml:lang="arn" n="Llanc"> Inche Llancahuenu pigen. </p>
+         <p xml:lang="arn" n="Lev"> <w xml:lang="arn" lemma="marimari" pos="IJ" corresp="hello/greetings!"><m baseForm="marimari" type="root" corresp="hello/greetings">Marimari</m></w>, Llancahuenu. </p>
+         <p xml:lang="arn" n="Llanc"> <w xml:lang="arn" lemma="marimari" pos="IJ" corresp="hello/greetings!"><m baseForm="marimari" type="root" corresp="hello/greetings">Marimari</m></w>, vùthay. </p>
+         <p xml:lang="arn" n="Lev"> Inche Levihueque pigen. </p>
+         <p xml:lang="arn" n="Llanc"> <w xml:lang="arn" lemma="marimari" pos="IJ" corresp="hello/greetings!"><m baseForm="marimari" type="root" corresp="hello/greetings">Marimari</m></w> Levihueque, marimari. </p>
+         <p xml:lang="arn" n="Lev"> Vey Encol <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> ga lleghimi? incy cam tami chao? </p>
+         <p xml:lang="arn" n="Llanc"> Pepalavin ñi chao em, aidù pichilu <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">may</m></w> yegen <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w> mapu: eymi ga
+            qimmaeli <anchor n="(b)"/> gañi pu moñmahue, gañi pu them, ñi chumlen gañi <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, ñi cùmelen vill <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>,
+            ñi hueralen <note xml:lang="spa">(a) v.n.124, 140, y 141. (b) v.n.127.</note>
+            <pb n="102"/> chey, nùthamcaen; <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">inche</m></w> cay nùthamayu aldùn dugu, coylla dugu no, quidu ñi
+            pemeelchi dùgu. </p>
+         <p xml:lang="arn" n="Lev"> May, nùthamayu cacha; vey <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> cùmeque nùtham mo culliuaya gepey. </p>
+         <p xml:lang="arn" n="Llanc"> Vempeay cacha, cùmeque dùgu elueli, <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">inche</m></w> cay cumeque dùgu
+            eluayu, vem thavmañumuayu. </p>
+         <p xml:lang="arn" n="Lev"> Chunten mo cùtu nùthamen, ga pivuymi? </p>
+         <p xml:lang="arn" n="Llanc"> Cuyvi cùtu maga, gañi thipael mo cutu may: petu gañi mleel
+            <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">inche</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, cùmelevuy <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, cùmelevuy <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> pu Huinca, mlevuy venten pu Patiru,
+            vureniemapuquevilu <anchor n="(c)"/> pichin ula gañi thipan mo <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">inche</m></w>, aucay, piam <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>,
+            cathihuincayam, <anchor n="(d)"/> lagùmcheam, aldùn quehuatuam, piam, pichi allcùvin vaquechi dugu:
+            veychitu <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">may</m></w> nùthamaen ga, pivun. </p>
+         <p xml:lang="arn" n="Lev"> Eya, allcùtulege may. </p>
+         <p xml:lang="arn" n="Llanc"> Vey may, allcùtulequen. <anchor n="268"/>
+         </p>
+         <p xml:lang="arn" n="Lev"> Ñi llitugen mo <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> Chilli <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> nùthamayu, chumgelu elugen
+            vaquechi dugu. Mivu huaranca thipantuy deuma, vuta magin gey, piam, vill pu leuvu, pu
+            lavquen cay thipapay pu tue <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, veymo vey prayecumey co huente tue, huente pu alihuen,
+            huente pu mahuida, vemgelu cay ghùrvi vill pu che vill <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, pura mùten moutuy, <anchor n="(e)"/>
+            meli <note xml:lang="spa">(c) v. n. 147. (d) v. n. 74. (e) v. n. 130.</note>
+            <pb n="104"/> huenthu, meli domo cay, quiñe mahuida <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, Thegtheg pigelu; vey ega
+            yallvign vill caque che. </p>
+         <p xml:lang="arn" n="Llanc"> Euem, <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w> nay! <w xml:lang="arn" lemma="tüfa" pos="DP"><m baseForm="tüfa" type="DP">tva</m></w> egu <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">may</m></w> yallyecumevilu caque che, opopetuy
+            <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> che <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. </p>
+         <p xml:lang="arn" n="Lev"> Vemi: pùdyecumey pu che vill <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, vachi <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> acuy cay,
+            vemgelu opotuy che <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. Rupay deuma cad aldun thipantu, cùme opolevulu Chilli <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>,
+            pegey, piam, quiñe ligh che, Tomè pigelu, tvachi pu Huinca ado <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> mlelu vemgey ñi ad, ñi
+            age, ñi lonco cay: aldùn cùme que dugu cupaleluqueiñ, huenu dugu may, pi, pigey; mley
+            quiñe vuta Gen, vill qui nlu, vill pepilvoe, Gen huenu <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, Gen tue <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> cay, vill
+            thoquiquevilu, vey elì <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> antù, cùyen, pu huaglen cay, vill huenu <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, vill tue mapu
+            cay, inchiñ cay eleiñ mo tue <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> meu: vill vachi nutham elupay, caque vuta dugu
+            nuthamyauy vachi <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> meu: pouy, piam cay, Ùco <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, Mendoza cara ple, eluvilu vill
+            veychi che ñi cùalechi <anchor n="(f)"/> dugu, huelu <w xml:lang="arn" lemma="tüfa" pos="DP"><m baseForm="tüfa" type="DP">tva</m></w> egn mugeltulaygn, pilaygn, piam, ñi
+            allcùaviel vaquechi dugu: vey ñi vla, ampape pu gùrù, piay veychi cùpaluchiche, Huinca
+            chey, deuma cupa allcùquenolu pu che, <note xml:lang="spa">(f) v. n. 64.</note>
+            <pb n="106"/> iallcùpape pu gùrù, pu pagi, pu luan, caque vum ica: veymo vey (vuta
+            perimontuy em veychi che!) allcùtulepay pu gùrù, pu pagi, pu quirque, caque ivum cay,
+            huentelepay quiñe vuta cura <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, veymo cay elcùnovi ñi pùnon egn, veychi Huinca elcùnovi
+            cay ñi pùnon cura <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, pegequey cay petu <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> tva. </p>
+         <p xml:lang="arn" n="Llanc"> Hue! chupien, <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w> nay! </p>
+         <p xml:lang="arn" n="Lev"> Mugey veychi dugu. </p>
+         <p xml:lang="arn" n="Llanc"> Yom chumlay veychi Huinca, yom pilay chey? </p>
+         <p xml:lang="arn" n="Lev"> May, vey pi, pigey cay; rupale aldùn pataca thipantu, acuay
+            vachi <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> che, ligh che, <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">inche</m></w> vemgelu, nùthamtupayaymn mo tvachi cùmeque
+            dugu, tamn quimùlpavin <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">inche</m></w>, pi, piam. </p>
+         <p xml:lang="arn" n="Llanc"> Huinca <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">may</m></w> pipevi. </p>
+         <p xml:lang="arn" n="Lev"> Vey gepey, chuchi <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w> che geavuy cam? </p>
+         <p xml:lang="arn" n="Llanc"> Chumgelu quimvimi tvachi dugu, gañi nùthamtuvin? </p>
+         <p xml:lang="arn" n="Lev"> Tañi acunoum <anchor n="(g)"/> ula <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> pu Huinca, elgevuy, piam, quiñe che,
+            vill vachi dugu, quiñe ghùl vemgelu nùthamtuquevulu, vem quimpavin. <anchor n="269"/>
+         </p>
+         <p xml:lang="arn" n="Llanc"> Deuma eluen venten cùmeque dùgu, gami ramtu noviel rume,
+            nùthamen cay. <note xml:lang="spa">(g) v. n. 167.</note>
+            <pb n="108"/> chumgelu mlepay <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> pu Huinca, chumanùlepay cay vachi <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. </p>
+         <p xml:lang="arn" n="Lev"> Eya: deuma doy epu pataca thypantuy, ñi mlepael <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> pu Huinca
+            vachi <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. Huema re gillacapay; cùpalquevuy acucha ica, chaquira, cachal, caque
+            vamgeluchi gillacan, gaiñ penovuel chumùl no rume; yepaquevuy huelu gaiñ niequevel,
+            milla may, ligheu cay: vemgelu cùme nieuvuygn gaiñ pu them pu Huinca egn: ula gaiñ pu
+            them quehuatuvi <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> pu Huinca, hueralcavicay: huelu pu Huinca huema re chaghtuv, ula cay
+            vill re quehuatun getuy aldùn thipantu, inagechi yod pepili <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> pu Huinca, nievulu may
+            venten cachuellu, ñi carita egn, ñi thalca egn, ñi pelotilla egn cay, vemgelu carapay,
+            anùlepay cay gaiñ <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, deuma uvchiuygn taiñ pu them pu Huinca egn. </p>
+         <p xml:lang="arn" n="Llanc"> Vemgelu <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">may</m></w> anùlepaygn <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> tva? Levihueque. vemgelu ca. Llauc.
+            Chumgelu cam <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w> aucay gaiñ pu them, denma uvchilu egn? </p>
+         <p xml:lang="arn" n="Lev"> Inche piayn: cùlachi aucay vill mapu: quiñemel, huaranca quechu
+            pataca aylla mari aylla thipantumo; epumel, huaranca cayu pataca quechu mari quechu
+            thipantu mo; inagechi, huaranca relg he pataca epu mari cùla thipantu meu: <pb n="110"/>
+            une mita, yod mair epu thipantu aucalecay <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, epu mita, ape meli mari thipantu
+            vemlecay; inan mita, epu thipantu mùten aucaley. Huelu chumùl no rume re aucapralay ta
+            <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, vem piquey taiñ pu them, vem piquey <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> pu Huinca ple; aucay may, tañi choniun mo
+            ta, venten cùdau gañi elugen mo, ñi entumillayam egn, ñi cad hueralcagen mo, ñi
+            mùntuñmagen <anchor n="(h)"/> mo gañi pu piñeñ egn. Veychi dugu mo aucaquey <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, re aucapraquelay. </p>
+         <p xml:lang="arn" n="Llanc"> Vemprayavuy cam ta, genochi dugu? </p>
+         <p xml:lang="arn" n="Lev"> Mu <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w>, vempraquelay: inan aucan dugu mo cutu, aucahuelay <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>,
+            genochi dugu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, tañi hueralcagenon mo egn, tañi mùntuñmagenon mo ñi pu piñeñ egn, ñi
+            cullin egn: veychi cùtu cùme payllaley <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>. Llancahucnu. Veychi may, aucanole ula
+            <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, ulgepen <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">inche</m></w>, veychi gepey cacha, veychi yegepen <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w> mapu: vey, re
+            camyegepaquevuy <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> pu piñeñ? </p>
+         <p xml:lang="arn" n="Lev"> Mùca: yegepaquevuy cullin mo, vinu mo chey. </p>
+         <p xml:lang="arn" n="Llanc"> Vinu meu? ado cay conpahuequelay <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> vinu <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> meu?
+            yegepahuequelay <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> pu piñeñ? </p>
+         <p xml:lang="arn" n="Lev"> Pu piñeñ yegepahuequelay, aldù cathituvi, piam, <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> Señor Rey,
+            gaiñ vure. <note xml:lang="spa">(h) v. n. 128.</note>
+            <pb n="112"/> nieteu mo. Vinu huelu petu pichi conpaquey; entupaquey pu Huinca vinu meu
+            gaiñ cullin em! gaiñ Huaca, Ecull, Cahuellu; thampalcùnouquey <anchor n="(i)"/> <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> Che vinu meu:
+            vey ñi vla <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ga pu Huinca re elcanquechi elpaqueiñ mo <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> vinu, tañi cathitueteu mo egn
+            <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> Señor Apo, pu Patiru cay, tañi vurenieviel mo <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, aldù quintuinequevign, ñi
+            conpanoam <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> vinu, huelu pu Huinca, ga pieymi, llùmquechi cùpalquey. <anchor n="270"/>
+         </p>
+         <p xml:lang="arn" n="Llanc"> Pu Patiru conùmpavimi <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w>, nay! ñi chumlen egn <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> meu
+            nùthamaven, vuthay: venten caque dugu ga eluen Chilli <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, pu Huinca <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, ñi
+            mlepael egn, ñi quehuatun egn; rùcùñmaquieli pu Patiru ñi dugu, ñi conpael egn, ñi
+            cùmelcaviel egn <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">inche</m></w> <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">may</m></w> vem cullituayu caque cùme nùtham <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, caque Patiru
+            ñi dugu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. </p>
+         <p xml:lang="arn" n="Lev"> Nùthamtuayu ca: mu cuyvi huemachi conpay pu Patiru, <note xml:lang="spa">(i) v.
+               n. 82, y 184.</note>
+            <pb n="114"/> curi Patiru may, vachi <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> meu; veychi ga unechi aucay <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, conpay
+            quiñe Patiru, (Luis Valdivia pigevuy em!) anùmmapuavilu, <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w> cùla Patiru cay conpay
+            lavquen uùthan <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> ple, quimulpayavilu pu Che Dios ñi dugu: vuta Thoquilevuy <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> meu
+            quiñe Ghùlmen, Ancanamun pigelu. Tvey may, huera piuque gevulu vill pu Huinca <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, gañi
+            cume gulamvueteu mo veychi cùla pu Patiru, ñi yehueaviel <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> Dios, ñi nieaviel quiñe cure
+            mten; (cùla ñi Gapi cay mithicu-thipavuy,<anchor n="(j)"/> pu Patiru ñi glam mo) veychi dugu ñi vla
+            lagùmvalvi egn, caque pu Huinca cay, thavclevulu. </p>
+         <p xml:lang="arn" n="Llanc"> Thùthùy em voth! vami cam ve? </p>
+         <p xml:lang="arn" n="Lev"> Vemi ma ga: vemtulayavuy cam ta, huera piuque gelu, ghùdequevilu
+            pu Patiru, ñi elueteu mo egn quiñe cùme glam, ga pieymi? </p>
+         <p xml:lang="arn" n="Llanc"> Vey, chumtuy cay <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w> pu Patiru, choñiulay, ùllcuthipalay; gañi
+            lagùmmaeteu mo veychi cùla Patiru ga, pien? </p>
+         <p xml:lang="arn" n="Lev"> Mù ca: choñiuavuy cam <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> pu Patiru, re tañi cùmeleam gaiñ pùlli,
+            quintupaquelu egn? ùllculay rume, huelu huercuvalpatuy caque pu Patiru, iñ quimulpayateu
+            hue<note xml:lang="spa">(j) v. n. 148.</note><pb n="116"/>nuchi rùpù, Dios ñi dugu cay. </p>
+         <p xml:lang="arn" n="Llanc"> Euem! re cùme piuque gelu piyevin vachi pu Patiru. </p>
+         <p xml:lang="arn" n="Lev"> Vemi, vemi: petu yod allcùtulege, tami quimam, ñi chumlen gañi
+            piuque egn inchiñ taiñ <anchor n="(k)"/> Chegen <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. Deuma lagùmgey veychi cùla pu Patiru, conyecupay
+            caque pu Patiru, quimùlpayavilu pu che <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> Dios ñi dugu; vureniequevuy pu cuñival,
+            quimùlquevuy <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> pu piñeñ, utulcoquevuy cay, cùmeque glam eluquevuy pu cona, pu ghùlmen,
+            pu cuthan, ñi cùmeletuam <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, naghùllcuam, ñi inacayaviel egn cùme rùpù, ñi ayùaviel
+            egn <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> Dios: ina cay dugulquevuy, cathituquevuy cay <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> pu Huinca, ñi cumelcageam <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> mapu
+            Che, ñi elugenoam cauchu cùdau; vemgelu <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">may</m></w> <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> inarumequevilu gaiñ pu them pu Patiru ñi
+            cùme piuque gen, duguluygn, a pu huen, chumqueiñ cam? aldùcagey pu Patiru, gaiñ
+            pecùnoviel <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, aldùcùmelcaqueiñ mo, pu Patiru pu Huinca vemgelay, piuygn, anùlepape may
+            pu Patiru gaiñ <anchor n="(l)"/> quintuniatu, gaiñ vureniatu cay: vemgelu <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">may</m></w> anùlepay <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> pu Patiru,
+            vuta rucatuy, vutaque Ighlesia huenuntuy cay aldun pu <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> meu; Raghco <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> huema
+               <note xml:lang="spa">(k) v. n. 138. (l) v. n. 83.</note>
+            <pb n="118"/> niePatiruy, Tholthen <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> veychi vey, San Christoval <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> veychi vey,
+            Santa Fè <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> veychi vey, Colue <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, Cule <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, Puren <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, Repocura <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, Empereal
+            <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, voroe <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, Cùyumco mapu; Valdivia cara mo cay mley Patiru mu cuyvi cutu, ñi
+            carapuel mo <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">may</m></w> <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> pu Huinca. Vem pùdclevuy <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> Patiru vill <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ga, veychi ga
+            inagechi aucay <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> Che. </p>
+         <p xml:lang="arn" n="Llanc"> Euem, ventenclevuey <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> pu Patiru! Chumgelu payllaletuy mapu
+            inan aucan dugu mo, pu Patiru cay chumgechi anùletuy ga, entulean <anchor n="(m)"/>: Athuquilmi mùten,
+            tañi nuthamtuavin vaquechi dugu, allcùvalgey <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">may</m></w> <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> tva. <anchor n="271"/>
+         </p>
+         <p xml:lang="arn" n="Lev"> Vemi, epeu no <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="tüfa" pos="DP"><m baseForm="tüfa" type="DP">tva</m></w>, tami pivin. Vachi inan aucan mo
+            lagùmgelay, chumgelay quiñe Patiru no rume, huelu amulgeygn Valdivia cara ple, deuma may
+            ye<note xml:lang="spa">(m) v. n. 190.</note><pb n="120"/>huegelu pu Patiru: ula quiñe Patiru, P. Amaya pigelu, (P. Columilla
+            pigevuy <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, vuta lonco em! cùme piuque yem!) aldu ayùgevulu vill <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> mo,
+            ghùtheniequevulu meli uùthan <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, pepili venten vuta dugu, anumpatuy vill mapu: vey ñi
+            vla mo epu thipantu mùten hueralecay <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, vem pieymi culay. Deuma payllalelu <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>,
+            <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w> conyecupay <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> Patiru; Thucapen <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> Apo Ghùlmen ga Don Mighel Melitacùm (deuma lay
+            em!) gillaPatiruy, elugey cay; Mocha mo cay elgey Patiru, S. Christoval mo cay, S. Fè
+            mo, <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">inche</m></w> ñi <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> may, Apo gellelu Inche, elugen Patiru cay: Encol <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> Llancahuenu,
+            Apo lle, mi llacu lle, elugey cay. Colue Apo Don Pedro Ancatemu elugey cay; inagechi
+            Emperal <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, nagh mo thav lavquen, Don Pedro Nahuelcoyam, Apo gellelu, elugey cay
+            Patiru; S. Juana mo cay chaychey <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> mley Patiru; Tholthen mo mlequevulu Patiru,
+            ca-cùno-utuy <anchor n="(n)"/> Maricùga <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> meu: ado <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="tüfa" pos="DP"><m baseForm="tüfa" type="DP">tva</m></w> Chacayco <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, Repocura <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, Maquehue
+            <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>, Patiru pilu pigey, hueupipale Señor Señoria Apo, elu<note xml:lang="spa">(n) v. n. 82, 184, y
+               199, y tambien la Partícula <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">Ca</m></w> en el Calepino.</note>
+            <pb n="122"/>geaygn gepey: ventencay <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> mlellelu pu Patiru <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. <anchor n="272"/>
+         </p>
+         <p xml:lang="arn" n="Llanc"> Ado cay, chumley pu Patiru, chumquey cay, nùthamen. </p>
+         <p xml:lang="arn" n="Lev"> Pu Patiru cùmeley <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> mo, vill <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> mo cay ayugequey,
+            yehuegequey, cùme uthintugequey; huelu vey gele rume, mlemlequey quiñe huera piuque gelu
+            ñi ghùdegheteu <anchor n="(o)"/> egn, mlemlequey quiñe pramnieuquelu, ñi cochimeteu, ghùlmeyegheteu
+            egn cay, mlemlequey quiñe golilu, ñi yehuenoeteu, hueralcaeteu, mùthoncaeteu egn cay:
+            vemgele rume Patiru, ñochilecay ñi piuque, choñiuquelay, athuquelay tañi cùmelcayaviel
+            <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> che; huelu quimùlqueiñ mo Dios ñi dugu; vill thipantu mo Quaresma meu
+            confessalqueiñ mo, comulghalqueiñ mo cay; cuthan gele cay, muthay pracahuelluquey
+            confessalquevi, incaquevi cay ñi cùme layman: vill Domingho <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, deu allcù Missallelu
+            inchiñ, coyaghtulqueiñ mo Dios ñi nemùl, amomarilqueiñ mo cay: pu piñeñ, pu hueñi
+            amomariquey epuchi, cùlachi semana meu; vill caque Ighlesia dugu, Dios ñi dugu, mùlquevi
+            <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> Patiru. Ina cay vill thipantu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> thipaquey cayu, relghe Patiru valpe, teye ple vill
+            pu <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, mlenohue Patiru; <note xml:lang="spa">(o) v. n. 89.</note>
+            <pb n="124"/> Missionyauquey rehue rehue <anchor n="(p)"/> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, lov lov <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, utulcoquevi pu piñeñ,
+            quimùlquevi pu Che Dios ñi dugu, confessalquevi, piñomùlquevi, vemgelu miauquey quiñe,
+            epu, cùla cùyen cay. Llancahuenu. Pu curi Patiru cam bautizaquevign pu piñeñ <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> meu?
+            vei cam ve? chumgechi vemqueygn chey, themquelu veychi pu piñeñ ñi pu Chao egn?
+            Cuñiungelay cam, themyecumele egn, ñi elugeal huera que glam? Quimùlgelayaygn chey, ñi
+            putual, ñi prual, ñi golial, ñi gapitual, caque vamgechi huera admapu cay? quimval-lavin
+            vachi pu Curi Patiru, huelu quimn <anchor n="(q)"/> que, pu Cari Patiru ñi vemquenon, bautizaquelaygn
+            <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">may</m></w> quiñe vamgechi piñeñ no rume, themùmgealu ñi pu chao <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. </p>
+         <p xml:lang="arn" n="Lev"> Eymi cam, Llancahumu, quimulpayavimi vachi pu Curi Patiru? Quidu
+            ñi lonco mo cam <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> gùneuqueygn ve? Thaupelaygn cam glamupelaygn, dugulupelaygn, ñi vemal
+            egn vachi dugu meu? nielaygn cam ñi mu vuta Apo Patiru, Roma cara mo mlelu, ñi
+            thoquiqueèteu egn? tvey <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">may</m></w> (mu vancy cay ñi piqueel) pivalpayeu egn, piam, ñi vemal, ñi
+            bautizala<note xml:lang="spa">(p 2) 13. v. n. (q) v. n. 296.</note>
+            <pb n="126"/>viel vaquechi pu piñeñ. Chem mo cay bautizal-layavuygn egn? mi pivelchi
+            cuñiun mo cam ve? Huelu gelay ula veychi cuñiun, petu bautizagequey <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> piñeñ, ula cay
+            gepelayay rume, lale <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">may</m></w> <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> piñeñ, nienole ula tañi quimn: chumtenchi huaranca cay ta
+            laqueygn petu piñeñgelu, acunmagenolu petu ñi quimn? Ape ragilla vachi pu piñeñ vem
+            laquey: tvey egn cay vill ñamprayavuygn avnochi thipantu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, hautizagenovule egn. Ina
+            cay vey egn ñi pu Chao Judio gelaygn, Moro no, Hereque no, huelu Christiano geygn:
+            bautizagelayaygn cam pu Christiano ñi pu yall? Mapu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, mu legh gey, putuqueam, <anchor n="(r)"/>
+            hueñequeam, lagùmchequeam, ùñamqueam; vemgelayam cam pu Huinca mo cay? huelu yod
+            hueragepey (genochi gepey cay) pu Huinca, mlequelu lelvun meu; petu cay yod
+            huerageavuygn, nienovule egn <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> Justicia, chumgechi nielay <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> Che. Vachi que dugu
+            mo, tami pivin, mùtu bautizageaygn veychi pu piñeñ, chumgechi cuyvi España meu
+            bautizagequevuygn pu mlecaluchi Morisco ñi pu yall. Pepi montulvili quiñe piñeñ,
+            ghùrviquelu lavquen <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, genochi huerin, genochi rul<note xml:lang="spa">(r) v. n. 74.</note>
+            <pb n="128"/>men <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">inche</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, montul-tayavin cam? cùmelcalayan chey, vemvili? vey <w xml:lang="arn" lemma="tüfa" pos="DP"><m baseForm="tüfa" type="DP">tva</m></w> may
+            ñi vemqueel pu Curi Patiru veychi pu piñeñ <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. <anchor n="273"/>
+         </p>
+         <p xml:lang="arn" n="Llanc"> Mu cùmelu piyevin tami piel: quiñe mu quimchi Patiru vemgelu
+            rithoduguymi. Huelu veype, thùpuntugepe veychi dugu, <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w> dugu conùmpavichi. Gele
+            Coyaghtun cay <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, mlepuquelay pu Patiru? </p>
+         <p xml:lang="arn" n="Lev"> Chumùl ula cam ramtuleaymi? vill ñi mulqueel pu Patiru, ñi
+            cùdauqueel egn cay piavuelmi, quiñe cùyen nùthamtullevelmi rume, avalayavuy tami
+            nùthamaviel: ventenpe tami nùthamtuvin. Ado <w xml:lang="arn" lemma="tüfa" pos="DP"><m baseForm="tüfa" type="DP">tva</m></w> eymi, eymi nùthamaen tami pemeelchi
+            dugu, tañi tavmañumaviel tami nùthamtuvin. </p>
+         <p xml:lang="arn" n="Llanc"> Eya, mupimi, Levihueque, mupimi: huelu mu nuthampelayayu,
+            pichihuey antu may, caque antù mley, tami nuthamaviel. </p>
+         <p xml:lang="arn" n="Lev"> Veype rume. </p>
+         <p xml:lang="arn" n="Llanc"> Allcutulege may. </p>
+         <p xml:lang="arn" n="Lev"> Vemlequean. <anchor n="274"/>
+         </p>
+         <p xml:lang="arn" n="Llanc"> Inche ga petu piñeñ gevulu, vem pieymi, yegepan vachi mapu
+            <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, <pb n="130"/> yegen cay aldù pu <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> meu: rumen Santiagho cara <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, huaydùvin
+            vuta Mahuida piliñgelu, perùpuvin Mendoza Cara, cauchun Pampa, vuta que lelvun em! ditun
+            cay Buenos Ayres Cara <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, ina mu vuta leuvu <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> mlelu, Lighen leuvu piqueyeu <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> pu
+            Huinca, cad vutay vachi leuvu, Pehuen <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> mo lavquen cùtu, petu aldù yod vuta rumey rel
+            veychi Cara <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. <anchor n="(s)"/> </p>
+         <p xml:lang="arn" n="Lev"> Hue! re lavquenpey <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> tva? </p>
+         <p xml:lang="arn" n="Llanc"> Vemi, vemi, vuta que huampu may, quehuatun Navio piqueyeu ta
+            pu Huinca, miauquey veychi leuvu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, lavquen mo vemgelu. Tuun veychi Cara <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> huechun
+            leuvu ple, poun quiñe vuta <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, Paranà leuvu mo, Urughuay leuvu mo cay raginclelu:
+            veymo mley pu Ghuarani che yod cula mari cume que cara <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. </p>
+         <p xml:lang="arn" n="Lev"> Chemchi che cam <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="tüfa" pos="DP"><m baseForm="tüfa" type="DP">tva</m></w> egn? Huinca, muru huinca gepeychi. </p>
+         <p xml:lang="arn" n="Llanc"> Mùca, re Che, veychi <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> mo lleghlu. </p>
+         <p xml:lang="arn" n="Lev"> Vei cam ve? re Che cam <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> cara mo mlequey? </p>
+         <p xml:lang="arn" n="Llanc"> Alicùtuge, Levihueque, <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">inche</m></w> coyllatupaquelayu, quidu ñi
+            pemegheel nùthamayu; eymi vuta que dugu, cuyvichi dugu, perimontu ple nuthamen; huelu
+            <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">inche</m></w> yod vuta que <note xml:lang="spa">(s) v. n. 237.</note>
+            <pb n="132"/> dugu nùthamayu, ape mupiltuvalnoelchi dugu vachi Chilli <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. </p>
+         <p xml:lang="arn" n="Lev"> Nùthamen, nùthamen may, aldù allcuduamquevin <anchor n="(t)"/> <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> tva. </p>
+         <p xml:lang="arn" n="Llanc"> Mley <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">may</m></w> veychi Ghuarani che ñi cùme que Cara <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, nieygn cùme
+            que Ighlesia, cùme que ruca, me Patiruqueygn cay. Ado <w xml:lang="arn" lemma="tüfa" pos="DP"><m baseForm="tüfa" type="DP">tva</m></w>, chumlevuygn cuyvi, chum
+            thauluygn cara <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, chumleygn cay, entuleleayu: <anchor n="(u)"/> allcùduguaymi, tami allcùnoviel,
+            tami pecùnoviel rume. <anchor n="275"/> Tvachi Ghuarani che ga vachi <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> che vemgevuy
+            cuyvi: lov ica <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> mlequevuy: pichin hua tùcuquevuy ñi ial egn, challhuatuquevuy,
+            Luantuquevuy, Pagituquevuy, caque vemgeluchi ivùm ica cay, tañi iloal egn. Cahuellu ica,
+            huaca, ovicha nielavuygn: ñi quehuatuvuyum mo egn tavaycotugevulu lagùmgequevuy,
+            cancagequevuy, vemgelu cay ilogequevuy, ñi lonco cay, deuma ñi ilovium mo mùllo,
+            pepilgequevuy, ñi pulcutuam egn. Vemgechi dumiñclellevulu egn, pouy pu Patiru veychi
+            <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, curi Patiru may: entuleyeu Dios ñi dugu, ea vochùm egn, pieyeu,
+            inarumequelaymn tamn hueralen? quidu apùmuqueymn, quidu cay ilouqueymn ple, pu Pagi rume
+            vemquelay: <note xml:lang="spa">(t) v. n. 63. (u) v. n. 190</note>
+            <pb n="134"/> pu Pagi iloquey <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">may</m></w> <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w> ilon, huelu quidu egn ilouquelayga. Quimaymn may,
+            gañi mleel quiñe cùme Dios, (Tupa ga piquevimn eymn) cuthantulquevilu huera que che
+            avnochi thipantu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, culliquevilu cume que che Huenu <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, vureniequevilu pu
+            cuñival, gañi inacañmaeteu ñi pielchi dugu vachi mogen meu: vemyecu nelmn,
+            vemhuerilcalmn gao petu mogenpeymn, uthuventuaymn mo vachi tùme Dios cùthal <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>,
+            tamn pùtheleal avnoalu thipantu meu: mu cùmelay cam, tamn montual vachi cùthal <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, tamn
+            poual cay Huenu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, tamn thùyùleal avnochi thipantu, thaulmn quiñe cara <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, inacavilmn
+            Dios tañi piel? vachi dugu mo mten, tamn quimùlaviel <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">may</m></w> Dios ñi dugu, tamn vurenieviel
+            mo <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> inchiñ, conpaiñ gamn <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, pieyeu pu Patiru. Veymo vey, mupieiñ mo pu Patiru,
+            cùme que dugu entulpaiñ mo ga, piuygn Ghuarani <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="tüfa" pos="DP"><m baseForm="tüfa" type="DP">tva</m></w> egn: vemgelu <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">may</m></w> vill duguluygn,
+            yavuluygn, incauygn, caratuygn, huenuntuygn cùme que Ighlesia, cùme que ruca cay, pu
+            Patiru ñi glameteu mo egn. </p>
+         <p xml:lang="arn" n="Lev"> Euem! vachi pu Patiru vill <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> mo vureniequieñ mo <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> iñ Chegen,
+            incaqueiñ mo cay, quimùlqueiñ mo cay Dios ñi dugu, Huelu <pb n="136"/> piyecumege tañi
+            chumlen tvachi que Cara ica. <anchor n="276"/>
+         </p>
+         <p xml:lang="arn" n="Llanc"> Vill vachi Cara cùme dullingechi <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> mo mley, quintugey quiñe
+            cùme lelvun, pichi prangelu, cùme co gelu, munapulay cùme que lemu aldun mamùll gelu,
+            cùthaltuam, rucatuam cay: niey cay cùme tagh, huyeùtuam, chollovtuam cay, cùme pere cay,
+            ticatuam: nielay huelu vuta que chapad huall ple, vuña co no rume. Vemgechi lelvun meu
+            anùmgey quiñeque cara: tvey ñi rùpu ica norgey, vemcùnogey quiñe vuta mau meu: ragi cara
+            <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> mley quiñe pichi lelvun, (plaza pigey) pura mari nùvcùn gelu meli ad meu: vill ñi
+            ruca egn huenuntugequey <anchor n="(x)"/> tica <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, chollov mo cay tecugequey, huelu cana mo no; vill
+            nieygn ñi Coredor cay, ñi miaunoam pele <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ta, maule. Huelu chumgechi entulelayu ñi
+            yemgen <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> Ighlesia, Dios ñi Ruca lle, pu Patiru ñi Raca cay? vey mùten piayu, tvachi pu
+            Ighlesia Santiagho Cara ñi doy vutalu Ighlesia ica ventenigo, venten themogoygn cay:
+            nieygn quechu vuta <note xml:lang="spa">(x) v. n. 130.</note>
+            <pb n="138"/> ullgin, muñay yod meli huaranca che. Pu Patiru ñi Ruca cay cùme muñan gey;
+            niey epu lila, quiñegelu mo mley pu Patiru, mley cay <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> pu hueñi tañi quimquimtuqueùm;
+            veymo quimùlgequeygn, tañi chilcatual egn, uthintual Libro <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, ghùlcatual, prual cay.
+            <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">Ca</m></w> lila <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> cùdauquey vill camañgelu, rùthave, rùpuve, gùreve, huyrive, mùlquevilu
+            chumpiru, tutuca, caque dugulqueùm cay, vill caque camañ, quiñe cùme Cara <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ta
+            mlequelu. <anchor n="277"/> Vill cara <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> mley quiñe Apo, Correghidor pigelu, quiñe
+            Tenience, quiñe Alferez Real, epu Alcalde, meli Reghidor, caque Justicia gelu cay: mley
+            cay aldùn Fiscal, thoquiquevilu pu Huenthu, pu domo, pu pichi domo, pu hueñi cay: ina
+            cay mley calli que cara <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> yod meli pataca cona, Soldado pigelu, ùdaugelleygn cay pura
+            Compañia <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, meli Compañia cahuellu gey, <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w> meli namuntugey: quiñeque Compañia niey ñi
+            Capitan, ñi Teniente, ñi Alferez, ñi Sarghento, ñi Ayudante: nieygn pura vuta culthun,
+            pura tutuca, pura bandera: ina cay mley quiñe Maestre Campo, quiñe Sar<pb n="140"/>ghento mayor cay, Ghuarani che vill <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="tüfa" pos="DP"><m baseForm="tüfa" type="DP">tva</m></w> egn. Tuqueygn, thalca, escopeta may, trabuco,
+            pistòla, quiñeque pichi carita cay, huayqui, ispada, pùlqui, huytucurahue cay. Vill cùme
+            gùnengeygn, tañi thalcatuam, aldù conageygn cay. Vill quehuatun mo yo dign, pu Calxaqui
+            che egn, Caracara che, Charna, Yaro, Bohan, Martidan, Manchado, Ghuanoa, Minuan cay:
+            epuchi nopimvi <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> pu Huinca, aucavulu Paraghuay meu: epuchi tuygn pu Portughes ñi
+            Colonia, aldùn thalca, carita, Soldado cay niequelu. Vemgelu inaqueygn ñi piel <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> Rey,
+            tañi vemquimùleteu mo egn <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> pu Patiru. Lev Euem! cùme duam mo allcùquen vaquechi dugu!
+            aldù lladcùquen mten, tañi conel mo antù, huelu punlay ula, petu nùthamduguen. </p>
+         <p xml:lang="arn" n="Llanc"> Vey mten nùthamayu, chumgechi rezaquey Ghuarani che, allcù
+            Missaquey, allcùquey cay. Dios ñi nemùl. Mu lihuen mo miauquey cara <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> epu Fiscal,
+            thepelquevilu vill che, thaulquevilu cay pu hueñi, pu pichi malghen cay: deu thauclelu
+            egn plaza, mo quiñe culehun <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, epu mo chev, amuqueygn Ighlesia <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, rezaqueygn, allcù
+            Mis<pb n="142"/>saqueygn: usa conqueygn Patiru ñi lila <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, elugequeygn pichin ial,
+            veymo quiñe llagh <anchor n="(y)"/> piñen conquey chillcatuqueùm <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w> llagh ghùlcatuqueùm <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, ca
+            liagh cùdaucaqueùm <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, caque hueñi, pichi domo cay thipaquey huecun cara, cùdaumealu
+            <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, metatuqnelu egn ñi pichi Santo, San Isidro lle, tañi pu culthun <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, pivillca
+            mo cay: vemgechi cay uñoqueygn, naghyecumele antù, <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w> rezaqueygn Ighlesia mo, lila mo
+            cay, punle cay, utuqueygn ñi ruca mo egn, vemgelu <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">may</m></w> gamño thempraquelay pu piñen.
+            Domingho antù mo vill the allcù Missaquey, allcùquey cay Dios ñi nemùl, Patiru ñi
+            coyaghtuqueel: consessaqueygn, comulghaqueygn cay Quaresma <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, caque mita cay thipantu
+            meu: pevulmi ñi fiestaqueviel egn Corpus antù, cara ñi Santo Patron tañi antù cay, ñi
+            pruqueel egn cay, allcùvulmi ñi gùlqueel egn cay, mùtu entulgeavuymi cùlleñu, re tañi
+            thepen mo tami piuque: <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">inche</m></w> <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">may</m></w> tvey mu legh pieymi, pevin pu Huinca ñi Cara, ñi pu
+            Ighlesia cay fiesta <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, huelu <w xml:lang="arn" lemma="tüfa" pos="DP"><m baseForm="tüfa" type="DP">tva</m></w> egn tañi fiestaqueel Ghuarani che tañi frestaqueel
+            vemgelay, ventenay, venten themogelay. Euem! <note xml:lang="spa">(y) v. n. 135.</note>
+            <pb n="144"/> vemleavuy cara <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> vachi <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> Che vuel! </p>
+         <p xml:lang="arn" n="Lev"> Veyvuel! vey piavimi tami pu moñmahue, ado ga peavimi: deu puni
+            <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="tüfa" pos="DP"><m baseForm="tüfa" type="DP">tva</m></w>, pichi ùdauquellayu, <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w> antù ula peutuayu, nùthamutuayu cay. </p>
+         <p xml:lang="arn" n="Llanc"> Vemay may: peuquelleyu<anchor n="(z)"/>ca, nay. </p>
+         <p xml:lang="arn" n="Lev"> Peuquelleyu.</p>
+
+         <note xml:lang="spa">(z) vease el numero 264.</note>
+
+
+      </body>
+   </text>
+</TEI>

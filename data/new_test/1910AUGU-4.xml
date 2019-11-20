@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lecturas Araucanas (Narraciones, Costumbres, Cuentos, Canciones, etc.): Canciones</title>
+            <author>Félix José de Augusta</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1910</date>
+               <name>Valdiva, Imprenta de la Prefectura Apostólica</name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher/>
+         </publicationStmt>
+         <seriesStmt>
+            <p/>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic Texts</ab>
+            <ab>DIALECT: Lafkenche?</ab>
+            <ab>INFORMANT: José Francisco Kolùñ (and others)</ab>
+            <ab>LOCATION: Costal areas between Bajo Imperial and Tolten (place of residence of informant)</ab>
+            <ab>TRANSCRIBER: Fray Félix José de Augusta</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>ORIGINAL DOCUMENT: Biblioteca Nacional de Chile id: 96049</p>
+            <p>DOCUMENT SCAN: Memoria Chilena (MC0033389) http://www.memoriachilena.cl/602/w3-article-9601.html</p>
+            <p>TEXT OCR: Google Cloud Vision (using DH Dashboard, developed by Bryan Tarpley at the Center for Digital Humanities Research here at Texas A&amp;M University.) </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>OCR CORRECTIONS: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+
+            <pb n="161"/>
+
+            <head xml:lang="spa" n="1"/>
+
+            <note xml:lang="spa">Ref. por Maria Francisca Painemilla de Wapi</note>
+
+            <p xml:lang="arn" n="1"> <w xml:lang="arn" lemma="ayenien" pos="V" corresp="make fun"><m baseForm="aye" type="root" corresp="laugh">Aye</m><m baseForm="nie" corresp="psist">nie</m><m baseForm="fall" type="cause">fal</m>-<m baseForm="la" type="neg">la</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="nguluche" pos="CN" corresp="west-people (Chileans)"><m baseForm="ngulu" type="root" corresp="west">Ŋulu</m><m baseForm="che" type="root" corresp="person">che</m></w>, <w xml:lang="arn" lemma="lamngen" pos="N" corresp="brother (of a woman) or sister"><m baseForm="lamngen" type="root" corresp="brother (of a woman) or sister">lamŋen</m></w> <w xml:lang="arn" lemma="em" pos="IJ" corresp="ouch!"><m baseForm="em" type="particle" corresp="ouch!">em</m></w>,<lb/> <w xml:lang="arn" lemma="ayenien" pos="N" corresp="laughing"><m baseForm="aye" type="root" corresp="laugh">Aye</m><m baseForm="nie" corresp="psist">nie</m><m baseForm="pass" type="pass">ŋe</m><m baseForm="(ü)n" type="nmlz">n</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> „<w xml:lang="arn" lemma="ayün" pos="V" corresp="want/love"><m baseForm="ayü" type="root" corresp="want/love">ayù</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="(ü)n" type="ind1">n</m></w>" <w xml:lang="arn" lemma="pilu" pos="V" corresp="saying"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="ka" type="cont">ka</m><m baseForm="rke" type="rep">rke</m><m baseForm="lu" type="svn">lu</m></w> <w xml:lang="arn" lemma="kay" pos="AV" corresp="other/also"><m baseForm="kay" type="root" corresp="other/also">kai</m></w>.</p>
+
+            <p xml:lang="arn" n="1"> <w xml:lang="arn" lemma="karü" pos="AJ" corresp="green"><m baseForm="karü" type="root" corresp="green">Karù</m></w> <w xml:lang="arn" lemma="manshana" pos="N" corresp="apple" source="sp:manzana"><m baseForm="manshana" type="root" corresp="apple">manshana</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="rul" pos="AV" corresp="all the time"><m>rul</m></w> <w xml:lang="arn" lemma="pan" pos="V" corresp="come/bring/coax"><m baseForm="pa" type="root" corresp="come/bring/coax">pa</m><m baseForm="a" type="fut">ia</m><m baseForm="fi" type="3dir">fi</m><m baseForm="(iy)iñ" type="ind1p">ñ</m></w>, <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="rke" type="rep">rke</m><m baseForm="lle" type="affirm">lle</m><m baseForm="fu" type="bi">fu</m><m baseForm="lu" type="svn">lu</m></w> <w xml:lang="arn" lemma="kay" pos="AV" corresp="other/also"><m baseForm="kay" type="root" corresp="other/also">kai</m></w>, <w xml:lang="arn" lemma="lamngen" pos="N" corresp="brother (of a woman) or sister"><m baseForm="lamngen" type="root" corresp="brother (of a woman) or sister">lamŋen</m></w> <w xml:lang="arn" lemma="em" pos="IJ" corresp="ouch!"><m baseForm="em" type="particle" corresp="ouch!">em</m></w>!</p>
+
+         </div>
+         <div>
+            <head xml:lang="spa" n="2"/>
+
+            <note xml:lang="spa">Ref. por la misma</note>
+
+            <p xml:lang="arn" n="1"> „Kureŋean" pirkefulu <w xml:lang="arn" lemma="kay" pos="AV" corresp="other/also"><m baseForm="kay" type="root" corresp="other/also">kai</m></w>. Lamŋen em,<lb/> Məná kom dəŋu pipiŋerkefui „Kureŋean" pilu.</p>
+
+            <p xml:lang="arn" n="2"> „Azul makuñŋen" pipiŋerkelu kai<lb/> Wedá weche wentru,<lb/> Azul makuñ pipiyerkelilu</p>
+
+            <p xml:lang="arn" n="1"> Creen que es porque se les ama<lb/>
+               <pb n="162"/> Ñi wedá məchaitun wedá makuñ.</p>
+
+            <p xml:lang="arn" n="3"> „Pañuchumpíruŋen" pirkekefulu kai<lb/> Wedá weche wentru:<lb/> Pañu chumpiru pirkefilu ñi<lb/> Miaupéyəm fillkuñ.</p>
+
+            <p xml:lang="arn" n="4"> „Pañu casónŋen", pipiŋerkelu kai<lb/> Wedá weche wentru:<lb/> Pañu cason pipiyerkefilu ñi<lb/> Kerka weshá cason.</p>
+
+            <p xml:lang="arn" n="5"> „Finu seda páñuŋen", pipiŋerkelu <w xml:lang="arn" lemma="kay" pos="AV" corresp="other/also"><m baseForm="kay" type="root" corresp="other/also">kai</m></w>,<lb/> Lamŋen em.<lb/> Finu seda pañu pipiyerkefilu ñi<lb/> Kerker weshá pañu.</p>
+
+         </div>
+         <div>
+            <head xml:lang="spa" n="3"/>
+            <note xml:lang="spa">Ref. por la misma.</note>
+
+            <p xml:lang="arn">„Illameyu" piaen ka, llamŋeñ em!<lb/> „Rakileyu" piaen ka, llamŋeñ em!<lb/> ¿Cheu kam ta peaimi sera fina?<lb/> Cheu kam ta peaimi chalon kùme pəñeñ,<lb/>
+               <pb n="163"/> Llamŋeñ em?<lb/> Pelafiñ mai wente finu pənolu,<lb/> Llamŋen em!</p>
+
+         </div>
+         <div>
+            <head xml:lang="spa" n="4"/>
+
+            <note xml:lang="spa">Compuesto y referido por Pascual Painemilla Ñamkucheu de Wapi</note>
+
+            <p xml:lang="arn">Itrokom mapu rupan,<lb/> Rupan, an·ai compañ.<lb/> Kimyelafiñ mapu:<lb/> Montenegro piŋerkei mapu rupan.<lb/> Colorado piŋerkei ŋa mapu.<lb/> Sauce Blanco piŋerkei mapu.<lb/> Cholchoel piŋerkei.<lb/> Moŋen <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ñi piuke<lb/> Úrkùtupatun<lb/> Manshana mapu meu.<lb/> Witrapatun ŋa<lb/> Təfachi mapu meu:<lb/> Compañero, an·ai compañero.<lb/> Itrokom mapu rupan.</p>
+
+         </div>
+         <div>
+            <head xml:lang="spa" n="5"/>
+
+            <note xml:lang="spa">Ref. por Luis Painemilla de Wapi</note>
+
+            <p xml:lang="arn">Llag antù ŋa ñi moŋen meu<lb/> -Kimfe ŋelafiñ mapu-<lb/> Rupan an·ai chachá!<lb/> Paradero ŋerkei mapu,<lb/> Rupan an·ai chachá ŋa!<lb/>
+               <pb n="164"/> Fùchake wawentu ŋerkei mapu<lb/> Rupan an·ai chachá ke ŋa.<lb/> Sauce Blanco piŋerkei mapu ke mai ŋa,<lb/> Rupan, an·ai chachá.<lb/> Montenegro ŋerkei mapu,<lb/> Rupan, an·ai chachá.<lb/> Itro femŋelu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ke mai ŋa<lb/> -Itro maowən·ùi mi kəlleñu ŋa-<lb/> Rupan ke ŋa, chachá.<lb/>
+               <note xml:lang="spa">NB. Las partículas ke, mai, ŋa han quedado sin traducción.</note></p>
+
+         </div>
+         <div>
+            <head xml:lang="spa" n="6">
+               <lb/>El canto de un Huilliche</head>
+
+            <note xml:lang="spa">El Hilliche, de viaje en estos lugares lo cantó en presencia de su hijo y le dejó bañado en lágrimas</note>
+
+            <p xml:lang="arn">¡Fotəm ka fotəm!<lb/> ¡Təlawánia!<lb/> ¡Fotəm ka fotəm!<lb/> ¡Komowakia!<lb/> ¡Fotəm ka fotəm!<lb/> ¡Kamarakíra!<lb/> ¡Fotəm ka fotəm!<lb/> ¡Suakiáni!<lb/> ¡Fotəm ka fotəm!</p>
+
+         </div>
+         <div>
+            <head xml:lang="spa" n="7"/>
+
+            <note xml:lang="spa">La misma del Nº. 2. referida por Luis Painemilla de Wapi.</note>
+
+            <p xml:lang="arn" n="1"> ¡Lamŋen em <w xml:lang="arn" lemma="kay" pos="AV" corresp="other/also"><m baseForm="kay" type="root" corresp="other/also">kai</m></w>, lamŋen em kai!<lb/> Kureŋean pirkelu<lb/> Wedá weche wentru<lb/>
+               <pb n="165"/> Məná kom dəŋu pirkefui,<lb/> Kureŋean pifulu:</p>
+
+            <p xml:lang="arn" n="2"> Azul makuñ pipíyeturkefilu<lb/> Ñi mùchaitun weshá makuñ.<lb/> Wedá weche wentru etc.</p>
+
+            <p xml:lang="arn" n="3"> Pañu chumpiru pipíyeturkefilu<lb/> Ñi weshá chumpiru, miaupéyəm fillkuñ,<lb/> Wedá weche wentru etc.</p>
+
+            <p xml:lang="arn" n="4"> Pañu cason pípiyeturkefilu<lb/> Ñi weshá kerka cason.<lb/> Wedá weche wentru etc.</p>
+
+            <p xml:lang="arn" n="5"> Seda pañu pipíyeturkefilu<lb/> Ñi weshá kerka pañu.<lb/> Wedá weche wentru.</p>
+
+            <p xml:lang="arn" n="6">Məná kom dəŋu piturkei<lb/> Wedá weche wentru<lb/> Kureŋean pifulu.</p>
+
+         </div>
+         <div>
+            <head xml:lang="spa" n="8"> La canción del machi Koskoy</head>
+
+            <note xml:lang="spa">referida por José Francisco Kolùñ de Wapi</note>
+
+            <p xml:lang="arn" n="1"> Akullen, akullen em <w xml:lang="arn" lemma="kay" pos="AV" corresp="other/also"><m baseForm="kay" type="root" corresp="other/also">kai</m></w>,<lb/> Ŋəneduamafiñ tranalelu.<lb/> ¿Chem mu am tá fápəle piŋellen?</p>
+
+            <p xml:lang="arn" n="2"> Ŋəneduamafiñ kutranlu,<lb/> Yelmelleafiñ maréupu llawen·<lb/>
+               <pb n="166"/> Wechu deqiñ <w xml:lang="arn" lemma="kay" pos="AV" corresp="other/also"><m baseForm="kay" type="root" corresp="other/also">kai</m></w>, kutranlu em <w xml:lang="arn" lemma="kay" pos="AV" corresp="other/also"><m baseForm="kay" type="root" corresp="other/also">kai</m></w>.</p>
+
+         </div>
+         <div>
+            <head xml:lang="spa" n="9"> Canción popular de la comarca de Boroa</head>
+
+            <p xml:lang="arn" n="1"> Lamŋen an·ai lamŋen!<lb/> Lamŋen ti wedañma!</p>
+
+            <p xml:lang="arn" n="2"> ¿Chem am ta pensaletuimi?<lb/> Lamŋen an·ai lamŋen!</p>
+
+            <p xml:lang="arn" n="3"> Məná koil·aŋei kauchu an·ai,<lb/> Kimfalmalai ñi piuke, lamŋen.</p>
+
+         </div>
+         <div>
+            <head xml:lang="spa" n="10">Canciones recogidas en Panguipulli <lb/> (Febreo de 1909) <lb/> Canción de Antonio Kúllalleŋ de Llúkúñe.</head>
+
+            <p xml:lang="arn" n="1"> ¿Chem mo illamafiñ, lamŋen?<lb/> „Iñche ñi mapu meu<lb/> -Kume mapu nien- amuayu", pi.</p>
+
+            <p xml:lang="arn" n="2"> Nien kiñe kawellu, kiñe katiau,<lb/> Amuayu, kureyeaimi", pi ta təfei.</p>
+
+            <p xml:lang="arn" n="3"> „Iñche ñi mapu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> amuayu", pi ta təfei,<lb/> „Wirafùayu" pi ta təfei.<lb/>
+               <pb n="167"/></p>
+
+         </div>
+         <div>
+            <head xml:lang="spa" n="11"> Canción de Ambrosio Naquilef Loŋkoñ de Kúlako.</head>
+
+            <p xml:lang="arn">Lamŋen ka lamŋen!<lb/> Iñche ùdefal-lan.<lb/> Məlei kùme mapu ka, lamŋen.<lb/> ¿Cheu peaimi kùme wentru?<lb/> Amuayu ka, lamŋen,<lb/> Ñi moŋen meu, lamŋen.<lb/> ¿Chumŋechi wentru <w xml:lang="arn" lemma="kay" pos="AV" corresp="other/also"><m baseForm="kay" type="root" corresp="other/also">kai</m></w> peaimi, lamŋen?<lb/> Masiáo lladkùken ka, lamŋen.<lb/> Údeeli ¿chem nentuaimi?<lb/> ¿Chumŋechi wentru pealu?</p>
+
+         </div>
+         <div>
+            <head xml:lang="spa" n="12"> Otra canción del mismo.</head>
+
+            <p xml:lang="arn">„L·ai", piŋeimi, lamŋen,<lb/> Moŋeimi ŋa ti:<lb/> Féola contenton<lb/> Fachi antù mi moŋen meu.<lb/> Féola məlei kùme kawellu,<lb/> Mi maŋkadam.<lb/> Ayùeli,<lb/> Amuaiyu, lamŋen.<lb/>
+               <pb n="168"/></p>
+
+         </div>
+         <div>
+            <head xml:lang="spa" n="13"> Canción de Carmen Kumillaŋka Naquill de Panŋiñ <lb/> (Misión de Panguipulli</head>
+
+            <p xml:lang="arn">Kuifi mai kùme wentru ŋefun em,<lb/> L·ai ñi pu loŋko, pofren.<lb/> Məleiei ŋá mapu tañi cheŋemom:<lb/> Anùanùñmanien ñi mapu.<lb/> Ñi Palŋiñ mapu, ñi cheŋemom.<lb/> Femŋen mai ñi pofre ŋen meu.<lb/> Welu chumlan.<lb/> Ayùéneu ñi inaéteu wiŋka,<lb/> Iñche chem kulpa nielan.<lb/> ¿Chumafun?<lb/> Ŋənechen mai kimí ñi chumáteu.</p>
+
+         </div>
+         <div>
+            <head xml:lang="spa" n="14"> Canción del mismo.</head>
+
+            <p xml:lang="arn">Kuifi mai amukefun Waidəfmapu.<lb/> Troleitrəll. Karuwé, Ŋeyéu rupan.<lb/> Fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> pashian ka iñche<lb/> Məleken Waidəfmapu.<lb/> Kiñe tripantu, epu tripantu,</p>
+
+            <pb n="169"/>
+
+            <p xml:lang="arn">Kùla tripantu, meli tripantu,<lb/> Kechu tripantu, kayu tripantu,<lb/> Reqle tripantu witramapun.<lb/> Traq mapuche apəmuwí.<lb/> Feléfelei tichi loŋko em.<lb/> Rupan ŋa Troleitrəll, perpafiñ<lb/> Wətrúlkəlei foro che<lb/> Weichamom chi pu loŋko.<lb/> Ñi moŋen <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> perpafiñ.<lb/> Femŋechi ñi kuñifálŋen meu<lb/> Kom mapu rupan.<lb/> Fentren pu loŋko pefiñ.<lb/> Parlaméntokechi pu loŋko:<lb/> Məleam kùme dəŋu,<lb/> Ñi ŋenoaqel aukan.<lb/> Chem dəŋu ñi ŋenoaqel.<lb/> Ŋenoal ñi salteaŋen.<lb/> Kùme feleáiñ, pu loŋko!<lb/> Kùme felelíiñ, epu ŋeai kure,<lb/> Kùla ŋeai kure, meli ŋeai kure<lb/> Wécheke wentru,<lb/> Yillam chi mapu.<lb/> Ñi al·ùam che.<lb/> Allkùmn, pu loŋko,<lb/> Felen dəŋun təfei pu loŋko:<lb/> Ayúlmn kureŋeal, felepe;<lb/> Ayùnulmn, ká feleai.<lb/> Kùme kul·feáiñ,<lb/>
+               <pb n="170"/> Lipəmáiñ mapu.<lb/> Tripaiam kachilla, kawella.<lb/> Ŋanaituáiñ kulliñ.<lb/> Pùtulaiáiñ, cheŋeáiñ,<lb/> Masiau pùtufe, pofre ŋekei;<lb/> Welu chumlai.<lb/> Mapudəŋulaiáiñ,<lb/> Kùme feleáiñ,<lb/> Femŋechi moŋeərkefui<lb/> Iñ pu ùlmen kuifi.<lb/> Femŋen mai kom dəŋu ñi rupaumaŋen,<lb/> Fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> məletun ñi mapu meu.<lb/> Féola mai məletui weke loŋko,<lb/> Afmom kùme lonko kuifi.<lb/> Fenŋechi mai moŋen.<lb/> Kimnieumaŋefiñ, kuifi moŋefui,<lb/> Kimuufiñ ta kùmeke pu loŋko.<lb/> Femŋechi mai anùletun ñi mapu meu.<lb/> Kuñifal wentru iñche:<lb/> Ŋənechen mai perdonaniéneu.<lb/> Fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> afí ñi duam;<lb/> Fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ŋumáken.</p>
+
+         </div>
+         <div>
+            <head xml:lang="spa" n="15"> Canción de Camilo Melipaŋ de Panguipulli</head>
+
+            <p xml:lang="arn">Akui mai dəŋu pu lonko,<lb/> Raŋiñ wenu pu loŋko.<lb/> Shillalen kawell!<lb/>
+               <pb n="171"/> Minche mapu mai<lb/> Akui ta dəŋu.<lb/> Trepeŋei mai pu kon·a,<lb/> Dullipe kùmeke kawell.<lb/> Weupikaiáiñ,<lb/> Chaliafíiñ mai fentechi pu loŋko.<lb/> Ya mai, pu ùl·men,<lb/> Prakawelliñ mai!<lb/> Ya mai, sarkéntokon·a,<lb/> Ŋənékon·aiaimi. </p>
+
+         </div>
+         <div>
+            <head xml:lang="spa" n="16"> Canción, referida por Domingo Segundo Wenuñamko de Maŋolwe (Misión Panguipulli)</head>
+
+            <p xml:lang="arn">Kuifi ŋa, moŋen meu<lb/> Ñi kùmeke femŋen em,<lb/> „Ayé kùpai“, piŋekefun.<lb/> „Lepùlpe ŋa tafù.<lb/> Faple anùrpaiai“, piŋekefun.<lb/> Moŋen mai ñi kùme chau.<lb/> Féola kom tranárupayei:<lb/> Kintuwəlwetulaqéneu<lb/> Kùmeke ŋa pəñeñ,<lb/> Tañi pófreŋen <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> məten mai.<lb/> Cheŋewetulan<lb/> Fantenchi ŋa ñi tremn meu;<lb/>
+               <pb n="172"/> Ellá pəñeñ ŋen,<lb/> Kùme pəñeñ em ŋa iñche.<lb/> Feulá ŋa kintuwəlwetulaqéneu ŋa<lb/> Ñi kùmeke lamŋen.</p>
+
+         </div>
+         <div>
+            <head xml:lang="spa" n="17"> Otra canción, referida por el mismo.</head>
+
+            <p xml:lang="arn">Iñche məten, fei ñi kiñen kùme pəñeñ,<lb/> Pikelaiaimi, lamŋen,<lb/> Itrokom mapulu kùme pəñeñ;<lb/> Rupan ŋa itrokom mapu che meu.<lb/> Wichu chumŋerumelai<lb/> Ŋani kùmeke femŋen,<lb/> Kake mapu kùmeke pəñeñ.<lb/> Illamkelaiafimi kake mapu.<lb/> Fei pirupaiawlu kuñifal pəñeñ.</p>
+
+         </div>
+         <div>
+            <head xml:lang="spa" n="18"> Otra canción del mismo.</head>
+
+            <p xml:lang="arn">Iñche ŋa akun meu,<lb/> Cheŋewetulai fachi mapu ŋa kùmeke pəñeñ.<lb/> Iñche ŋa ñi pofre ŋen meu,<lb/>
+               <pb n="173"/> „Pofre ŋen ŋá, pitui.<lb/> Iñche tañi akun meu<lb/> Ŋewetulai kùtral rume. </p>
+
+         </div>
+         <div>
+            <head xml:lang="spa" n="19"> Del mismo</head>
+
+            <p xml:lang="arn" n="1"> Tío an·ai, tío!<lb/> Kiñe <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> məten ŋùmaketun:<lb/> „Kuifi niefun ñi kùmeke kawell,<lb/> Meli tapayu kurù niefun.<lb/> Kechañmarpaqéneu salinero;<lb/> Fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> məten mai ŋùmaken:<lb/> Niewelan ŋa<lb/> Ñi kumeke kawell, kan·ai malle.</p>
+
+            <p xml:lang="arn" n="2"> „¿Chem <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ŋùmaimi, malle?<lb/> Ŋùmakelaiaimi ka, malle,<lb/> Nieleyu ta kùmeke kawell.<lb/> Chuməl ayùlmi mi pərpuaqel,<lb/> Pərpukaiaimi məten.<lb/> Məlei ŋa fùchá manchao kolù<lb/> Məlei ŋa fùchá kallfù ayùsh.<lb/> Tuchi ŋa mi ayùn,<lb/>
+               <pb n="174"/> „Pərpuchi" pilmi<lb/> Pərpukaiaimi məten".</p>
+
+         </div>
+         <div>
+            <head xml:lang="spa" n="20"> Del mismo</head>
+
+            <p xml:lang="arn">Mùchai fempei ñi yafkan mai,<lb/> Tunten dəŋu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> no mai,<lb/> Muchai ŋoimátrekan<lb/> Pichi dəŋu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> mai.<lb/> Rupárupai ñi duam:<lb/> Yafkan mai.<lb/> Ŋoimátrekaian", pikelafun,<lb/> Mùchai mai ŋoimátrekan;<lb/> Welu mai tunten dəŋu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> no<lb/> Yafkaluwn.</p>
+
+         </div>
+         <div>
+            <head xml:lang="spa" n="21"> Del mismo</head>
+
+            <p xml:lang="arn">Chem dəŋu rume ta piukeyelan;<lb/> Miawn em mai, kolletu mai iñche<lb/> Ta miawn, lamŋen eŋn,<lb/> Pùlku ñi duam ta kùpállen.</p>
+
+         </div>
+      </body>
+   </text>
+</TEI>

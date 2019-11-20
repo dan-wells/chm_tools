@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gramática Araucana: III. Parte - Lectura</title>
+            <author>Félix José de Augusta</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1903</date>
+               <name>Valdiva, Imprenta Central, J. Lampert</name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher/>
+         </publicationStmt>
+         <seriesStmt>
+            <p/>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Grammar/Missionary Texts</ab>
+            <ab>DIALECT: Lafkenche?</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>TEXT OCR: Google Cloud Vision (using DH Dashboard, developed by Bryan Tarpley at the
+               Center for Digital Humanities Research here at Texas A&amp;M University.) </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>OCR CORRECTIONS: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="335"/>
+         <div>
+            <head xml:lang="arn"> <w xml:lang="arn" lemma="kimün" pos="V" corresp="know"><m baseForm="kim" type="root" corresp="know">Kim</m><m baseForm="fall" type="cause">fal</m><m baseForm="(kü)le" type="prog">kəle</m><m baseForm="la" type="neg">la</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="chumlen" pos="N" corresp="being how"><m baseForm="chum" type="root" corresp="how">chum</m><m baseForm="le" type="vb">le</m><m baseForm="(ü)n" type="nmlz">n</m></w> <w xml:lang="arn" lemma="küla" pos="NUM" corresp="three"><m baseForm="küla" type="root" corresp="three">küla</m></w> <w xml:lang="arn" lemma="personangen" pos="AJ" corresp="be a person" source="sp:persona"><m baseForm="persona" type="root" corresp="person">persona</m><m baseForm="nge" type="vb">ŋe</m><m baseForm="chi" type="ajvz">chi</m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="be one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m><m baseForm="(ü)n" type="inf">n</m></w> <w xml:lang="spa" lemma="Dios" pos="NP" corresp="God">Dios</w>.</head>
+
+            <p xml:lang="arn"> <w xml:lang="spa" lemma="san" pos="AJ" corresp="Saint">San</w> <w xml:lang="spa" lemma="Augustin" pos="NP" corresp="Augustine">Agustin</w> <w xml:lang="arn" lemma="pingechi" pos="V" corresp="called"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="nge" type="vb">ŋe</m><m baseForm="chi" type="adjz">chi</m></w> <w xml:lang="spa" lemma="obispo" pos="N" corresp="bishop">obispo</w> <w xml:lang="arn" lemma="fentren" pos="AV" corresp="much"><m baseForm="fentren" type="root" corresp="much">fentren</m></w> <w xml:lang="arn" lemma="rakiduamün" pos="N" corresp="think/reason"><m baseForm="raki" type="root" corresp="count/calculate">raki</m><m baseForm="duam" type="root" corresp="business/need/intention">duam</m><m baseForm="(kü)le" type="prog">kəle</m><m baseForm="fi" type="bi">fu</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="rüf" type="AV" corresp="really"><m baseForm="rüf" type="root" corresp="really">rəf</m></w> <w xml:lang="arn" lemma="kimlu" pos="V" corresp="know"><m baseForm="kim" type="root" corresp="knowing">kim</m><m baseForm="a" type="fut">a</m><m baseForm="fi" type="3dir">fi</m><m baseForm="lu" type="svn">lu</m></w> ñi
+               <w xml:lang="arn" lemma="chumlen" pos="N" corresp="being how"><m baseForm="chum" type="root" corresp="how">chum</m><m baseForm="le" type="vb">le</m><m baseForm="(ü)n" type="nmlz">n</m></w> <w xml:lang="arn" lemma="küla" pos="NUM" corresp="three"><m baseForm="küla" type="root" corresp="three">küla</m></w> <w xml:lang="arn" lemma="personangen" pos="AJ" corresp="be a person" source="sp:persona"><m baseForm="persona" type="root" corresp="person">persona</m><m baseForm="nge" type="vb">ŋe</m><m baseForm="chi" type="ajvz">chi</m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="be one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m><m baseForm="(ü)n" type="inf">n</m></w> <w xml:lang="spa" lemma="Dios" pos="NP" corresp="God">Dios</w>.</p>
+
+            <p xml:lang="arn"> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">Kiñe</m></w> <w xml:lang="arn" lemma="antü" pos="N" corresp="day/sun"><m baseForm="antü" type="root" corresp="day/sun">antü</m></w> <w xml:lang="arn" lemma="amun" pos="V" corresp="go/walk"><m baseForm="amu" type="root" corresp="go/walk">amu</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="pashialu" pos="N" corresp="strolling/taking a trip" source="sp:paseo"><m baseForm="pashia" type="root" corresp="stroll/take a trip">pashia</m><m baseForm="a" type="fut">ia</m><m baseForm="lu" type="svn">lu</m></w> <w xml:lang="arn" lemma="playa" pos="N" corresp="beach" source="sp:playa"><m baseForm="playa" type="root" corresp="beach">playa</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, <w xml:lang="arn" lemma="rakiduam" pos="N" corresp="thought/mind"><m baseForm="raki" type="root" corresp="count/calculate">raki</m><m baseForm="duam" type="root" corresp="business/need/intention">duam</m></w> <w xml:lang="arn" lemma="engu" pos="PC" corresp="along with"><m baseForm="engu" type="3d">eŋu</m></w> <w xml:lang="arn" lemma="amun" pos="V" corresp="go/walk"><m baseForm="amu" type="root" corresp="go/walk">amu</m><m baseForm="iy" type="ind3">i</m></w>, <w xml:lang="arn" lemma="rüf" type="AV" corresp="really"><m baseForm="rüf" type="root" corresp="really">rəf</m></w>
+               <w xml:lang="arn" lemma="rakiduamün" pos="N" corresp="think/reason"><m baseForm="raki" type="root" corresp="count/calculate">raki</m><m baseForm="duam" type="root" corresp="business/need/intention">duam</m><m baseForm="(ki)yaw" type="amb">kiau</m><m baseForm="ka" type="cont">ka</m><m baseForm="fu" type="bi">fu</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="tañi" pos="PP" corresp="his/her/their"><m baseForm="tañi" type="3">tañi</m></w> <w xml:lang="arn" lemma="amun" pos="N" corresp="walking"><m baseForm="amu" type="root" corresp="go/walk">amu</m><m baseForm="(kü)le" type="prog">le</m><m baseForm="(ü)n" type="inf">n</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. <w xml:lang="arn" lemma="amulu" pos="N" corresp="walking"><m baseForm="amu" type="root" corresp="go/walk">Amu</m><m baseForm="(kü)le" type="prog">le</m><m baseForm="lu" type="svn">lu</m></w> <w xml:lang="arn" lemma="pen" pos="V" corresp="see"><m baseForm="pe" type="root" corresp="see">pe</m><m baseForm="pu" corresp="trloc">pu</m><m baseForm="fi" type="dir3">fi</m><m baseForm="iy" type="ind3" change="deletion"></m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> <w xml:lang="arn" lemma="müt'e" pos="AV" corresp="very/much"><m baseForm="müt'e" type="root" corresp="very/much">məte</m></w> <w xml:lang="arn" lemma="ayünngechi" pos="AJ" corresp="want/love"><m baseForm="ayü" type="root" corresp="want/love">ayün</m><m baseForm="nge" type="vb">ŋe</m><m baseForm="chi" type="ajvz">chi</m></w> <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> <w xml:lang="arn" lemma="weche" pos="N" corresp="young person"><m baseForm="we" type="root" corresp="new/fresh">we</m><m baseForm="che" type="root" corresp="person">che</m></w> 
+               <w xml:lang="arn" lemma="inal" pos="N" corresp="shore/edge"><m baseForm="inal" type="root" corresp="shore/edge">inal</m></w> <w xml:lang="arn" lemma="l'afken'" pos="N" corresp="lake/sea"><m baseForm="l'afken'" type="root" corresp="lake/sea">l·afken·</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, <w xml:lang="arn" lemma="dewmadewman" pos="V" corresp="build/make/complete with much effort"><m baseForm="dewma" type="root" corresp="build/make/complete">deumá</m><m baseForm="dewma" type="root" corresp="build/make/complete">deuma</m><m baseForm="ye" type="cf">ye</m><m baseForm="fu" type="bi">fú</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> <w xml:lang="arn" lemma="rüŋan" pos="N" corresp="hole"><m baseForm="runga" type="root" corresp="dig">rəŋa</m><m baseForm="(ü)n" type="nmlz">n</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m><m baseForm="ke" type="p">ke</m></w> <w xml:lang="arn" lemma="kug" pos="N" corresp="hand"><m baseForm="kug" type="root" corresp="hand">kuq</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">Fei</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ka
+               <w xml:lang="arn" lemma="amun" pos="V" corresp="go/walk"><m baseForm="amu" type="root" corresp="go/walk">amu</m><m baseForm="iy" type="ind3">i</m></w>  wiñamafilu l·afken·, akuli <w xml:lang="arn" lemma="tañi" pos="PP" corresp="his/her/their"><m baseForm="tañi" type="3">tañi</m></w> rəŋan <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, wə truntəkuyefi, ká <w xml:lang="arn" lemma="amun" pos="V" corresp="go/walk"><m baseForm="amu" type="root" corresp="go/walk">amu</m><m baseForm="iy" type="ind3">i</m></w> , ká
+               wiñamkefi, ká təkufi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> rə ŋan <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. Wiñamwiñamyefi tichi l·afken·, fentré rupa
+               wiña mi; arofüi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> küdau <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+            <p xml:lang="arn">San Agustin witralepui, leliniepufi feichi <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> wentru. Deu
+               witrañmaniepufilu (ñi witralepun fəla al·üñma <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> pikei), feimeu ramtufi feichi pichi
+               che küdauküdauŋelu: «Chumkei mi kam fau, fochem?», piŋepui <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> altaweñi. Lloudəŋui
+               pichiche: «Kom wiñamafilu <w xml:lang="arn" lemma="l'afken'" pos="N" corresp="lake/sea"><m baseForm="l'afken'" type="root" corresp="lake/sea">l·afken·</m></w> iñche, kom təkuafiñ təfachi <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> rəŋan meu», pi
+               <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> lloudəŋun feichi <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> altaweñi.</p>
+
+            <p xml:lang="arn">San Agustin allwe ayelei ka <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> pi: «Pepifal-lai, an·ai fochəm;
+               feyükelai təfachi <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> rəŋan <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> feichi füchá l·af ken·», piŋei <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> altaweñi,
+               piéyeu San Agustin. Ká lloudəŋui pichiche: «Felerkei mai! Ká femŋechi fe yükelai Dios
+               <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> füchake dəŋu <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> tue mapu che <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> raki duam <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>,» piŋei San Agustin, piéyeu feichi
+               <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> altaweñi ka ñamrumetui.</p>
+
+            <p xml:lang="arn">Kimtəkui San Agustin <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> ankel <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pefiel <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, feimeu rumel
+               rakiduamwelai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> trür kimafiel <w xml:lang="spa" lemma="Dios" pos="NP" corresp="God">Dios</w> ni chumlen.</p>
+
+            <pb n="336"/>
+
+         </div>
+         <div>
+            <head xml:lang="arn">Llüwafeŋechi dewü. <note>Esta lectura y las siguientes son
+                  traducciones de «Nuevo Método» por Claudio Matte, pg. 38 y las
+               siguientes.</note></head>
+
+            <p xml:lang="arn">Kiñe dewü tripai <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> <w xml:lang="arn" lemma="antü" pos="N" corresp="day/sun"><m baseForm="antü" type="root" corresp="day/sun">antü</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> lolo <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, ka, <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pefiel <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> wachi,
+               <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> pi: «Pu che məte llüwatufe ŋei: <w xml:lang="arn" lemma="küla" pos="NUM" corresp="three"><m baseForm="küla" type="root" corresp="three">küla</m></w> pichike maməll <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> deumakei <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> wachi, kiñe
+               feichi <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> maməll <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> elkei ni <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> keso, feimeu <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> pikeiŋn: «Fei təfa ta wachi,
+               <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> nüŋeam ta dewü»>, Iñchiñ taiñ dewüŋen llüwatufe ŋenofuliñ? Iñchiñ küme kimiñ,
+               fəlfiliñ keso, ütrəf naqpaiai ladrillo ka trañmaiaiñ <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, feimeu ünatulafiñ.»</p>
+
+            <p xml:lang="arn">Pichiñma leliwəlniekefui wachi feichi dewü, féola <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> pi: Küme
+               n·ümünŋei təfachi keso; n·ümütufili məten, kadme ütrəf naqpalaiai wachi; <w xml:lang="arn" lemma="amun" pos="V" corresp="go/walk"><m baseForm="amu" type="root" corresp="go/walk">amu</m><m baseForm="iy" type="ind3">i</m></w> ñ mai,
+               n·ümütumeafin feichi <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> ke so ŋəneduamkechi».</p>
+
+            <p xml:lang="arn">Pichike pichike inafəlmaéyeu kümé, femŋen puwí keso <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. Welu fenten
+               ináfəlpui, <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> lel ütrəfnaqrumei ladrillo, feimeu trañmaéyeu.</p>
+         </div>
+         <div>
+            <head xml:lang="arn">Dañé fədü.</head>
+
+            <p xml:lang="arn">Epu pichike <w xml:lang="arn" lemma="weche" pos="N" corresp="young person"><m baseForm="we" type="root" corresp="new/fresh">we</m><m baseForm="che" type="root" corresp="person">che</m></w>  rupaiŋu <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> mapu kachilla <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> pukintuiŋu
+               <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> dañe üñəm. Pekafilu məten lefiŋu <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> chi dañe <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ka nüpufiŋu feichi fədü
+               lləpadkəlelu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ku ram <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+            <p xml:lang="arn">Feichi wənen <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> pifi kaŋelu: Eimi nüŋe təfachi kuram, iñche nüan
+               fədü, kuram doi falikei fədü <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.»-«Felele mai», lloudoŋui feichi inan, «eluen iñche
+               fədü, eimi nüŋe kuram». Femŋechi epuñple wedá dəŋuwiŋu, femŋen femŋen illkul kawiŋu,
+               femnen kewaiŋu. Kewákewaŋen <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> eŋu leftripai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> fədü <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> feichi pichiche, kaŋelu
+               pənoi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kuram fədü. Pelu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ñaməmn fedü eŋu kuram, feichi epu <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> weche
+               kümelkautuiŋu, ka «kewawelaiaiyu» piuiŋu.</p>
+         </div>
+         <div>
+            <head xml:lang="arn">Llüshkü korü.</head>
+
+            <p xml:lang="arn">Təfachi llüshkü korü məte kümelai», <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> pifui <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> liwén Juanita tañi
+               ñuke; «pepí iŋekelai», pi kai.</p>
+
+            <pb n="337"/>
+
+            <p xml:lang="arn">«Relelan féola <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ká deumaiaqel», lloudəŋui <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ñuke, welu təfachi naqn
+               <w xml:lang="arn" lemma="antü" pos="N" corresp="day/sun"><m baseForm="antü" type="root" corresp="day/sun">antü</m></w> eluayu doi kümelu».</p>
+
+            <p xml:lang="arn">Wəla <w xml:lang="arn" lemma="amun" pos="V" corresp="go/walk"><m baseForm="amu" type="root" corresp="go/walk">amu</m><m baseForm="iy" type="ind3">i</m></w> ŋu peñéñwen malaltəku anümweshakelu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> rəŋanentual poñü.
+               Juanita kom <w xml:lang="arn" lemma="antü" pos="N" corresp="day/sun"><m baseForm="antü" type="root" corresp="day/sun">antü</m></w> ñəmikefui poñü ka təkukefui saku <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+            <p xml:lang="arn">Feimeu wəñoiŋu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ruka <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, ká küpaleléyeu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ñuke llüshkü korü;
+               Juanita kümékümetui ka <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> pi: «Məná kü merkei təfa! Fei təfa doi kümei kaŋelu meu!»;
+               feineu i <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> apon ral·i.</p>
+
+            <p xml:lang="arn">Ñi ñuke ayeniéyeu ka <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> piéyeu: «Feichi llüshkü korü ká məten tami
+               kümentuuyenoel ta tayi. Küdaun ŋəñülchekei, feimeu féola kümentuimi korü.</p>
+         </div>
+         <div>
+            <head xml:lang="arn">Feichi wintu pañilwe wil·i.</head>
+
+            <p xml:lang="arn">Kiñe lelfün che <w xml:lang="arn" lemma="amun" pos="V" corresp="go/walk"><m baseForm="amu" type="root" corresp="go/walk">amu</m><m baseForm="iy" type="ind3">i</m></w>  <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> <w xml:lang="arn" lemma="antü" pos="N" corresp="day/sun"><m baseForm="antü" type="root" corresp="day/sun">antü</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> Tomás fotəm eŋu waria <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. Feichi
+               rəpü <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> pukintui feichi chau <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> wintu pañilwe wil·i, ka <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pefiel <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> piŋei
+               feichi weche: Ñə mitufiŋe, Tomás, təfachi pañilwe wil·i, tranalei pülli <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, ka
+               elfiŋe mi fonsillo meu». «Chem falí təfa fenten pichin <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> lloyünaqal?!» pifí ñi
+               chau Tomás.</p>
+
+            <p xml:lang="arn">Kiñe n·emel no rume dəŋulai təfachi chau, witrañprami pañilwe wil·i ka
+               təkui <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> fonsillo <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. Púulu <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> waria <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> fendelfi rütrafe kechu centavo <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>,
+               ka feichi pla ta <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ŋillai cereza.</p>
+
+            <p xml:lang="arn">Wəla fotəmwen inatuiŋu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> rəpü. Aré <w xml:lang="arn" lemma="antü" pos="N" corresp="day/sun"><m baseForm="antü" type="root" corresp="day/sun">antü</m></w> ŋefui. Cheu no rume
+               pukintulaiŋu <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> mawida kam <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> ruka no ru me cheu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> llaufentuam. Tomás epe l·afui
+               wiwün <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ka kom <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> lladkün <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> inaniefui <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> chau.</p>
+
+            <p xml:lang="arn">Feimeu təfa upeduamkechi reke llaŋkümfi <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> cereza. Tomás ñəmitui,
+               milla pelu reke trokiufui, ka təkui <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> wən· <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+            <p xml:lang="arn">Ká <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> ayeple feichi chau ká llaŋkümkafi cereza. To más ká femŋechi
+               ñəminpramkai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> illun <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. Femŋechi a mulei, femŋen kom ñəmitui feichi cereza.</p>
+
+            <p xml:lang="arn">Deu ilu feichi kiñelewechi cereza, wəñotuéyeu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> chau ka <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> piéyeu:
+               «Kiñe rupa lloyünaqfulmi ñəmituafiel feichi pañilwe wil·i, feimeu felelaiafui tami
+               lloyünaqal pataka rupa ñəmituafiel feichi cereza.</p>
+
+            <pb n="338"/>
+         </div>
+         <div>
+            <head xml:lang="arn">Llükanten ŋelaiaimi.</head>
+
+            <p xml:lang="arn">Federiko, <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> weche, məte llükánten ŋefui. Kiñe pun· werküéyeu
+               <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> chau kárukatu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ruka <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. Küyen· füchá pe lomtulefui. Feimeu konlu raŋiñ miñche
+               ruka <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, Federiko pefí, witralefui <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> füchá che, kurülefui.</p>
+
+            <p xml:lang="arn">Apó llükan <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> kañpəle rüŋkürumei feichi weche. Welu feichi
+               kurünkəlechi che ká femŋechi rüŋkürumei ka doi <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> kənuutui. Federiko wirárüi
+               llükankechi ka wəñotui lefkəlen <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ruka <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. Feichi che ká femŋechi lefí <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> furi <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>,
+               doi füchakənuutui feimeu, kal·ku dəŋu rekǝlefui.</p>
+
+            <p xml:lang="arn">Ñi wirárün <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> tripai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> chau, trafpafi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> fotəm, tra nalefui pülli
+               <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, epe l·alefui <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> llükan <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. Pichin <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> Federiko nütramkai ŋümankechi, «kiñe
+               füchá kurülechi che inapeéneu», pi.</p>
+
+            <p xml:lang="arn">Ñi allkün <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> feichi chau nüfi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> wentru <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="kug" pos="N" corresp="hand"><m baseForm="kug" type="root" corresp="hand">kuq</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, yefi puñma
+               ruka <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, feimeu peŋelfi feichi kurülechi che, re məten kidu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> aiwiñ ŋefui. Federiko
+               kelütripai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> yewen <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, «ká llükánten ŋewelaian», pi.</p>
+
+         </div>
+         <div>
+            <head xml:lang="arn">Honrao ŋelu weukei.</head>
+
+            <p xml:lang="arn">María peí <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> <w xml:lang="arn" lemma="antü" pos="N" corresp="day/sun"><m baseForm="antü" type="root" corresp="day/sun">antü</m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> kuram achawall <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> lepünruka <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. Apó ayüun
+               <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> lef pepufi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ñuke ka <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> pifí: «Pefi ŋe, papay, təfa kuram pen.</p>
+
+            <p xml:lang="arn">Lloudəŋui <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> nuke: «Təfachi kuram eimi nó, kárukatu domo <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kuram ta
+               təfei. Məpürupakei kiñelke <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> achawall iñchiú yu lepün <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ka elpei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kuram <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.
+               Felei mi elutuafiel.</p>
+
+            <p xml:lang="arn">Taŋküfi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ñuke María ka yeltufi kuram <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kárukatu domo. Fei təfa
+               fücha ayüui <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ŋənelŋen <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> María ka <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ñuke, kuñifal domo ŋefui, ka <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> pi ti
+               kárukatu domo: «We waimi tami ŋənelŋen <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, ayün tami ré eluafiel təfachi ku ram,
+               welu elelayu <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> mufü semana». Ñi <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> pin <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, təkufi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> dañe <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> feichi petu
+               lləpañchi achawall <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+            <p xml:lang="arn">Rupan kiñeke semana <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> feichi kuram <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> tripai <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> achawall.
+               María ayüui nülu feichi <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> achawall <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="kug" pos="N" corresp="hand"><m baseForm="kug" type="root" corresp="hand">kuq</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kárukatu domo, ka eluui <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> küme
+               kuidaafiel <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> achawall.</p>
+
+            <pb n="339"/>
+
+            <p xml:lang="arn">Ŋenó iaqel məlelafui: feichi küme kárukatu domo eluke fui María uwa ka
+               kachilla tunten <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> duamnien.</p>
+
+            <p xml:lang="arn">Al·ün <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> tremərpui feichi achawall, kurami ka lləpañi. Müchai məten
+               yom nierpui María mari epu pichike acha wall, ka feichi tremí. Fei təfa fenten
+               kuramkefui, ka María fendekefui fill sábado kiñeke docena ŋillakawe meu; <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> weu
+               keelchi plata <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> moŋelkefui <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ñuke.</p>
+         </div>
+         <div>
+            <head xml:lang="arn">Feichi wentru maməlln·amun· ŋelu.</head>
+
+            <p xml:lang="arn">Rupafui <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> <w xml:lang="arn" lemma="antü" pos="N" corresp="day/sun"><m baseForm="antü" type="root" corresp="day/sun">antü</m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> waria <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> kuñifal wentru,
+               mamelln·amun·ŋefui. Pedro aukantukefui kallé <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> kiñeke pichike <w xml:lang="arn" lemma="weche" pos="N" corresp="young person"><m baseForm="we" type="root" corresp="new/fresh">we</m><m baseForm="che" type="root" corresp="person">che</m></w>  yeŋn, ni pu
+               wen·üi. Pefilu feichi ku ñifal wentru Pedro inálefí ka yechi ayétufi ka inaultufi
+               chumŋechi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> amúnŋen.</p>
+
+            <p xml:lang="arn">Feichi wentru chiwədrupai, lladkünkechi leliwəlfi feichi <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> wentru,
+               ka <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> pifí: «Weichakefun <w xml:lang="arn" lemma="tañi" pos="PP" corresp="his/her/their"><m baseForm="tañi" type="3">tañi</m></w> soldaoŋen <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="tañi" pos="PP" corresp="his/her/their"><m baseForm="tañi" type="3">tañi</m></w> mapu fəla, <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> weichan meu
+               külliéneu <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> bala, ka femŋechi tripai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> n·amun·, təfachi n·amun·maməll <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> aye
+               praqen».</p>
+
+            <p xml:lang="arn">Fei təfachi dəŋun <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> lladküiŋn kom. Feichi pichike pu <w xml:lang="arn" lemma="weche" pos="N" corresp="young person"><m baseForm="we" type="root" corresp="new/fresh">we</m><m baseForm="che" type="root" corresp="person">che</m></w>  nentui ñi
+               gorra yeŋn ka chalifiŋn yewenkechi feichi wentru. Pedro witrañpramwelafí <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kintun
+               fenten <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> yewen <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. Feichi <w xml:lang="arn" lemma="antü" pos="N" corresp="day/sun"><m baseForm="antü" type="root" corresp="day/sun">antü</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> turpun ayetu welafí añkenŋechi pu kuñifal.</p>
+         </div>
+         <div>
+            <head xml:lang="arn">Weñémanshánafe.</head>
+
+            <p xml:lang="arn">Antonio üñfi <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> <w xml:lang="arn" lemma="weche" pos="N" corresp="young person"><m baseForm="we" type="root" corresp="new/fresh">we</m><m baseForm="che" type="root" corresp="person">che</m></w>  ŋefui. Rupapelu <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> <w xml:lang="arn" lemma="antü" pos="N" corresp="day/sun"><m baseForm="antü" type="root" corresp="day/sun">antü</m></w> ki ñe malaltəku
+               manshana <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, kintuwəli kümeke manshana tranátranalu pülli <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. Inei no rume
+               penienoelu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> trokiui, koní feichi kinta <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> pichirupachi wechod <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> pel·e ma
+               lal <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, ñəmituyei feichi manshana, kom apóli feimeu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> fonsillo. Welu müchai məten
+               akui ti ŋen· ŋelu, <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> retrü maməll niefui <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="kug" pos="N" corresp="hand"><m baseForm="kug" type="root" corresp="hand">kuq</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+            <p xml:lang="arn">Peéyeu Antonio, fentenn <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> lef nentui feichi pel·e malal pəle, ka ñi
+               montual trokitui feichi wechod <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. Welu, kom aponielu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> manshana kam <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> fonsillo
+               <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, ükülüi ka pepí tripalai. Müchai fipuéyeu feichi ŋen·ŋelu; nüŋepui ka mətroŋ-</p>
+
+            <pb n="340"/>
+
+            <p xml:lang="arn">kanentuŋei retrü <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, məñtuñmaŋetui kom <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> manshana, féola
+               l·el·əmŋetui.</p>
+
+            <p xml:lang="arn">Antonio mətewe al·ün kullí <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kulpamom.</p>
+         </div>
+         <div>
+            <head xml:lang="arn">Llafkalen füchá falin dəņu nei.</head>
+
+            <p xml:lang="arn">Antonio tripai <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> <w xml:lang="arn" lemma="antü" pos="N" corresp="day/sun"><m baseForm="antü" type="root" corresp="day/sun">antü</m></w> lelfün <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. Fentreñma miaufui, kanshan akutui
+               <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> ŋillaiaqelwe ruka meu; feimeu «eluŋe chi kofke ka <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> faso ko», pi. Welu
+               tuteukəlelafui <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> n·a mun·tu miauumaŋen <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ka <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> nienon <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> plata <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> doi kü me
+               iafel.</p>
+
+            <p xml:lang="arn">Pichin <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> witrakənuupai wəl·ŋiñ ruka <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> koche. Re tichi pu
+               koche küpafui <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> ül·men wentru, nentulŋepai <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> füchá katrün ilo ka <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> fotella
+               finu pülku.</p>
+
+            <p xml:lang="arn">Antonio weshá kintuwəlfi feichi ül·men ka piudəŋui: Iñ che pepí
+               femfuli, ká femŋechi femafun».</p>
+
+            <p xml:lang="arn">Feichi ül·men wentru kiməñmaéyeu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> rakiduam ka <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> piéyeu:
+               «Peútulepefuimi eimi mi trafkintual iñche yeŋu?» «Femlefun ká», pi Antonio
+               weluduamnokechi; «naqŋe mi koché <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ka eluen kom chem tami nien; iñche kai eluayu
+               kom chem <w xml:lang="arn" lemma="tañi" pos="PP" corresp="his/her/their"><m baseForm="tañi" type="3">tañi</m></w> nien.</p>
+
+            <p xml:lang="arn">Feikachi dəŋufi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kon·a təfachi ül·men <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> witrañpram ŋeaqel ñi
+               anülemom. Welu füchá wedá dəŋu niefui! -ñi epu n·amun· kom trükafüfui; feichi kuñifal
+               ül·men pepí witrale lafui, nüniewí <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kon·a <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, akulelŋele wəla <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> retrüupeyüm; pepí
+               trekaulafui ŋenó retrü <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+            <p xml:lang="arn">«Chumlei ŋa», pi ti ül·men wentru, «petu peutulekaimi tayu
+               trafkintual?»</p>
+
+            <p xml:lang="arn">«Mə!«, lloudəŋui Antonio llükankechi. Iñche doi ayün <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> epu n·amun·
+               pataka kawellu trafkü <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. Doi kümei kofke iaqel eŋu ko ka <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> trürcheleal ka <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ŋenó
+               kutranŋeal ilotun <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ilo ka <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> witranieŋeal <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> che femŋechi». Ka feimeu
+               witrai ka amutui.</p>
+
+            <p xml:lang="arn">«Küllimi tami piel», ká wirarüléyeu feichi ül·men;» eimi pepí elufeli
+               mi epu küme n·amun·, iñche eluafeyu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> koche ka <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kom kawellu ka <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> plata, kom ñi
+               nieyel. Kiñe wentru kuñifal ka llafkəlelu doi ayüukəlekei <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> ül·men <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ka
+               trükəfkəlelu».</p>
+         </div>
+      </body>
+   </text>
+</TEI>

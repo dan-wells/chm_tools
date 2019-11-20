@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Estudios Araucanos: materiales para el estudio de la lengua, la literatura, i las costumbres de los indios mapuche o araucanow: diálogos en cuatro dialectos, cuentos populares, narraciones históricas i descriptivas i cartas de los indios en la lengua mapuche<lb/>XI TROZOS DESCRIPTIVOS Y DOCUMENTOS PARA EL ESTUDIO DEL FOLKLORE ARAUCANO</title>
+            <author>Rodolfo Lenz</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1895-1898 (elicited 1896)</date>
+               <name>Santiago de Chile, Imprenta Cervantes </name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Anales de la Universidad de Chile</publisher>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Tomo XCVII</p>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic texts</ab>
+            <ab>DIALECT: Pehuenche</ab>
+            <ab>INFORMANT: Calvun (Segundo Jara)</ab>
+            <ab>TRANSCRIBER: Rodolfo Lenz</ab>
+            <ab>LOCATION: Perquenco superior (place of residence of informant)</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>TEXT OCR AND CORRETIONS: Belén Villena and Team </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>ADDITIONAL FORMATTING: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p xml:lang="spa" n="1"> DESCRIPCIÓN DE LA TRILLA ENTRE LOS PEHUENCHES POR SEGUNDO JARA CALVUN
+</p>
+         <p xml:lang="arn" n="1a"> <w xml:lang="arn" lemma="nürtamkan" pos="N" corresp="account"><m baseForm="nütramka" type="root" corresp="tell/relate">ŊƏT’AMKA</m><m baseForm="(ü)n" type="nmlz">N</m></w> <w xml:lang="arn" lemma="ñiwiñngen" pos="N" corresp="threshing"><m baseForm="ñiwiñ" type="root" corresp="thresh">ÑIWI</m><m baseForm="nge" type="pass">ŊE</m><m baseForm="(ü)n" type="nmlz">N</m></w>
+</p>
+         <p xml:lang="arn" n="1"> <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">Veimeu</m></w> <w xml:lang="arn" lemma="nütramkan" pos="V" corresp="tell/relate"><m baseForm="nütramka" type="root" corresp="tell/relate">ŋət’amka</m><m baseForm="a" type="fut">yaa</m><m baseForm="iyu" type="ind1d">yu</m></w> <w xml:lang="arn" lemma="tüfa" pos="DP"><m baseForm="tüfa" type="DP">tva</m></w>, <w xml:lang="arn" lemma="anay" pos="EP" corresp="friend!"><m baseForm="anay" type="root" corresp="friend!">anei</m></w>, <w xml:lang="arn" lemma="chumlen" pos="AV" corresp="how"><m baseForm="chum" type="root" corresp="how">chum</m><m baseForm="le" type="vb">le</m><m baseForm="ke" type="habit">ke</m><m baseForm="n" type="nmlz">n</m></w> <w xml:lang="arn" lemma="ñiwiñngen" pos="N" corresp="threshing"><m baseForm="ñiwiñ" type="root" corresp="thresh">ñiwi</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="(ü)n" type="nmlz">n</m></w> <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> <w xml:lang="arn" lemma="mapuche" pos="CN" corresp="land-people/Mapuche"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m><m baseForm="che" type="root" corresp="person">che</m></w>. <w xml:lang="arn" lemma="angküyem" pos="AJ" corresp="be dry"><m baseForm="angkü" type="root" corresp="dry">Aŋkü</m><m baseForm="(y)em" type="ex">yem</m></w> <w xml:lang="arn" lemma="tükun" pos="N" corresp="field"><m baseForm="tüku" type="root" corresp="place/sow">tuku</m><m baseForm="(ü)n" type="nmlz">n</m></w>: <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  <w xml:lang="arn" lemma="nielu" pos="N" corresp="having"><m baseForm="nie" type="root" corresp="have">nie</m><m baseForm="lu" type="svn">lu</m></w> <w xml:lang="arn" lemma="kachilla" pos="N" corresp="wheat" source="sp:Castilla"><m baseForm="kachilla" type="root" corresp="wheat">kachiʎa</m></w> , <w xml:lang="arn" lemma="kawella" pos="N" corresp="barley"><m baseForm="kawella" type="root" corresp="barley">kaweʎa</m></w>  <w xml:lang="arn" lemma="wichan" pos="V" corresp="invite"><m baseForm="wicha" type="root" corresp="ally">wicha</m><m baseForm="che" type="root" corresp="person">che</m><m baseForm="ke" type="habit">ke</m><m baseForm="iy" type="ind3">i</m></w>; <w xml:lang="arn" lemma="wichan" pos="V" corresp="invite"><m baseForm="wicha" type="root" corresp="ally">wicha</m><m baseForm="ke" type="habit">ke</m><m baseForm="fi" type="3dir">ví</m><m baseForm="iy" type="ind3"></m></w> <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> <w xml:lang="arn" lemma="domo" pos="N" corresp="woman"><m baseForm="domo" type="root" corresp="woman">domo</m></w> <w xml:lang="arn" lemma="suchelu" pos="N" corresp="trimming (the heads off wheat)"><m baseForm="suche" type="root" corresp="trim (the heads off wheat)">suche</m><m baseForm="a" type="fut">a</m><m baseForm="lu" type="svn">lu</m></w> .
+</p>
+<p xml:lang="arn" n="2"> T’apəmkei <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> domo, suchekei, deumakei kiñe antə wel epu antə-meu. Pəchiken tukukeluam <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> mapuche kuivi; v’anten-meu mai allüke tukuketui <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> mapuche.
+</p>
+<p xml:lang="arn" n="3"> Deumaiem <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ket’an eŋən suchen-meu; <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  yekei kəlko-meu lila-mu; puwəlkei  <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> domo. Went’u konkelai kiñe no rume. Re <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> <w xml:lang="arn" lemma="domo" pos="N" corresp="woman"><m baseForm="domo" type="root" corresp="woman">domo</m></w> mətten pərankei  ket’an.
+</p>
+<p xml:lang="arn" n="4"> Rupan sucheiŋən, <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  ka wichachekei ñiwiñalu tvichi <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> domo. Veimeu deumai mudaiŋən . Wichavi ülcha ke domo, weche went’u.
+</p>
+<p xml:lang="arn" n="5"> Pu t’avía konkei ñiwiŋen; pun ñiwiŋei. N̰ət’areuwi , ŋət’arechaŋewi ülcha <w xml:lang="arn" lemma="domo" pos="N" corresp="woman"><m baseForm="domo" type="root" corresp="woman">domo</m></w> yeŋu, weche went’u, ülkatui mâfüluwiŋu.
+</p>
+<p xml:lang="arn" n="6"> Veimeu afüiŋən ñiwiŋen ; anünaiŋən elelniel t’əlke <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> anüam tveichi <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> ñiwiñfe. Eluŋei mudai, kore.
+</p>
+<p xml:lang="arn" n="7"> Veimeu ŋət’amkai kiñe che, kakelu aʎkətulei. Upanyiŋən, <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  umauqtui fətta ke pəra, vei inakudukei weche ke went’u. Femkei mai <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> mapuche.
+</p>
+<p xml:lang="arn" n="1b"> ÜLKATUN ÑIWIŊEN<lb/>
+b. Amuleyu, chachan;<lb/>
+kəmme amuleyu, chachan;<lb/>
+mût’urkilŋe , chachan;<lb/>
+tvei mut’un, chachan.</p>
+<p xml:lang="arn" n="5"> Kəme amuleŋe, chachan.<lb/>
+Amu-amuleyu, lamŋen;<lb/>
+kəmme amuleyu.<lb/>
+Cheu kanzalmi<lb/>
+ʎawe elisaeyu , lamŋen;
+</p>
+            <p xml:lang="spa" n="2">LA PIEDRA SANTA DE RETRICURA
+</p>
+<p xml:lang="arn" n="2"> RƏT’IKURA
+</p>
+<p xml:lang="arn" n="1"> Tvachi kura məlei inaltu rüppü, inaltu kiñe mawida; rüppü t’ipalu Kurakaqtün, amulu Loŋkimai-meu.
+</p>
+<p xml:lang="arn" n="2"> Tveichi kura füttañma, yuŋele, weuchúñ-meu  pətchi rume, mapu-meu allü rupai; məlei pətchi ke lolololoi ; <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  elŋekeel  fiʎ.
+</p>
+<p xml:lang="arn" n="3"> Küla aŋe wif klei; epu s’kina fentepun nurklei; tavlarke məlei.
+</p>
+<p xml:lang="arn" n="4"> Rumealu che ŋiʎaturpukei tveichi kura-meu. Elərpukei fiʎ: niei plata elke mari sentao, chaucha: nielai elərpukei pət’em; nielai pət’em elərpukei mürke.
+</p>
+<p xml:lang="arn" n="5"> Chem rume yenielai, wat’onturpukei chaŋi maməʎ , fei elərpukei. Marichi re rumekelai; re rumele weda yauavúi: wat’oavi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kaweʎu, kisu aʎfü-aʎfüi. Femnole ñam kaweʎu, fot’akonafí  <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kaweʎu; pətchi mapu Rət’ikura məlei kiñe fot’ako.
+</p>
+<p xml:lang="arn" n="6"> N̰iʎaturpunulu , vei tveichi fot’ako-meu vot’akonkei. Marichi re rumekelai tveichi kura meu.<lb/>
+Fütta ŋünechen məleluam tveichi kura-meu, <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  kəme ŋiʎatuŋekei. Ka tveichi mawida-meu, məlei kiñe chukao . Feimu ŋiʎatuŋekei.
+</p>
+<p xml:lang="arn" n="7"> “¡Cháu Rətikurâ! amualu Arkentino-meu inchê; kəme yauan; ¡aʎvüel-kaweʎu-layân! ¡«Kəme yaupe <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> votchəm», piaen châu! ¡chemno rumé nielayái <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> chumən, cháu Rət’ikurâ!<lb/>
+¡Vachi ântə chalirpapeeyu mai, cháu Rət’ikurâ! ¡is’t’okom duŋu kimniéimi, chau Rət’ikurâ!
+</p>
+<p xml:lang="arn" n="8"> “¡Chukao! ¡feleimi! kəmme yauâel <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kəme yaunoyael  piyaqen, vachi ânte, ¡chukao!”<lb/>
+Veimeu weda yauael-meu: ¡t’o! ¡t’ot’o! ¡t’ot’o! pikei tveichi chukao.<lb/>
+Kəme yauael-meu: chüs’il pikei tveichi chukao.
+</p>
+<p xml:lang="arn" n="9"> N̰iʎatuŋekei yael, kəppai yemerkei  che ŋiʎatuŋekei:<lb/>
+“¡Chau Rət’ikura! kuñivaʎ inché, ¡elluen pətchi yael, châu!”<lb/>
+Kəppa-püt’emtúi che, ŋiʎatuŋekei ka: “¡Pətchi eluen pət’em, chau Rət’ikurâ!” pikei nienolu pət’em.
+</p>
+<p xml:lang="arn" n="10"> Re nentuvemuñmaŋei fiʎ, <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  ʎadküi ŋənechen.<lb/>
+Veimeu chumkei rume che elnolu chem rume, kənt’ol-kaweʎu-kei wedayauei kei .<lb/>
+	</p>
+         <p xml:lang="arn" n="11"> Fem-kei <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> mapuche. Rupai arkentinu, elərpai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> mari sentao, <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> chaucha, elərpai chem-rume. Rupai winka, elei fiʎ. Fem nien fütta kúivi am; fütta ke che yem femkemun ; veimu femkei felerpúi.</p>
+               <p xml:lang="spa" n="3">VIAJE A RETRITURA Y LA PIEDRA DEL ORÁCULO
+</p>
+<p xml:lang="arn" n="3"> KIÑE NAMPƏLKAN LIUKURA
+</p>
+<p xml:lang="arn" n="1"> N̰ət’amkayaeyu, anei; amukein Liukura küla yewiyin. Inche mai une konən Kurakaqtün. Məlepuken.
+</p>
+<p xml:lang="arn" n="2"> Allün-meu puwi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> weku Ordike; vei yerpueneu. Amuyin Liukura. Kuʎin niepukei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> weku, <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  amukeyin. Umañpuyin Fütta Lelfün piŋechi mapu-meu.
+</p>
+<p xml:lang="arn" n="3"> Ka wünple amuyin. Rumeyin Rət’ikura ŋiʎaturpuyin:<lb/>
+“¡Cháu Rət’ikurâ! Frenemoayin: «kəme yaupe <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> vochəm» pi eimi , Rət’ikurâ. ¡Chumlayayin mai, cháu Rət’ikurâ!” pirpuyin ŋiʎatun.
+</p>
+<p xml:lang="arn" n="4"> Elərpuyin mürke, ŋüʎiu, pət’em; veimu rumeyin. Puwiyin Loŋkimai; umañpuyin. Ka wünple amuyin. Puwiyin Liukura, Romaltu Palma-meu. Veimeu ilotupuyin.
+</p>
+<p xml:lang="arn" n="5"> Veimeu külawentupuyin, ramtuputui kuʎin <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> weku fei chu went’u amedia-ŋekei. Veimeu elutueiñmeu  in kuʎin, kaŋeple  elkunumetui <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kuʎin <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> weku amedia.
+</p>
+<p xml:lang="arn" n="6"> Ka antə-meu amuyu weku inchu Peutúwe-kura-meu . Pu wiyu.<lb/>
+Tvachi kura rumei yem <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> mapuche wit’añpramərpukerkei peutukemun . Veimeu wit’añpraneyu  kai. Inche meli rupachi pramən, <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> weku külla rupachi pramüi.
+</p>
+<p xml:lang="arn" n="7"> Tvachi kura-meu kimukerkei <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> mapuche chumteñma moŋeyael. Veimeu vemeviyu tveichi kura kai. Meli rupachi pramlu allüñma moŋekerkei; külla rupachi pramlu doi püchiñma moŋekerkei.
+</p>
+<p xml:lang="arn" n="8"> Tvachi kura piŋei Peutuwekura; kaʎvui, moŋkolklei, püchikavui, welu fentepun fanei. Veimeu wit’añpraneyalu inchu kəpatuyu Liukura-meu.
+</p>
+<p xml:lang="arn" n="9"> Kunumei  ka niekei kaweʎu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> weku, vei yemetúi ka, kəpatulu inchin. Ilo kəpaltuyin. Vauple ŋiʎapai uvisa <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> weku kiñe arkentino-meu.<lb/>
+Meli kaweʎu-meu eluŋei küla mari purua uvisa, ka mari kapra.<lb/>
+Veimeu kəpain Loŋkimai; akutulu inchin mawünmain.
+</p>
+<p xml:lang="arn" n="10"> Veimeu epuentupatuiin. Dipatuinmeu küla went’u. Amurkeiavulu Puel-mapu, wüñomerkei Alonmi məlei weichan piŋen-meu wüñometurkeiŋən.
+</p>
+<p xml:lang="arn" n="11"> Vei inchin kəpatuyin; <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> liwen konpayin waidüvwe-meu. Kiñe kom antü-meu akuiyin Malalkaweʎu.<lb/>
+Veimeu ñamümpain  küla uvisa; pun akuyin inchin. Veimeu ilopaiin kiñe uvisa, ilotupaiin. Veimeu epuentupaiin ka kəpaiin, rupatupuyin Rət’ikura ka.
+</p>
+<p xml:lang="arn" n="12"> Elərpatuyin ilo, ŋüʎiu. Veimeu ŋiʎatupaiin ka.<lb/>
+“Chau Rət’ikurâ «kəme puwtupe <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> vochəm» pi eimi mai Rət’ikurâ?” pirpatuyin.
+</p>
+<p xml:lang="arn" n="13"> Vau-ple t’auwiyin fent’en arkentinu inchin, kontualu Arkentino-meu.  Wüñopalu vachi mapu ŋiʎaturputuiŋən kai Rət’ikura.<lb/>
+Elərputui fela, plata; rüŋalkunuyerpuiŋən.
+</p>
+<p xml:lang="arn" n="14"> Veimeu rupaiin, kəpaiin, akuyin “Wedaŋei”  mapu-meu püchi leq vui  antə. Veimeu umañpayin, yi-ŋüʎiupayin. Ka antə-meu kəpatuiin, akutuyin Fütta Lelfün-meu. Veimeu ka umañpayin. Veimu ka kiñe ilopayinuvisa.
+</p>
+<p xml:lang="arn" n="15"> Ka wün-ple kəpayin. Püchi prapai antə akuyin Kurakaqtün. Veimeu putupai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> weku epu lit’o murt’u .<lb/>
+Veimeu rupaiin; ka kiñe voteʎa pülku ukəpali; putu-ye-kəpayin. N̰oʎiin akuyin Koʎiwanki. Veimeu putupayin ka; <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  ŋoʎiin kiñe went’u; ŋoʎilelu kəpaltui uvisa kisu.
+</p>
+<p xml:lang="arn" n="16"> Epu yewiyu weku inchú ina naqeyu. Püchi allün-meu kəpayu; umaukleuie-yeparkei tvichi kecha-kəpalu uvisa.<lb/>
+Akuyiu inchú, nentuchiʎaupayu, umautupayu.
+</p>
+<p xml:lang="arn" n="17"> Epe wün t’epeyin; t’ipaparkei küyen; <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  rakipayin uvisa; ŋerkelai mari küla. Ka went’u ñaməmüi  epu mari peso, ka kiñe la kapra.<lb/>
+Veimeu veichi pun məten kintufuiin uvisa; pelayin. Wün-ple kom antə kintufuyin, ramtufuyin wiŋka-meu, “pelayin” piŋeyin.
+</p>
+<p xml:lang="arn" n="18"> Ka umanayin . Veichi pun ula rontayin. Inche wene rontan; ka went’u raŋi pun koni rontayalu. Veichi went’u wünəm-nentui . Veichi pun rontayin; kiñe is’t’o pun mawənei , ka puliwen mawənei. Veimeu kəpatuyin. Inche inanaqən ; Kuriche-mu umañpatun.<lb/>
+Ka <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> liwen amun Koʎiwanki rlamtumeae uvisa. Kom antə mawənman. Pemelan uvisa. Veimeu kəpatun.
+</p>
+<p xml:lang="arn" n="19"> Puwtun Pərkenko <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> weku-meu.<lb/>
+   Veimeu epuentemen kəpatun Santa Rosa-meu mapu Fitór Chuappa <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on-meu.</p>
+                  <p xml:lang="spa" n="4">VIAJE A HUINFALI
+</p>
+<p xml:lang="arn" n="4"> AMUI KAʎFÜN WÜNFALI
+</p>
+<p xml:lang="arn" n="1"> Amuken Wüñfali. Nentunpapilen pat’on Fítor Chuappa-meu; nentulu-papil inche, <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  amun.
+</p>
+<p xml:lang="arn" n="2"> Puwən fütta ke pra-mu. Pettu moʎirkei che, puwən. Puulu inche ʎaqeneu kiñe <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> wenüi. Veimeu puttupun, moʎipun, moʎilu inche umañen.<lb/>
+Ka antə-meu puwəi Waikil <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kompañ; <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  ka moʎipúi kai.<lb/>
+Moʎilu, <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  felen. Ka antə-meu moʎi-leqkai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kompañ. Veimeu amun ula kisu.
+</p>
+<p xml:lang="arn" n="3"> N̰uyulvalewen <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> chale-meu. Elŋemen Koʎiwanki; elmael inché <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  ŋiʎayâlpun Koʎiwanki.<lb/>
+Veimu rupan ilu inché amun namuntu.<lb/>
+Allülewen antə puwən Kurakaqtün-meu.<lb/>
+Veimeu fentepun wüywün ; pəttokovun ko, rupanwüiulan . Veimeu kiñe limeta chinchiví, ka  raŋin lit’o murto ŋiʎan. Veimeu rupan wiywün ula.
+</p>
+<p xml:lang="arn" n="4"> Veimeu ka koretun upan. Koretulu inché, kəpan soelekao-meu; peŋelpan <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> papil yenieel.<lb/>
+Kiməñmaŋelan . Veimeu wüñopan.<lb/>
+Wüñopalu inche puwtun <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> peñi-meu, nome ʎiqleufü. Veimeu umañpun.
+</p>
+<p xml:lang="arn" n="5"> Ka antə-meu amun Wüñfali.<lb/>
+Nome ʎiqleufü məlei mai tvichi mayordomo. Feimeu puwən tveichi ruka-meu; ramtupuvin tveichi mayordomo.<lb/>
+“¡N̰erkelai!  tayi t’ipai”, piŋen; “rəppu-mu chi t’avavimi”, piŋen.
+</p>
+<p xml:lang="arn" n="6"> Veimeu rumen tveichi ruka-meu.<lb/>
+Inaltu ʎiqleufü pevin tveiche mayordomo. Veimeu peŋelelvin papil <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> yeniel; peŋelelvílu ínche, kimlai.<lb/>
+“¿Chem winka <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> wireel tfá?” pieneu tveichi mayordomo. “¿Kam kolon am ve?” pieneu tveichi mayordomo.<lb/>
+—Winka, pivin inché.
+</p>
+<p xml:lang="arn" n="7"> Veimeu elueneu ka papil <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> rumeam . Veimeu amun; <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  puwən tveichi puertero-meu inaltu Kaqtün ŋilawe-meu məlelu. Peŋel pun <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> papil. ¡Veimeu “rumeŋe mai! pieneu tveichi winka.<lb/>
+—¿Chumŋechi rumekei che? pivin tveichi winka.<lb/>
+—Re ŋila-yaukei che tva-meu, pieneu tveichi winka.
+</p>
+<p xml:lang="arn" n="8"> Inche mai ʎekavun <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> namuntu rumayael.<lb/>
+—Kiñe ina mət’umtüan, pivin tveichi winka. ¿Tva-meu aʎkəlaai cham kai Wenchupaŋ? pivin tveichi winka.
+</p>
+<p xml:lang="arn" n="9"> —Kisulei ta Wenchupaŋ; tañi <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> kona kom amui ŋüʎiwalu pewen-meu, pieneu tveichi winka. Namuntu noyaukei kənne  <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> <w xml:lang="arn" lemma="domo" pos="N" corresp="woman"><m baseForm="domo" type="root" corresp="woman">domo</m></w> miaukei tva-meu, pieneu tveichi winka.
+</p>
+<p xml:lang="arn" n="10"> Veimeu namuntu nopun, ula pəchikerkei ko. Nentu pantalonen, nentu sumelen, s’iwaltupun; ka kiñe mamüʎ kintun <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ret’uwutuam. Veimeu nopun. Nopulu inché, <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  tukupantalontun, tukusumeltun. Veimeu amun Melin-meu. Tieu-ple t’avin Wenchupaŋ.
+</p>
+<p xml:lang="arn" n="11"> —¿Cheu konaimi? pieneu.<lb/>
+—Amualu inche <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> peñi-meu, pivin. Ramtuvin: ¿Akutun arkentino-tupelu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> peñi?<lb/>
+—¡Akulai! pieneu.
+</p>
+<p xml:lang="arn" n="12"> Veimeu rumen; puwən ruka ño peñi meu: məlerkei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> küse kuku. Veimeu puwən umañpun. Umañpulu inche, akutúi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> peñi miaukelu arkentino-mu. Veimeu mankulvin :<lb/>
+—¡Moŋeimi, peñi! ¡Fütta kúivi peweukelayu, peñi! pivin inche. Ka vei pieneu kai.<lb/>
+Küla-wentumen Wüñfali mapu-meu. Veimeu kəpatun ka. Kiñe küyen-meu peno miawən tieu.</p>
+                     <p xml:lang="spa" n="5">EL MALEFICIO DEL LAGARTO
+</p>
+<p xml:lang="arn" n="5"> NƏTRAMKAN WENCHULAO
+</p>
+<p xml:lang="arn" n="1"> Kuivi kat’i-künna-pelu inché kayu yaulin <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> kona. Arelu antə nentu-makuñən, nentu-kamisan. Veimeu t’it’antu kədauən. Kəlla <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> wenüi kəpatulai , ʎekai tveichi menoko-meu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kat’ikünnayael eŋən rukayael.
+</p>
+<p xml:lang="arn" n="2"> Veimeu inché mekekan <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kat’i-künnan yu peñiem inchu , ka kiñe kona nieyu. Veimeu allün-meu arelo antə “amutuyin”  piwiyin. Veimeu tuku-kamisatun. Tukukamisatullu inché naipeli  furi-meu.
+</p>
+<p xml:lang="arn" n="3"> —¿Chem chei? pin; nentunñi kamisa; nentulu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kamisa inché məlerkei kiñe vüchá kirke.<lb/>
+—¡Tva kirke! pivi-ñi peñi em.
+</p>
+<p xml:lang="arn" n="4"> Veimeu wit’anentupai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w>  kuchiʎu, chüŋarəvi tveichi kirke. Weŋfui  mai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kuchiʎu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> peñi em. Neŋəməlai tveichi kirke. Kəme ŋorəm-ŋorəm-tuyin  kuchiʎu ka ŋortuluyin kuchiʎu.
+</p>
+<p xml:lang="arn" n="5"> Veimeu ka chüŋarəŋei tveichi kirke; veichula en (?) rumei tveichi kuchiʎu raŋi püt’a kirke. Veimeu sichoin  kunuviyin kiñe rüŋi-mu, kankatukunuviyin tvachi kirke, kəpatuyin <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> tuka-meu.
+</p>
+<p xml:lang="arn" n="6"> Veimeu akutuyin ruka-meu. Umañ-meu amui yeŋemealu künna rukayael; <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  velekai, piam, tveichi kirke. Veimeu nai-nai-əmun tveichi kirke chiʎemklewe-ñi furi.
+</p>
+<p xml:lang="arn" n="7"> Epuentun meu ka amui <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> kona yemealu künna; amui <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> peñi chüŋarə-kirke-kelu. Veimeu ŋeweturkelai tveichi kirke; tveichi rüŋi allü mapu t’analeturkei.
+</p>
+<p xml:lang="arn" n="8"> Veimeu allün-meu kechu küyen chi kayu chei, <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  kut’anən, fentepun kut’anən la kan reqke.
+</p>
+<p xml:lang="arn" n="9"> Veimeu aʎkükevin kiñe machi, kəme machi piŋeki; məlei furi Ñelol . Veimeu wichalŋemen tveichi machi; yerñemen .
+</p>
+<p xml:lang="arn" n="10"> Veimeu machitupaeneu; machitupaeteu kimeneu femŋechi laŋəmviel tveichi kirke. “Kirke mai pekerkei, laŋəmərkevi sichoin kunurkevi kiñe rüŋi-meu. Veimeu t’ipaturkei tveichi kirke; feimai kut’aneleyu”, pieneu mai tvichi machi. “Kisu kimniekayele anchi” pieneu tveichi machi.
+</p>
+         <p xml:lang="arn" n="11"> Vei moŋelpatueneu; “fei tvachi kirke piwichein  mai” pieneu tveichi machi.</p>
+                        <p xml:lang="spa" n="6">EL PLEITO DE TRUREU
+</p>
+<p xml:lang="arn" n="6"> PLEITU T’UREU
+</p>
+<p xml:lang="arn" n="1"> Amurkei Wüñvali mapu-meu maʎe T’ureu, ŋoʎipurkei Wenchupaŋ piŋechi went’u-meu. N̰oʎipulu ülkaturkei.
+</p>
+<p xml:lang="arn" n="2"> Tveichi weche went’u fentepun kəmerkalerkei wesakelu-meu; kəme kaweʎu ŋerkei, kəme chiʎa ŋerkei. Miawərkevui ka ke weche ke went’u, t’ürərkelai tveichi weche went’u-meu.
+</p>
+<p xml:lang="arn" n="3"> Veimeu ŋoʎipurkei; ŋoʎilu üʎkaturkei:<lb/>
+¡Pepai ka papai!<lb/>
+kəpan tayi;<lb/>
+“koʎetumechi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> wenüi-meu” pin,<lb/>
+veimeu kəpan, papai.<lb/>
+N̰oʎili inche, papai.<lb/>
+Iʎantu-che-layan, papai;<lb/>
+kəme ŋoʎin-mu-ken, <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kuñivaʎŋen inche, papai.<lb/>
+N̰oʎipan eimi mi ruka-mu, papai.
+</p>
+<p xml:lang="arn" n="4"> ¡Papai ka papai!<lb/>
+nievulmi kəme koñi, papai,<lb/>
+eluaveyu kəme kaweʎu;<lb/>
+wit’an-niepan kəme kaweʎu;<lb/>
+praalmi praavuimi, papai.<lb/>
+kəpa-ʎaʎa-yeveyu, papai;<lb/>
+kəme <w xml:lang="arn" lemma="domo" pos="N" corresp="woman"><m baseForm="domo" type="root" corresp="woman">domo</m></w> éimi, ka papai,<lb/>
+inche kai, papai,<lb/>
+kəme went’u inche kai, ka papai.
+</p>
+<p xml:lang="arn" n="5"> Wit’a-wit’alepai pəchi álasan, papai;<lb/>
+maŋkâdale mi koñi,<lb/>
+maŋkâdkaavúi, papai.<lb/>
+Tami chumnovuiel, papai,<lb/>
+tami üdenofuiel, ka papai,<lb/>
+tami iʎamnovuiêl, ka papai.<lb/>
+Eluveli tami kəme koñi, papai,<lb/>
+inche kai “kəme ʎaʎa” pikayaveyu, papai,<lb/>
+tami fəttá “kəme chedküi” pikayavun,<lb/>
+pirkei mai tveichi weche went’u.
+</p>
+<p xml:lang="arn" n="6"> N̰oʎirkei, ŋoʎílu kəme anələrkei; pəchi allün-men chüŋarərume-parkeeyu kiñe went’u. “¡Maʎmaŋeimi tami wedañmaŋen!” piŋerkei tvichi weche went’u. Püt’a-mo konərkei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> aʎvün.
+</p>
+<p xml:lang="arn" n="7"> Veimeu ŋoʎiwerkelaiŋən; kəpalŋeturkei tvichi weche went’u T’ureu-meu; epe larkei tveichi weche went’u.<lb/>
+Wün-ple amurkei T’ureu tveichi aʎvülchechi went’u-meu. Pepurkevi tvechi went’u.
+</p>
+<p xml:lang="arn" n="8"> “Kəpan, pirkei T’ureu; wiya mai kəpai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> maʎe; vei mai aʎvülmarkeen mai; <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  kəpan! ¿Chem duŋu meu aʎvülmaen <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> maʎe, tami wedañmaŋen? ¿Eimi vemŋechi went’u am tañi maʎe, wedañma? Lale tañi maʎe, laaimi kai, wedañma!
+</p>
+<p xml:lang="arn" n="9"> ¿"Cheu ta rumeaimi, tami weda t’ewa-ŋen? «Arkentino konan» pilmi, məlepui tañi kəme maʎe tami aʎvülel. «Konan ta nulu mapu» pilmi, məlei tañi chau tami aʎvülel. Véntepún wapo <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> tañi <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> maʎe tami aʎvülel.
+</p>
+<p xml:lang="arn" n="10"> “Aʎkəle tveichi ŋen  ke <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> wenüi, laŋəmŋepayaimi. Mətten t’ürəfimi ta ti went’u-meu aʎvülvimi, tami wedañmaŋen. Niei ta peñi, niei ta fenten maʎe. ¿T’ewa reqke məlei tañi fente wapoŋen ta tveichi che?” piŋerkei tveichi went’u aʎvülchelu.
+</p>
+<p xml:lang="arn" n="11"> Veimeu duŋurkei kai tveichi went’u: N̰oʎin-meu aʎvülcherken mai; kimlan tañi aʎvülchem . Kimkleli, femlayavun mai. Welo kuʎiavin, kəme kuʎian mai! «Feman» pikelaavun  kəme ke wenüi meu? «Yavkauŋean» pikelavun.
+</p>
+<p xml:lang="arn" n="12"> “Kiñe ina kuʎean epu et’ipu, epu piiña, meli kaweʎu, kayu waka. Femŋechi kuʎean mai. Füreneŋechi, «laŋəmavin» piŋeli kai. ¿Laŋəmeli-meu, chempeyavúiŋən kai? Füreneŋechi ka, T’ureu.
+</p>
+<p xml:lang="arn" n="13"> “Eimi tami maʎe no anchi, inchú kai wenüiwen, T’ureu; füreneen. ¿Cheu ta rume anda inche? «Konanda arkentinu-mu» piŋeli, eyeu ta pepuanda <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kaiñe? Füreneŋechi; lakale ta ti went’u, t’üranta kuʎin-meu”,  pirkei tvechi went’u.
+</p>
+<p xml:lang="arn" n="14"> Veimeu welewerkei T’ureu.<lb/>
+“Feyürke mai, pirkei. Kiñe ina kimai ŋen vottəm! pirkei T’ureu. Wüle mətten amua-ñi werken, pirkei T’ureu.
+</p>
+<p xml:lang="arn" n="15"> Veimeu werkerkei Külalemu, ŋen vottəm-meu.<lb/>
+“Aʎvüi mai tañi vottəm tañi wenüi; vei ta kimpe tañi wenüi; pekevin mai ta tveichi aʎvülchelu; kəme pieneu: «Kuʎean» pieneu. Vei ta kimpe tañi Kəlalen” piŋerkei Kəlalen.
+</p>
+<p xml:lang="arn" n="16"> Veimeu ʎâdkürkei Kəlalen.<lb/>
+“¡Kiñe ina wüne layai, wedañma!”  piŋerkei tveichi aʎvülchelu.<lb/>
+Feimeu maloŋerkei; nüñmaŋerkei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kechan kuʎin tveichi went’u aʎfülchelu.
+</p>
+<p xml:lang="arn" n="17"> Veimeu puwərkei kiñe loŋko-meu, <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  ʎâqpetui <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kuʎin. Veimeu moŋeturkei tveiche weche went’u aʎvülkeel.<lb/>
+   Femŋechi femürkei mai.</p>
+                           <p xml:lang="spa" n="7">UNA EXCURSIÓN AL MONTE
+</p>
+<p xml:lang="arn" n="7"> KIÑE PASEAN MAWIDA-MEU
+</p>
+<p xml:lang="arn" n="1"> Kiñe antə t’ipayu pemeael mawida waiwentu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ruka-meu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on Fítor Chuappa. Amuyu, kiñe rəppü inayu. Tieu-ple pepuyu küchiŋ; nümirpuyu.
+</p>
+<p xml:lang="arn" n="2"> Veimeu konpuyu mawida-meu; rəppü nieni, konpuyu tieu-ple; allü kon pewerpulayu rəppü.<lb/>
+Veimeu kat’ikunuiyu mawida-meu; külantu mawida rumeyu. Ka tieuple, rek’ülla niei, konpuyu. Fiŋumkeyu  <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> külla.
+</p>
+<p xml:lang="arn" n="3"> Veimeu pei fün liŋe <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on.<lb/>
+—¿Chem təva? pieneu.<lb/>
+—Fün liŋe ta tvei, pivin.<lb/>
+—¡Mənna kəmelkalei! pi.<lb/>
+Veimeu nüminpramüi  külla  nüi tukulli fonsiʎo-meu.
+</p>
+<p xml:lang="arn" n="4"> Veimeu ka amuiyu; ka tieu-ple pepuyu məna kəme kachu, karelei .<lb/>
+—¿Chem piŋei tva? pieneu.<lb/>
+—Kimlan, pivin.<lb/>
+—¿Chumŋechi yeyavuyu chei tvachi kachu? pieneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on.<lb/>
+—Inche yekatuli kai, pivin.<lb/>
+—Ka antə ula yelpayaen, pieneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on.
+</p>
+<p xml:lang="arn" n="5"> Veimeu rumeyu, konkleyu mawida-meu. Puwiyu kiñe füta külantu mawida-meu.<lb/>
+Diŋum-rumeyu  mawida-meu; rumelu inchu pepuyu kat’in-mamüʎ t’avalayael mákina-meu. Veimeu wente-mu rumeyu, kúi-kúi-turpuyu. Rumeyu; konpuiyu ka kiñe mawida-meu.
+</p>
+<p xml:lang="arn" n="6"> Kimlayu seña mapu. Mənna kəme ke mamüʎ məlelaî; püchi ke rume mamüʎ.<lb/>
+—Mənna kəmevui kuyulel meu tvachi mamüʎ, pi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on.
+</p>
+<p xml:lang="arn" n="7"> Tvachi mawida mənna kəmelai miawən meu, duminklei püchi mawida. Kachu niei, püchi ke üteŋ  niei tveichi mawida.
+</p>
+<p xml:lang="arn" n="8"> Veimeu tieu-ple kiñe aŋkün kóyam-meu, pen kalal; küllalei; epu wenulei, ka kiñe wenulevui, welu püchi pralei. Veimeu miaulən <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kuchiʎo, <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  kat’emtun (?)  kiñe mamüʎ, veimu nak’əmən kiñe kalal.
+</p>
+<p xml:lang="arn" n="9"> —¿Chumniekei? pieneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on.<lb/>
+—Iniekei , pivin <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on.<lb/>
+—¿Chumŋechi ŋekeanchi? pieneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on.<lb/>
+—Afəm-ŋekei  kət’al-meu, chaʎa-meu, chadin meakunuŋei  t’api; <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  iŋekei  tva, pat’on, pivin <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on.
+</p>
+<p xml:lang="arn" n="10"> Veimeu rumeyu, ka tieu-ple pepuyu fenten paŋi kalal.<lb/>
+Nüavulu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on:<lb/>
+—¡Nükilŋe! pivin; mənna vərelei  ta tvei, pivin mi pat’on.
+</p>
+<p xml:lang="arn" n="11"> Veimeu ka konpuyu külantu-meu. Une konklekei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on.<lb/>
+Veimeu tieu-ple:<lb/>
+—Kansan, Kaʎvün, pieneu. ¡Eimi kai une konŋe! pieneu.<lb/>
+—Vachi ple kunuyu, tva-mu kat’ikunuyu, pivin.
+</p>
+<p xml:lang="arn" n="12"> Veimeu kat’ikunuyu. Epe-t’ipapulu inchu peeyu kiñe saŋka, wit’u-kemun  kuo pukem.<lb/>
+Veimeu t’ipapayu. Aʎkətukeyu raraken kuo, aʎkəlayu.<lb/>
+Veimeu: —¡Allü-mapu-lepelai Kiʎem leufü! pi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on.
+</p>
+<p xml:lang="arn" n="13"> Veimeu wüñomeyu; wüñomelu pei kaipütukemun chukao ño pat’on.<lb/>
+—¿Tva chumkemun? pieneu.<lb/>
+—Chukao tañi kaipütukemun, pivin <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on.
+</p>
+<p xml:lang="arn" n="14"> Konpayu kiñe külantu mawida-meu dimuʎupayu .<lb/>
+Veimeu peyu kiñe konkon; wit’antupavui t’alka <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on t’alkatuavilu tvachi konkon; levtui tvichi konkon, <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  t’alkatulayu.
+</p>
+<p xml:lang="arn" n="15"> Veimeu nieyu  t’ipapayu tveichi mawida meu. Kom iʎvode-ñi  pat’on, antioko, namun, pantalón, iʎvode <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on. Pelovelai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on.<lb/>
+Veimeu t’ipapayu. Vau-ple pepai kiñe püchi külkül ni pat’on; fentepun kəme püchi külkül: chod, mopue  choike kəchelei. Veimeu yerpai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on. —Pekelayu yamŋechi  külkül, piyu.
+</p>
+<p xml:lang="arn" n="16"> Ramtuvi-ñi pat’on: —¿Cheu meleyu ruka? pivin.<lb/>
+—Vau-ple, pi.<lb/>
+—Inche vau-ple t’okevin, pat’on, pivi-ñi pat’on.<lb/>
+—Naqeyu pepulíu seña mapu, weimeu kim-mapu-puayu, pieneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on.<lb/>
+—¡Kəme amulelayu ta tvá! pivi-ñi pat’on.<lb/>
+—¿Cheu-ple-rke amvé? pieneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on.<lb/>
+—Vau-ple t’okivin, pivin Fentepun weñankeyu; aroweiyu yu ʎekan; pelayu rəppü: fentepun t’oŋüi  tveichi mawida.
+</p>
+<p xml:lang="arn" n="17"> —Vau-ple amuyu, pivin <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on.<lb/>
+—¡Uneleŋe  mai! pieneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on.<lb/>
+“ʎekan peno <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on, unelelai”,  pin mai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> rakiduam. Inché kai fentepun ʎekan ñamael <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> mawida.<lb/>
+Veimeu unepan; vau-ple kimmən <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> rumemum. Pepayu tvichi kat’in mamüʎ.
+</p>
+<p xml:lang="arn" n="18"> —¡Véi tvá-mu rupapeyu, pat’on! pivin <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on.<lb/>
+—¡Vei tvá tayu rəppü, Kaʎvün! pieneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on. Tfa-mu püchi kansatuyu, pieneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on.<lb/>
+Veimeu kansatupayu.<lb/>
+—¡Fentepun ʎekayu, anéi! Ñamliyu chumŋechi umañavulu chi inchú? pieneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on. Inché ŋüñeli laŋəmpeaveyu mai, Kaʎvün! pieneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on.<lb/>
+—Inche aiyen mətten.
+</p>
+<p xml:lang="arn" n="19"> Deu-kansatuiyu, kəpayu.<lb/>
+Pəchinma inayu rəppü ka ñamuiyu; veichula kat’ikunuyu kiñe kəllonentu  mawida-meu fentepun t’oŋüi.<lb/>
+Veimeu t’ipapayu, veichul peyu rəppü. Veimeu t’ipapayu, rəppütupayu.<lb/>
+Mənna pelayu rayen kolkopiú vei turpatuyu.
+</p>
+<p xml:lang="arn" n="20"> T’ipapatuyu ŋət’amkautuyu chumavulu chei inchú ñamlíu, piyekəpatuiyu rəppü.<lb/>
+Femŋechi ñamvuyu mai kiñe vətta mawida meu.<lb/>
+“Femŋechi ŋət’amkatiaen  mapuche duŋun-meu, pieneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pat’on, chuchi kimchiʎkatullu kimaeyu-meu yu fem yawən, yu ñamkiawən ”.<lb/>
+Veimeu vei piaeyu yelŋeaeyu  Santiao-meu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kəme wenüi-meu Rodolvo Len-meu.</p>
+      </body>
+   </text>
+</TEI>

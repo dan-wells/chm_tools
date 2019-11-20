@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lecturas Araucanas (Narraciones, Costumbres, Cuentos, Canciones, etc.): Relaciones Modernas</title>
+            <author>Félix José de Augusta</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1910</date>
+               <name>Valdiva, Imprenta de la Prefectura Apostólica</name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher/>
+         </publicationStmt>
+         <seriesStmt>
+            <p/>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic Texts</ab>
+            <ab>DIALECT: Lafkenche?</ab>
+            <ab>INFORMANT: José Francisco Kolùñ (and others)</ab>
+            <ab>TRANSCRIBER: Fray Félix José de Augusta</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>ORIGINAL DOCUMENT: Biblioteca Nacional de Chile id: 96049</p>
+            <p>DOCUMENT SCAN: Memoria Chilena (MC0033389) http://www.memoriachilena.cl/602/w3-article-9601.html</p>
+            <p>TEXT OCR: Google Cloud Vision (using DH Dashboard, developed by Bryan Tarpley at the
+               Center for Digital Humanities Research here at Texas A&amp;M University.) </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>OCR CORRECTIONS: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div><pb n="3"/>
+<pb n="51"/>
+
+<head xml:lang="spa" n="1"> Impresiones que el ciego José Francisco Kolùñ
+llevó de la Misión, manifestadas en una conversación
+habida con sus padres, de regreso á su casa.<lb/>A. Conversación con la madre.</head>
+
+            <p xml:lang="arn" n="1"> „<w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">Kiñe</m></w> <w xml:lang="arn" lemma="akucha" pos="N" corresp="pendant/needle" source="sp:aguja"><m baseForm="akucha" type="root" corresp="pendant/needle">akucha</m></w> <w xml:lang="arn" lemma="regalan" pos="V" corresp="gift" source="sp:regalar"><m baseForm="regala">regalá</m><m baseForm="enew" type="ind3-1s">neu</m></w>
+               <w xml:lang="arn" lemma="padre" pos="N" corresp="priest" source="sp:padre"><m baseForm="padre" type="root" corresp="priest">Padre</m></w>", <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pí</m><m baseForm="(ü)n" type="ind1s">n</m></w> <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">iñche</m></w>.</p>
+
+            <p xml:lang="arn">„¡¿<w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">Ñi</m></w> <w xml:lang="arn" lemma="ngilatulelchi" pos="AJ" corresp="requested/bought"><m baseForm="ngilla" type="root" corresp="buy/get">ŋilla</m><m baseForm="tu" type="rest">tu</m><m baseForm="(ü)l" type="cause">l</m><m baseForm="etew" type="invNF3">etéu</m><m baseForm="chi" type="ajvz">chi</m></w> <w xml:lang="arn" lemma="akucha" pos="N" corresp="pendant/needle" source="sp:aguja"><m baseForm="akucha" type="root" corresp="pendant/needle">akucha</m></w>
+               <w xml:lang="arn" lemma="padre" pos="N" corresp="priest" source="sp:padre"><m baseForm="padre" type="root" corresp="priest">Padre</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>?!" <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="enew" type="ind3-1s">éneu</m></w> <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> <w xml:lang="arn" lemma="ñuke" pos="N" corresp="mother"><m baseForm="ñuke" type="root" corresp="mother">ñuke</m></w>.</p>
+
+            <p xml:lang="arn">„Təfa yefalelpáimeu <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> <w xml:lang="arn" lemma="akucha" pos="N" corresp="pendant/needle" source="sp:aguja"><m baseForm="akucha" type="root" corresp="pendant/needle">akucha</m></w> Padre", pifiñ <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> <w xml:lang="arn" lemma="ñuke" pos="N" corresp="mother"><m baseForm="ñuke" type="root" corresp="mother">ñuke</m></w>.</p>
+
+<p xml:lang="arn">Iñche elufiñ; <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">iñche</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ñuke
+kimlafui rətriñtuaqel.</p>
+
+<p xml:lang="arn" n="2"> Kaŋelu nùtram fei pi:
+(<w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">Ñi</m></w> rosario peñmáneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="ñuke" pos="N" corresp="mother"><m baseForm="ñuke" type="root" corresp="mother">ñuke</m></w>.)</p>
+
+<p xml:lang="arn">„¿Iñche <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> ŋillatul-lan Padre <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> Rosario? piéneu kai <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">iñche</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="ñuke" pos="N" corresp="mother"><m baseForm="ñuke" type="root" corresp="mother">ñuke</m></w>.</p>
+
+<p xml:lang="arn">Iñche wəla lloudəŋufiñ: „Rezan kimaimi. ¡mejor!" pifiñ.
+„Rezan kimilmi, fei eluáimeu
+rosario, Padre mai eluáimeu",
+pifiñ.</p>
+
+
+<pb n="52"/>
+
+<p xml:lang="arn" n="3"> „Eimi eluan rosario". ŋillatuéneu imcle. Iñche Pilafiñ.</p>
+
+<p xml:lang="arn">„¿Chumal eluayu? <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">iñche</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> rezapiùm təfa," pifiñ, „fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> wəlkelafin, puedelai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> wəlafiel.</p>
+
+<p xml:lang="arn">Kimafimi rezan, rezan, doy kùmei, cristianoaimi ká fei: fei
+meu eluáimeu rosario Padre.
+Ayùkefimi rosario: cristianoŋelmi, nieaimi rosario", pifiñ.</p>
+
+<p xml:lang="arn" n="4"> „Deu kutrankəlen", pi.</p>
+
+<p xml:lang="arn">„¿Niepefui mai l·awen· Padre?", pi.</p>
+
+<p xml:lang="arn">„Niei l·awen· mai." pifiñ; „kakelu kutranlu mapuche, ŋillatuŋekei Padre; siempre wəlkei."</p>
+
+<p xml:lang="arn">„Iñche, quién sabe, llafafun
+chei, feichi l·awen· Padre elueli
+meu. Ŋillatulan l·awen· mai,"
+piéneu.</p>
+
+
+<note xml:lang="spa">B. Conversació</note>
+
+<p xml:lang="arn" n="5"> „¿L·el·əméimeu Padre?",
+ranténeu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> chau <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> puwtun
+meu fəla ruka <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+<p xml:lang="arn">„L·el·əméneu mai." pifiñ.</p>
+
+<p xml:lang="arn">„¿Kùmérkei məlen <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> Padre?</p>
+
+<p xml:lang="arn">„Kùmei mai Padre", pifiñ.</p>
+
+<p xml:lang="arn">Fei pi: „iñche mai lladkùlefun", pi. „-¿quién sabe?-ayetuñmapeéneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> fotəm Padre, pi
+ñi duam <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">iñche</m></w> mai", pi.</p>
+
+<p xml:lang="arn">Iñche lloudəŋufiñ: „Ayetuláneu, „¿Chumŋechi ayetucheafui</p>
+
+<pb n="53"/>
+
+<p xml:lang="arn">Padre?". pifiñ. „Kakelu pu wiŋka mai ayetuchefeŋei. Padre nó,
+porque ŋənaitukefí pobre Padre", pifiñ <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">iñche</m></w>.</p>
+
+<p xml:lang="arn" n="6"> „¡Bueno! ¡Kùmei mai, gracias mai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ŋənaituéteu! Iñche
+ayetuŋelu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> fotəm trokifiñ.</p>
+
+<p xml:lang="arn">¿Chumŋelu kam poyekéimeu?
+Chem dəŋu men kam poyéimeu
+Padre?" Fei piéneu.</p>
+
+<p xml:lang="arn" n="7"> „Siempre poyekáneu, femŋechi məten ayùkáneun", fei pifiñ
+iñche. „Kimelkeéneu; rezan, kake
+dəŋu ká fei kimelkeéneu: chumlen Dios <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> dəŋu kimelkeéneu
+Padre."</p>
+
+<p xml:lang="arn" n="8">„Chumŋelu poyekéimeu,
+ayùkéimeu Padre? Welu kimlai
+mápudəŋun Padre, chumŋechi
+kam eluéimeu fenten dəŋu kimnulu mápudəŋun?"</p>
+
+<p xml:lang="arn" n="9"> Iñche féola ká dəŋun:
+„Kimí féola mápudəŋun pichin kimí féola, pifiñ. “Iñche ká
+fei kimelkefiñ, mápudəŋun, féola doy kimai mápudəŋun, "pifiñ.
+Iñche al·ùn nùtram elufiñ, kom
+apuntaniei." pifiñ.</p>
+
+<p xml:lang="arn">„Féola kimafí mapudəgun."
+Iñche ká fei fenten dəŋu eluéneu Padre, kimelkéeneu Padre,
+weluke kimeluukeyu.</p>
+
+<p xml:lang="arn">Fenten kùme Padre ŋei mai",
+pifiñ, „porque ayetuláneu <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">iñche</m></w>.
+Dios <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> dəŋu kimniei mai Padre,
+? fei mu kam ayetucheafui?</p>
+
+<pb n="54"/>
+
+<p xml:lang="arn">Féola kimelkefi fentren mapuche pu domo, Wiŋkulche pu domo. Rəlonche, Konəmche, Ŋaupeche, quién sabe, Úrùltupei."</p>
+
+<p xml:lang="arn">10. „¿Chumŋechi duampefí
+mapuche?" pi <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">iñche</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> chau.</p>
+
+<p xml:lang="arn">„¡Məná ayùperkefí che!", pi ñi
+chau afmatufilu nùtram.</p>
+
+<p xml:lang="arn">Iñche: „Fill Domingo kùpakei
+pu domo, Domingo ŋenule rume, kakelu antù <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> akukei.</p>
+
+<p xml:lang="arn">Eluŋekeiŋn chadi fill ŋepakelu
+Iglesia <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. Wema kimelkeéyeu
+rezan ta Padre, <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">iñche</m></w> ká fei rezaken, kelluken rezan meu; deu
+rezalu eluŋekeiŋn chadi. Rumel
+gastakefí plata Padre. Ŋillakefí
+chadi plata <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, fill Domingo ni
+eluafiel pu mapuche."</p>
+
+<p xml:lang="arn">Iñche <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> chau feyentulai.</p>
+
+</div>
+<div>
+<head xml:lang="spa" n="2"> Discursos</head>
+
+<note>que se pronunciaron en una reunión del Wapi, convocada con el fin de solucionar la cuestión: Si era oportuno ó nó tener Misionero entre ellos.
+(Son referidos de memoria por el ciego José Francisco Kolùñ, y son réplicas al discurso del Misioner, que les habló primero Nov.1898)</note>
+
+<p xml:lang="arn">A. Llankùi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> dəŋun.
+1. <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">Kiñe</m></w> dəŋu pian, kùmeai
+chi, kùmelaiai chi; kùmenule,
+kùmelaiai tañi dəŋukeu <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">iñche</m></w>.</p>
+
+<pb n="55"/>
+
+<p xml:lang="arn">Padre <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> tremlu pu weche,
+wema məlepai. P. Constancio fei al·ùn yepai, al·ùn kimelfi pu
+weche —; welu kùme che ŋelai,
+ka negakei, fill dəŋu negafí, ka
+ŋənenkakefí pu che: fei tañi enseñapal.</p>
+
+<p xml:lang="arn" n="2"> Femŋechi kùme che ŋelai
+tremlu Padre <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, ka akui wiŋka, al·ùn wiŋka məlei tañi wema akun <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> feichi Padre.</p>
+
+<p xml:lang="arn">Iñchin tain mapu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ká akule təfachi Padre, fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ká
+akuai wiŋka fau, fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> iñchiñ
+taiñ pichike che ká kimelneai.
+deumatupekei tañi kimelŋeal;
+welu iñchiñ kimlaiaiñ ka fùchaiñ, fei mu kam ¿chumŋechi
+kimpeafuiñ?, welu tain yallel pichike che fei kimai.</p>
+
+<p xml:lang="arn" n="3"> Ka iñchiñ, l·aliñ, ¿chem kimaiñ? Iñ am məten moŋepeafui mai: welu kimlaiai.</p>
+
+<p xml:lang="arn">Káñpəle amule rume taiñ alma,
+chem kimtulai: am məten kam
+¿chumŋechi kimai? Fei taiñ wiŋka ŋeal, akule Padre.</p>
+
+<p xml:lang="arn">B. Llaŋkùñ <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> fotəm, Pichi 
+Painekeu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> dəŋun.</p>
+
+<p xml:lang="arn" n="4"> ¡Bueno! Kùmei mai, kùmei
+təfachi dəŋu: iñchiñ taiñ kuñil-</p>
+
+<pb n="56"/>
+
+<p xml:lang="arn">tuŋen taiñ alma; fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> fei pikei təfachi Padre.</p>
+
+<p xml:lang="arn">¿Chem mo kam ùdeŋeafui?</p>
+
+<p xml:lang="arn">Ayúfal ŋei təfachi dəŋu: taiñ kimelelŋeam taiñ pu pichique che;
+ka, l·aliñ, kùme elŋeaiñ, ka kùmeiawai taiñ alma, <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kùme amual Wénumapu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. ¿Chumŋelu kam ayùŋelaiafui <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> akual
+Padre?</p>
+
+<p xml:lang="arn" n="5"> Iñchiñ katrùtuŋekeiñ taiñ
+ŋillatuwenoal: welu təfachi fùchake che ayùlai tañi fentékənoal, doy ayuniekefí <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ŋillatual:
+fei mu mai newé mailafí Padre
+ñi dəŋu, fei mo pepiluulai təfachi
+pu fùchake che.</p>
+
+<p xml:lang="arn">C. Llaŋkùn ká dəŋui:</p>
+
+<p xml:lang="arn" n="6"> ¡Bueno! felei: welu iñchiñ <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> naq ŋillatuaiñ, fei eluain meu
+tain femam Padre.
+D. José Francisco Kolùn pi:
+7. Welu <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">iñche</m></w> ayulafin gillatun, ka Padre avulai tamn femam. <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">iñche</m></w> eimn tamn duam
+kupan taiñ katrìtuwal, ka Padre kupai tamn ŋillatuwenoaqel.</p>
+
+<p xml:lang="arn">Fei eimn tamn ŋillatuken tutekelafimn ta Dios, ka ikelai Dios.</p>
+
+<p xml:lang="arn">Eimn kimlafimn ta Dios, fei
+meu deumafinn feichi ŋillatun,
+feichi mollfùñ kulliñ, ka wirarùkeimn ka ŋollikeimn, ka kewa-</p>
+
+<pb n="57"/>
+
+<p xml:lang="arn">tui che, ka fill wedake dəŋu tripai.</p>
+
+<p xml:lang="arn">Fei tamn ŋillatuken ayùkelai
+ta Dios.</p>
+
+<p xml:lang="arn" n="8"> Porque iñchiñ elelŋeiñ kulliñ, elelŋeiñ waka, cordero ta
+Dios <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+<p xml:lang="arn">Welu iñchiñ femŋelai ta Dios ka
+duamlafí iaqel; iñchiñ mai taiñ
+aŋkaŋen <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> kimkefíiñ
+ŋəñùn ka elùŋeiñ iaqel, elueiñ
+meu Dios, ka ketran elueiñ meu
+ta Dios, fill ketran, kachilla, kawella, poñù, allfid eluŋeiñ ta Dios <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+<p xml:lang="arn" n="9"> Welu Dios re espíritu ŋei
+məten, ka iñchiñ femŋelai, trawa
+nielai, pefalŋelai Dios, re kùrəf
+femŋechi, n·eyen femŋechi məlei.</p>
+
+<p xml:lang="arn">Wenu məlei Dios ka təfachi
+náqmapu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, fill <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, kom antù <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, kom kùyen· <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, kom
+l·afken· <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> məlei Dios, fill mapu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> amukei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kimn Dios,
+kom iñchiñ taiñ pu píuke <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>,
+taiñ pu aŋka <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> məlei Dios, ka
+kimkei Dios.</p>
+
+<p xml:lang="arn">10. Ka fenten newenŋei Dios:
+fei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> fəla llùkaafimn ta Dios,
+feyentuafimn, ka kimelŋeaimn
+ta <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> məlen <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> Dios, ka mupiñŋechi kimafimn ta Dios. Doy
+ayùafimn, kùme kimfilmn Dios.</p>
+
+<p xml:lang="arn">Iñche kimfiñ ta Dios, <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> feyentufiel <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> məlen ta Dios.</p>
+
+<p xml:lang="arn">Welu eimn kimlafimn ta Dios.</p>
+
+<pb n="58"/>
+
+<p xml:lang="arn">Iñchin kùdaukeiñ tamn kimafiel Dios, ka ayùkei Padre <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kimelafiel mapuche.</p>
+
+<p xml:lang="arn">11. Ka <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> ŋillatun məten
+məlei: Padre məten ŋillatukei,
+ka kùmekechi ayùŋekei Dios:
+Misa <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> lukutukei che, Iglesia
+meu, <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> adoraafiel Dios ka rezakei, fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> doy tuteŋekei Dios,
+ka ayùkefi pu che <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> rezan <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+<p xml:lang="arn">12. Iñchiñ taiñ S. J. Cr. fei tañi mollfùñ, <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> trawa mupiñkechi
+kimkei Padre, kidu S. J. Cr. tañi elpauyeel təfachi ŋillatun, fei
+məten. Feichi ŋillatun <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> entuillkùlŋekei ta Dios Chau.</p>
+
+<p xml:lang="arn">Dios <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> Fotəm, J. Cr. piŋelu
+wentruŋepauyei iñchiñ taiñ
+montuláteu, fei tañi kutrankaupauyen. Fei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> fəla mupiltuafimn təfachi dəŋu.</p>
+
+<p xml:lang="arn">Rəf mupiñkechi felei tañi wentruŋepauyen təfachi náqmapu
+men, iñchiñ taiñ montulpaiáteu; fei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> fəla cristianoŋetuin,
+al·ùn ŋetui pu cristiano; kuifi,
+petu akunulu J. Cr. ŋelafui cristiano che.</p>
+
+<p xml:lang="arn">E. Kùmen fei pi:</p>
+
+<p xml:lang="arn">13. ¡Bueno! <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">Kiñe</m></w> dəŋu pian:
+cristiánoŋeln doy məchai l·akei.
+Iñiche <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> fotəm em amui Padre
+meu, fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> cristiánoŋei ka ca-</p>
+
+<pb n="59"/>
+
+<p xml:lang="arn">sarai, welu məchai məten l·ai.</p>
+
+<p xml:lang="arn">Ka moŋetukei l·á piŋei; welu
+moŋelai, siempre ñamkei. L·alu
+ñi am məten mai moŋeiaukei,
+iñche welu pewetulafiñ: fei meu
+ayùnŋelai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> cristianoal che,
+doy məchai l·akei.</p>
+
+<p xml:lang="arn">F. Llankùñ:</p>
+
+<p xml:lang="arn">14. Fenten picáro ŋei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kimelpael P. Constancio, welu
+fenten weñekei ka castigafí pu
+che: məlerkellelu Dios, ¿chumŋelu castigalaqéyeu Dios?
+chumŋelu l·alai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> wedalemken?</p>
+
+<p xml:lang="arn">Məlefule Dios, castigaafui,
+kam....¿quién sabe, ŋelai Dios?
+Porque məlefule Dios, lef l·aiafui
+tichi picároŋelu.</p>
+
+<p xml:lang="arn">Fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> newé feyentulafiñ ñi
+məlen Dios ka ayùlafiñ. ¡Quién
+sabe, ŋelai chi Dios!</p>
+
+<p xml:lang="arn">G. José Francisco Kolùñ:</p>
+
+<p xml:lang="arn">15. Sí, felei, məlei Dios. Welu
+iñchiñ femŋelai Dios, ka ŋənaitutukefí che, chumŋechi fùchá
+werilkale rume <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> che.</p>
+
+<p xml:lang="arn">Dios ùŋəmkei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> wəñoduamal
+werilkakechi che.</p>
+
+<p xml:lang="arn">Ka fenten kùmeŋei Dios, fenten kimkei Dios, iñchiñ femŋelai.</p>
+
+<pb n="60"/>
+
+<p xml:lang="arn">Iñchin culpayeliñ <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> che <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>,
+fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> məchai məten illkuaiñ,
+ka ùdeafiiñ che, ka, l·aŋəmŋepe
+piafuiñ che, culpaŋeliñ, welu Dios
+nó: Dios ùŋəmkei, chumŋechi
+doy werilkafe che ŋeafui rume,
+welu perdonakei Dios.</p>
+
+<p xml:lang="arn">H. Ignacio Kolùñ,</p>
+<note>padre del anterior, caciquillo, no bautizado.</note>
+
+<p xml:lang="arn">16. ¡Bueno! Felei. kuifi akui
+P. Constancio, fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> probalealu məten akui, re probalealu məten, testigoleal <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> məten fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> kùpai Constancio
+Padre <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> feyentuam pu wiŋka.</p>
+
+<p xml:lang="arn">17. Təfachi <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> nafíu mai
+perdepai təfachi mapu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, fentren wéshakelu kom ñamí.</p>
+
+<p xml:lang="arn">Fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> amui <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> loŋko Santiago. Deu illkulefui pu wiŋka,
+deuma peutuufui, kom arma
+meu məlei, fentren fusil məlei ñi
+kùpalŋeafel təfachi mapu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+<p xml:lang="arn">Feichi lonko puwí Santiago,
+fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> nùtramkapui ka choŋəmpufí kùtral.</p>
+
+<p xml:lang="arn">18. Fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> dəŋupukei, ka
+illkui pu wiŋka: <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">iñche</m></w> tañi nafíu ka lashutuñmaqéneu: pu mapu che; fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ŋelai dəŋu, ka
+kùpaiai aukan.</p>
+
+<pb n="61"/>
+
+<p xml:lang="arn">Fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> fei pi pu wiŋka: „Təfachi <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> Padre yeafimi", piéneu mai pu wiŋka, pipatukei
+mai təfeichi <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> loŋko.</p>
+
+<p xml:lang="arn">19. Fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> akui feichi Padre.
+ñi feyentuam pu wiŋka <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> lashutuñmaŋenon tañi nafíu.</p>
+
+<p xml:lang="arn">Fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> akui təfa <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> Padre
+probalealu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> tuŋenoam nafíu,
+pu mapuche <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> tunoal, mupiñkechi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> feyentuam pu wiŋka.</p>
+
+<p xml:lang="arn">20. Fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> fenten tripantu
+məlepai P. Constancio.</p>
+
+<p xml:lang="arn">Welu Padre ŋənenŋelai, ré Dios
+ñi dəŋu məten inakei Padre ka
+elŋei Dios <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+<p xml:lang="arn">Təfachi Padre fei pikei féola
+iñchiñ taiñ ŋùlamtuáteu.</p>
+
+<p xml:lang="arn">Fill Padre ŋənenŋekelai ka ŋənenkalafí pu che, porque llùkaniefilu Dios; wedá femfule, culpaafui Dios <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> Padre.</p>
+
+<p xml:lang="arn">21. Mupiñkechi dəŋu ayùkei
+Padre. Rəf məlei Dios. Məlenofule Dios, kimyelaiafui.</p>
+
+<p xml:lang="arn">Padre kishu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> deumanoel təfachi dəŋu, Dios mai tañi dəŋu;
+fei apuntalei ta lifro <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, fei meu
+kimkei Padre.</p>
+
+<p xml:lang="arn">Ref mupiñŋechi tañi məlen mu
+Dios, fei fill mapu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> kùdaukei Padre, tañi kimaqel pu che
+ñi kimafiel Dios.</p>
+
+<pb n="62"/>
+
+<p xml:lang="arn">22. Təfachi Padre, kùpai féola, rəf mupiñŋechi dəŋukei. Ka
+iñche <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> fotəm, <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kutran fotəmtəfa ka afkadi nieñmáneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kutran fotəm - ayùfí Dios <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> dəŋu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kimfiel mu dəŋu kaŋelu
+tañi fotəm: ká <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> ŋei, fei mai
+ká kimfí <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> məlen mupiñŋechi
+Dios ka kom dəŋu kimkei.</p>
+
+<p xml:lang="arn">23. Welu iñchiñ doy kimlaiñ.
+Ka təfachi Padre iñchiñ re mal·ùkeiñ <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+<p xml:lang="arn">Iñchiñ lofoleiñ <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> kimnuchi
+wé kawellu femŋechi - lofolei
+kiñe kawell - ; fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> mal·ùŋeiñ iñchiñ taiñ feyentuaqel.</p>
+
+<p xml:lang="arn">Petu kùme ŋùlamŋein wé
+ñom kawellu femŋechi.</p>
+
+<p xml:lang="arn">24. Fei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> fəla ŋelai tamn matukawaqel, wema kimelŋekeiñ
+taiñ feyentuafiel Dios porque
+iñchiñ kimlaiñ; fei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> fəla illkulaiaimn. Ñochi mo, fei mo kimafiñ <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> akual Padre.</p>
+
+<p xml:lang="arn">Ayùle <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> akual, fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> akuai,
+welu təfa nó, məchai məten nó;
+porque rupale təfachi tripantu,
+fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> kimŋeai, chem <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ŋəmenŋeafui Padre.</p>
+
+<p xml:lang="arn">Niekelai ŋənen Padre. Kom
+mapu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ŋùlamtuchekei, kom
+wiŋka ŋùlamkei; fei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> fəla
+eimn piaimn tañi akual Padre
+təfachi mapu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+<pb n="63"/>
+
+<p xml:lang="arn">25. <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">iñche</m></w> pimulaian, <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">iñche</m></w> fei
+ñi mətrəmel Padre, fei mu akui
+Padre, pilaiaimn - kiñeke wentru doy wedañmaŋelu fei pikei.</p>
+
+<p xml:lang="arn">„Kishu tañi mətrəmfiel Padre.
+fei mu akui", pimulaian; welu
+tañi fotəm ká ayùkei feichi dəŋu.</p>
+
+<p xml:lang="arn">Kom kon·a wəla feyentui.</p>
+
+</div>
+<div>
+<head xml:lang="spa" n="3"> QUEJAS DE UNA VIUDA</head>
+<note>contra el Cacique Fulano, referidas por su hijo en nombre
+de la madre</note>
+
+<p xml:lang="arn" n="1"> Fəreneáneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> Padre, kiñe
+pápel eluáneu.</p>
+
+<p xml:lang="arn">Masiáo mai ŋelai ketrawe
+mapu.</p>
+
+<p xml:lang="arn">Re mawida eluŋen: lefùn· mai
+pichilŋen. Ŋelai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> nieam kulliñ.
+Fentenchi kulliñ nien: nieu ofisha, nien waka, nien auka, fen
+techi kulliñ nien, ŋelai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> nieam.</p>
+
+<p xml:lang="arn" n="2"> Consejo mai tachi Fulano
+fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> pichilŋen mapu. Kom che
+mari kechu hectária eluyeŋei.</p>
+
+<p xml:lang="arn">Fentechi ŋənen trùrəmeleiñ <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>,
+„famŋei" piéneu; fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> pichi
+elelŋeiñ mapu.</p>
+
+<p xml:lang="arn" n="3"> Kakelu məlei, al·ùkelŋei
+mapu. Məlei pu Fulano eŋn,
+kom eluŋei 15 hectaria, iñchiñ</p>
+
+<pb n="64"/>
+
+<p xml:lang="arn">eluŋelaiñ fenten, eluŋeiñ mari
+məten.</p>
+
+<p xml:lang="arn">¿Chumŋéluchi taiñ femkənuŋen?</p>
+
+<p xml:lang="arn" n="4"> Məlei tañi fəta yem, ñidolmapu em, kom <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ñidolmapulefui.</p>
+
+<p xml:lang="arn">Felei, tachi tranákənu pu weche, kon·a, Fulano ta fentechi
+consejui. „Famafiñ". pi Fulano:
+„Wichule mapu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, l·aŋəmafiñ
+tralka <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> kiñeke yeŋn·„ pi Fulano.</p>
+
+<p xml:lang="arn" n="5"> Vəne <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> pifuiŋn <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> karukatu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> wichulal <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> mapu eŋn,
+pilafuiŋn <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> trafal Fulano meu
+eŋn.</p>
+
+<p xml:lang="arn">Porque wedañmaŋei tichi Fulano, castigachenŋei, ŋənen meu
+niefí pu mapuche.</p>
+
+<p xml:lang="arn"><w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">Kiñe</m></w> rume píuke nielai.</p>
+
+<p xml:lang="arn">Nieñmuiñ kulliñ, kiñeke femnieñmuiñ kulliñ. Weñeñmakeiñ <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+<p xml:lang="arn">6 Mandakei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kon·a, <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> fotəm.</p>
+
+<p xml:lang="arn">Kùmeke kawéllu leliwəlmaeiñ
+meu, weñeñmakeiñ <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> məchai
+məten.</p>
+
+<p xml:lang="arn">Fei pilan <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> trafal, kùme niekelaiñ <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, wedalkaniekeiñ <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+<p xml:lang="arn" n="7"> „Amoáyəm Traitraico, cheu
+rume amoáyəm waria <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> kù-</p>
+
+<pb n="65"/>
+
+<p xml:lang="arn">dautuan mapu", pikei ŋənen
+meu.</p>
+
+<p xml:lang="arn">„Plata!", pikeiñ <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. Fentechi plata elukefíñ, elukefíiñ waka, manshun. Femŋechi ŋənen
+meu nieiñ <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+<p xml:lang="arn">Fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> pilan trafal <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">iñche</m></w> chuməl no rume.</p>
+
+<p xml:lang="arn" n="8"> Fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> lladkùtuéneu, „famŋei„ piéneu, fill ŋənen trùrəmeléneu. Re falta ùtrəftripakei ñi
+plata.</p>
+
+<p xml:lang="arn">Fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> miauken <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> trafnoam:
+„Wichu" piken, „wichu ŋənean
+ñi mapu", piken, fentechi castigaŋelu kam iñchiñ.
+9. L·ai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> fəta yem, fei pirəpuéneu: „Rupale tachi medimapun, pilaiaimn mn trafal Fulano
+meu, məntuñmaŋeafuimn mapu,
+fenté diablo kam feichi Fulano.</p>
+
+<p xml:lang="arn">Wichu məten ŋillatuaimn mapu.</p>
+
+<p xml:lang="arn">10. Iñche castigakeéneu kuifi
+konme. Féolal·aian, tranakənuwaiñ. ¡Fentenchi fotəm nien! Cheurumelaiai, anúnaqkəleai məten
+mapu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pe fotəm.</p>
+
+<p xml:lang="arn">¡Tuntenchi plata chi elufiñ
+Fulano! Epu pataka pesu yod elufiñ mapu dəŋu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. „Nielaiaimn
+mapu, elumunuli plata", pikeféneu, welu re ŋənen <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> reke.</p>
+
+<pb n="66"/>
+
+<p xml:lang="arn">11. Iñche mai fau lleqn, ñi
+chau em elərpuéneu təfachi mapu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">Ñi</m></w> laku mapu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> malen, ká mapu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> məlelan. Koil·atukelai che. Kiñeke mai koil·aŋekei, <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">iñche</m></w> femŋelan.</p>
+
+<p xml:lang="arn">12. <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">Ñi</m></w> pu fùchake wentru afafŋekei təfachi mapu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, lleqí kaŋelu, yallŋei kaŋelu, weluməletukei: femŋechi femmekekéiñ.
+Arimatu che no <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">iñche</m></w>. Felen,
+ñidolmapu iñiche.</p>
+
+<p xml:lang="arn">Tañi chau pikefui kuifi: „Təfachi mapu felei."</p>
+
+<p xml:lang="arn">13. kiñepəle aretuñmáneu Fulano, „nieam kawellu", pi, "treməmkachuam"; fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> nùrəftəkufí, elulafuiñ rume, newen
+meu reke nùñmáneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> mapu.
+<w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">Ñi</m></w> pu yall kimlai.</p>
+
+<p xml:lang="arn">14. Llekùi ruka, koní <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ofisha,
+sanchu: kawellu mo lashuñmakeéneu, trewatulkefí: tranátranakei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ofisha kùlake, <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> sanchu,
+fùchake sanchu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> aretuetéu chi
+mapu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. Femmekekéneu. Manshun·, kom .... Femŋechi wedá
+cheŋei, l·aŋəmkakulliñkeéneu.</p>
+
+<p xml:lang="arn">15. <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">Ñi</m></w> pu fotəm niei, mandakei
+ñi pu fotəm: kiñerumelai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ùñfitukefiel mapuche.</p>
+
+<pb n="67"/>
+
+<p xml:lang="arn">16. Fei pitukeéneu: „Mapulai",
+pitukeéneu, pipiyepədatukeéneu
+ñi dəŋuyeéten.</p>
+
+<p xml:lang="arn">Məntuñmaiéteu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> mapu reyekeféneu.</p>
+
+<p xml:lang="arn">Ŋaŋeñmakeéneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> mapu <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+<p xml:lang="arn">17. „Iñche məten mapun", pikei, „ñidolmapu iñche", pikei,
+koil·atukei. „Ñidol cacique iñche", pikei, „iñche məten mandan", pikei pu mapuche <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+<p xml:lang="arn">18. „Fentenchi kon·a nien",
+pikei nùtramkayùm pu ùl·men.</p>
+
+<p xml:lang="arn">„Fau yalléneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> chau em",
+pikei; welu koil·atui. „Kimlafiñ
+ñi kùpan ká mapu", ŋənen meu
+fei pi; welu ká mapu che ŋei,
+məntumapupai fau, pu mapuche
+məntuñmapafí <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> mapu.</p>
+
+<p xml:lang="arn">19. Femŋechi wentru ŋei təfachi Fulano.</p>
+
+<p xml:lang="arn">Fei <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> mai wichu ŋillatuiñ
+mapu. Wǝnetu rupalu tachi
+papél təkuŋen che fei piiñ: „Iñchiñ traflaiaiñ Fulano meu",
+piiñ.</p>
+
+         </div>
+      </body>
+   </text>
+</TEI>

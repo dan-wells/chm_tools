@@ -1,0 +1,1473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Estudios Araucanos: materiales para el estudio de la lengua, la literatura, i las costumbres de los indios mapuche o araucanos : diálogos en cuatro dialectos, cuentos populares, narraciones históricas i descriptivas i cartas de los indios en la lengua mapuche<lb/>V Diálogos en dialecto pehuenche chileno</title>
+            <author>Rodolfo Lenz</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1895-1898 (elicited 1894)</date>
+               <name>Santiago de Chile, Imprenta Cervantes </name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Anales de la Universidad de Chile</publisher>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Tomo XCVII</p>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic texts</ab>
+            <ab>DIALECT: Pehuenche</ab>
+            <ab>INFORMANT: Calvun (Segundo Jara)</ab>
+            <ab>TRANSCRIBER: Rodolfo Lenz</ab>
+            <ab>LOCATION: Perquenco superior (place of residence of informant)</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>TEXT OCR AND CORRETIONS: Belén Villena and Team </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>ADDITIONAL FORMATTING: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<note>AUTOBIOGRAFÍA DEL INDIO SEGUNDO JARA (KAVÜN)</note>
+
+         <p xml:lang="arn" n="1"> <w xml:lang="arn" lemma="Kopiñ" pos="NP" corresp="Copiñ">Kopiñ</w> <w xml:lang="arn" lemma="koñin" pos="V" corresp="give birth"><m baseForm="koñi" type="root" corresp="give birth">koñi</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="(ü)n" type="ind1s">n</m></w>. <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">Tañi</m></w> <w xml:lang="arn" lemma="chaw" pos="N" corresp="father/sonny"><m baseForm="chaw" type="root" corresp="father/sonny">chao</m></w> <w xml:lang="arn" lemma="Katriñ" pos="NP" corresp="Katriñ">Kat’iñ</w> <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="iy" type="ind3">i</m></w>, <w xml:lang="arn" lemma="ñi" pos="PP" corresp="my"><m baseForm="ñi" type="1s">ñi</m></w> <w xml:lang="arn" lemma="ñuke" pos="N" corresp="mother"><m baseForm="ñuke" type="root" corresp="mother">ñuke</m></w> <w xml:lang="arn" lemma="Rupayllang" pos="NP" corresp="Rupayllang">Rupaiʎaŋ</w> <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="iy" type="ind3">i</m></w>.</p>
+
+         <p xml:lang="arn" n="2"> <w xml:lang="arn" lemma="pichin" pos="AV" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">Pəchü</m><m baseForm="(ü)n" type="nmlz">n</m></w> <w xml:lang="arn" lemma="non" pos="V" corresp="pass/cross"><m baseForm="no" type="root" corresp="pass/cross">no</m><m baseForm="pa" type="cis">pa</m><m baseForm="(ü)n" type="ind1s">n</m></w> <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="Kautün" pos="NP" corresp="Cautín">Kautün</w>. <w xml:lang="arn" lemma="küme" pos="AJ" corresp="good"><m baseForm="küme" type="root" corresp="good">Kəme</m></w> <w xml:lang="arn" lemma="wentru" pos="N" corresp="man"><m baseForm="wentru" type="root" corresp="man">went’u</m></w> <w xml:lang="arn" lemma="nien" pos="V" corresp="have"><m baseForm="nie" type="root" corresp="have">nie</m><m baseForm="fu" type="bi">vu</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> <w xml:lang="arn" lemma="chaw" pos="N" corresp="father/sonny"><m baseForm="chaw" type="root" corresp="father/sonny">chao</m></w> <w xml:lang="arn" lemma="em" pos="IJ" corresp="ouch!"><m baseForm="em" type="particle" corresp="ouch!">em</m></w>; <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there/therefore"><m baseForm="feymew" type="root" corresp="there/therefore">feimeu</m></w> <w xml:lang="arn" lemma="kureyen" pos="V" corresp="marry"><m baseForm="kure" type="root" corresp="wife">kure</m><m baseForm="ye" type="vb">ye</m><m baseForm="iy" type="in3s">i</m></w> <w xml:lang="arn" lemma="Lemunaw" pos="NP" corresp="Lemunau">Lemunau</w> <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> <w xml:lang="arn" lemma="ñawe" pos="N" corresp="daughter (of a man)"><m baseForm="ñawe" type="root" corresp="daughter (of a man)">ñawe</m></w>. </p>
+
+<p xml:lang="arn" n="3"> Allün meu t’ewa ŋetui <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> chao; feimeu kuonpatui tañi pu ŋiʎañ-meu, Kaʎvükura-meu. Feimeu məletui; fei təva felei.</p>
+
+<p xml:lang="arn" n="4"> Epu t’ipantu-meu t’ipapan <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> chao-mu. Veimeu məlepan təvachi kawaʎeru - meu. </p>
+
+<p xml:lang="arn" n="5"> Kəmei na duamviñ duŋu; feimeu kimən chiʎkatun. </p>
+
+<p xml:lang="arn" n="6"> Pettu məlen ruka <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> <w xml:lang="arn" lemma="chaw" pos="N" corresp="father/sonny"><m baseForm="chaw" type="root" corresp="father/sonny">chao</m></w> meu, kimeleneu Namunkura. </p>
+
+<p xml:lang="arn" n="7"> Kimei Kolüpuüʎi chiʎka-tun; fei kimelpateneu kai. Feimeu pəchi kimən piken inche Kaʎfün. </p>
+
+<p xml:lang="arn" n="8"> Inarumeviel-meu duŋu aʎkətuvin chem pimekei che; aʎkətuv’in, feimeu kimən piken. Epeui che, aʎkütun, feimeu kimən epeuən.</p>
+
+<p xml:lang="arn" n="9"> Kəme went’u kəpan inche: Lemunau em <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> chedki inche, Kalvukura <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> cho küm inche, Ordike <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> choküm inche, Kusüaŋe <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> laku inche. </p> 
+
+<p xml:lang="spa" n="1"> En Copin nací. Mi padre se llama Catrin, mi madre se llama Rupaillan. </p>
+
+<p xml:lang="spa" n="2"> Chico pasé acá el Cautín. Buen hombre era mi padre, oh; por eso se casó con la hija de Lemunau. </p>
+
+<p xml:lang="spa" n="3"> Tiempo después empobreció mi padre; por eso entró en casa de su cuñado, de Calvucura. Allí fue a vivir; ahí esta todavía. </p>
+
+<p xml:lang="spa" n="4"> Hace dos años salí (de casa) de mi padre. Entonces vine a estar en (casa de) este caballero. </p>
+
+<p xml:lang="spa" n="5"> Bien me fijé en las palabras, por eso sé escribir.</p>
+
+<p xml:lang="spa" n="6"> Todavía estuve en casa de mi padre, me enseñó Namuncura. </p>
+
+<p xml:lang="spa" n="7"> Fue a aprender a escribir a Collipulli ; ése también me vino a enseñar. Por so un poco sé el habla yo, Calvun. </p>
+
+<p xml:lang="spa" n="8"> Por tener mucho cuidado en las palabras oí lo que andaba diciendo la gente; lo oí, por eso sé el habla; se cuenta cuentos la gente, por eso sé contar cuentos.</p>
+
+<p xml:lang="spa" n="9"> [Como] buen hombre vine yo: el nieto de Lemunau, oh, el sobrino de Calvucura, sobrino de Rodríguez, nieto de Cusüangue.</p>
+
+<note>DIÁLOGOS EN DIALECTO PEHUENCHE CHILENO</note>
+
+<p xml:lang="span" n="1">Llaman a la puerta; vaya a ver quién es. </p>
+<p xml:lang="arn" n="1">Mətümui wekun. Amuŋe iñei chei.</p>
+<p xml:lang="spa" n="1">   Llama afuera. Anda quién es.</p>
+
+<p xml:lang="span" n="2">Un caballero quiere verte.</p> 
+<p xml:lang="arn" n="2">Kiñe kaweʎeru kəpa-peeimeu.</p>
+<p xml:lang="spa" n="2">Un caballero quiere verte.</p>
+
+<p xml:lang="span" n="3">Pregúntale quién es y qué quiere. </p>
+<p xml:lang="arn" n="3">Ramtufiŋe iñei chei, chem-duam-ŋen.</p>
+<p xml:lang="spa" n="3">Pregúntale quién es, qué asunto ser.</p>
+
+<p xml:lang="span" n="4">Que entre.</p> 
+<p xml:lang="arn" n="4">Konpape.</p>
+<p xml:lang="spa" n="4">Que entre.</p>
+
+<p xml:lang="span" n="5">Dígale que iré luego.</p>
+<p xml:lang="arn" n="5">Fei pifiŋe: feyi-kachi amoan.</p>
+<p xml:lang="spa" n="5">Esto dile; luego iré.</p>
+
+<p xml:lang="span" n="6">Buenos días, amigo. ¿Qué quieres? </p>
+<p xml:lang="arn" n="6">Mari mari, wen·üi; chem duamimi?</p>
+<p xml:lang="spa" n="6">  Buenos días, amigo; ¿qué asunto tienes?</p>
+
+<p xml:lang="span" n="7">He venido a verte y saludarte.</p>
+<p xml:lang="arn" n="7">Kəpan pepapeyu, duŋulpapetuyu.</p> 
+<p xml:lang="spa" n="7">   Vine a verte vine yo, a hablarte vengo.</p>
+
+<p xml:lang="span" n="8">Me alegro mucho de verte; siéntate.</p> 
+<p xml:lang="arn" n="8">Fen·t·epun ayüeyu tami pevielmu. An’üŋe.</p> 
+<p xml:lang="spa" n="8">Tanto te quiero tu verte por. Siéntate.</p>
+
+<p xml:lang="span" n="9">¿De dónde vienes? </p> 
+<p xml:lang="arn" n="9">Cheu kəpaimi? </p> 
+<p xml:lang="spa" n="9">(¿De) dónde vienes?</p>
+
+<p xml:lang="span" n="10">Vengo de mi fundo.</p> 
+<p xml:lang="arn" n="10">Kəpan <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> mapu-meu.</p> 
+<p xml:lang="spa" n="10">Vengo mi tierra de.</p>
+
+<p xml:lang="span" n="11">¿Dónde está situada tu chacra? </p>
+<p xml:lang="arn" n="11">Cheu am ta məlei tami tukukan?</p>
+<p xml:lang="spa" n="11"> ¿Dónde  está tu sementera?</p>
+
+<p xml:lang="span" n="12">Está muy cerca.</p> 
+<p xml:lang="arn" n="12">Pəchi mapu lei.</p> 
+<p xml:lang="spa" n="12">Poca tierra está.</p>
+
+<p xml:lang="span" n="13">¿Cuándo has salido de casa?</p> 
+<p xml:lang="arn" n="13">Chumt·en-mu t’ipapaimi ruka-meu?</p>
+<p xml:lang="spa" n="13">   ¿Cuánto desde salir viniste casa de?</p>
+
+<p xml:lang="span" n="14">Esta mañana salí.</p> 
+<p xml:lang="arn" n="14">Tayi pu liwen t’ipapan.</p>
+<p xml:lang="spa" n="14">Hoy en mañana salir vine.</p>
+
+<p xml:lang="span" n="15">Hace mucho tiempo que no te he visto.</p> 
+<p xml:lang="arn" n="15">Fəta kuivi pelaeyu.</p>
+<p xml:lang="spa" n="15">Mucho hace tiempo no te vi.</p>
+
+<p xml:lang="span" n="16">¿Has estado ausente o has estado en la ciudad? </p>
+<p xml:lang="arn" n="16">Cheu moŋel məlepeimi, lelfün-meu kam waria-meu?</p>
+<p xml:lang="spa" n="16">  ¿Dónde siendo has estado, llanura en o ciudad en?</p>
+
+<p xml:lang="span" n="17">He estado en la chacra de mi tío.</p> 
+<p xml:lang="arn" n="17">Məlepen tukukan <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> maʎe-mu.</p> 
+<p xml:lang="spa" n="17">Estuve sementera mi tío en.</p>
+
+<p xml:lang="span" n="18">¿Dónde está ese fundo?</p>  
+<p xml:lang="arn" n="18"> Chuchi-meu məlei təveichi tukukan?</p>
+<p xml:lang="spa" n="18">  ¿Qué (parte) en está esa sementera?</p>
+
+<p xml:lang="span" n="19">Río abajo (río arriba); a seis leguas de camino. </p>
+<p xml:lang="arn" n="19">Naq-pəle leufu (wen·t·etu leufu). Kayu lewa naq (pra).</p>
+<p xml:lang="spa" n="19">Abajo hacia río  (arriba río) Seis leguas abajo (arriba).</p>
+
+<p xml:lang="span" n="20">Saliendo por la mañana se llega a medio día.</p> 
+<p xml:lang="arn" n="20">Pu liwen t’ipai, puwkei  raŋi an·t·ə.</p> 
+<p xml:lang="spa" n="20">  En mañana salió, llega siempre medio día.</p>
+
+<p xml:lang="span" n="21">¿Qué se cutiva en ese fundo?</p>  
+<p xml:lang="arn" n="21">Chem am tukuŋekei  təveichi mapu-meu?</p>
+<p xml:lang="spa" n="21">   ¿Qué sembrado es siempre esa tierra en?</p>
+
+<p xml:lang="span" n="22">En la parte de abajo hay maíz y trigo, más arriba hay papas.</p> 
+<p xml:lang="arn" n="22">Naq-pəle wa, kachiʎa tukuŋekei; wen·t·etu tuku-ŋekei poñi. </p>
+<p xml:lang="spa" n="22">  Abajo hacia maíz, trigo sembrado es siempre; arriba sembrado es papas.</p>
+
+<p xml:lang="span" n="23">¿Cuántos animales vacunos tiene tu tío en su corral? </p>
+<p xml:lang="arn" n="23">Chumt·en kuʎin waka niei tami maʎe koral-meu?</p>
+<p xml:lang="spa" n="23">   ¿Cuánto ganado vaca tiene tu tío corral en?</p>
+
+<p xml:lang="span" n="24">En el corral hay muy poco, pero en el potrero detrás del cerro tienen muchos.</p> 
+<p xml:lang="arn" n="24">Koral-mu pəchi lei, welu furitu mawida-meu, feimu all·ün niei.</p>
+<p xml:lang="spa" n="24">  Corral en poco está, pero detrás cerro por, ahí por mucho tiene.</p>
+
+<p xml:lang="span" n="25">¿Cuantos en todo? ¿No los han contado ayer? </p>
+<p xml:lang="arn" n="25">Chumt·en niei chei kuom-meu? Wiya am rakiŋelai ve?</p>
+<p xml:lang="spa" n="25">   ¿Cuánto tiene acaso todo por? Ayer contado no fue este?</p>
+
+<p xml:lang="span" n="26">Había doscientas veinticinco cabezas.</p> 
+<p xml:lang="arn" n="26">Məlei epu pataka epu mari kechu waka.</p> 
+<p xml:lang="spa" n="26"> Está dos cientos dos diez cinco vacas.</p>
+
+<p xml:lang="span" n="27">¿Todos grandes?</p> 
+<p xml:lang="arn" n="27">ls’t’okom waka all·ükelu am ve?</p>
+<p xml:lang="spa" n="27"> ¿Todas en conjunto vacas grandes siendo estas?</p>
+
+<p xml:lang="span" n="28">Hay unas cien vacas grandes y más o menos cuarenta bueyes. Los toros son quince.</p> 
+<p xml:lang="arn" n="28">Məlei pataka waka all·ükelu, meli mari mansun, peno, toro mari kechu lei.</p>
+<p xml:lang="spa" n="28">Está cien vacas grandes siendo, cuatro diez bueyes, ¿parecer no? toros diez cinco es.</p>
+
+<p xml:lang="span" n="29">Todo el resto son animales nuevos.</p>
+<p xml:lang="arn" n="29">Is’t’okom pəchi ke waka doi kəlei.</p> 
+<p xml:lang="spa" n="29">  En conjunto todo chico siempre vaca mas está.</p>
+
+<p xml:lang="span" n="30">¿Cuánto tiempo has estado?</p> 
+<p xml:lang="arn" n="30">Chumt·eñma meimi tiyeu?</p>
+<p xml:lang="spa" n="30"> ¿Cuánto hace fuiste allá?</p>
+
+<p xml:lang="span" n="31">He estado 17 días. </p>
+<p xml:lang="arn" n="31">Məlemen mari reqle an·t·ə. </p>
+<p xml:lang="spa" n="31"> Estar fui diez siete días.</p>
+
+<p xml:lang="span" n="32">¿Desde cuando estás de vuelta?</p> 
+<p xml:lang="arn" n="32">Chumt·eñma patuimi kai?</p>
+<p xml:lang="spa" n="32"> ¿Cuanto hace viniste también?</p>
+
+<p xml:lang="span" n="33">He vuelto anoche, antenoche.</p> 
+<p xml:lang="arn" n="33">Wüiñomen t’avia (epuemum t’avia).</p>
+<p xml:lang="spa" n="33">Volver fue noche (dos días ha noche).</p>
+
+<p xml:lang="span" n="34">¿Has venido sólo, o en compañía?</p> 
+<p xml:lang="arn" n="34">Kisu kəpatuimi kam kompañneimi?</p>
+<p xml:lang="spa" n="34">¿Solo viniste o acompañado fuiste?</p>
+
+<p xml:lang="span" n="35">Vine con un cuñado mío y con un peón que arreaba una mula con carga.</p>
+<p xml:lang="arn" n="35">Kəpatun yu kiñe ŋiʎañ iñchu, ka kiñe kona kecha niei chechem mul’a.</p>
+<p xml:lang="spa" n="35"> Vine conmigo un amigo nosotros dos, otro un mocetón arrea tuvo carga mula.</p>
+
+<p xml:lang="span" n="36">He andado mucho hoy y estoy muy cansado.</p> 
+<p xml:lang="arn" n="36">Fen·t·epun fəcha ka mapu kəpan, fen·t·epun kansan.</p> 
+<p xml:lang="spa" n="36"> Tanto  muy otra tierra vengo, tanto cansado yo.</p>
+
+<p xml:lang="arn" n="37">Aʎkətúŋe, pəchí che; iñei piŋeimi?</p> 
+<p xml:lang="spa" n="37"> Oye, chico hombre; ¿quién dicho eres?</p>
+
+<p xml:lang="span" n="38">Me llamo…</p>  
+<p xml:lang="arn" n="38"> Kaʎv’ün piŋen.</p> 
+<p xml:lang="spa" n="38">  Calvun (azul) dicho soy.</p>
+
+<p xml:lang="span" n="39">¿Qué edad tienes?</p> 
+<p xml:lang="arn" n="39">Chumt·en t’ipantu nieimi?</p>
+<p xml:lang="spa" n="39"> ¿Cuántos años tienes?</p>
+
+<p xml:lang="span" n="40">Tengo unos once años.</p> 
+<p xml:lang="arn" n="40">Nien mari kiñe t’ipantu, peno.</p> 
+<p xml:lang="spa" n="40">Tengo diez un  año  ¿parecer no?</p>
+
+<p xml:lang="span" n="41">¿Dónde vives?</p>  
+<p xml:lang="arn" n="41"> Cheu məleimi?</p>
+<p xml:lang="spa" n="41">¿Dónde vives?</p>
+
+<p xml:lang="span" n="42">Vivo en la casa de mis padres.</p> 
+<p xml:lang="arn" n="42">Məlen <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ruka meu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> chao.</p>
+<p xml:lang="spa" n="42"> Vivo su casa en mi padre.</p>
+
+<p xml:lang="span" n="43">¿Tienes hermanos? </p>
+<p xml:lang="arn" n="43">Niemi peñi? </p>
+<p xml:lang="spa" n="43">  ¿Tienes hermanos?</p>
+
+<p xml:lang="span" n="44">Si, señor; tengo una hermana mayor y un hermano menor. </p>
+<p xml:lang="arn" n="44">Nien; kiñe lamŋen wunen, ka kiñe peñi inan.</p>
+<p xml:lang="spa" n="44">  Tengo: una hermana primera, otro uno hermano siguiente.</p>
+
+<p xml:lang="span" n="45">¿Quién mas vive en la casa de ustedes? </p> 
+<p xml:lang="arn" n="45"> Ka iñei məlei tamən ruka-meu?</p>
+<p xml:lang="spa" n="45">  ¿Otro quién vive vuestra casa en?</p>
+
+<p xml:lang="span" n="46">El marido de mi hermana y mi abuela (paterna-materna).</p> 
+<p xml:lang="arn" n="46">Fəta <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> lamŋen, ka ni  kuku (chuchu).</p> 
+<p xml:lang="spa" n="46">  Grande mi hermana, otra mi abuela paterna (materna).</p>
+
+<p xml:lang="span" n="47">¿Qué edad tiene tu abuela? </p>
+<p xml:lang="arn" n="47">Chumt·en t’ipantu niei tami kuku.</p>
+<p xml:lang="spa" n="47">   ¿Cuántos años tiene tu abuela paterna?</p>
+
+<p xml:lang="span" n="48">No sé cuántos años tenga; pero, es muy vieja.</p> 
+<p xml:lang="arn" n="48">Kimlan chumt·en t’ipantu nien; fen·t·epun kusei.</p>
+<p xml:lang="spa" n="48">   No se cuántos años tener; tanto vieja es.</p>
+
+<p xml:lang="span" n="49">¿Estás llorando? Por qué?</p> 
+<p xml:lang="arn" n="49"> ŋəmapeimi am? Chem-meu anta ŋəmapeimi? </p>
+<p xml:lang="spa" n="49">Y Llorar pareces? Qué por  llorar pareces?</p>
+
+<p xml:lang="span" n="50">No llores más.</p> 
+<p xml:lang="arn" n="50">ŋəmawekilíŋe! </p>
+<p xml:lang="spa" n="50">  ¡No llores mas!</p>
+
+<p xml:lang="span" n="51">Dime porqué lloras.</p>  
+<p xml:lang="arn" n="51">Vei pien: chem-mu tami ŋəmapen?</p>
+<p xml:lang="spa" n="51">  Esto dime: ¿qué por tu llorar?</p>
+
+<p xml:lang="span" n="52">Habla más alto, porque no te comprendo. </p>
+<p xml:lang="arn" n="52">Doi newentu duŋúŋe; kirmənmalaeyu.</p>
+<p xml:lang="spa" n="52">  Mas fuerte habla; saber no te voy yo.</p>
+
+<p xml:lang="span" n="53">Murió mi buen padre, y mi madre está enferma.</p> 
+<p xml:lang="arn" n="53">Lai <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> chaow em; ka <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> ñuke fent·epun kut’an kəlei.</p>
+<p xml:lang="spa" n="53">  Murió mi padre, oh! también mi madre tanto enferma está.</p>
+
+<p xml:lang="span" n="54">¿Qué enfermedad tiene tu madre? </p>
+<p xml:lang="arn" n="54">Chem kut’an niei anda mi ñuke?</p>
+<p xml:lang="spa" n="54">  ¿Qué enfermedad tiene  tu madre?</p>
+
+<p xml:lang="span" n="55">Tiene la peste. Creo que morirá también. </p>
+<p xml:lang="arn" n="55">Niei perte;  l·apelaai ka.</p>
+<p xml:lang="spa" n="55">  Tiene peste; morir no parecerá también?</p>
+
+<p xml:lang="span" n="56">¿Desde cuando está enferma?</p> 
+<p xml:lang="arn" n="56">Chumt·en-meu kut’an’ei?</p> 
+<p xml:lang="spa" n="56"> ¿Cuánto de enferma está?</p>
+
+<p xml:lang="span" n="57">Está en cama casi sin moverse desde siete días. </p>
+<p xml:lang="arn" n="57">Məlei ŋətantu-meu neŋəmuelai reqle an·t·ə-meu.</p> 
+<p xml:lang="spa" n="57"> Está cama en; no se mueve mas siete días desde.</p>
+
+<p xml:lang="span" n="58">Tiene mucha fiebre y no conoce a nadie. </p>
+<p xml:lang="arn" n="58">Fen·t·epun arelei, iñei rume  kimlai.</p>
+<p xml:lang="spa" n="58"> Tanto caliente está uien cualquiera no conoce.</p>
+
+<p xml:lang="span" n="59">¿No han llamado un médico?</p> 
+<p xml:lang="arn" n="59">Kintulaimən’ machi?</p>
+<p xml:lang="spa" n="59"> ¿No buscasteis médico?</p>
+
+<p xml:lang="span" n="60">Hemos mandado a un mozo para buscarlo; pero el médico no ha venido.</p> 
+<p xml:lang="arn" n="60">Werküpefuiñ kiñe kona yeŋemeavel; welu kəpalai təveichi machi.</p>
+<p xml:lang="spa" n="60"> Mandábamos un mocetón para ir a ser traído; pero no vino ese médico.</p>
+
+<p xml:lang="span" n="61">¿Vive muy lejos de aquí? </p>
+<p xml:lang="arn" n="61">All·ü mapu t’ipale am v’e?</p>
+<p xml:lang="spa" n="61">  ¿Mucha tierra salir está éste?</p>
+
+<p xml:lang="span" n="62">Sabes escribir o leer?</p> 
+<p xml:lang="arn" n="62">Kimchiʎkatuimi am kai?</p>
+<p xml:lang="spa" n="62"> ¿Saber carta haces tú también?</p>
+
+<p xml:lang="span" n="63">No, señor; no sé escribir; pero un poco sé escribir; pero un poco sé leer.</p> 
+<p xml:lang="arn" n="63">Kimchiʎkatulan; livru-mu pəchi kimfun.</p>
+<p xml:lang="spa" n="63">  Saber carta no hago; libro de poco sabía.</p>
+
+<p xml:lang="span" n="64">¿Puedes leer este papel? Entiendes lo que dice? </p>
+<p xml:lang="arn" n="64">Təvachi papil duŋulavuimi? Kimimi <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> chem pin anchi?</p>
+<p xml:lang="spa" n="64"> ¿Este papel lo hablar harías? Sabes su qué decir?</p>
+
+<p xml:lang="span" n="65">No lo comprendo. Está mal escrito.</p> 
+<p xml:lang="arn" n="65">Kimlaviñ, mətt’e weda chiʎkatunŋei.</p>
+<p xml:lang="spa" n="65"> No lo sé, muy mal  escrito es.</p>
+
+<p xml:lang="span" n="66">¿Quieres aprender a escribir, si yo te enseño? </p>
+<p xml:lang="arn" n="66">Kəpa-kimkeimi chiʎkatun am, iñche kimelaveyu.</p>
+<p xml:lang="spa" n="66">  Quieres saber  escribir,  yo saber se lo haré.</p>
+
+<p xml:lang="span" n="67">Con mucho gusto, señor; pero me temo que soy muy torpe. </p>
+<p xml:lang="arn" n="67">Fen·t·epun ayüufun; mətt’e ül·ŋum ŋen. </p>
+<p xml:lang="spa" n="67"> Tanto me gustaría; muy tonto soy.</p>
+
+<p xml:lang="span" n="68">¿Hay aquí un casa deshabitada? </p>
+<p xml:lang="arn" n="68">Təfa-meu məlei kiñe ruka weʎi lelu?</p>
+<p xml:lang="spa" n="68">  ¿Acá por está una casa vacía estando?</p>
+
+<p xml:lang="span" n="69">Yo querría vivir aquí un mes para aprender bien la lengua.</p> 
+<p xml:lang="arn" n="69">Kəpa-məlev’un kiñe küyen <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kəpa-kim-mapaduŋun.</p> 
+<p xml:lang="spa" n="69">  Quería estar un mes mi querer saber tierra habla.</p>
+
+<p xml:lang="span" n="70">Mañana estará vacía aquella casa al pié del cerro. El que la tiene se va esta noche. </p>
+<p xml:lang="arn" n="70">Wül’e weʎi letuai tiyechi ruka naqpan mawida məlelu. Feimu məlelu, amutualu təvachi pun·. </p>
+<p xml:lang="spa" n="70">Mañana vacía estará aquella casa abajo venir cerro estando. Ahí por el que está, está por andar  esta noche.</p>
+
+<p xml:lang="span" n="71">Bueno, pues; voy a hablar al dueño de la casa. Si me la dá, debes barrerla y limpiarla mañana temprano.</p> 
+<p xml:lang="arn" n="71">Fei ürkemai, duŋulmeav’in ŋen ruka, elualimu, eimi lepütuaimi weʎimtuaimi wüle pu liwen. </p> 
+<p xml:lang="spa" n="71">Esto está bien a hablarle iré dueño casa, si él me da, tu limpiarás vaciarás mañana en alba.</p>
+
+<p xml:lang="span" n="72">No te quedes parado en la puerta; no puedo ver aquí. </p> 
+<p xml:lang="arn" n="72"> Wis’t’alekilŋe wül’ŋiñ ruka-meu; pelan təv’a-meu.</p> 
+<p xml:lang="spa" n="72">Parado no te quedes puerta casa en; no veo aquí por.</p>
+
+<p xml:lang="span" n="73">Ponte a un lado, hace muy oscuro aquí</p>  
+<p xml:lang="arn" n="73"> Kiñe-pəle kunúŋe. Mətt·e dumin ŋei. </p>
+<p xml:lang="spa" n="73">Un (lado) hacia pon. Muy oscuro es.</p>
+
+<p xml:lang="span" n="74">Esta casa es mjy mala. El suelo está húmedo, porque el techo se llueve. </p>
+<p xml:lang="arn" n="74">Təvachi ruka mətt·e kəmelai. Təvachi mapu mətt·e iʎfod ŋei; waukei.</p>
+<p xml:lang="spa" n="74">Esta casa muy buena no es. Esta tierra muy húmeda es; se llueve.</p>
+
+<p xml:lang="span" n="75">Las paredes tiene muchos agujeros donde entra el viento frío de la noche. </p>
+<p xml:lang="arn" n="75">Kəpamtul ruka-meu mətt·ewe chodŋei; feimeu konpakei wüt’e.</p> 
+<p xml:lang="spa" n="75">Paredes casa en muy agujereado es; por eso a entrar viene frío.</p>
+
+<p xml:lang="span" n="76">Hay mal olor aquí y está todo muy sucio. </p>
+<p xml:lang="arn" n="76">Təv’a-meu mətt·e weda n’ümən’ei; mett·e podŋei is’t’okom.</p>
+<p xml:lang="spa" n="76">  Aquí por muy mal olor es; muy sucio es todo.</p>
+
+<p xml:lang="span" n="77">Tu casa me parece mucho más bonita y limpia que la del vecino. </p>
+<p xml:lang="arn" n="77">Eimi mi ruka mətt·e liv’ŋelu t’okiviñ ka ruka-meu.</p>
+<p xml:lang="spa" n="77">Tú tu casa muy limpia siendo la juzgo otra casa de.</p>
+
+<p xml:lang="span" n="78">Deja la puerta abierta cuando hace sol, para que se seque bién el piso.</p> 
+<p xml:lang="arn" n="78">Nüla kunuaimi ruka, an·t·əŋele; feimeu kəme aŋkətoai təveichi mapu.</p>
+<p xml:lang="spa" n="78">Abierta pondrás casa, sol si es; por eso bien secará esa tierra.</p>
+
+<p xml:lang="span" n="79">No se puede cerrar esta puerta. Tráigame un palo para cerrarla.</p> 
+<p xml:lang="arn" n="79">L·üfkulaviñ təvachi puerta. Kəpalelen kiñe maməʎ <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> l·üfkoam. </p>
+<p xml:lang="spa" n="79">   No la cierro esta puerta. Venir hazme un palo su cerrar para.</p>
+
+<p xml:lang="span" n="80">¿Hay ladrones aquí? Sí, hay, señor; pero no vienen por acá. </p>
+<p xml:lang="arn" n="80">Məlei wiŋkefe am təva-meu? Məlei ka; welu təva-mu kəpakelai.</p>
+<p xml:lang="spa" n="80">¿Hay ladrones  aquí por? Hay,  pero acá por no vienen.</p>
+
+<p xml:lang="span" n="81">Roban loa animales en el potrero, pero no vienen a las casas. </p>
+<p xml:lang="arn" n="81">Lelfün-meu wiŋküŋekei ka, welu ruka-meu konpakelai.</p> 
+<p xml:lang="spa" n="81">  Llanura en robado es siempre, pero casa a entrar no vienen.</p>
+
+<p xml:lang="span" n="82">¿Puedo obtener algún sirviente aquí?</p> 
+<p xml:lang="arn" n="82">Peavun cham kiñe kona təv’a-meu.</p>
+<p xml:lang="spa" n="82">Vería es acaso un mozo aquí por.</p>
+
+<p xml:lang="span" n="83">Si, señor, hay uno.</p> 
+<p xml:lang="arn" n="83">Məlei kiñe.</p>
+<p xml:lang="spa" n="83">Hay uno.</p>
+
+<p xml:lang="span" n="84">Estoy muy cansado; quiero acostarme. </p>
+<p xml:lang="arn" n="84">Mətt·e kansalen; t’anakunuan.</p><p xml:lang="spa"></p>
+<p xml:lang="spa" n="84">Muy cansado estoy; caído pondré.</p>
+
+<p xml:lang="span" n="85">La cama está muy dura, me duele todo el cuerpo.</p>
+<p xml:lang="arn" n="85">ŋətantu mətt·e t’ayaikəlei. Mətt·e kut’an <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> aŋka. </p>
+<p xml:lang="spa" n="85">Cama muy dura está. Muy enfermo mi cuerpo.</p>
+
+<p xml:lang="span" n="86">Tengo frío. Tráigame un poncho para taparme. </p>
+<p xml:lang="arn" n="86">Mətt·e wüt’en. Kəpalelen kiñe pont’o <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ekuʎuam.</p> 
+<p xml:lang="spa" n="86">Mucho frío tengo. Venir hazme una frazada mi taparme para.</p>
+
+<p xml:lang="span" n="87">Ayúdame a arreglar la cama; extiende las frazadas.</p> 
+<p xml:lang="arn" n="87">Kəme ŋetantu kunuen; kəme püpümŋe went·e ŋətantu.</p> 
+<p xml:lang="spa" n="87">Bien cama ponme; bien entiende arriba cama.</p>
+
+<p xml:lang="span" n="88">Despiértame mañana, para levantarme temprano.</p>  
+<p xml:lang="arn" n="88"> Wule t’epelaen wit’ayaal pu liwen.</p>
+<p xml:lang="spa" n="88">Mañana me despertarás para levantarme en mañana.</p>
+
+<p xml:lang="span" n="89">¿Cómo has pasado la noche? has dormido bien? </p>
+<p xml:lang="arn" n="89">Kəme rul’paimi pun, kəme umautuimi?</p>
+<p xml:lang="spa" n="89">Y bien pasaste noche, bien dormiste?</p>
+
+<p xml:lang="span" n="90">He dormido bién; he dormido mal. Me he despertado muchas veces. </p>
+<p xml:lang="arn" n="90">Kəme umautun. Mətt·e weda umañən; fen’t’e rupachi t’epen.</p>
+<p xml:lang="spa" n="90">Bien  dormí.  Muy mal dormí; tantas veces me desperté. </p>
+
+<p xml:lang="span" n="91">Los perros ladraban mucho. En la casa al lado cantaban y metían mucha bulla.</p> 
+<p xml:lang="arn" n="91">T’ewa mətt·e waŋkəpei; avkadi ruka ül’katupei, wirarepei.</p> 
+<p xml:lang="spa" n="91">Perro mucho   ladró; al lado casa se cantó,  se gritó.</p>
+
+<p xml:lang="span" n="92">No quiero levantarme todavía. Mozo, pon un frazada sobre la banca; quiero sentarme.</p>  
+<p xml:lang="arn" n="92"> Kəpa-wüt’alan pet·u Kona, kəpalelen kiñe pont’o went·e waŋku elelpaen; inche kəpa-an’ün’.</p>
+<p xml:lang="spa" n="92">Quiero  levantarme no yo todavía. Mozo, venir hazme una frazada encima banca ven a dejarme puesto; yo quiero sentarme.</p>
+
+<p xml:lang="span" n="93">Acerca una mesa; ponla acá.</p> 
+<p xml:lang="arn" n="93">Kəpalŋe kiñe mesa təfa-meu.</p>
+<p xml:lang="spa" n="93">Venir haz una mesa acá por.</p>
+
+<p xml:lang="span" n="94">Tengo sed; échame agua al vaso esta agua está turbia y caliente.</p>
+<p xml:lang="arn" n="94">Viywün; tokoŋe ko kiñe karu-meu. Təvachi ko podŋei eñükəlei.</p> 
+<p xml:lang="spa" n="94">Tengo sed; pon  agua un jarro en.  Esta agua turbia es caliente está.</p>
+
+<p xml:lang="span" n="95">Tráeme agua limpia; limpia el vaso.</p> 
+<p xml:lang="arn" n="95">Kəpalelen liv ko. Lipümfiŋe karu.</p>
+<p xml:lang="spa" n="95">Venir hazme limpia agua. Límpialo jarro.</p>
+
+<p xml:lang="span" n="96">No lo seques con un trapo sucio, sino con uno limpio. </p>
+<p xml:lang="arn" n="96">Aŋkümkilŋe təvichi pod pañu-meu; lipümve kəme pañu-mu.</p>
+<p xml:lang="spa" n="96"> No seques este sucio paño con; limpia esto buen paño con.</p>
+
+<p xml:lang="span" n="97">Límpiame el cuchillo y lava la cuchara.</p> 
+<p xml:lang="arn" n="97">Lipümelen kuchiʎo, ka kəchalaen kuchara.</p> 
+<p xml:lang="spa" n="97"> Límpiamelo cuchillo, otro me lavarás cuchara.</p>
+
+<p xml:lang="span" n="98">Tráeme que comer; tengo mucha hambre.</p> 
+<p xml:lang="arn" n="98">Kəpalelen yael; mətt·e ŋüñün.</p>
+<p xml:lang="spa" n="98">Venir hazme comida; mucho tengo hambre.</p>
+
+<p xml:lang="span" n="99">No puedo comer esta carne; está mala, tiene mal olor. </p> 
+<p xml:lang="arn" n="99"> Kəpa ilaviñ təvachi ilo. Kəmelai; mətt·e weda n’ümün’ŋei.</p>
+<p xml:lang="spa" n="99">Quiero comer yo no lo esta carne. Buena no ella; muy mal olor es.</p>
+
+<p xml:lang="span" n="100">Mas bien voy a comer carne seca; hágala cocer mucho tiempo para que se ablande.</p> 
+<p xml:lang="arn" n="100">Doi kəme ili aŋim. Kəme afümfiŋe,  oʎaai.</p>
+<p xml:lang="spa" n="100">Mas bueno si como carne seca. Bien prepáralo, bien cocida estará.</p>
+
+<p xml:lang="span" n="101">No está bueno el fuego. Haga pedacitos chicos de leña. Sople el fuego. </p>
+<p xml:lang="arn" n="101">Kəme kət’alŋelai. Pəchi ke iran deumaŋe; feimeu pimuntukuaimi kət’al.</p>
+<p xml:lang="spa" n="101">Buen fuego no es. Chico siempre trocito (?) concluye de ahí soplo pondrás fuego.</p>
+
+<p xml:lang="span" n="102">El fuego está apagándose; préndalo de nuevo. </p>
+<p xml:lang="arn" n="102">Choŋui  kət’al; kəme qüyümtuviŋe.</p> 
+<p xml:lang="spa" n="102">Se apaga fuego; bien  enciéndelo.</p>
+
+<p xml:lang="span" n="103">Eche cemiza sobre el carbón para que no se apague el fuego. </p> 
+<p xml:lang="arn" n="103"> Rüŋalve t’ufken-meu kət’al, feimeu choŋlaai.</p> 
+<p xml:lang="spa" n="103">Entierra eso ceniza con fuego, de ahí no se apagará.</p>
+
+<p xml:lang="span" n="104">Hágame hervir esta agua. Todavía no está hirviendo. Deje la olla al fuego. </p>
+<p xml:lang="arn" n="104">Wadkəmelen təvachi ko. Petuwadkəlai. Kaʎi velekape kət’al-meu chaya.</p> 
+<p xml:lang="spa" n="104">Hazme hervir esta agua. Todavía no hierve. Solo déjalo estar fuego en olla.</p>
+
+<p xml:lang="span" n="105">Saque la olla, porque está hierviendo. Está saliéndose el agua por encima. </p>
+<p xml:lang="arn" n="105">Anünentuŋe chaʎa, wadkəwadkəŋei; went·e ut’ut’ipamekepai ko.</p>
+<p xml:lang="spa" n="105">Sentada sácala olla,  hervir hervir es; arriba botada viene siempre a salir agua.</p>
+
+<p xml:lang="span" n="106">Tenga cuidado que no bote agua. Me quemará usted la mano. </p>
+<p xml:lang="arn" n="106">Kəme inarumenieve ut’unoal təvichi ko. L’üpümqüñmaaveneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kuü.</p>
+<p xml:lang="spa" n="106"> Bien cuidado ten eso para no botar esa agua. Me la vas a quemar mi mano.</p>
+
+<p xml:lang="span" n="107">Páseme un pedazo de pan; pero no ése viejo que está tan duro. </p>
+<p xml:lang="arn" n="107">Alt’ol’paen wikef kovke. Təv’eichi kuivi kovke no; mətt·e t’eŋkəl’ŋei ta</p> <p xml:lang="arn">təfei.</p>
+<p xml:lang="spa" n="107"> Pásame pedacito pan. Ese viejo pan no; muy dura es este aquí.</p>
+
+<p xml:lang="span" n="108">¿Dónde has estado, muchacho?-No he salido; he estado aquí. </p>
+<p xml:lang="arn" n="108">Cheu məlepeimi, pəchi kampu. T’ipapelan; təva-mu mt·en məlepen.</p>
+<p xml:lang="spa" n="108">¿Dónde  estuviste, chico muchacho. No salí; aquí por solo estuve.</p>
+
+<p xml:lang="span" n="109">Dices una mentira. Te he llamado en todas partes y no me has oído. </p>
+<p xml:lang="arn" n="109">Koil·atuimi; inche kom-ple mət’ümpeeyu¡ aʎkəpelaimi.</p>
+<p xml:lang="spa" n="109">Mientes; yo todo hacia  te llamé;  no oíste.</p>
+
+<p xml:lang="span" n="110">Dime siempre la verdad; porque si mientes tengo que castigarte. </p>
+<p xml:lang="arn" n="110">Fei pien, kəme vei pien; koil·atul’mi wimaaveyu. </p>
+<p xml:lang="spa" n="110">Esto dime, bien esto dime; si mientes  te apalearé.</p>
+
+<p xml:lang="span" n="111"> ¿Cómo te va, amigo? Está buena tu salud? Ahora no mas te has levantado? </p>
+<p xml:lang="arn" n="111">Marimari, nai; kəmeleimi, nai; fəula wis’t’aimi am?</p>
+<p xml:lang="spa">Buenos días, amigo; bueno estas, amigo; ahora te levantaste?</p>
+
+<p xml:lang="span" n="112">Me acuesto temprano y suelo levantarme cuando sale el sol.</p>  
+<p xml:lang="arn" n="112">Eʎa t’avia  kuduken,  wit’aken  t’ipapai ant·ə. </p>
+<p xml:lang="spa" n="112">Apenas noche me acuesto siempre, me levanto siempre vino a salir sol.</p>
+
+<p xml:lang="span" n="113">Me he sentido mal esta mañana.–Que te ha sucedido?</p> 
+<p xml:lang="arn" n="113">Tayi pu liwen pəchi kut’an’ən’,- Chumimi? </p>
+<p xml:lang="spa" n="113">Hoy en mañana poco enfermo yo. - ¿Cómo estuviste?</p>
+
+<p xml:lang="span" n="114">Llovía durante mi viaje; me mojé las piernas y así me he resfriado. </p> 
+<p xml:lang="arn" n="114">Mawün’ui <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kəpatuel, iʎvodüi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> namun; feimeu wüt’en. </p>
+<p xml:lang="spa" n="114"> Llovió mi  venida, se mojó mi pierna; de ahí tengo frío.</p>
+
+<p xml:lang="span" n="115">La rodilla me dolía tanto que no podía andar. </p>
+<p xml:lang="arn" n="115">Ñi l’uku vent·epun kut’an’ui;  pepi-amuelan.</p>
+<p xml:lang="spa" n="115">Mi rodilla tanto enferma; puedo andar mas no yo.</p>
+
+<p xml:lang="span" n="116">¿Te sientes mejor hoy?–Sí, amigo un poco mejor; pero todavía no estoy bueno. </p>
+<p xml:lang="arn" n="116">Pəchi chemtuimi təva?- Femən’ pəchi kəmeletun. Pet·u kəme moŋetulan.</p>
+<p xml:lang="spa" n="116">¿Poco qué haces esto? - Así (estoy) yo poco bueno estoy. Todavía bien no vivo.</p>
+
+<p xml:lang="span" n="117">¿Qué se dice de nuevo en el pueblo?–Mi compadre me dice que han traído tres ladrones.</p> 
+<p xml:lang="arn" n="117">Chem məlei tiyeu? Ñi kompañ fei pieneu: kəla wiŋkəfe kəpalŋei, pi.</p>
+<p xml:lang="spa" n="117">¿Qué hay allá? Mi compañero esto me dice: tres ladrones fueron hechos venir, dijo.</p>
+
+<p xml:lang="span" n="118">¿Qué es lo que han robado?–Han robado dos mulas y un potro de un corral. </p>
+<p xml:lang="arn" n="118">Chem wiŋkəl’u?-Wiŋkəl’u epu mul’a, ka kiñe potəro <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> koral-mu.</p>
+<p xml:lang="spa" n="118">¿Qué robando? - Robando dos mulas, otro un potro su corral de.</p>
+
+<p xml:lang="span" n="119">¿Quién los ha tomado presos?–Cuatro soldados del gobierno y el subdelegado.</p> 
+<p xml:lang="arn" n="119">Iñei presui kai? - Meli soltau ovienu, ka kiñe soleqao.</p>
+<p xml:lang="spa" n="119">¿Quién apresó también? - Cuatro soldados gobierno, otro un subdelegado.</p>
+
+<p xml:lang="span" n="120">Ellos no querían rendirse; pero los soldados mataron a uno y amarraron a los dos otros.</p> 
+<p xml:lang="arn" n="120">Ent’akau-ürkelavúiŋən;  welu təv’ichi soltau kiñe laŋəmui, ka epu t’ariŋei.</p>
+<p xml:lang="spa" n="120">Entregarse bien no (querían) ellos; pero ese soldado uno mató, otros dos amarrados fueron.</p>
+
+<p xml:lang="span" n="121">Un vecino fue muy mal herido en la pelea.</p> 
+<p xml:lang="arn" n="121">Kiñe wen·üi epe l·avui təvichi nal’ün-meu.</p> 
+<p xml:lang="spa" n="121">Un amigo casi moría esa  pelea  en.</p>
+
+<p xml:lang="span" n="122">¿A dónde querias ir ahora?–Quería ir al mercado a comprar buenas frutas.</p> 
+<p xml:lang="arn" n="122">Cheu kəpa-amuimi?- Amualu waria-mu iñche ŋiʎamean mañchana.</p>
+<p xml:lang="spa" n="122">¿Dónde quieres andar tu? - Andando después ciudad a yo comprar iré manzana.</p>
+
+<p xml:lang="span" n="123">No vayas, no hay nada de bueno allá. Acopmpáñame a mi casa para almorzar conmigo.</p> 
+<p xml:lang="arn" n="123">Amukilŋe. Chemnorume nielai tiyeu. Kompañen <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ruka-meu, imeayu.</p>
+<p xml:lang="spa" n="123"> No vayas. Ninguna cosa cualquiera no hay allá. Acompañame mi casa a, comer iremos los dos.</p>
+
+<p xml:lang="span" n="124">Muchas gracias, pero todavía no tengo hambre.–Si es así, ven en la noche a comer. </p>
+<p xml:lang="arn" n="124">Kəmei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> frenefuyel, petu  ŋüñülan. Pun·mai kəpaaimi iael.</p>
+<p xml:lang="spa" n="124">Bueno mi favorecido, todavía no tengo hambre. Noche pues vendrás a comer.</p>
+
+<p xml:lang="span" n="125">Te estoy esperando. Puedes traer a tu tío.–Bueno, si no llueve iremos los dos. </p> 
+<p xml:lang="arn" n="125"> Üŋelnieyu.  Kəpalai mi maʎe.- Ya, mawünole amoayu.</p>
+<p xml:lang="spa" n="125">Esperándote estoy. Harás venir tu tío.- Bueno, si no llueve iremos.</p>
+
+<p xml:lang="span" n="126">Con que ¿de veras has venido amigo? Creía que ya no vendrían ustedes dos. </p>
+<p xml:lang="arn" n="126">Kəpanoalu t’okiviñ eŋu.</p>
+<p xml:lang="spa" n="126">No vendrán Io juzgué ellos dos.</p>
+
+<p xml:lang="span" n="127">¿Cómo puedes creer que no vengamos (los dos), pues te he dicho que vendríamos? </p>
+<p xml:lang="arn" n="127">Chem-mo am kəpanoalu  t’okimuyu;  kəpaayu piuʎeiñma ŋa.</p>
+<p xml:lang="spa" n="127">¿Qué por no vendremos nos juzgamos los dos; vendremos los dos nos dijimos de veras pues.</p>
+
+<p xml:lang="span" n="128">Si no hubiéramos podido venir por el mal tiempo, te hubiéramos avisado. </p> 
+<p xml:lang="arn" n="128">Kəpanoalu,  mawən-mawənŋelu-meu t’okiuliyu fei piuavuiñ ka.</p>
+<p xml:lang="spa" n="128">Si no (habíamos) de venir, llover  llover siendo por si nos juzgamos esto nos habríamos dicho también.</p>
+
+<p xml:lang="span" n="129">Ya está bien. Entre no más ustedes dos. Ya está la comida.</p>  
+<p xml:lang="arn" n="129"> Kəmei ka. Konpamu  mət·en. Deu  afui iael.</p>
+<p xml:lang="spa" n="129">Bueno está también. Venid a entrar todos solamente. Ya se concluyó comida.</p>
+
+<p xml:lang="span" n="130">Si la sopa no está bien sazonada, échale sal. Aquí está el ají verde y el colorado. </p>
+<p xml:lang="arn" n="130">Korü  newekochelai  tukulelmuyu chadi.-Təfa <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> məlen karü t’api, kelü t’api ka.</p>
+<p xml:lang="spa" n="130">Caldo fuerte sazonado no está dejad le puesto sal.- Aquí su estar verde ají, colorado ají también.</p>
+
+<p xml:lang="span" n="131">Está muy bien cocida; no le falta nada.–¿Te gustan estos choclos? </p>
+<p xml:lang="arn" n="131">Mət·e kəmeafui. Chem no rume eʎan ŋelai. Kəpa-yimu karü wa?</p>
+<p xml:lang="spa" n="131">Muy bueno sería. Algo no cualquiera faltando no está. ¿Queréis comer (los dos) verde maíz?</p>
+
+<p xml:lang="span" n="132">Son muy tiernos los choclitos; son del maizal que has visto detás de mi casa. </p>
+<p xml:lang="arn" n="132">Mət·e kəmerkei təvachi wa. Ñi walmum furi ruka lei; fei ta təvachi wa.</p>
+<p xml:lang="spa" n="132">Muy bueno parece este maíz. Mi maizal detrás casa está; ahí este este maíz.</p>
+
+<p xml:lang="span" n="133">¿Quieres un poco del asado?–Sí, dame un pedazo; pero, antes tomemos una copa de chicha.</p>  
+<p xml:lang="arn" n="133"> Kəpa-ilaimu  pəchin kaŋkan kai? — Ya, pəchilen mai. Une pətukunuiiñ mai pulku kiñe mətt·a-meu. </p>
+<p xml:lang="spa" n="133">¿No queréis comer los dos poco  asado también? —Bueno, poco hazme pues. Primero bebido dejamos pues licor un  jarro  en.</p>
+
+<p xml:lang="span" n="134">Aquí hay papas dulces, papas fritas y buenas humitas. </p>
+<p xml:lang="arn" n="134">Təfa məlei kochi poñi, yaŋaʎ poñi, kəme kofke wa.</p> 
+<p xml:lang="spa" n="134">Aquí está dulce papa, frita  papa, buen pan maíz.</p>
+
+<p xml:lang="span" n="135">No quiero comer más. Estoy satisfecho.–Me parece que has comido muy poco.</p>  
+<p xml:lang="arn" n="135"> Kəpa-iuelan Mət·e wedan. - Mət·e pəchi ilu t’okivuyin.</p> 
+<p xml:lang="spa" n="135">No quiero comer mas. Muy lleno estoy.—Muy poco comiendo lo juzgaba.</p>
+
+<p xml:lang="span" n="136">No te vayas todavía. Quédate un ratito; vamos a conversar. </p> 
+<p xml:lang="arn" n="136"> Petu amukilŋe; pəchin maweŋe; n’ət’amkayin.</p> 
+<p xml:lang="spa" n="136">Todavía no vayas; un poco mas quédate; conversamos.</p>
+
+<p xml:lang="span" n="137">Adios, amigo. Hasta este otro día. Que te vaya bien.</p>  
+<p xml:lang="arn" n="137"> Amukeʎechi  mai. Ka antə peuaiñ. Peu maŋen, Kəme Amutuaimi.</p>
+<p xml:lang="spa" n="137">Que me vaya ahora pues. Otro día nos veremos. Vernos ir ser(?). Bien andarás.</p>
+
+<p xml:lang="span" n="138">¿Cuándo saldrás para tu viaje?–Debía haber salido ya, pero tenía que arreglar un negocio.</p> 
+<p xml:lang="arn" n="138">Chumt·en-mu chei n’ampəl·kaaimi? T’ipawiyeavun, kiñe duŋu-meu, feimeu məlen.</p>
+<p xml:lang="spa" n="138">Cuanto  en  es viajará?  Salir ayer había de, una cosa por, eso por estoy.</p>
+
+<p xml:lang="span" n="139">Muchacho, cuando llegue el arriero cuyano, dile que venga a verme. </p> 
+<p xml:lang="arn" n="139"> Akule kechakuʎinve, vei piavimi: kəpaai pepayaeneu.</p>
+<p xml:lang="spa" n="139">Cuando llegue guarda-animales, esto le dirás: vendrá él vendrá a verme.</p>
+
+<p xml:lang="span" n="140">Ya llegó el cacique, con sus mocetones. Quiere acompañarte en tu viaje.</p> 
+<p xml:lang="arn" n="140">Akui təveichi loŋko  <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kona yeŋən; kəpa-kompañeyu tami n·ampəl’kaael.</p>
+<p xml:lang="spa" n="140"> Llegó  ese cabeza (jefe) sus mozos ellos; quiere acompañarte tu viaje futuro.</p>
+
+<p xml:lang="span" n="141">¿Cuánto pide usted por estos dos caballos? </p>
+<p xml:lang="arn" n="141">Chumt·en wis’t’amimi təvichi epu kaweʎu-mu?</p>
+<p xml:lang="spa" n="141"> ¿Cuánto pides (?)  esos  dos caballos por?</p>
+
+<p xml:lang="span" n="142">Un peso por cada día de viaje.</p> 
+<p xml:lang="arn" n="142">Kiñe peso kiñe ke  ant·ə n·ampəlkan-meu.</p> 
+<p xml:lang="spa"> Un peso uno siempre día  viaje por.</p>
+
+<p xml:lang="span" n="143">Tráigalos mañana antes de salir el sol. </p> 
+<p xml:lang="arn" n="143"> Wüle kəpalaimi epe t’ipapale ant·ə.</p> 
+<p xml:lang="spa" n="143">Mañana  harás venir casi venga a salir sol.</p>
+
+<p xml:lang="span" n="144">Haré lo que deseas, patrón. </p>
+<p xml:lang="arn" n="144">Feman.</p>
+<p xml:lang="spa" n="144">Así haré.</p>
+
+<p xml:lang="span" n="145">¿Por qué llegas tan tarde? ¿Dónde has estado? Ya hace mucho que salió el sol.</p> 
+<p xml:lang="arn" n="145">Chem-mu vent·e all·üñmaini? Cheu məlepeimi? Fen’t’e prapay ant·ə.</p>
+<p xml:lang="spa" n="145">¿Qué por tan mucho (tarde) eres? Dónde estuviste? Tanto arriba vino sol.</p>
+
+<p xml:lang="span" n="146">No tengo la culpa, señor. Uno de los caballos se había perdido en la noche.</p> 
+<p xml:lang="arn" n="146">Jnche nielan duŋu; kiñe kaweiʎu ñamui t’avía.</p> 
+<p xml:lang="spa" n="146"> Yo no tengo cosa; un caballo se perdió anoche.</p>
+
+<p xml:lang="span" n="147">Tenía que ir en busca de él. Al fin lo encontré en el monte. </p>
+<p xml:lang="arn" n="147">Fei kintupevin. All·ün-mu ula petuviñ pu lemu. </p>
+<p xml:lang="spa" n="147">Ese lo busqué. Mucho por después lo volví a ver en bosque.</p>
+
+<p xml:lang="span" n="148">No digas más.Ensilla mi caballo y pon la carga en el otro.</p> 
+<p xml:lang="arn" n="148">D’uŋuwe-kilŋe; chiʎalen <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kaweʎu; chechemŋe kaŋelu-meu.</p>
+<p xml:lang="spa" n="148">No hables mas; ensíllame mi caballo;  carga otro siendo en.</p>
+
+<p xml:lang="span" n="149">La barriguera está muy floja; apriétala. Ate bien este saco, que no se caiga. </p>
+<p xml:lang="arn" n="149">Sintá mət·e kəltolei; n’ürüfviŋe; kəme t’arin-tukufiŋe təvachi saku ütünaqnaom.</p>
+<p xml:lang="spa" n="149">Cinta muy floja está;  ciérrala; bien amarrado ponlo este saco para no caer.</p>
+
+<p xml:lang="span" n="150">Los estribos están cortos; alárguelos. ¿Es manso este caballo, o tiene maña? </p>
+<p xml:lang="arn" n="150">It’ipu mt·ə pəchi kei; amultuviŋe. Ñom ŋei anta təvachi kaweʎu, lofoŋeanchi?</p>
+<p xml:lang="spa" n="150">Estribo muy chico está; hazlo andar. ¿Manso es acaso este caballo, o lobo es.</p>
+
+<p xml:lang="span" n="151">Agarre las riendas mientras yo subo. Amarre mejor esta carga; se está resbalando.</p>  
+<p xml:lang="arn" n="151"> N’ünielen üs’t’antukúe, inche prayan. Kəme t’ariviŋe təveichi cheçhem; kəl’əlei.</p>
+<p xml:lang="spa" n="151">Agarrado tenme rienda, yo subiré. Bien amárralo esa carga. ladeada está.</p>
+
+<p xml:lang="span" n="152">El lado izquierdo está más cargado que el lado derecho. Ponga aquí la pala y el hacha. </p> 
+<p xml:lang="arn" n="152"> Wele-pəle doi kiñen-ple rupalei; man-meu tukulŋe pala, toki təva-ple.</p> 
+<p xml:lang="spa" n="152">Izquierda hacia mas a un lado pasando está; derecha por  ponlo pala, hacha acá hacia.</p>
+
+<p xml:lang="span" n="153">¿En que dirección vamos? ¿Damos vuelta a la derecha? </p> 
+<p xml:lang="arn" n="153"> Chuchi-ple  kunuayin? Wüñoayin man-ple am?</p>
+<p xml:lang="spa" n="153">¿Qué (parte) hacia dejaremos? Volveremos derecha hacia acaso.</p>
+
+<p xml:lang="span" n="154">Después pasamos el río y subimos la cuesta de aquel cerro. </p>
+<p xml:lang="arn" n="154">Təva-mu üŋkükunuayin; ka veichi ula rumeayin leuvu-meu. Feimeu prapaayin keikeitoayin təyechi mawida-meu.</p>
+<p xml:lang="spa" n="154"> Acá por vamos derechito; otro ahí después pasaremos río por. De ahí vendremos a subir subiremos (serpenteando) aquel cerro por.</p>
+
+<p xml:lang="span" n="155">¿Es larga la subida? y ¿Cómo es el camino? </p>
+<p xml:lang="arn" n="155">All·ü pərai iñ praam? chum lei rüpü  kai?</p>
+<p xml:lang="spa" n="155">¿Mucho sube nuestra subida? cómo está camino también?</p>
+
+<p xml:lang="span" n="156">El camino es algo pedregoso; pero no es muy escarpado. </p>
+<p xml:lang="arn" n="156">Təveichi rüpü mət·e kura ŋei; newe waiwai ŋelai.</p> 
+<p xml:lang="spa" n="156"> Ese  camino solo piedra es; fuerte escarpado no es.</p>
+
+<p xml:lang="span" n="157">Vaya adelante con la bestia de carga, yo sigo después. </p>
+<p xml:lang="arn" n="157">Wün’e leŋe chechem kaweʎu emu; inche  inalean.</p> 
+<p xml:lang="spa" n="157">Primero sé carga  caballo contigo; yo siguiendo estaré.</p>
+
+<p xml:lang="span" n="158">¿Es muy hondo el río?–No alcanza más que a la barriga de los caballos. </p>
+<p xml:lang="arn" n="158">All·ü kei anta təvachi ko? – Puwlai rume pət’a-kaweʎu-meu.</p>
+<p xml:lang="spa" n="158">¿Mucha es acaso esta  agua? — No llega cualquiera barriga caballo a.</p>
+
+<p xml:lang="span" n="159">¿Es rápido?–En esta parte no mucho, y menos en esta estación. Hay poca agua. </p>
+<p xml:lang="arn" n="159">Mət·e wis’t’ui kai? Fau mət·e wis’t’ulai; famŋen mət·e wis’t’ukelai. Kəpali pəchin ko.</p>
+<p xml:lang="spa" n="159">¿Mucho  corre también? Aquí mucho no corre;  así ser  mucho no corre siempre. Hace venir poco agua.</p>
+
+<p xml:lang="span" n="160">Ya estamos en la cumbre del cerro; aquí sigue llano el camino. ¿Cuál de los dos tomamos?</p> 
+<p xml:lang="arn" n="160">Deu prapaiñ mawida-meu; fei təva-mu kəme amoayin; tiyeu-ple naqkunuputuayin.</p> 
+<p xml:lang="spa" n="160">Ya subimos cerro a; esto aquí por bien andaremos; allá hacia volveremos a bajar.</p>
+
+<p xml:lang="span" n="161">Aquí se divide en dos el camino. ¿Cuál de los dos tomamos? </p>
+<p xml:lang="arn" n="161">Təva-mu epu wüd’ai  rüpü.  Chuchi inaaviin?</p> 
+<p xml:lang="spa" n="161">Aquí por dos se divide camino. ¿Cuál (parte) lo seguiremos?</p>
+
+<p xml:lang="span" n="162">El camino de la derecha es más ancho y parece más trajinado. </p>
+<p xml:lang="arn" n="162">Təvachi rüpü  man-ple məlelu doi all·ü rupai, doi miaukelu che t’okiviñ.</p>
+<p xml:lang="spa" n="162"> Este  camino derecha hacia estando mas mucho vienen pasar, mas caminando siempre gente lo juzgo.</p>
+
+<p xml:lang="span" n="163">Me parece mejor tomar a la izquierda. Allí está un muchacho; llámelo.</p> 
+<p xml:lang="arn" n="163">Inche doi kəmelu  wele ple  məlechi rüpü t’okivuin. Tiye-mu məlei kiñe pəchi kampo. Mət’ünviŋe.</p>
+<p xml:lang="spa" n="163"> Yo mas bueno seendo izquierda hacia el que está camino lo juzgaba. Allí por está un chico muchacho. Llámalo.</p>
+
+<p xml:lang="span" n="164">No me oye, señor.–Allá abajo viene una mujer; pregúntele.</p> 
+<p xml:lang="arn" n="164">Aʎküñmalaeneu ta təfei.-Tie naq-ple kəpai kiñe domo. Pramtuvíŋe.</p> 
+<p xml:lang="spa" n="164">No me está oyendo allí ese. - Allí bajada hacia viene una mujer. Pregúntale.</p>
+
+<p xml:lang="span" n="165">He, mujer, ¿a dónde va ese camino?–Este conduce a los campos de trigo del valle.</p> 
+<p xml:lang="arn" n="165">Domo! cheu amui təvachi rüpü?-Təvachi rüpü amui tiyechi kachiʎa-meu pəl’om; feimu amuaimən.</p>
+<p xml:lang="spa" n="165">¡Mujer! ¿a dónde va este camino?-  Este camino  va allí estando trigo a valle (?) ahí por andaréis.</p>
+
+<p xml:lang="span" n="166">Este otro conduce a Traiguen; pasa por los toldos que usted ve allá lejos.</p> 
+<p xml:lang="arn" n="166">Ka təvachi rüpü amui T’ayen. Tiyechi  ruka-mu pəchi fau ple rumei təvachi rüpü.</p>
+<p xml:lang="spa" n="166">Otro este camino va  Traiguen. Lo que está allí casa en poco acá hacia va a pasar este camino.</p>
+
+<p xml:lang="span" n="167">¿No se puede errar el camino?–No señor. Detrás de esta loma dobla a la derecha.</p>  
+<p xml:lang="arn" n="167"> Ñamñam rüpü chi am?- Femlai. - Furitu mawida wüñomaimən man-ple.</p>
+<p xml:lang="spa" n="167">Perder perder camino es acaso?- Así no es. – Detrás cerro vais a volver derecha hacia.</p>
+
+<p xml:lang="span" n="168">¿Hay que pasar un río?–Sí, pero trae poco agua. La gente por allá le dirá dónde hay que pasar.</p>  
+<p xml:lang="arn" n="168"> Rumeayin cham leufu meu?-Rumeaimən. Welu pəchi kei; tiyen məlechi che ramtupuaimən cheu məlen ŋilaue.</p>
+<p xml:lang="spa" n="168">¿Iremos a pasar es acaso  río por?- Iréis a pasar. Pero poco está; allí la que está gente preguntaréis dónde estar vado.</p>
+
+<p xml:lang="span" n="169">¿Cuándo llegaremos a Victoria? Estamos todavía muy lejos? </p>
+<p xml:lang="arn" n="169">Chumten-meu pouain chei Pitoria?-Mət·e all·ü mapu leuei incham?</p>
+<p xml:lang="spa" n="169">¿Cuánto  en llegaremos es  Victoria?- Muy mucha tierra está mas yo acaso?</p>
+
+<p xml:lang="span" n="170">Andando despacio llegarán ustedes (tres) hacia la puesta del sol. </p>
+<p xml:lang="arn" n="170">Ñochi lelmən puaimən konle  ant·ə.</p> 
+<p xml:lang="spa" n="170">Despacio si estáis llegaréis cuando entre sol.</p>  
+
+<p xml:lang="span" n="171">¿Hay una posada allá, o en qué casa podremos pasar la noche? </p>
+<p xml:lang="arn" n="171">Məlei kai umañue ruka?</p>
+<p xml:lang="spa" n="171">¿Está también dormitorio casa?</p>
+
+<p xml:lang="span" n="172">No hay muchos chilenos allá. Pero el cacique es amigo mío; en su casa quedremos.</p> 
+<p xml:lang="arn" n="172">Mət·e məlelai wiŋka tiyeu. Welu təveichi loŋko wen·üi yevin. Fei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ruka-mu umañpuaiiñ.</p>
+<p xml:lang="spa" n="172">Mucho no está extranjero allá.  Pero  ese jefe amigo lo llevo. Este su casa en llegaremos a dormir.</p>
+
+<p xml:lang="span" n="173">No hechen al potrero los caballos. Déjenlos aquí cerca de la casa y denles un poco de pasto.</p> 
+<p xml:lang="arn" n="173">Nentu-kunukilŋe lelfün-meu <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> kaweʎu. Elkunufiŋə vau pəchi mapu ruka-meu, eluviŋe pəchín kachu.</p> 
+<p xml:lang="spa" n="173">Sacado  no pongas campo en  mi caballo. Puesto déjalo acá, poca tierra casa de, dale poco pasto.</p>
+
+<p xml:lang="span" n="174">Vaya a comprar un poco de maíz. Oiga comadre, ¿tiene usted algunos huevos?</p> 
+<p xml:lang="arn" n="174">Niʎameŋe pəchin wa. Papai yem, nielaimi kuramwul’ael?</p>
+<p xml:lang="spa" n="174">Ve a comprar poco maíz. Mamita oh, ¿no tienes huevos que vender?</p>
+
+<p xml:lang="span" n="175">¿Hay carne fresca?–Sólo tenemos charqui; pero es muy bueno; yo misma lo he hecho. </p>
+<p xml:lang="arn" n="175">Məlei we ilo?- Aŋim mət·en nievun; welu mət·e kəmei; inche <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> deumael.</p>
+<p xml:lang="spa" n="175">¿Hay fresca carne?- Seca solamente tenia; pero muy buena es; yo mi preparado.</p>
+
+<p xml:lang="span" n="176">Háganos (a los dos) un guiso con carne salada y cebolla; échele más papas.</p> 
+<p xml:lang="arn" n="176">Afümelen kat’ukalaen ilo ka sevoʎa; doi təkuŋe poñi.</p>
+<p xml:lang="spa" n="176">Prepárame, no me cortas carne y cebollar, mas pon papa.</p>
+
+<p xml:lang="span" n="177">Haga cocer cinco huevos frescos; y diga a su hija que nos traiga agua en esta calabaza.</p> 
+<p xml:lang="arn" n="177">Afümelen kechu we kuram. Fei piavimi koñi: kəpalayai ko təvachi məttawe mu.</p>
+<p xml:lang="spa" n="177">Prepárame cinco frescos huevos. Esto le dirás hijo. hará venir agua este cántaro en.</p>
+
+<p xml:lang="span" n="178">Arriero, amarre mi caballo, para que no se vaya en la noche. </p> 
+<p xml:lang="arn" n="178">Ükelelen  <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kaweʎu, amutunoam pun. </p>
+<p xml:lang="spa" n="178">Déjame amarrado mi caballo, para no irse noche.</p>
+
+<p xml:lang="span" n="179">¿No tienes pollos que venderme, mamita?–Si, señor; aquí están dos pollos y una gallina.</p> 
+<p xml:lang="arn" n="179">Nielaimi achawaʎ wulael, papai? -Məlei, epu pəchi ke achawaʎ ka kiñe kude achawaʎ.</p>
+<p xml:lang="spa" n="179">¿No tienes gallina que vender, mamita?- Está,  dos chicos siempre pollos otra una vieja gallina.</p>
+
+<p xml:lang="span" n="180">¿Cuánto pides por esta gallina?–Sesenta centavos.</p> 
+<p xml:lang="arn" n="180">Chumte valilimi təvachi achawaʎ-meu?-Kəla chaucha.</p>
+<p xml:lang="span">¿Cuánto haces valer  esta  gallina por?- Tres chaucha..</p>
+
+<p xml:lang="span" n="181">Te daré cincuenta centavos.–Bueno, señor, tómela.–Mate la gallina ahora luego.</p> 
+<p xml:lang="arn" n="181">Eluayu meli real. -Ya; təvei mai. Feyi kachi l·aŋəmelen təvachi achawaʎ.</p>
+<p xml:lang="spa" n="181">Te daré cuatro reales.-Bueno; este pues.  Luego me matarás esta gallina.</p>
+
+<p xml:lang="span" n="182">Hágame la cazuela de ave mañana temprano. Mi estómago está malo. </p>
+<p xml:lang="arn" n="182">Wüle pu liwen deumalaen achawaʎ kore; mətt·e kut’ani <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> piuke.</p>
+<p xml:lang="spa" n="182">Mañana en mañana me prepararás gallina caldo; muy enfermo está mi corazón.</p>
+
+<p xml:lang="span" n="183">No puedo aguantar la sopa de charqui ni laq carne de yegua. No le pongas mucho ají.</p> 
+<p xml:lang="arn" n="183">Mətt·e wedañmaleneu aŋim, ilo auka. Mətt·e all·ün tukulelaavimi t’api.</p>
+<p xml:lang="spa" n="183"> Muy  mal me hace  charqui, carne yegua. Muy mucho no me dejarás puesto ají.</p>
+
+<p xml:lang="span" n="184">¿No puede usted tapar este agujero en la pared? Entra mucho viento. </p>
+<p xml:lang="arn" n="184">Pepi-takulaavuimi cham təvachi wechod ruka. Mət·e konpai kürüf.</p>
+<p xml:lang="spa" n="184"> Podrías tapar es acaso este agujero casa. Mucho viene a entrar viento.</p>
+
+<p xml:lang="span" n="185">Lo taparé con paja; pero esta no es bastante. Tráigame mas. </p>
+<p xml:lang="arn" n="185">Takuavin pinu-meu. Welu təvachi pinu puwlaai doi elmeen.</p>
+<p xml:lang="spa" n="185">Lo taparé paja  con. Pero esta paja no alcanzará mas ve a dejarme.</p>
+
+<p xml:lang="span" n="186">Mañana temprano me traerás una olla con agua caliente.–Lo haré.</p> 
+<p xml:lang="arn" n="186">Wüle pu liwen kəpalelaen kiñe chaʎa kufün ko.­ Deumalaeyu. </p>
+<p xml:lang="spa" n="186">Mañana en mañana me harías venir una  olla caliente agua.-Te lo prepararé.</p>
+
+<p xml:lang="span" n="187">Arriero, ¿han comido bien los animales?–No había bastante pasto; falta el agua.</p>  
+<p xml:lang="arn" n="187"> Kechakuʎinve, kəme qütai kuʎin? Newe ŋerkelai kachu, ko rume ŋelai.</p>
+<p xml:lang="spa" n="187">Cuidador de animales, bien pastó animal? Fuerte no parece ser pasto, agua cualquiera no hay.</p>
+
+<p xml:lang="span" n="188">Esta bestia de carga está lastimada. ¿Qué tenemos que hacer para que no se haga peor? </p>
+<p xml:lang="arn" n="188">Chechem kəpalchi mula mət·e werai. Chumafuiin chei doi ni wera noam.</p>
+<p xml:lang="spa" n="188"> Carga  la que trae mula muy mala está, ¿Cómo haríamos es mas su malo para no.</p>
+
+<p xml:lang="span" n="189">Le pondremos unos pellejos blandos. Pregunte al colono si tiene pellejos.</p> 
+<p xml:lang="arn" n="189">Chañu laviyiñ  kiñe t’əl’ke ŋüñkün ŋelu. Ramtuyefiŋe təvichi kolon nievule t’əl’ke. </p>
+<p xml:lang="spa" n="189">Sudadero no le ponemos  un cuero blando siendo. Pregunta llévale ese colono si tenía cuero.</p>
+
+<p xml:lang="span" n="190">Tiene algunos, pero pide un peso por cada uno.–Ofrécele tres pesos por cionco cueros.</p> 
+<p xml:lang="arn" n="190">Nievui, welu kiñe ke peso  falilei.- Kəl’a peso eloavimi kechu t’əlke-meu.</p>
+<p xml:lang="spa" n="190"> Tenia,  pero uno siempre peso valer hace.-Tres  pesos le darás cinco cueros por.</p>
+
+<p xml:lang="span" n="191">¿No está la sopa, mamita?–Luego va a estar, patroncito. </p> 
+<p xml:lang="arn" n="191"> Deulai kore,  papai?- Epe  áfui.</p>
+<p xml:lang="spa" n="191">¿Preparado no está caldo, mamita?-Casi estaba concluido.</p>
+
+<p xml:lang="span" n="192">Saque la tapa de la olla para que yo vea lo que hay adentro.</p> 
+<p xml:lang="arn" n="192">Nentuŋe takochaʎaue; pean chem <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> məlen.</p> 
+<p xml:lang="spa" n="192"> Quita  tapa de olla;  veré  qué su estar.</p>
+
+<p xml:lang="span" n="193">Apúrate; ya hace mucho calor, tenemos que salir lueguito.</p> 
+<p xml:lang="arn" n="193">Matukelŋi; mət·e ant·ə ŋei, məchai petu  iñ t’ipayael.</p>
+<p xml:lang="spa" n="193">Apresúralo (?) muy día es,  luego  ya nuestra  salida.</p>
+
+<p xml:lang="span" n="194">¿Cuánto te pagaré por la noche?–No sé lo que vale el pasto que usted ha tenido.</p>
+<p xml:lang="arn" n="194">Chumte kuʎiaeyu təvachi pun-meu? - Kimlan valin kachu tamən umañpamum.</p>
+<p xml:lang="spa">¿Cuanto  te pagaré esta noche por?- No se valer pasto de vuestro venir a dormir.</p>
+
+<p xml:lang="span" n="195">Preguntaré a mi marido.–Bueno, llámelo; tengo que hablarle.</p>  
+<p xml:lang="arn" n="195"> Ramtumevichi <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> fət·a.-Fei ürkemai; mətümfiŋe. Duŋulavin.</p> 
+<p xml:lang="spa" n="195">Quiero ir a preguntarle mi viejo.-Esto está bien pues; llámalo. Le hablaré.</p>
+
+<p xml:lang="span" n="196">Espérese un momento, señor. Allá viene mi marido con mi hijo mayor.</p> 
+<p xml:lang="arn" n="196">Pəchiñ mawü keʎeŋe.-Tiye kəpatun <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> fət·a, wünen vot·əm eŋu.</p>
+<p xml:lang="spa" n="196"> Poco  espérate. - Allí venir mi viejo, primer hijo con él.</p>
+
+<p xml:lang="span" n="197">¿Conoces el camino de Temuco?–Cómo no, señor; lo conozco muy bien. </p> 
+<p xml:lang="arn" n="197">Kimimi rüpü amalu Temuko?-Kimfiñ.</p>
+<p xml:lang="spa" n="197"> ¿Sabes  camino yendo  Temuco? - Lo sé.</p>
+
+<p xml:lang="span" n="198">¿Es fácil encontrar el camino?–La primera parte pasa por los campos.</p>
+<p xml:lang="arn" n="198">Peveman rüpü?- Wüne rumeaimu lelfün-meu.</p>
+<p xml:lang="spa" n="198">¿Así veré camino? - Primero vais a pasar llanura por.</p>
+
+<p xml:lang="span" n="199">Después el camino entra en el bosque. Allá encontrarás un río que hay que pasar. </p>
+<p xml:lang="arn" n="199">Veichi-ula konpuaimən lemu-meu. Feimu pepuaimən rüpü. Tieu pepoaimən kiñe leuvü; feimu rumcaimən.</p>
+<p xml:lang="spa" n="199"> Esto después llegaréis a entrar bosque en. De ahí llegaréis a ver camino. Allá llegareis a ver un río; de ahí iréis a pasar.</p>
+
+<p xml:lang="span" n="200">¿No hay un puente?–Ha habido uno; pero en el último invierno el agua lo ha arrastrado.</p> 
+<p xml:lang="arn" n="200">ŋelai puente?- Məlekevui kiñe; pu kem  yei ko.</p>
+<p xml:lang="spa" n="200">¿No hay puente? - Estaba siempre uno; en invierno llevó agua.</p>
+
+<p xml:lang="span" n="201">No es posible rehacerlo, hasta que haya menos agua. </p>
+<p xml:lang="arn" n="201">Fei təva kəme elŋelai; pəchi-ke-wetule wüla ko, kəme elŋetualu.</p>
+<p xml:lang="spa" n="201">Este aquí bien hecho no es; cuando vuelva a ser mas chica después agua, bien volverá volverá a ser hecho.</p>
+
+<p xml:lang="span" n="202">¿Dónde está el vado?–Está más arriba; pero allí hay muchos pantanos. </p> 
+<p xml:lang="arn" n="202"> Chuchi-mu məlei ŋilawe?-Doi wentetu lei. All·ü kei vot’a.</p>
+<p xml:lang="spa" n="202">¿Cuál (parte) por está vado? - Mas arriba está. Mucho está barro.</p>
+
+<p xml:lang="span" n="203">Por allá está muy malo el camino y apenas se vé. Hay que buscarlo. </p>
+<p xml:lang="arn" n="203">Tiyeu mət·e wesalei rüpü. Newe peŋekelai. Kintoavimən; feimu peaimən.</p>
+<p xml:lang="spa" n="203"> Allá muy malo está camino. Fuerte no es visto siempre. Lo buscaréis; de ahí veréis.</p>
+
+<p xml:lang="span" n="204">Vaya a buscarme un muchacho que me muestre el camino.</p> 
+<p xml:lang="arn" n="204">Kintulmeen kiñe kimlu ŋilawe.</p> 
+<p xml:lang="spa" n="204">Vé a buscarme un sabedor vado.</p>
+
+<p xml:lang="span" n="205">Mi hijo segundo te acompañará; es un muchacho muy inteligente.</p>  
+<p xml:lang="arn" n="205"> lnan koñi fei kompañaeimu; təvachi pəchi kampu mət·e kimi.</p>
+<p xml:lang="spa" n="205">Siguiente hijo ese te acompañará; este chico muchacho mucho sabe.</p>
+
+<p xml:lang="span" n="206">El conoce bien el vado y el camino al través el pantano.</p>
+<p xml:lang="arn" n="206">Fei mat·ə kimi təveichi ŋilaue, rüpü təveichi vot’a-meu.</p>
+<p xml:lang="spa" n="206">Ese mucho sabe  ese  vado, camino ese  barro por.</p>
+
+<p xml:lang="span" n="207">Bueno; diga a su hijo que venga luego.–¿Quieres ir conmigo?</p> 
+<p xml:lang="arn" n="207">Fei ürke mai; fei pifiŋe koñi: feyikachi kəpape.­Kəpa-amulaimi inche-mu?</p>
+<p xml:lang="spa" n="207">Eso está bién pués; eso dile hijo: luego venga. - ¿No quieres ir yo con?</p>
+
+<p xml:lang="span" n="208">¿Quieres mostrarme el camino a la casa de don Pedro? ¿Conoces bien el camino?</p> 
+<p xml:lang="arn" n="208"> Kimelmean rüpü amulu Piero-mu?-Rüf kəme kimimi rüpü.</p>
+<p xml:lang="spa" n="208">Irás a hacerme saber camino yendo Pedro a?-¿Bien bien sabes camino?</p>
+
+<p xml:lang="span" n="209">¿Cuándo has pasado por última vez el río y el pantano? </p>
+<p xml:lang="arn" n="209">Chumte rupaimi təvichi leuvu-meu?</p>
+<p xml:lang="spa" n="209">¿Cuánto (hare)  pasaste  ese  río  por?</p>
+
+<p xml:lang="span" n="210">Anteayer no mas, señor.–Puede mi caballo pasar el río sin que se moje la carga?</p> 
+<p xml:lang="arn" n="210">Epuemum ula.-Rumeavui chiam <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kawcʎu iʎvodaal <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> chechem?</p>
+<p xml:lang="spa" n="210"> Dos(días) hace.- ¿Pasaría es acaso mi caballo  mojándose su carga?</p>
+
+<p xml:lang="span" n="211">He pasado el río en un burro, que es mucho mas bajo que tu caballo. </p>
+<p xml:lang="arn" n="211">Rumeken kiñe furiku-meu doi pəchi mi kaweʎu-meu. </p>
+<p xml:lang="spa" n="211"> He pasado un  borrrico en mas chico tu caballo de.</p>
+
+<p xml:lang="span" n="212">Entonces era más alto el río que hoy; porque no ha caído lluvia.</p> 
+<p xml:lang="arn" n="212">Feichi  doi all·ü-kelei leuvü. Təva mauwünkelai. </p>
+<p xml:lang="spa" n="212">Ese (día) mas mucho estuvo río.  Acá  no ha llovido.</p>
+
+<p xml:lang="span" n="213">Apenas me mojé los pies.–¡Vamos, pues! Aquí está el río. </p>
+<p xml:lang="arn" n="213">Newe kəme iʎvodəlai rume <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> namun.-Amuiñ mai.- Təva <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> məlen leuvü.</p>
+<p xml:lang="spa" n="213">Fuerte bien no se mojó cualquiera mi pié?- Caminemos pues.-Aquí su estar río.</p>
+
+<p xml:lang="span" n="214">No pase usted por allá, patrón. La bajada es muy resbalosa. Aquí es mejor.</p> 
+<p xml:lang="arn" n="214">Tieu rumekilŋe.- Waywai mət·e t’ayaf ŋei. Fau-ple doi kəmei.</p>
+<p xml:lang="spa" n="214">Allá no vayas a pasar- Bajada(?)  muy resbalosa (?) es. Acá hacia mas buena es.</p>
+
+<p xml:lang="span" n="215">Es mucho mas fácil bajarse aquí. Yo iré adelante, sígame usted con su caballo.</p>
+<p xml:lang="arn" n="215">Doi kədau ŋelai naqelmu təv’a-meu; inche une lean inanean mi kaweʎu-meu.</p>
+<p xml:lang="spa" n="215">Mas mucho no es del bajar acá por;  yo primero estaré me seguirás tu caballo con.</p>
+
+<p xml:lang="span" n="216">¿Hay muchas piedras grandes en el río?–No, el fondo es barroso.</p> 
+<p xml:lang="arn" n="216">Mətt·e all·ü lei ft·a ke kura leufu-meu am?- Femlai; mət·e lolololoei təveichi leufu.</p>
+<p xml:lang="spa" n="216"> Muy mucho esta grande piedra  río en acaso?-Así no es; muy blando es ese río.</p>
+
+<p xml:lang="span" n="217">Un poquito más lejos principia el pantano (ñadi).</p> 
+<p xml:lang="arn" n="217">Doi pəchi all·ü mapu  une koni vot’a-meu.</p> 
+<p xml:lang="spa" n="217">Mas poco mucha tierra primero entra barro en. </p>
+
+<p xml:lang="span" n="218">Sería mejor que se apeara usted. Pudiera fácilmente hundirse el caballo.</p> 
+<p xml:lang="arn" n="218">Doi kəme-fui naqəlmi. ʎodaavui mi kaweʎu.</p>
+<p xml:lang="spa" n="218">Mas bueno era si bajaras. Se hundiría (?) tu caballo.</p>
+
+<p xml:lang="span" n="219">Ya hemos pasado el pantano. Ahora puede volver a subir al caballo.</p>
+<p xml:lang="arn" n="219">Deu rupaiñ fot’antu-meu.-Fei təva-ula pra­kaweʎu-tuŋe.</p>
+<p xml:lang="spa" n="219">Ya pasamos pantano  por.- Ese aquí después sube a caballo.</p>
+
+<note>Por falta de tiempo no pude concluir la traducción de todas las frases que están en el Estudio III. Faltan los números 220 hasta 253.
+Don Víctor Manuel Chiappa tuvo la bondad de apuntar estas frases después de mi salida, principiando con el número 214, de manera que 214, 219 aparecen en dos traducciones diversas hechas por el mismo individuo Calvun.</note>
+
+<p xml:lang="arn" n="214ª">Rumekilŋe tvei-ple, pat’on.-Naqkenchi mətt·e melkaiŋei. Tfa-ple doi kəmei.</p>
+<p xml:lang="spa" n="214ª">No vayas a pasar ahí por, patrón.- Bajando muy resboloso está. Acá por mas bueno.</p>
+
+<p xml:lang="arn" n="215ª">Doi kəmei naqen-meu tva-mu; inche wune lean, inanean mi kaweʎu emu.</p>
+<p xml:lang="spa" n="215ª">Mas bueno bajar para acá por; yo primero estaré, me seguirás tu caballo contigo.</p>
+
+<p xml:lang="arn" n="216ª">Məlei all·ü fətt·a ke kura leufü-meu? -Mu, re fot’a ŋei mətten.</p>
+<p xml:lang="spa" n="216ª">¿Hay muchas grandes piedras río en?- Cierto, puro pantano es solamente.</p>
+
+<p xml:lang="arn" n="217ª">Pəchi  ke  all·ü mapu məlei menoko.</p> 
+<p xml:lang="spa" n="217ª">Un poco siempre mucha tierra esta pantano.</p>
+
+<p xml:lang="arn" n="218ª">Eimi naqelmi kəmevúi. Rəŋalkonafui  yu kaweʎu.</p> 
+<p xml:lang="spa" n="218ª"> Tú si bajaras bueno era. Hoyo habrían de entrar nuestros caballos.</p>
+
+<p xml:lang="arn" n="219ª">Deu rupaiyu menoko-meu. Vei tfa pəra-kaweʎutueyu.</p> 
+<p xml:lang="spa" n="219ª">Ya pasamos pantano por. Ese aquí subir a caballo volveremos.</p>
+
+<note>Aquí principian las frases apuntadas solo por el señor Chiappa.</note>
+
+<p xml:lang="span" n="220">¿Cómo se llama el pueblo que vemos allá, a la orilla del monte? </p>
+<p xml:lang="arn" n="220">Iñei  piŋei  təveichi waria peviyu tiye-meu ináltu mawida.</p>
+<p xml:lang="spa" n="220">¿Quién es llamado ese  pueblo lo vemos allá por a orilla cerro?</p>
+
+<p xml:lang="span" n="221">No es pueblo. Son las chacras de dos colonos extranjeros. </p>
+<p xml:lang="arn" n="221">Waria no; walwe ŋa tei epu kolon wüt’an.</p> 
+<p xml:lang="spa" n="221">Pueblo no; chacra pues ésta dos colonos forasteros.</p>
+
+<p xml:lang="span" n="222">¿Tiene nombre eses cerro?–No sé con seguridad. Creo que lo llaman cerro negro.</p>  
+<p xml:lang="arn" n="222"> Qüi niei tiyechi mawida? – Kəme kimlavin. Kuri mawida t’okevin.</p>
+<p xml:lang="spa" n="222">¿Nombre tiene  ese cerro?-  Bien no lo sé. Negro cerro lo juzgo.</p>
+
+<p xml:lang="span" n="223">¿Cómo se llama aquel volcán nevado? Es el volcán Llaima, señor. </p> 
+<p xml:lang="arn" n="223"> Iñei piŋei tiyechi deqiñ piren nielu?- Chaŋüʎ deqiñ ta tei.</p>
+<p xml:lang="spa" n="223">¿Quién es llamado ese  volcán nieve teniendo?-Chángell volcán aquí ese.</p>
+
+<p xml:lang="span" n="224">¿No hay una laguna cerca de ese volcán? </p>
+<p xml:lang="arn" n="224">Nielai kiñe maʎin pəchi mapu tvichi deqiñ-meu?</p>
+<p xml:lang="spa" n="224">¿No hay una laguna poca tierra ese volcán de?</p>
+
+<p xml:lang="span" n="225"> ¿Hay guanacos y pumas en estos cerros? ¿Qué otros animales hay allí?</p> 
+<p xml:lang="arn" n="225">Məlei l·uan, t’apial tvachi mawida-meu? Ka chem kuʎin kai məlei tiye-meu?</p>
+<p xml:lang="spa" n="225">¿Hay guanaco, león este cerro en? Otro que animal también hay allá por?</p>
+
+<p xml:lang="span" n="226">Hay guanacos y venados; pero no vienen en estos meses, sino mas tarde.</p> 
+<p xml:lang="arn" n="226">Məlei l·uan, puuyu; welu kəpakelai tvachi küyen; welu kəpayai ka pəchi kuivi.</p>
+<p xml:lang="spa" n="226"> Hay guanaco, venado; pero no viene  este  mes; pero vendrá otro poco tarde.</p>
+
+<p xml:lang="span" n="227">Cuando principia a nevar en la cordillera, entonces también se bajan los pumas.</p> 
+<p xml:lang="arn" n="227">Chumten-meu pirenai mawida-meu, feimeu naqpayai t’apial.</p>
+<p xml:lang="spa" n="227">¿Cuánto en nevará  cerro  en,  entonces vendrá a bajar león.</p>
+
+<p xml:lang="span" n="228">¿Tiene miedo a los pumas, o no atacan a la gente? </p> 
+<p xml:lang="arn" n="228"> ʎəkakefimi t’apial am kai,  kam  chumkelavi che?</p>
+<p xml:lang="spa" n="228">¿Le tienes miedo (al) león acaso también, o no le hace nada (a la) gente?</p>
+
+<p xml:lang="span" n="229">¿Cómo se cazan los pumas aquí? Con perros y lazos o con rifle?</p> 
+<p xml:lang="arn" n="229">Chumŋechi nükevimi t’apial tfá-meu; t’ewa-meu, ʎasu-meu, t’alka-meu?</p>
+<p xml:lang="spa" n="229"> ¿Cómo lo agarras león aquí por; perro con, lazo con, trueno con?</p>
+
+<p xml:lang="span" n="230">¿Hay pescado en éste río?–Sí, pero son muy chicos. Se pescan con redes.</p>
+<p xml:lang="arn" n="230">Məlei chajwa   kai tvachi leufü-meu? – Məlei; welu mətte pəchikei, chaʎwaŋwilal (?) kañamo-meu.</p>
+<p xml:lang="spa" n="230">¿Hay paseado también este  río en? - Hay; pero muy chico está, se pesca (?) cáñamo con.</p>
+
+<p xml:lang="span" n="231">¿Conoce usted otra manera de pescar? </p>
+<p xml:lang="arn" n="231">Kimfimi kai ka t’ipa-chaʎwan?</p>
+<p xml:lang="spa" n="231">¿Conoces también otro salir pescado?</p>
+
+<p xml:lang="span" n="232">¿En qué mes siembran aquí el maíz, y en qué mes el trigo? </p>
+<p xml:lang="arn" n="232">Chem küyen-meu tukuŋekei wa tfá-meu? chem küyen meu tukuŋekei kachiʎa?</p>
+<p xml:lang="spa" n="232">¿Que mes en sembrado es maiz acá-por?  que mes en sembrado es trigo?</p>
+
+<p xml:lang="span" n="233">¿Cuándo se recogen las primeras papas nuevas? </p>
+<p xml:lang="arn" n="233">Chumten-meu nüminŋei une we  poñü?</p>
+<p xml:lang="spa" n="233"> ¿Cuánto por  recogida es primera nueva papa?</p>
+
+<p xml:lang="span" n="234">¿Han tenido muchas papas y muchos porotos el año pasado? </p>
+<p xml:lang="arn" n="234">Nieimən all·ün poñü, all·ün deŋüʎ rupachi t’ipantu-meu ama?</p>
+<p xml:lang="spa" n="234">¿Tuvisteis mucha papa, mucho poroto pasado  año  en acaso?</p>
+
+<p xml:lang="span" n="235">¿Puede comerse la carne de éste pájaro, o es mala?</p>  
+<p xml:lang="arn" n="235"> Kəpa-yími ilo tfeichi qüñüm? Kəmeleanchi?</p>
+<p xml:lang="spa" n="235">¿Quieres comer carne ese pájaro? Buena está acaso?</p>
+
+<p xml:lang="span" n="236">¿Qué pájaros grande hay por aquí? </p>
+<p xml:lang="arn" n="236">Chem fəcha qüñüm məlei tva-meu?</p>
+<p xml:lang="spa" n="236">¿Qué grande pájaro hay acá por?</p>
+
+<p xml:lang="span" n="237">¿Hay mucha neblina aquí?–¿En qué mes hay mas lluvia aquí? </p>
+<p xml:lang="arn" n="237">Fent·en t’ukur niei tfa-meu?-Chem küyen-meu doi mawəen· kei tva-meu?</p>
+<p xml:lang="spa" n="237">¿Mucha neblina  hay acá por? - Qué mes en mas lluvia es acá por?</p>
+
+<p xml:lang="span" n="238">¿Cuándo principian las nevazones fuertes? ¿Se seca este río en verano? </p>
+<p xml:lang="arn" n="238">Chumten-meu all·ün naqai piren?-Arkəkei kai tvachi leufü pəwiŋen?</p>
+<p xml:lang="spa" n="238"> ¿Cuánto en  mucha bajará nieve?-Se seca también este río primavera?</p>
+
+<p xml:lang="span" n="239">¿Conoce usted un portillo en la cordillera? ¿Arrean vacas por este camino? </p>
+<p xml:lang="arn" n="239">Kimnieimi rüppü mawida-meu?-Kechaŋekei kai waka tvachi rüppü-meu?</p>
+<p xml:lang="spa" n="239">¿Sabido tienes camino cerro por?- Arreada es también vaca este camino por?</p>
+
+<p xml:lang="span" n="240">Tengo mucho calor. Parémonos un poquito. Quiero bajarme. Ayúdame. </p>
+<p xml:lang="arn" n="240">Mənna arelan. Wit’ayin püchin. Kəpa-naqən. Keʎuen.</p> 
+<p xml:lang="spa" n="240"> Mucho no tengo calor. Paremos un poco. Quiero bajar. Ayúdame.</p>
+
+<p xml:lang="span" n="241">Allá hay una casa. A ver si tienen algo que comer.</p> 
+<p xml:lang="arn" n="241">Tiyeu məlei kiñe ruka. Pemefiyu nievui chean  iael.</p> 
+<p xml:lang="spa" n="241"> Allá hay una casa. Vamos a verla si tiene acaso para comer.</p>
+
+<p xml:lang="span" n="242">Buenos días, amigo. ¿Me permites bajarme aquí para descansar?</p> 
+<p xml:lang="arn" n="242">Mari mari, nei! Eluen permiso naqan; kansatuan tfa-meu? Naqŋe mai!</p>
+<p xml:lang="spa" n="242">¡Buenos días, amigo! Me das permiso bajaré; descansaré acá por? ¡Bájate pues!</p>
+
+<p xml:lang="span" n="243">Entre en mi casa, extranjero. Siéntese a quí al lado de la puerta.</p> 
+<p xml:lang="arn" n="243">Kompaŋe <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ruka-mu, wüt’an. Anüpaŋe tfa-mu fachi-ple wül·ŋin.</p>
+<p xml:lang="spa" n="243"> Entra  mi casa en, forastero. Ven a sentarte acá por esta hacia puerta.</p>
+
+<p xml:lang="span" n="244">¿Es tu mujer esta niña bonita?–No, es mi cuñada (hermana de la mujer) </p>
+<p xml:lang="arn" n="244">Tvachi kəme domo tami kure anchi?- Fei no; <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> kərün ta tvei.</p>
+<p xml:lang="spa" n="244">¿Esta buena mujer tu mujer acaso es?- Esta no; mi cuñada aquí esta.</p>
+
+<p xml:lang="span" n="245">¿Cuántos niños tienes?–Produce bastante tu campo, o cómo ganas tu vida? </p>
+<p xml:lang="arn" n="245">Chumten pəchi ke che nieimi? Kəme mapu nieimi? Chem-meu moŋekéimi?</p>
+<p xml:lang="spa" n="245"> ¿Cuántos chicos hombres tienes? Buena tierra  tienes? Qué con estás viviendo?</p>
+
+<p xml:lang="span" n="246">Yo y mi hijo segundo vamos a trabajar en la cocecha de un caballero chileno. </p>
+<p xml:lang="arn" n="246">Inché <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> inal v’otəm inchu kədaukeyu anke-ket’an, niei kiñe ülmen winka-mu.</p>
+<p xml:lang="spa" n="246"> Yo mi siguiente hijo nosotros dos trabajamos seca sementera tiene un rico chileno en donde.</p>
+
+<p xml:lang="span" n="247">Mi hijo mayor queda aquí para cosechar. </p>
+<p xml:lang="arn" n="247">Ñi unen v’otəm məlekei tva-mu kosechaalu.</p>
+<p xml:lang="spa" n="247">¡Mi primer hijo está aquí por para cosechar.</p>
+
+<p xml:lang="span" n="248">¿Cuál de éstas mujeres es la esposa del cacique?</p>
+<p xml:lang="arn" n="248">Chuchi domo kure tva-mu tvichi loŋko?</p>
+<p xml:lang="spa" n="248"> ¿Cual mujer esposa aquí por ese cacique?</p>
+
+<p xml:lang="span" n="249">¿Tiene usted adornos de plata? Yo los pagaré muy bién. </p>
+<p xml:lang="arn" n="249">Niyéimi plata am kai? Inche fen·t·epun· kəme kuʎiayu.</p>
+<p xml:lang="spa" n="249"> ¿Tienes  plata acaso también?  Yo tanto  bien te pagaré.</p>
+
+<p xml:lang="span" n="250">Soy muy pobre, señor. ¿Cuánto me pagará usted por este prendedor? </p>
+<p xml:lang="arn" n="250">Inche mətte t’ewa ŋen, nei! Chumte kuʎiaen tvachi tüppu-mu?</p>
+<p xml:lang="spa" n="250"> Yo muy perro soy, amigo! ¿Cuánto me pagarás este prendedor por?</p>
+
+<p xml:lang="span" n="251">Toma ésta carta y llévala al subdelegado. No lo olvides ni la pierdas.</p> 
+<p xml:lang="arn" n="251"> Tfa papil yeŋe soeleau-meu. ŋuyükilmi; naqəmlaaimi.</p> 
+<p xml:lang="spa" n="251">Este papel lleva subdelegndo a.  No olvides; no botarás.</p>
+
+<p xml:lang="span" n="252">Arregle la carga; me parece que se está cayendo. Se perdió un saco vacío. </p>
+<p xml:lang="arn" n="252">Kəme elŋe chechem; ut’ünaqməkelu t’okivin. Ñamei kiñe weʎin aneka.</p>
+<p xml:lang="spa" n="252"> Bien deja carga;  que se caerá  lo juzgo. Se perdió un vacío saco.</p>
+
+<p xml:lang="span" n="253">Quite la silla a mi caballo, y dele a beber.</p>
+<p xml:lang="arn" n="253">Entuchiʎalen <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kaweʎu; pətokolmeaimi.</p> 
+<p xml:lang="spa" n="253"> Desensíllame mi caballo; irás a dejarlo beber agua.</p>
+
+<note>Las frases que siguen, apuntadas también por el señor Chiappa, se han pedido según la versión interlineal de Estudio III.</note>
+
+<p xml:lang="arn" n="254">Chem piŋei tva?- Cheu məlei?- Cheu kəppai?</p>
+<p xml:lang="spa" n="254"> ¿Qué es dicho esto? - Dónde está? – (De) dónde viene?</p>
+
+<p xml:lang="arn" n="255">Kəppaimi ta tva? Ka mapu-meu kəppáimi? Chem mapu?</p>
+<p xml:lang="spa" n="255">Vienes acá? Otra tierra de vienes? Qué tierra?</p>
+
+<p xml:lang="arn" n="256">Kimlaeyu inche; inche pekelaeyu.  Felei mai.</p>
+<p xml:lang="spa">No te conozco yo; yo no te he visto. Eso es pues.</p>
+
+<p xml:lang="arn" n="257">Inche koñiŋen tva-mu. Inche kuiví kimkeveyu.</p>
+<p xml:lang="spa" n="257"> Yo  nací  acá por. Yo  antes lo he conocido. </p>
+
+<p xml:lang="arn" n="258">Inche  kimlaeyu; kuifí. pəchi ke   che ŋelu inchu kimuvuyu.</p>
+<p xml:lang="spa" n="258">Yo no te conozco; antes chiquillos siendo los dos nos conocíamos.</p>
+
+<p xml:lang="arn" n="259">Doi püchi kuivi kim-mapuduŋuan.</p> 
+<p xml:lang="spa" n="259">Mas poco tiempo sabré  tierra lengua.</p>
+
+<p xml:lang="arn" n="260">Tva-mu che kom kəmelekai.</p>
+<p xml:lang="spa" n="260">Acá por gente toda buena está.</p>
+
+<p xml:lang="arn" n="261">Inche allün duŋu piaeyu. Veimu kimaeyu  kai.</p>
+<p xml:lang="spa" n="261"> Yo mucha cosa te diré. Entonces te conoceré también.</p>
+
+<p xml:lang="arn" n="262">Uiya inche peéyu.- Anüchi tva-meu. - Anülen.</p>
+<p xml:lang="spa" n="262">Ayer yo te ví. -Quiero sentarme acá por. -Estoy sentado.</p>
+
+<p xml:lang="arn" n="263">Anüŋe!- Chem duŋu məlei?</p>
+<p xml:lang="spa" n="263">¡Siéntate! - ¿Qué  cosa hay?</p>
+
+<p xml:lang="arn" n="264">Chumten t’ipantúimi?</p>
+<p xml:lang="spa" n="264"> ¿Cuántos años (tienes) tú?</p>
+
+<p xml:lang="arn" n="265">Doi nien plata <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> wen·üi-mu. </p>
+<p xml:lang="spa" n="265">Mas tengo plata mi amigo de.</p>
+
+<p xml:lang="arn" n="266">Keʎuen yekunuen təvachi mamüʎ.</p>
+<p xml:lang="spa" n="266">Ayúdame llevar ayúdame este  palo.</p>
+
+<p xml:lang="arn" n="267">Iñei deumai tva? Eimi kam mi lamqen?</p>
+<p xml:lang="spa" n="267">¿Quién hizo esto? Tú o  tu hermana?</p>
+
+<p xml:lang="arn" n="268">Rumepelu leufú-meu inche ülyvodeŋi (?) pət’a-ple.</p> 
+<p xml:lang="spa" n="268"> Pasando río por  yo me mojé barriga hácia.</p>
+
+<p xml:lang="arn" n="269">Fen·t·epun· kədau-mu moŋelei che.</p> 
+<p xml:lang="spa" n="269"> Tanto trabajo con vive (la) gente.</p>
+
+<p xml:lang="arn" n="270">Kim-winkaduŋuimi?-Duŋulavin. Pəchi dunun mətten.</p>
+<p xml:lang="spa" n="270"> Sabes chileno lengua?-  No la hablo. Poco hablo solamente.</p>
+
+<p xml:lang="arn" n="271">Ñi maʎe doi kimi, duŋui.</p>
+<p xml:lang="spa" n="271">Mi tío  mas sabe, habla.</p>
+
+<p xml:lang="arn" n="272">Tfa doi kimniei tiyechi lemu.</p> 
+<p xml:lang="spa" n="272">Este mas sabido tiene ese bosque.</p>
+
+<p xml:lang="arn" n="273">Tvachi ruka wes’a ruka; kəmelai. Kəppale kərev t’anpelaai?</p>
+<p xml:lang="spa" n="273">Esta casa mala casa; buena no es. Si viene viento no caerá?</p>
+
+<p xml:lang="arn" n="274">Cheu t’avimi Peiro? Inaltu leuv’ü t’aufin.</p>
+<p xml:lang="spa" n="274">¿Dónde lo hallaste Pedro? A orilla río lo hallé.</p>
+
+<p xml:lang="arn" n="275">Məlepeyu mawida-meu is’t’okom pun·; mətte mauwənpei.</p>
+<p xml:lang="spa" n="275">Hemos estado (los dos) cerro en toda noche; mucho llovió.</p>
+
+<p xml:lang="arn" n="276">Tv’achi went’u nalpei winkəve yeŋən, laŋəmŋeiŋən allün.</p>
+<p xml:lang="spa" n="276">Estos hombres pelearon ladrones con ellos, muertos fueron muchos.  </p>
+
+<p xml:lang="arn" n="277">Kom wen·üiŋən, moʎilelu eŋən, ʎadkətuiŋən.</p>
+<p xml:lang="spa" n="277">Todos amigos ellos, estando borrachos ellos, se enojaron.</p>
+
+<p xml:lang="arn" n="278">L·ai, piŋen, l·ai mi pall·ú, piŋen; inche ŋupin·tulan.</p>
+<p xml:lang="spa" n="278">Murió, soy dicho, murió tu tía,  me dicen; yo no lo creo.</p>
+
+<p xml:lang="arn" n="279">Tv’a epu pəttulai; mətte vuinvuiŋu.</p> 
+<p xml:lang="spa" n="279">Estos dos no han bebido; mucho tienen sed.</p>
+
+<p xml:lang="arn" n="280">Pəchi kampu ʎükai n·al·aeteu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> chau.</p> 
+<p xml:lang="spa" n="280">Chico muchacho teme pelearle después su padre.</p>
+
+
+<note>NUEVAS FRASES</note>
+
+<p xml:lang="span" n="281">Aquí está la casa de mi padre.</p>
+<p xml:lang="arn" n="281"> Təva <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> məlen ruka <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> chao.</p>
+<p xml:lang="spa" n="281">Aquí su estar casa mi padre.</p>
+
+<p xml:lang="span" n="282">Aquí están los caballos de mi tío. </p>
+<p xml:lang="arn" n="282">Təva <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> məlen kaweʎu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> maʎe.</p>
+<p xml:lang="spa" n="282">Aquí su estar caballo mi tío.</p>
+
+<p xml:lang="span" n="283">Esta mujer tenía cinco hijos, dos niñas y tres muchachos.</p>
+<p xml:lang="arn" n="283">Təvachi domo kuivi kechu niekevui pəñeñ, epu domo, kəle went’u.</p>
+<p xml:lang="spa" n="283"> Esta  mujer antes cinco tenía siempre niños, dos mujer, tres hombre.</p>
+
+<p xml:lang="span" n="284">Este hombre tenía cinco hijos, dos niñas y tres muchachos. </p>
+<p xml:lang="arn" n="284">Təvachi went’u niekevui kechu pəñeñ, epu ñawe, kəla vottəem.</p>
+<p xml:lang="spa" n="284">Este  hombre tenía siempre cinco niños, dos hijas, tres hijos.</p>
+
+<p xml:lang="span" n="285">Pero dos muchachos murieron; se ahogaron cuando querían pasar el río en invierno.</p>
+<p xml:lang="arn" n="285">Feimeu epu vottəm lai, ürfi leuvu-meu, rumepelu puk·em.</p>
+<p xml:lang="spa" n="285">Entonces dos hijos murió, se ahogó río en,  pasando en invierno.</p>
+
+<p xml:lang="span" n="286">La corriente fue muy fuerte y se los llevó río abajo.</p> 
+<p xml:lang="arn" n="286">Ventepun wit’ui təveichi leufu; feimu yeŋei, nakəmeyu wit’un leufu.</p>
+<p xml:lang="spa" n="286"> Tanto  corrió ese  río, eso por llevado fue, los bajó corriente río.</p>
+
+<p xml:lang="span" n="287">Yo quería salvarlos, pero no podía. </p>
+<p xml:lang="arn" n="287">Inche kəpa-nentufuiñ eŋu, pepi-nentulaviñ eŋu.</p>
+<p xml:lang="spa" n="287"> Yo quería sacarlo  ellos, no pude sacarlo ellos.</p>
+
+<p xml:lang="span" n="288">Poco faltaba que yo también me ahogara. </p>
+<p xml:lang="arn" n="288">Pəchin-muevui <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ürfiael kai.</p>
+<p xml:lang="spa" n="288"> Poco  por era mi ahogar también.</p>
+
+<p xml:lang="span" n="289">Las casas del cacique son mucho mas bonitas que las del pobre.</p> 
+<p xml:lang="arn" n="289">Ruka loŋko d’oi kəmei ruka pu kona.</p>
+<p xml:lang="spa" n="289">Casa jefe mas buena es casa entre mocetón.</p>
+
+<p xml:lang="span" n="290">Las casas mas bonitas que he visto, son las de Valdivia. </p>
+<p xml:lang="arn" n="290">D’oi kəme ruka pemevin Valdivia. </p>
+<p xml:lang="spa" n="290">Mas buena casa fui a verla Valdivia.</p>
+
+<p xml:lang="span" n="291">Traigo aquí unos estribos para mi amigo. Si llegamos a tener una silla, podemos ensillar el caballo.</p> 
+<p xml:lang="arn" n="291">Kəpalelfin kiñe es’t’ipu <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> wen·üi; chiʎa niefule chiʎaafuyu kaweʎu.</p>
+<p xml:lang="spa" n="291">Venir Hágo selo un estribo mi amigo; silla si hubiera ensillaríamos caballo.</p>
+
+<p xml:lang="span" n="292">Mi amigo me ha prometido traerme una lanza; pero temo que no venga, por no haberla obtenido todavía. </p>
+<p xml:lang="arn" n="292">Ñi wen·üi kəpalelaen kiñe  fün-rüŋi. "Peli fún-rüŋi kəpalan" pineu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> wen·üi; ŋupiltulavin <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kəpalavel petu penoloam.</p>
+<p xml:lang="spa" n="292">Mi amigo me hará venir una lanza de colihue. "Si veo lanza haré venir" me dijo mi amigo; no le creí su hacer venir todavía no viendo.</p>
+
+<p xml:lang="span" n="293">Si quieres entrar en nuestra casa para servirnos te daremos una casa y la comida, y cincuenta centavos cadamdía de trabajo.</p>  
+<p xml:lang="arn" n="293">Pilmi konael inchiñ ruka-meu kəd’auelaen; eloayu kiñe ruka, iyael, meli real nielayu kiñe ke antə.</p>
+<p xml:lang="spa" n="293">Si dices entra nosotros casa en me harás trabajo; te daré una casa, comida, cuatro realeste haré tener uno siempre día.</p>
+
+<p xml:lang="span" n="294">Tu mujer puede venir a cuidar a mi guagüita (nene); mándame tu niña para que vaya al pueblo a comprarme pan y carne. </p>
+<p xml:lang="arn" n="294">Mi kure kəpaafui inarumepaaveneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pəchi che. Werkəlelen mi ñawe amoalu varia-meu ŋiʎalmeaneu kofke, ilo.</p>
+<p xml:lang="spa" n="294">Tu mujer vendría a cuidármelos vendrá mi chica gente. Mándame tu hija para ir ciudad a va comprarme pan, carne.</p>
+
+<p xml:lang="span" n="295">Aunque haya lluvia mañana, debes venir a mi casa para ver si hay algo que hacer para tí. </p> 
+<p xml:lang="arn" n="295"> Wüle rume mawunʎefule kəpaaimi mətten <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ruka-meu. Məleai pəchiken kədau.</p> 
+<p xml:lang="spa" n="295">Mañana cualquiera lluvia si hubiera vendrás solamente mi casa a. Estará un poco trabajo.</p>
+
+<p xml:lang="span" n="296">Mis dos hijos deben ir al río, pero decíamn que no podían pasar por el quilanto (matorral de quila) porque no podían encontrar sus ojotas. </p>
+<p xml:lang="arn" n="296">Ñi eppu vottəm amoafulu leufu-meu, "pepi-rumelayu təveichi kəla-meu" pieneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> eppu vottəm nienolu eŋu ojota.</p>
+<p xml:lang="spa" n="296">Mis dos  hijos  habiendo de ir río a, "no podemos pasar esa quilla por" me dijeron mis dos hijos no teniendo ellos dos ojota.</p>
+
+<p xml:lang="span" n="297">Sin zapatos es muy difícil pasar por éste monte, porque hay muchas espinas que lastiman los pies.</p>  
+<p xml:lang="arn" n="297">Nienolu zumel kəmelai rumeal təvachi lemu; ventepun püʎintuavui namun.</p>
+<p xml:lang="spa" n="297">No teniendo zapato bueno no es para pasar este  bosque; tanto espina (se lastimaría) pié.</p>
+
+<p xml:lang="span" n="298">Me pasó muy mal en el viaje. Llevaba cuatro caballos; cinco mulas con carga. </p>
+<p xml:lang="arn" n="298">Ventepun wedayauwən nampəlkael. Yefun meli kaweʎu, kechu mula cheçhem.</p>
+<p xml:lang="spa" n="298"> Tanto  mal anduve viaje.  Llevaba cuatro caballos, cinco mulas carga.</p>
+
+<p xml:lang="span" n="299">Una mula se cayó en una quebrada muy honda y se mató, la otra se ahogó pasando el río.</p> 
+<p xml:lang="arn" n="299">Kiñe mula ütüfkoni kiñe lil-meu; feimeu lai; kaŋelu ürfi rumepelu inche leufu-meu. </p>
+<p xml:lang="spa" n="299">Una mula caer entró una roca de; por eso murió; otro siendo se ahogó pasando yo río por</p>
+
+<p xml:lang="span" n="300">Un caballo tropezó en un árbol caído y se quebró una pierna (de adelante-de atrás). Teniamos que matarlo con un balazo y le sacamos el cuero.</p> 
+<p xml:lang="arn" n="300">Kiñe kaweʎu mut’urüi kiñe t’an maməʎ-mu, wat’oi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kiñe namun (lipaŋ). Feimeu t’alkatukunufiyu, nentut’ülke- fiyu.</p>
+<p xml:lang="spa" n="300"> Un caballo tropezó un caído árbol en, quebró su una pata (brazo). Por eso balazo le puese, quitar cuero le (hice) yo.</p>
+
+<p xml:lang="span" n="301">Uno de los animales, una yegua, se puso muy chúcara; una mañana cuando quería ensillarla med dio una patada en el brazo. </p>
+<p xml:lang="arn" n="301">Kiñe yewa fentepun lofoŋì. Kiñe pu liwen chiʎaavilu inche mankeeneu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> lipaŋ-mu.</p>
+<p xml:lang="spa" n="301"> Un yegua tanto lobo era. Una en mañana queriendo ensillarla yo me pateó mi brazo en.</p>
+
+<p xml:lang="span" n="302">Mucho me dolió el brazo durante varios días; no tenía fuerza; de manera queno podía trabajar con este brazo.</p> 
+<p xml:lang="arn" n="302">Ventepun kut’antui <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> lipaŋ allün antə; pepi-ne-wentuelan, feimeu pepi-kədauelan <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> lipaŋ-mu.</p>
+<p xml:lang="spa" n="302"> Tanto enfermó mi brazo muchos días; no pude más fuerza, por eso no pude trabajo mas hacer mi brazo con.</p>
+
+<p xml:lang="span" n="303">Uno de los mozos cayó con el caballo y se abrió la cabeza. Había caído en una piedra  puntiaguda. Le salió mucha sangre; y estaba sin conocimiento cuando lo levantamos.</p>
+<p xml:lang="arn" n="303">Kiñe <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kona ütünaqi kaweʎu-mu; feimeu uükai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> loŋko. Yuŋe kura-mu puwi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> loŋko, feimeu ventepun moʎvüi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> loŋko. Kimuelafiyiñ wüt’añ pramvilu inchiñ.</p>
+<p xml:lang="spa" n="303">Uno mi mozo caer bajó  caballo de; con eso abrió su cabeza. Puntiaguda piedra en llegó su cabeza, por eso tanto sangró su cabeza. Saber mas no le nosotros levantando arriba lo nosotros.</p>
+
+<p xml:lang="span" n="304">Un día, en un camino muy estrecho, nos encontramos con una banda de indios bravos que no querían dejarnos pasar. </p>
+<p xml:lang="arn" n="304">Kiñe antə t’aviiñ pəchi-rume rüppu-meu pu mapuche wedañmaŋelu. Pilai iñ rulmeaeteu.</p>
+<p xml:lang="spa" n="304"> Un día encontramos  angosto camino en entre tierra gente mala siendo. No dijeron nuestro dejar pasar ir nos ellos.</p>
+
+<p xml:lang="span" n="305">Su jefe era un chileno con barba negra.Tenía una cara muy salvaje este hombre.</p> 
+<p xml:lang="arn" n="305">Ñi loŋko eŋən wiŋka kurüpayüŋi; niei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> aŋe fentepun weda-aŋe-ŋei təveichi went’u.</p>
+<p xml:lang="spa" n="305">Su jefe con ellos chileno negra barba fue; tuvo su cara tanto mala cara fue ese hombre.</p>
+
+<p xml:lang="span" n="306">De un lado al otro en la frente le pasaba una cicatriz y le faltaba una oreja. He oído que un hombre semejante ha huido de la cárcel de Valdivia el año pasado.</p>  
+<p xml:lang="arn" n="306">Kat’ə-tol-ŋei, kiñe nielai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> pilun. Aʎkükefin kiñe went’u winkəfe t’ipai kuartel-meu ka t’ipantu.</p>
+<p xml:lang="spa" n="306">Cortada frente fue, una no tuvo su oreja. Lo he oído un hombre ladrón salió cuartel de otro año.</p>
+
+<p xml:lang="span" n="307">Lo habían puesto en prisión porque en una pendencia había muerto a dos hombres.</p> 
+<p xml:lang="arn" n="307">Təveichi went’u presuŋekei laŋəmlu epu went’u nalpelu.</p> 
+<p xml:lang="spa" n="307"> Ese hombre preso estuvo matando dos hombres peleando.</p>
+
+<p xml:lang="span" n="308">Teníamos mucho miedo a este hombre. Pero viendo que ellos eran muchos más que nosotros y estaban bien armados, tratábamos de hacernos amigos. </p>
+<p xml:lang="arn" n="308">Fentepun ʎükakefiyu təveichi went’u. Inchu-meu d’oi ñüua am, kəme t’alka nielu am, feimu "kəme wenúi" pifiyu.</p>
+<p xml:lang="spa" n="308"> Tanto lo temimos (los dos)  ese hombre. Nosotros dos de mas bellacos, buen rifle teniendo, por eso "buern amigo" le dijimos.</p>
+
+<p xml:lang="span" n="309">El negro nos pidió una mula buena con su carga, que era de harina tostada. </p>
+<p xml:lang="arn" n="309">Təveichi tapayu: "eluaen kiñe kəme mula cheçhem kəlen" pieneu. Təveichi chechem mürke.</p>
+<p xml:lang="spa" n="309"> Ese negro. "dadme una buena  mula carga estar" me dijo. Esa carga harina tostada.</p>
+
+<p xml:lang="span" n="310">Dijo que iba a pagármelo en el verano en Valdivia. Pero creo que nunca irá Valdivia a pagarme, porque lo tomarían preso cuando lo vieran.</p> 
+<p xml:lang="arn" n="310">Fei pi: kuʎituayu peuwüŋen Valdivia-meu. Inche ŋupintulavin puwnuavulu Valdivia am; puwle presuŋeavulu am.</p>
+<p xml:lang="spa" n="310">Esto dijo: le pagaré primavera Valdivia en. Yo no le creí, no habiendo de llegar Valdivia; si llega preso sería.</p>
+
+<p xml:lang="arn" n="311">Feimeu ayüvən amutulu təvichi wiŋkəfe, kiñe mula am məten am yetulu.</p>
+<p xml:lang="spa" n="311">Entonces me gustó caminando ese ladrón, una mula solamente llevando.</p>
+<p xml:lang="span" n="311">Al fin estábamos contento cuando se habían alejado esos ladrones sin llevarnos mas que esa mula.</p>
+
+<p xml:lang="arn" n="312">Is’t’okom nampəlka-meu kəmelkalan.</p> 
+<p xml:lang="spa" n="312"> Todito  viaje en no lo dejé bien.</p>
+<p xml:lang="span" n="312">Así ve usted que tuve toda clase de desgracias en mi viaje. </p>
+
+<p xml:lang="arn" n="313">Iñei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kawel təfei? Eimi anchi?</p>
+<p xml:lang="spa" n="313">¿Quién su caballo este?  Tu acaso es?</p>
+<p xml:lang="span">De quién es este caballo? Es el tuyo?</p>
+
+<p xml:lang="arn" n="314">Inche no; təfachi kaweʎu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> peñi; piiña mətten inche.</p>
+<p xml:lang="spa" n="314"> Yo no; este caballo mi hermano; freno  solo  yo.</p>
+<p xml:lang="span" n="314">No, señor; es el caballo de mi hermano; solo el freno que lleva es mío.</p>
+
+<p xml:lang="arn" n="315">Ñi peñi inche məleyu kiñe ruka-meu; tiyechi mawida-meu məlei ruka. Inche pərañmakelavin <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kaweʎu: <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> peñi kai konpakelai <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> mánchana-meu.</p>
+<p xml:lang="spa" n="315">Mi hermano yo estamos los dos una casa en; aquel cerro en esta casa. Yo no le estoy montando su caballo; mi hermano también no viene a entrar mi manzana en.</p>
+<p xml:lang="span" n="315">Mi hemano y yo vivimos en una misma casa, allá al pié del cerro; pero yo no uso sus caballos de él, y él no debe tomar frutas de mis manzanales.</p>
+
+<p xml:lang="arn" n="316">Feimeu məleyu ayukəleyu, kizu ke nieyu duɲu.</p>
+<p xml:lang="spa" n="316"> Por eso estamos nos estamos amando, solo siempre tenemos cosa.</p>
+<p xml:lang="span" n="316">Así vivimos muy contentos cada uno comn lo suyo.</p>
+
+<p xml:lang="arn" n="317">Təfei mi peñi wünen, inan anchi? </p>
+<p xml:lang="spa" n="317"> Ese tu hermano primero, siguiente acaso es?</p>
+<p xml:lang="span" n="317">Ese hermano, de quien hablas ¿es mayor que tú, o no?</p>
+
+<p xml:lang="arn" n="318">Felei, wünen ta tei. Inche nien kiñe peñi inan kai inche-meu. Fei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ruka <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> maʎe-meu.</p>
+<p xml:lang="spa" n="318">Así es, primero aquí este. Yo tengo un hermano siguiente también yo de. Este su casa mi tío en.</p>
+<p xml:lang="span" n="318">Sí señor; es mayor; pero tengo también un her,mano menor, que vive en la casa de mi tío.</p>
+
+<p xml:lang="arn" n="319">Fei təvichi pəchilu  epu t’ipantui eskuela-meu kimu chiʎkatun.</p>
+<p xml:lang="spa" n="319">Est ese chico siemdo dos años  escuela en sabe carta hacer.</p>
+<p xml:lang="span" n="319">Ese chico va a la escuela desde dos años, y ya sabe escribir y leer.</p>
+
+<p xml:lang="arn" n="320">Təveichi pəchi kampu mətte wedañmaŋei; muntuñmakeneu mi chimpiru; pikelai elutuaeteu.</p>
+<p xml:lang="spa" n="320"> Esos  chicos muchachos muy malos son; me lo han quitado tu sombrero; no dicen darlo (ellos).</p>
+<p xml:lang="span" n="320">Esos muchachos son muy malos; me han quitado mi sombrero y no quieren devolvérmelo.</p>
+
+<p xml:lang="arn" n="321">Chem duŋu-mu muntuñmakevimən chimpiru təvachi pəchi kampu? ŋəma-ŋəmaŋiʎelay an chi? <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ñuke wimaaeyu puwtule <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ruka-mu chimpiru ŋənole.</p>
+<p xml:lang="spa" n="321">¿Qué cosa por se lo habéis quitado  sombrero este chico muchacho Llorar llorar no está acaso es? su madre le azotará cuando llegue su casa a sombrero si no es.</p>
+<p xml:lang="span" n="321">¿Por qué han quitado ustedes el sombrero a este chiquillo? No ven que llora mucho porque su madre le va a pegar cuando vuelva sin sombrero?</p>
+
+<p xml:lang="arn" n="322">Re-ayeqalpeviiñ mai chi. Weda pieimu; feimeu muntuñmaviiñ chimpiru.</p>
+<p xml:lang="spa" n="322">De veras para reir lo hicimos pues es. Mal él nos (?) dijo; por eso se lo quitamos sombrero.</p>
+<p xml:lang="span" n="322">Era por broma no mas, señor. Pero, además, nos había insultado.</p>
+
+<p xml:lang="arn" n="323">Vei pieneu: "t’avoi mi chaʎa" pieneu; ŋupintulavin. Elkakunui pu pinu, eluaviel <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> mənna akule.</p> 
+<p xml:lang="spa" n="323">Esto me dijo: "Se quebró tu olla" me dijo; no lo creí. Escondida puso en paja, para darlo su primo hermano si llega.</p>
+<p xml:lang="span" n="323">Me dijo que se le había quebrado la olla, pero no era la verdad. La había escondido debajo la paja para darla a su primo hermano cuando viniera.</p>
+
+<p xml:lang="arn" n="324">Fiʎ weñeñmaeneu təvichi pəchi kampu. Wemən-nentuavin ka pekaʎaloam inche kiñe kona.</p>
+<p xml:lang="spa" n="324">Todo me va robando ese chico muchacho. De adentro (?) lo hecharé otro viendo otro después yo un mozo.</p>
+<p xml:lang="span" n="324">Ya me ha robado muchas cosas ese muchacho. Lo voy a echar afuera tan luego encuentre otro sirviente.</p>
+
+<p xml:lang="arn" n="325">Iñei deumai təva? Eimi anta elimi  kam mi lamŋen.</p>
+<p xml:lang="spa" n="325">¿Quién hizo esto? Tu acaso hiciste, o tu hermana.</p>
+<p xml:lang="span" n="325">¿Quién hizo esto? Lo hiciste tú o tu hermana? </p>
+
+<p xml:lang="arn" n="326">Məlepupeyu lemu-mu, kiñe pun, mauwənei. </p>
+<p xml:lang="spa" n="326">Llegamos a estar los dos bosque en, una noche, llovió.</p>
+<p xml:lang="span" n="326">Hemos estado en el monte toda la noche y hacía mucha lluvia.</p> 
+
+<p xml:lang="arn" n="327">Kintupevuyu  yu laku, wiya yu  penoviel.</p>
+<p xml:lang="spa" n="327">Buscábamos los dos nuestro abuelo, ayer nuestro no haberlo visto.</p>
+<p xml:lang="span" n="327">Buscábamos a mi abuelo, que había desaparecido ayer.</p>
+
+<p xml:lang="arn" n="328">Feimeu petuviyu  pupulul maməl anükonkəlelu; moʎilei, umauqlei.</p>
+<p xml:lang="spa" n="328">Entonces lo volvimos a ver hueco árbol sentar entrar estando; estuvo borracho, estuvo durmiendo.</p>
+<p xml:lang="span" n="328">Al fin lo encontramos sentado en un árbol hueco. Estaba borracho y dormía.</p>
+
+<p xml:lang="arn" n="329">Kimnolu <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> mawünpen t’okivin.</p>
+<p xml:lang="spa" n="329">No sabiendo su  llover lo juzgo.</p>
+<p xml:lang="span" n="329">Parece que no había sentido nada de la lluvia.</p>
+
+<p xml:lang="arn" n="330">Duamlafin kəd’auael lelfün-meu. Doi kəmei kat’ümameʎün lemu-meu, cheu kulantu-kemum.</p>
+<p xml:lang="spa" n="330">No lo quiero trabajar  llanura en. Mas bueno es cortar árboles bosque en, donde el estar quilanto.</p>
+<p xml:lang="span" n="330">No me gusta este trabajo en el campo. Mejor voy a cortar árboles en el monte donde hemos hecho la quema.</p>
+
+<p xml:lang="arn" n="331">Wülé amoaimu, weʎimtumeaimu rose.</p>
+<p xml:lang="spa" n="331">Mañana ireis los dos, a desocupar ireis los dos roce.</p>
+<p xml:lang="span" n="331">Mañana irán ustedes dos a arreglar (limpiar) el terreno para el roce (la roza).</p>
+
+<p xml:lang="arn" n="332">Təva-mu niealu  kəme kachiʎa t’okivün. Ventepun kəme mapu, məlei ko.</p>
+<p xml:lang="spa" n="332">Aca por habiendo de tener buen trigo lo juzgo. Tanto buena tierra, esta agua.</p>
+<p xml:lang="span" n="332">Creo que aquí tendremos buena cosecha. El terreno es bueno y no falta el agua.</p>
+
+<p xml:lang="arn" n="333">Arelkeʎeen toki; inche <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> toki wat’oi.</p>
+<p xml:lang="spa" n="333"> Préstame hacha; yo  mi hacha se quebró.</p>
+<p xml:lang="span" n="333">Préstame tu hacha; la mía está quebrada.</p>
+
+<p xml:lang="arn" n="334">Arelaeyu, welu yuŋum - kunulelaen; kura-meu puwül-puwülyelu t’okivin təveichi kampu, kat’üpele rou, vente femlaafui. </p>
+<p xml:lang="spa" n="334">Te prestaré, pero afilada poner harásmela; piedra en llegando llegando llevando lo juzgo ese muchacho; si corta rama, tanto así no (har)ía.</p>
+<p xml:lang="span" n="334">Te la voy a prestar, pero tienes que afilarla. Parece que el muchacho ha dado golpes en piedras con el filo en vez de cortar ramas. </p>
+
+<p xml:lang="arn" n="335">Mət’əmfichi <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> maʎe. Fei doi kim-wiŋka-duŋuí cheni-meu. Fei kuom feipiaemeu chemduŋu rume ramtuduŋukilŋe.</p>
+<p xml:lang="spa" n="335">Quiero llamarlo mi tío.  Éste mas sabe chileno lengua yo de. Ese todo eso te dirá que cosa cualquiera le preguntes.</p>
+<p xml:lang="span" n="335">Llamaré a mi tío. Él habla mucho mejor que yo el castellano. Podrá contestar a todas tus preguntas. </p>
+
+<p xml:lang="arn" n="336">Kimiñmalaeyu mi duŋun; mətte matuduŋukilŋe.</p> 
+<p xml:lang="spa" n="336">No te lo entiendo tu habla; muy ligero no hables.</p>
+<p xml:lang="span" n="336">No te comprendo. No hables tan ligero. </p>
+
+<p xml:lang="arn" n="337">Pu wayway t’avin epu pəchi che; kimeleneu rüppü <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> chau-meu.</p>
+<p xml:lang="spa" n="337">En quebrada lo encontré dos chica gente; me hicieron saber camino su padre a.</p>
+<p xml:lang="span" n="337">En la quebrada encontré dos niños que me mostraron el camino a la casa de sus padres.</p>
+
+<p xml:lang="arn" n="338">Feyikachi t’ipaaimi, kəpa-puwəlmi ruka-mu <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kuku-meu petu konon antü.</p>
+<p xml:lang="spa" n="338"> Luego  saldrás, si quieres llegar casa en mi abuela en todavía no entrar sol.</p>
+<p xml:lang="span" n="338">Tienes que salir ahora si quieres llegar a la casa de mi abuela antes de entrar el sol.</p> 
+
+<p xml:lang="arn" n="339">Fei ürke; amoan mai; kəpa-kompañlaen am? Amuliu, doi ayukəlen amuavuyu.</p> 
+<p xml:lang="spa" n="339">Eso está bien; iré pues; ¿quieres acompañarme? Si vamos los dos, mas gusto ser iríamos los dos.</p>
+<p xml:lang="span" n="339">Bueno; me voy entonces. ¿No quieres acompañarme? Haríamos el camino juntos; mas divertido sería.</p>
+
+<p xml:lang="arn" n="340">Mankadaali mi kaweʎu-meu, feimeu amoavun; <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> kaweʎu yei <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="chaw" pos="N" corresp="father/sonny"><m baseForm="chaw" type="root" corresp="father/sonny">chao</m></w> nome leuvü ŋiyon-mu.</p> 
+<p xml:lang="spa" n="340">Si voy en ancas tu caballo en,  entonces iría; mi caballo llevo mi padre pasar ir río potrero a.</p>
+<p xml:lang="span" n="340">Si puedo ir en ancas de tu caballo, está bién; porqure mi caballo se lo llevó mi padre al potrero al otro lado del río.</p>
+
+<p xml:lang="arn" n="341">Mətte allünmalaavuyu  yemefiliu,  ʎazumeavuyu.</p>
+<p xml:lang="spa" n="341"> Muy nos demoraríamos los dos si vamos a llevarlo, iríamos a lacear.</p>
+<p xml:lang="span" n="341">Nos demoraría mucho si quisiéramos buscar y lacearlo ahora.</p>
+
+<p xml:lang="arn" n="342">Konle rume antə pulíu kuku <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> ruka-meu, chumlaayu, məleloam apon küyen.</p> 
+<p xml:lang="spa" n="342">Cuando entre cualquiera sol si estamos lejos abuela su casa de, no nos importará, estando llena luna.</p>
+<p xml:lang="span" n="342">No importa si entra el sol antes de llegar a la casa de mi abuela, porque tenemos luna llena.</p>
+
+<p xml:lang="arn" n="343">Yeyayu lona mürke, ka pəchin aŋim, kiñe limeta pulku.</p>
+<p xml:lang="spa" n="343">Llevaremos lona harina tostada, otro poco charqui una botella licor.</p>
+<p xml:lang="span" n="343">Llevaremos un saco con harina tostada, un poco de charqui y una botella de aguardiente.</p>  
+
+<p xml:lang="arn" n="344">Kiñe-ke-meu niekelai yaqel; ka pu kem kiñe ke antü ikelain.</p>
+<p xml:lang="spa" n="344">Uno siempre por no tienen comida; otro en invierno uno siempre día no comieron.</p>
+<p xml:lang="span" n="344">Porque a veces tienen poco que comer allá mi abuela y su nieto. El otro invierno pasaban varias veces un día entero casi sin comer.</p>
+
+<p xml:lang="arn" n="345">Lichi təlei mətten;ka pəchin manchana; mürke aŋim afui.</p>
+<p xml:lang="spa" n="345">Leche hubo solamente; otro poco manzana; harina tostada charqui se acababa.</p>
+<p xml:lang="span" n="345">Leche no mas tenían de una vaca y unas pocas manzanas. La harina y el charqui se les habían concluido.</p>
+
+      </body>
+   </text>
+</TEI>

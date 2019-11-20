@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Estudios Araucanos: materiales para el estudio de la lengua, la literatura, i las costumbres de los indios mapuche o araucanos : diálogos en cuatro dialectos, cuentos populares, narraciones históricas i descriptivas i cartas de los indios en la lengua mapuche<lb/>II Diálogos araucanos en dialecto huilliche</title>
+                <author>Rodolfo Lenz</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>1895-1898 (elicited 1894)</date>
+                    <name>Santiago de Chile, Imprenta Cervantes </name>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Anales de la Universidad de Chile</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Tomo XCVII</p>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Ethnographic texts</ab>
+                <ab>DIALECT: Huilliche</ab>
+                <ab>INFORMANT: Domingo Quintuprai</ab>
+                <ab>TRANSCRIBER: Sigifredo de Frauenhäusl</ab>
+                <ab>LOCATION: Osorno (place of birth/residence of informant)</ab>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Corpus of Historical Mapudungun </p>
+            </projectDesc>
+            <samplingDecl>
+                <p>TEXT OCR AND CORRETIONS: Belén Villena and Team </p>
+                <p>https://benmolineaux.github.io/bookshelf/</p>
+            </samplingDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change>
+                    <p>ADDITIONAL FORMATTING: Benjamin Molineaux</p>
+                    <date/>
+                </change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head>II Diálogos araucanos en dialecto huilliche</head>
+            <p xml:lang="arn" n="1"> <w xml:lang="arn" lemma="tüfamew" pos="AV" corresp="here"><m baseForm="tüfamew" type="root" corresp="here">Təfámu</m></w> <w xml:lang="arn" lemma="petu" pos="AV" corresp="yet/still"><m baseForm="petu" type="particle" corresp="yet/still">pétu</m></w> <w xml:lang="arn" lemma="mütrümün" pos="V" corresp="call"><m baseForm="mütrüm" type="root" corresp="call">métəm</m><m baseForm="nge" type="pass">ŋé</m><m baseForm="imi" type="ind2s">imi</m></w>. </p>
+                <p xml:lang="spa" n="1"> Aquí aún llamado eres. </p>
+
+            <p xml:lang="arn" n="2"> <w xml:lang="arn" lemma="küpan" pos="V" corresp="come"><m baseForm="küpa" type="root" corresp="come">Kəpá</m><m baseForm="nge" type="imp2s">ŋe</m></w> <w xml:lang="arn" lemma="tüfamew" pos="AV" corresp="here"><m baseForm="tüfamew" type="root" corresp="here">təfámu</m></w>; <w xml:lang="arn" lemma="konün" pos="V" corresp="enter"><m baseForm="kon" type="root" corresp="enter">kon</m><m baseForm="pa" type="cis">pa</m><m baseForm="nge" type="imp2s">ŋé</m></w> <w xml:lang="arn" lemma="ruka" pos="N" corresp="house"><m baseForm="ruka" type="root" corresp="house">s'uká</m></w>-<w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">mo</m></w>. </p>
+                <p xml:lang="spa" n="2"> Ven acá; entra en (la) casa. </p>
+
+            <p xml:lang="arn" n="3"> <w xml:lang="arn" lemma="wekun" pos="AV" corresp="outside"><m baseForm="wekun" type="root" corresp="outside">Wekun</m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> <w xml:lang="arn" lemma="mülen" pos="V" corresp="be"><m baseForm="müle" type="root" corresp="be">məl'</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="wentru" pos="N" corresp="man"><m baseForm="wentru" type="root" corresp="man">went’u</m></w> (<w xml:lang="arn" lemma="mal'en" pos="N" corresp="woman"><m baseForm="mal'en" type="root" corresp="woman">mal'qén</m></w>, <w xml:lang="arn" lemma="witran" pos="N" corresp="travler"><m baseForm="witra"
+                type="root" corresp="travel">wüt'an</m></w>) </p>
+                <p xml:lang="spa" n="3"> Afuera uno está hombre (mujer, forastero). </p>
+
+            <p xml:lang="arn" n="4"> <w xml:lang="arn" lemma="pen" pos="V" corresp="see"><m baseForm="pe" type="room" corresp="see">Pé</m><m baseForm="me" type="and">me</m><m baseForm="fi" type="3dir">fí</m><m baseForm="nge" type="imp2s">ŋe</m></w>; <w xml:lang="arn" lemma="düngun" pos="V" corresp="speak/think"><m baseForm="düngu" type="root" corresp="thing/news/word/thought">züŋu</m><m baseForm="me" type="and">me</m><m baseForm="fi" type="3dir">fí</m><m baseForm="nge" type="imp2s">ŋe</m></w> <w xml:lang="arn" lemma="witran" pos="N" corresp="travler"><m baseForm="witra"
+                type="root" corresp="travel">wüt'an</m></w>; <w xml:lang="arn" lemma="wekun" pos="AV" corresp="outside"><m baseForm="wekun" type="root" corresp="outside">wekun</m></w> <w xml:lang="arn" lemma="mülen" pos="V" corresp="be"><m baseForm="müle" type="root" corresp="be">məl'e</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> <w xml:lang="arn" lemma="witran" pos="N" corresp="travler"><m baseForm="witra" type="root" corresp="travel">wüt'an</m></w>; <w xml:lang="arn" lemma="petu" pos="AV" corresp="yet/still"><m baseForm="petu" type="particle" corresp="yet/still">petu</m></w> <w xml:lang="arn" lemma="mütrümün" pos="V" corresp="call"><m baseForm="mütrüm" type="root" corresp="call">mət'um</m><m baseForm="eymew" type="ind3-2s">eimo</m></w>.</p>
+                <p xml:lang="spa" n="4"> Ve a verlo; ve a hablar al forastero (viajero); afuera está el viajero; todavía él te llama.</p>
+
+                <p xml:lang="arn" n="5">¿Chen zuam ŋepai?</p>
+                <p xml:lang="spa" n="5"> ¿Qué asunto viene a ser? </p>
+
+                <p xml:lang="arn" n="6">Kiñe kawaʎeru ayuéimu mi peateu.</p>
+                <p xml:lang="spa" n="6"> Un caballero él te quiere (para) verte él. </p>
+
+                <p xml:lang="arn" n="7">Fei pevúi ta pu-ent'u, nut'amkavúi, kímavúi ñi chén zuamo ni miauwen kimavúi. </p>
+                <p xml:lang="spa" n="7">Así había de ver este hombre, había de noticiar, sabría su por qué asunto andar sabría.</p>
+
+                <p xml:lang="arn" n="8">Amóŋe wékun, ieméfiŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> wut'an.</p>
+                <p xml:lang="spa" n="8"> Anda afuera, ve a traer al viajero.</p>
+
+                <p xml:lang="arn" n="9">Konpápe təfáchi pu s'uka. </p>
+                <p xml:lang="spa" n="9">Que venga a entrar en esta casa. </p>
+
+                <p xml:lang="arn" n="10">Fei piafími, munlai amoam pí <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> went'u. </p>
+                <p xml:lang="spa" n="10">Así le dirás, luego andaré dijo el hombre. </p>
+
+                <p xml:lang="arn" n="11">Mishkái, ŋiʎán; ¡mishkái, chau! ¿kəmé muŋéimi mai? </p>
+                <p xml:lang="spa" n="11">Buenos días, amigo; ¡buenos días, compañero! ¿bien vives pues?</p>
+
+                <p xml:lang="arn" n="12">Kəmé múŋen kâ; kǘme móŋen kâ. </p>
+                <p xml:lang="spa" n="12"> Bien vivo; bien vivo. </p>
+
+                <p xml:lang="arn" n="13">¿Chén zuŋu nieláimi? </p>
+                <p xml:lang="spa" n="13">¿Qué cosa no tienes? </p>
+
+                <p xml:lang="arn" n="14">Chén zuŋu mai nielán. Kiñe kəme zuamo ta monén. Kəmekakel'imi, kəme kas'ki tami məlen.</p>
+                <p xml:lang="spa" n="14">Qué cosa pues no tengo. En una buena condición aquí vivo. Si también estás bien, buena está tu ser (= vida).</p>
+
+                <p xml:lang="arn" n="15">Məlei pu füt'a, t'emche, niéi ñi pu peñén. Kiñe kǘme zuámo moŋéi, məlenólmo wésha zúŋu. </p>
+                <p xml:lang="spa" n="15">Están (bien) los viejos, viejas, tienen sus hijos. En una buena condición viven, no habiendo mala cosa. </p>
+
+                <p xml:lang="arn" n="16">Winka məléi, pu t'okin məléi; nielai mai chenzuŋu </p>
+                <p xml:lang="spa" n="16">Españoles están (bien), los jueces están; no tienen pues novedad. </p>
+
+                <p xml:lang="arn" n="17">¿Chén zuamími? </p>
+                <p xml:lang="spa" n="17">¿Qué asunto tienes? </p>
+
+                <p xml:lang="arn" n="18">Kimpayéimi mi chun kul'enchi, mi kǘme zuamo <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> mi məlén. </p>
+                <p xml:lang="spa" n="18">Yo te vengo a saber tú cómo estar, tú en buena condición estar.</p>
+
+                <p xml:lang="arn" n="19">Kəmekechi mai məlén. ¡Anǘpaŋé! </p>
+                <p xml:lang="spa" n="19"> Bien pues estoy. ¡Ven a sentarte! </p>
+
+                <p xml:lang="arn" n="20">¿Cheu mapu mai kəpaimi eimi? </p>
+                <p xml:lang="spa" n="20">¿De dónde (tierra) pues vienes tú? </p>
+
+                <p xml:lang="arn" n="21">Inche mai kəpán ñi mápu-mo.</p>
+                <p xml:lang="spa" n="21"> Yo pues vengo de mi tierra (o fundo).</p>
+
+                <p xml:lang="arn" n="22">¿Cheu məl'éi(mi) mi mápu? ¿All'ǘ pu məléimi? </p>
+                <p xml:lang="spa" n="22">¿Dónde está(s) tu fundo? ¿lejos estás? </p>
+
+                <p xml:lang="arn" n="23">Maziáo ká mapu nó </p>
+                <p xml:lang="spa" n="23">(En) muy diversa tierra no.</p>
+
+                <p xml:lang="arn" n="24">¿Tuntém-mo t'ipaimi mi mápu-mo? </p>
+                <p xml:lang="spa" n="24"> ¿De cuánto saliste de tu fundo?</p>
+
+                <p xml:lang="arn" n="25">Kulái mai t'ipan ñi s'uká-mo; kulai mai tuwǘn akun famu. </p>
+                <p xml:lang="spa" n="25">Endenantes salí de mi casa; endenantes pues vine llegué acá.</p>
+
+                <p xml:lang="arn" n="26">Kuifí mai peueláyu; t'uyún mi pefiel-mo </p>
+                <p xml:lang="spa" n="26">Hace mucho no nos vimos; me alegro de verte. </p>
+
+                <p xml:lang="arn" n="27">Ka mapu miáumi eimi, chai no peuwelayu. Kenzave ka mapu miau-paí, pifun, iyu pewuve-nolmo, fei pifun.</p>
+                <p xml:lang="spa" n="27">(En)otra tierra anduviste tú, ahora no no nos hemos visto. Quién sabe (a) otra tierra vino a andar, decía, por no vernos los</p>
+                <p xml:lang="spa">dos, así decía.</p>
+
+                <p xml:lang="arn" n="28">Nemén pu kas'a. Inche miaumen ñi maʎé-mo. Pemefín. Kəmeles'ki.</p>
+                <p xml:lang="spa" n="28">Fui a estar en la ciudad. Yo fuí a andar donde mi tío. Fui a verlo. Está bien.</p>
+
+                <p xml:lang="arn" n="29">¿Cheu mapu moŋéi mi maʎe? </p>
+                <p xml:lang="spa" n="29">¿En dónde (tierra) vive tu tío? </p>
+
+                <p xml:lang="arn" n="30">Inal'tu l'eufu moŋí ñi maʎé.</p>
+                <p xml:lang="spa">A orilla del río vive mi tío.</p>
+
+                <p xml:lang="arn" n="31">Təfámu kayu léwa, fenten mapu məléi ñi maʎén. </p>
+                <p xml:lang="spa" n="31">De aquí seis leguas, tanta tierra vive mi tío. </p>
+
+                <p xml:lang="arn" n="32">Kiñe s'aŋiántɐi fachi s'üpü. </p>
+                <p xml:lang="spa" n="32"> Un medio día es este camino. </p>
+
+                <p xml:lang="arn" n="33">Munauen t'ipaáyen, pouáyen s'aŋiántə </p>
+                <p xml:lang="spa" n="33">Por la mañana saldremos, llegaremos medio día. </p>
+
+                <p xml:lang="arn" n="33a">¿Chen ket'an məlei təváchi mapu-mo? </p>
+                <p xml:lang="spa">¿Qué cultivo está en esa tierra? </p>
+
+                <p xml:lang="arn" n="34">Feimu kachiʎáwe məlei; təkuŋelmu fei <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> mapu-mu fiʎ ipaye məl'ei: </p>
+                <p xml:lang="spa" n="34"> Allí trigo está; del sembrarlo así en el fundo todo para comer está:</p>
+
+                <p xml:lang="arn" n="35">Mel'ei kaupuǘn; məl'ei al'fiza; məl'ei wɐqá; áwas' məl'éi; məl'éi póñü; məl'éi külúi; məl'éi záwe; məl'éi l'inu.</p>
+                <p xml:lang="spa" n="35"> Está cebada; está arveja; está maíz; habas están; están papas; están porotos; está quínoa; está linaza. </p>
+
+                <p xml:lang="arn" n="36">¿Mǘfi maŋzuniéi təfi mi maʎe pu kós'al? </p>
+                <p xml:lang="spa" n="36">¿Cuántos bueyes tiene ese tu tío en el corral? </p>
+
+                <p xml:lang="arn" n="37">Niei waka ñi il'itzi-payə́m. </p>
+                <p xml:lang="spa" n="37">Tiene vacas para comer leche. </p>
+
+                <p xml:lang="arn" n="38">Kíshu ñi pu kos'al pichin niei ñi il'itzi-payem; kíshu ñi pot'ero-mo niei all'ɐn kuʎín təfichi ülmén. </p>
+                <p xml:lang="spa" n="38"> Solo en su corral poco tiene para comer leche; solo en su potrero tiene mucho ganado ese rico. </p>
+
+                <p xml:lang="arn" n="39">¿Tunten kuʎiniei? </p>
+                <p xml:lang="spa" n="39">¿Cuánto ganado tiene? </p>
+
+                <p xml:lang="arn" n="40">Wiya s'akifiyen fachi kuʎín; kus'e ke waka epu-mas'i yom kechu; kiñe mas'i məl'éi s'éwakiʎa; pus'a toro epu ke t'ipántu.</p>
+                <p xml:lang="spa" n="40"> Ayer lo contamos este ganado; viejas vacas dos (veces) diez más cinco; un diez están vaquillas; ocho toros de dos años.</p>
+
+                <p xml:lang="arn" n="41">¿Mǘfi ántə məl'eimi éimi?</p>
+                <p xml:lang="spa" n="41">¿Cuántos días estuviste tú? </p>
+
+                <p xml:lang="arn" n="42">Épu más'i ántə məlemén.</p>
+                <p xml:lang="spa">Dos (veces) diez días fui a estar.</p>
+
+                <p xml:lang="arn" n="43">¿Chuməl akutúimi?</p>
+                <p xml:lang="spa">¿Cuándo llegaste?</p>
+
+                <p xml:lang="arn" n="44">Epuemu akutun. </p>
+                <p xml:lang="spa" n="44">Hace dos (días) llegué (es decir "anteayer"). </p>
+
+                <p xml:lang="arn" n="45">¿Eimi kishu kəpaimi, shiwénimi kəpaimi?</p>
+                <p xml:lang="spa" n="45">¿Tú solo viniste, (o) siendo compañero viniste? </p>
+
+
+                <p xml:lang="arn" n="46">Inche ni maʎéyu kəpatuyu; ka kiñe kona eyen kəpáyen; fei mai kəpaltui təvichi yewɐ´n. </p>
+                <p xml:lang="spa" n="46"> Yo (y) mi tío los dos vinimos; otro un mocetón nosotros (tres) vinimos; así pues él hizo venir esta carga (él acarreó los animales de carga).</p>
+
+                <p xml:lang="arn" n="47">Ñochike kəpayen.–Maziao matuke kəpayen. Maziao us'kuyen , at'úyen. </p>
+                <p xml:lang="spa" n="47">Despacio vinimos.– Muy apurados vinimos. Mucho sudamos, nos cansamos.</p>
+
+                <p xml:lang="arn" n="48">Weche, ¿inei piŋeimi? </p>
+                <p xml:lang="spa" n="48"> Joven, ¿quién eres llamado? (= cómo te llamas).</p>
+
+                <p xml:lang="arn" n="49">Domíŋgo piŋen; fei mai ñi úü yo inche. </p>
+                <p xml:lang="spa" n="49"> Domingo soy llamado; así pues (es) mi nombre yo. </p>
+
+                <p xml:lang="arn" n="50">¿Mǘfi t'ipantu nieimi eimi? </p>
+                <p xml:lang="spa" n="50">¿Cuántos años tienes tú? </p>
+
+                <p xml:lang="arn" n="51">Maz'i kiñe t'ipántu nien. </p>
+                <p xml:lang="spa" n="51">Diez (más) un año tengo. </p>
+
+                <p xml:lang="arn" n="52">¿Cheu mapu məleimi? </p>
+                <p xml:lang="spa" n="52">¿En dónde vives? </p>
+
+                <p xml:lang="arn" n="53">Ni chao-mu məlen. </p>
+                <p xml:lang="spa" n="53">Donde mi padre vivo (= en casa de). </p>
+
+                <p xml:lang="arn" n="54">¿Ini piŋei mi chao?; ¿nieimi ñuke? ¿ñieimi pu peñi eimi? </p>
+                <p xml:lang="spa" n="54">¿Cómo se llama tu padre? ¿tienes madre? ¿tienes hermanos tú? </p>
+
+                <p xml:lang="arn" n="55">Nien kiñe l'amqen, ka kiñe peñi; inche ni lamqen zoi t'emŋelu, yunen-ŋéi inche-mu. </p>
+                <p xml:lang="spa" n="55">Tengo una hermana, otro un hermano; mi hermana más vieja siendo, mayor es que yo. </p>
+
+                <p xml:lang="arn" n="56">¿Ini eŋu məl'ei? </p>
+                <p xml:lang="spa" n="56">¿Quién con (vosotros) vive? </p>
+
+                <p xml:lang="arn" n="57">El'opɐfin pu s'uka, petu kuizai s'uka, epu t'emche ka kiñe weche.</p>
+                <p xml:lang="spa" n="57"> Dejé en casa, aún cuida (la) casa, dos viejas un joven.</p>
+
+                <p xml:lang="arn" n="58">Inche ni l'amqen ñi went'u; inche ñi ʎ'áʎ'a; inche ñi chuchu.</p>
+                <p xml:lang="spa" n="58"> De mi hermana el hombre; mi abuela; mi abuela.</p>
+
+                <p xml:lang="arn" n="59">¿T'unten t'ipantu niei <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> t'emche? </p>
+                <p xml:lang="spa" n="59">¿Cuántos años tiene la vieja? </p>
+
+                <p xml:lang="arn" n="60">Inche kimlafin tunten t'ipantu <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> ñi nien; maziao t'emche. </p>
+                <p xml:lang="spa" n="60"> Yo no lo sé cuántos años tiene; muy vieja (es). </p>
+
+                <p xml:lang="arn" n="61">¿Chen-mu petu waʎ'úi fachi peñen? </p>
+                <p xml:lang="spa" n="61"> ¿Por qué aún llora este niño? </p>
+
+                <p xml:lang="arn" n="62">Yom waʎ'ülaimi. Newentu zuŋúŋé inche ni kimam; all'ü wekechi zuŋuŋe. </p>
+                <p xml:lang="spa" n="62"> Más no lloras. Con fuerza habla para yo saberlo; mucho fuertemente habla.</p>
+
+                <p xml:lang="arn" n="63">L'ai ñi chao, femu mai ŋeman; ñi ñuke kut'ankəl'ei; kenzave ñi moŋeachi.</p>
+                <p xml:lang="spa" n="63">Murió mi padre, de eso pues lloro; mi madre está enferma; quién sabe si vivirá.</p>
+
+                <p xml:lang="arn" n="64">¿Chen kut'anie mi ñuke? </p>
+                <p xml:lang="spa" n="64"> ¿Qué enfermedad tiene tu madre? </p>
+
+                <p xml:lang="arn" n="65">Inche kimlafin chem kut'ani nien; el'uŋefúi l'awen; moŋelai.</p>
+                <p xml:lang="spa" n="65"> Yo no lo sé qué enfermedad tiene; le fue dado remedio; no vivió (= no se alivió).</p>
+
+                <p xml:lang="arn" n="66">L'oŋko kut'ani; feichi kut'an moŋelei. </p>
+                <p xml:lang="spa" n="66"> Cabeza (está) enferma; esta enfermedad está viviendo. </p>
+
+                <p xml:lang="arn" n="67">Inche kai l'ekaken ñi tuyafiechi kut'an. </p>
+                <p xml:lang="spa" n="67"> Yo también temo que me ataque la enfermedad.</p>
+
+                <p xml:lang="arn" n="68">Inche ayülafun ñi l'aya ñi ñuke. </p>
+                <p xml:lang="spa" n="68"> Yo no quería que morirá mi madre. </p>
+
+                <p xml:lang="arn" n="69">¿Mɐ´fi ántə kət'ankəl'í? </p>
+                <p xml:lang="spa" n="69">¿Cuántos días está enferma? </p>
+
+                <p xml:lang="arn" n="70">Kechu ántə məlei kut'an. Wüt'alai s'ume ni moŋenoyachi; wel'u el'unieŋefui l'awen.</p>
+                <p xml:lang="spa" n="70">Cinco días está enferma. No se levanta nunca si no recobra la salud; pero estaban dándole remedio. </p>
+
+                <p xml:lang="arn" n="71">Wes'kɐ´n inche <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> l'awenŋélu-mo. Məl'el'kelai <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> machi; femu akulai. </p>
+                <p xml:lang="spa" n="71"> Mensajero yo donde el médico. No estuvo el curandero; por eso no llegó. </p>
+
+                <p xml:lang="arn" n="72">Maziao all'ü pu məl'elai, pichi pu məl'ei. </p>
+                <p xml:lang="spa" n="72"> Muy lejos no vive, cerquita vive. </p>
+
+                <p xml:lang="arn" n="73">Eimi tutieimi chiʎ'katún; feimu kəmé went'uŋam </p>
+                <p xml:lang="spa" n="73"> Tú aprenderás a escribir; entonces buen hombre para ser. </p>
+                <p xml:lang="span" n="73">Tienes que aprender a leer y escribir.</p>
+
+                <p xml:lang="arn" n="74">Maziao ayɐfún ñi kimiachil'katun.</p>
+                <p xml:lang="spa" n="74"> Mucho quería saber escribir. </p>
+                <p xml:lang="span" n="74">Con mucho gusto quisiera aprenderlo, pero ¿quién me enseñará?</p>
+
+                <p xml:lang="arn" n="75">¿Iní peful'i ñi kimel'el'iateu? Kimafun chil'katun, kəme went'uŋafún. </p>
+                <p xml:lang="spa" n="75">¿Quién viera que me hiciera saber? Supiera escribir, buen hombre sería.</p>
+                <p xml:lang="span" n="75">Con mucho gusto quisiera aprenderlo, pero ¿quién me enseñará?</p>
+
+                <p xml:lang="arn" n="76">Inche el'uiáimi kiñe ezkrivanu; maziao tichi went'u kəme ezkrivanu; fei kimel'el'iaimu.</p>
+                <p xml:lang="spa" n="76"> Yo te daré un escribano; mucho (es) ese hombre buen escribano; así él te hará saber.</p>
+                <p xml:lang="span" n="76">Te daré un profesor que te va a enseñar.</p>
+
+                <p xml:lang="arn" n="77">Fiʎ ántə akuáimi, fal'talaimi; fiʎ ántə akulmi kəmí. Tutel'mi chiʎ'katun, akuaimi penel'el'ian inche ñi kimam; entonze eimi züŋul'el'ian <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> chil'ka konezu inche ñi kimam.</p>
+                <p xml:lang="spa" n="77">Todos (los) días llegarás, no faltarás; todos los días si vienes bueno está. Si aprendes a escribir, llegarás me mostrarás para que yo sepa; entonces tú me leerás la carta con eso para que yo sepa.</p>
+                <p xml:lang="span" n="77">Todos los días vendrás y me mostrarás lo que has escrito y después me leerás lo que has escrito.</p>
+
+                <p xml:lang="arn" n="78">Eimi ñi fəla, pat'on. Eimi kimel'el'en inche ñi femia, inaia, fachi chil'katuyá. Aulá mai kimə́n chil'katun. Maziao t'uyun tutelmu chil'katun, aula mai niel ŋé peafim chil'ka.</p>
+                <p xml:lang="spa" n="78">Por amor de ti, patrón. Tú me hiciste saber (para que) yo hiciera así, siguiera, esto escribiera. Ahora pues sé escribir. Mucho me alegro del acertar a escribir, ahora tener ojos para ver cartas</p>
+                <p xml:lang="span" n="78">Dios te lo pague, patrón. Vendré todos los días y haré lo que dices.</p>
+
+
+                <p xml:lang="arn" n="79">lnche ayɐ´n as'etu kiñe s'uka; inche kai kuʎ'iafín <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> ŋen s'uka. </p>
+                <p xml:lang="spa" n="79"> Yo quiero arrendar una casa; yo también pagaré al dueño de casa.</p>
+                <p xml:lang="span" n="79">Quisiera arrendar una casa.</p>
+
+                <p xml:lang="arn" n="80">Eifachi s'uka t'analepefúi, inche ayɐfún nie as'entafún fachi s'uka.</p>
+                <p xml:lang="spa" n="80">(Si) esta casa estaba desocupada, yo quería tener arrendada esta casa.</p>
+                <p xml:lang="span" n="80">¿Se arrienda esta casa?</p>
+
+                <p xml:lang="arn" n="81">No, fachi s'uka mai t'anal'el'ai; feimu mai as'eŋelŋelái.</p>
+                <p xml:lang="spa" n="81"> No, esta casa no está desocupada; por eso no se deja en arriendo.</p>
+                <p xml:lang="span" n="81">No, señor; está ocupada.</p>
+
+                <p xml:lang="arn" n="82">Tuntén-mo fachi s'uka t'analafúi inche kimafun.</p>
+                <p xml:lang="spa" n="82">En cuánto (tiempo) esta casa estaría desocupada yo sabría (= querría saber).</p>
+                <p xml:lang="span" n="82">¿Cuándo quedará desocupada?</p>
+
+
+                <p xml:lang="arn" n="83">Fachi went'u məl'ei kiñe kuyen; t'ipatuál'u fachi went'u, amoál'u kaŋéu, zeuma petu tuftúi ; fal'tai nieya ni yeqǘn niel'kan.</p>
+                <p xml:lang="spa" n="83">Este hombre está un mes; saliendo este hombre, andando a otra parte, ya todavía va a salir; falta tener su carga desalojar.</p>
+                <p xml:lang="span" n="83">El patrón que vive aquí, quedará un mes más.</p>
+
+                <p xml:lang="arn" n="84">¿Kaŋel'u ka s'uka məl'e t'analepelafui?</p>
+                <p xml:lang="spa" n="84"> ¿Otra casa (que) hay no estaría desocupada? </p>
+                <p xml:lang="span" n="84">¿No hay casas desocupadas aquí?</p>
+
+                <p xml:lang="arn" n="85">Fachi pu kaʎi məlei kiñe s'uka; t'anali; ayul'e <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> ŋen s'uka inche konan.</p>
+                <p xml:lang="spa" n="85"> En esta calle hay una casa; está desocupada; si quiere el dueño de casa yo entraré.</p>
+                <p xml:lang="span" n="85">En esta calle hay una casa desocupada, que quisiera tomar.</p>
+
+                <p xml:lang="arn" n="86">¿Tuntén fükei ñi s'uká-mo kiñe kuyén? </p>
+                <p xml:lang="spa" n="86">¿Cuánto pide por su casa un mes?</p>
+                <p xml:lang="span" n="86">¿Cuánto importa la casa por mes?</p>
+
+                <p xml:lang="arn" n="87">Kiñe mas'i patakón yom epu patakon. ¿Chen ayüi fachi ŋen s'uka? pəlata kenzave kuʎín. Məlei waka, pəlata ka məl'ei, chen ayul'e fachi ŋen s'uka, el'uafin.</p>
+                <p xml:lang="spa" n="87">Uno diez pesos más dos pesos. ¿Quién quiere este dueño casa? plata o ganado. Hay vaca, plata también hay, lo que acaso quiere este dueño casa, lo daré.</p>
+                <p xml:lang="span" n="87">Cuesta doce pesos al mes.</p>
+
+                <p xml:lang="arn" n="88">¡Pitzafiŋe! </p>
+                <p xml:lang="spa" n="88">¡Bárrela! </p>
+                <p xml:lang="span" n="88">¡Bárrela!</p>
+
+                <p xml:lang="arn" n="89">Müinái; konpe ñi s'uka-mo; eimi kishu t'okiaimi; inche fus'ilen. </p>
+                <p xml:lang="spa" n="89">Ya está listo; que entre en su casa; tú solo serás dueño; yo estoy afuera.</p>
+                <p xml:lang="span" n="89">Ya está; el señor puede entrar. La casa está a tu disposición.</p>
+
+                <p xml:lang="arn" n="90">Nüláŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> wül'ŋin, pemefichi s'uka chumŋenchi.</p>
+                <p xml:lang="spa" n="90"> Abre la puerta, para ir a ver casa cómo estando. </p>
+                <p xml:lang="span" n="90">Abre la puerta, hazme ver la casa.</p>
+
+                <p xml:lang="arn" n="91">Eimi pichi s'uŋe; pu-ül'ŋin s'uka l'el'aimi.</p>
+                <p xml:lang="spa" n="91">Tú un poco pasa; en (la)puerta (de la) casa no quedas. </p>
+                <p xml:lang="span" n="91">¡No te quedes en la puerta! </p>
+
+                <p xml:lang="arn" n="92">Konpalai <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> ántə (chi pel'o), inche pelan. </p>
+                <p xml:lang="spa" n="92">No entra el día (o sol) (la luz), yo no veo. </p>
+                <p xml:lang="span" n="92">No entra luz; no veo.</p>
+
+                <p xml:lang="arn" n="93">T' əmín kəli, maziao fituichi. </p>
+                <p xml:lang="spa" n="93"> Oscura está, muy ahumada. </p>
+                <p xml:lang="span" n="93">Está muy oscura la casa.</p>
+
+                <p xml:lang="arn" n="94">Eitichi mamel' entufiŋe wekun.</p>
+                <p xml:lang="spa" n="94">Este palo sácalo afuera. </p>
+                <p xml:lang="span">Saca este palo.</p>
+
+                <p xml:lang="arn" n="95">Nül'afiŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> wɐl'ŋin konpanchi pel'o </p>
+                <p xml:lang="spa" n="95"> Abre la puerta para entrar luz. </p>
+                <p xml:lang="span" n="95">Abre la ventana, para dar más luz.</p>
+
+                <p xml:lang="arn" n="96">Inche fachi s'uka kǘmetulafín.</p>
+                <p xml:lang="spa" n="96"> Yo esta casa no la encuentro buena. </p>
+                <p xml:lang="span" n="96"> No me gusta la casa.</p>
+
+                <p xml:lang="arn" n="97">Fachi táfü kəmelai; pes'ánkoŋi fachi s'uka. </p>
+                <p xml:lang="spa" n="97"> Este suelo no está bueno; está húmeda esta casa. </p>
+                <p xml:lang="span" n="97">El suelo está húmedo.</p>
+
+                <p xml:lang="arn" n="98">Fachi vaŋku kǘmelai; kətzaŋel'e kəmai </p>
+                <p xml:lang="spa" n="98"> Esta banca no está buena; si se limpia estará buena. </p>
+                <p xml:lang="span" n="98">Las bancas están sucias.</p>
+
+                <p xml:lang="arn" n="99">Kincha fachi s'uka fiʎ' pəle konpai kürǘf; fachi wenu waqí. L'otouŋi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> s'uka; təkul'el'fiŋe róu. </p>
+                <p xml:lang="spa" n="99">La quincha (de) ésta casa en todas partes entra viento; este arriba (=techo) se gotea. Rota está la casa; ponle rama. </p>
+                <p xml:lang="span" n="99">Las paredes tienen agujeros donde entra el viento; el techo se llueve.</p>
+
+                <p xml:lang="arn" n="100">Numǘi fachi s'uka </p>
+                <p xml:lang="spa" n="100"> Huele esta casa. </p>
+                <p xml:lang="span" n="100">Hay mal olor aquí.</p>
+
+                <p xml:lang="arn" n="101">Inche kəmel'ai məl'en-mo fachi s'uka.</p>
+                <p xml:lang="spa" n="101"> Yo no es bueno de estar (en) esta casa.</p>
+                <p xml:lang="span" n="101">No puedo quedar aquí.</p>
+
+                <p xml:lang="arn" n="102">¿Kaŋeu məlepelafui s'uka? Kintuan </p>
+                <p xml:lang="spa" n="102">¿En otra parte no había casa? Iré a buscar. </p>
+                <p xml:lang="span" n="102">¿No hay otra casa? Voy a buscar.</p>
+
+                <p xml:lang="arn" n="103">Kaŋéu pel'i s'uka peman </p>
+                <p xml:lang="spa" n="103">En otra parte si veo casa voy a ver. </p>
+                <p xml:lang="span" n="103">Quiero verla.</p>
+
+                <p xml:lang="arn" n="104">Nül'akənofiŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> wül'ŋin konpam ántə.</p>
+                <p xml:lang="spa" n="104"> Pon abierta la puerta para entrar sol.</p>
+                <p xml:lang="span" n="104">Deja la puerta abierta cuando hace sol.</p>
+
+                <p xml:lang="arn" n="105">Chi ántə-mu ñifái <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> tafu </p>
+                <p xml:lang="spa" n="105">Del sol se secará el suelo.</p>
+                <p xml:lang="span" n="105">El calor del sol secará el suelo.</p>
+
+                <p xml:lang="arn" n="106">Nüs'üfíŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> wül'ŋín, shéuma ŋüfkenni </p>
+                <p xml:lang="spa" n="106"> Cierra la puerta, después (de que) anochece. </p>
+                <p xml:lang="span" n="106">Cierra la puerta cuando se pone el sol.</p>
+
+                <p xml:lang="arn" n="107">Kəmé nüs'üflái <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> wül'ŋín.</p>
+                <p xml:lang="spa" n="107">Bien no (se) cierra la puerta. </p>
+                <p xml:lang="span" n="107">No se cierra bien esta puerta.</p>
+
+                <p xml:lang="arn" n="108">Kəpál'ŋe kiñe máməl s'etzuŋám fachi wül'ŋín. </p>
+                <p xml:lang="spa" n="108"> Trae un palo para trancar esta puerta. </p>
+                <p xml:lang="span" n="108">Trae un palo para trancarla.</p>
+
+                <p xml:lang="arn" n="109">¿Məl'elái tzukífo fámo? </p>
+                <p xml:lang="spa" n="109">¿No hay ladrones acá? </p>
+                <p xml:lang="span" n="109">¿No hay ladrones aquí?</p>
+
+                <p xml:lang="arn" n="110">Məl'eí tzukífo; akúkelái fámo </p>
+                <p xml:lang="spa" n="110"> Hay ladrones; no suelen llegar acá. </p>
+                <p xml:lang="span" n="110">Sí, hay; pero no vienen acá.</p>
+
+                <p xml:lang="arn" n="111">Kaŋéu tzukikáiŋən, pot'éru-mo; məlei ladrón, kəmekuidáoeimən. Kuizawünolmən tzukiŋaimən. Pu kas'a akulái.</p>
+                <p xml:lang="spa" n="111">En otra parte roban ellos, del potrero; hay ladrones, bien cuidado vosotros. Cuidado si no ponéis os robarán (algo). En (la) ciudad no llegan.</p>
+                <p xml:lang="span" n="111">Roban el ganado en el potrero, pero no viene al pueblo.</p>
+
+                <p xml:lang="arn" n="112">¿Niéimi wéche fámo mi weskɐpáie? Fámu məlepí kiñe wént'u pefúl'i kəmékuʎ'iáufin.</p>
+                <p xml:lang="spa" n="112">¿Tienes (un) joven acá que mandarme (?)? Acá hay un hombre, si viera bien voy a pagarlo. </p>
+                <p xml:lang="span" n="112">¿Hay un mozo (sirviente) para mí?</p>
+
+                <p xml:lang="arn" n="113">Fámu məli kiñe wént'u ayǘni al'kilauya, nieya kiñe pat'on.</p>
+                <p xml:lang="spa" n="113"> Acá está un hombre quiere alquilarse, tener un patrón.</p>
+                <p xml:lang="span" n="113">Está uno aquí, señor.</p>
+
+                <p xml:lang="arn" n="114">lnche mai maziao at'únkəl'én; kus'uchi mai, kus'oan. </p>
+                <p xml:lang="spa" n="114"> Yo mucho cansado estoy; a acostarme pues, me acostaré. </p>
+                <p xml:lang="span" n="114">Estoy muy cansado; voy a acostarme.</p>
+
+                <p xml:lang="arn" n="115">Fachi nətzantu pisusnei (?), kəmelai.</p>
+                <p xml:lang="spa" n="115"> Esta cama está dura (?), no está buena. </p>
+                <p xml:lang="span" n="115">Está muy dura la cama.</p>
+
+                <p xml:lang="arn" n="116">Kut'áni kal'el', móŋko ñi kal'el' kut'aní </p>
+                <p xml:lang="spa" n="116">Enferma (mi) cuerpo, todo mi cuerpo enferma.</p>
+                <p xml:lang="span" n="116">Me duele todo el cuerpo. </p>
+
+                <p xml:lang="arn" n="117">Ut'én; kəpal'el'én ka frézada </p>
+                <p xml:lang="spa" n="117">Tengo frío; tráeme otra frazada.</p>
+                <p xml:lang="span" n="117">Tengo frío; tráeme más frazadas.</p>
+
+                <p xml:lang="arn" n="118">Fachi ŋətzántu kəme kənólen </p>
+                <p xml:lang="spa" n="118"> Esta cama bien ayúdame a poner. </p>
+                <p xml:lang="span" n="118">Ayúdame a arreglar la cama.</p>
+
+                <p xml:lang="arn" n="119">Kəmékənofiŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> ɐl'ún </p>
+                <p xml:lang="spa" n="119"> Bien pon la tapa. </p>
+                <p xml:lang="span" n="119">Extiende la frazada.</p>
+
+                <p xml:lang="arn" n="120">Wül'e munáuɐn wüt'áyen; nien zoam, konezu fituayen zoam. Kəme munáuen. Umautəkufúli inche eimi pel'ol'mən lǘpo moayen, Matukemiauwaimən.</p>
+                <p xml:lang="spa" n="120">Mañana a poca alba nos levantamos; tengo quehacer, con eso alcanzaremos (el) negocio. Bien al amanecer. Si estuviera durmiendo yo tú me vas a despertar ? a priesa iréis.</p>
+                <p xml:lang="span" n="120">Despiértame mañana. Quiero levantarme temprano.</p>
+
+                <p xml:lang="arn" n="121">¿Chumŋechu wünmaimi? ¿kəme wünmaimi puen? </p>
+                <p xml:lang="spa" n="121"> ¿Cómo amaneciste? ¿bien amaneciste pues(?)?</p>
+                <p xml:lang="span" n="121">¿Cómo pasó la noche?</p>
+
+                <p xml:lang="arn" n="122">Kəme wünman; l'ifiwün puen </p>
+                <p xml:lang="spa" n="122"> Bien amanecí; está clara el alba pues (?). </p>
+                <p xml:lang="span" n="122">He dormido bien.</p>
+
+                <p xml:lang="arn" n="123">Kəmé umáq nielái fachi pu wént'u.</p>
+                <p xml:lang="spa" n="123">Bien sueño no tuvo este hombre.</p>
+                <p xml:lang="span" n="123">Él no ha dormido bien.</p>
+
+                <p xml:lang="arn" n="124">Pelan umaq fachi pun, maziao s'akizuaman </p>
+                <p xml:lang="spa" n="124">No vi sueño esta noche, mucho estuve pensando. </p>
+                <p xml:lang="span" n="124">He despertado muchas veces.</p>
+
+                <p xml:lang="arn" n="125">Maziao waŋkitúi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> t'ewa. </p>
+                <p xml:lang="spa" n="125"> Mucho estaban ladrando los perros. </p>
+                <p xml:lang="span" n="125">Los perros ladraban mucho.</p>
+
+                <p xml:lang="arn" n="126">Éitechi ka s'uka-mo maziao zuŋu <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> pu went'u ŋoʎín; pəs'úiŋən, fail'ai <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> pu went'u "¡fie(s)ta kamǘ!" </p>
+                <p xml:lang="spa" n="126">En esa otra casa mucha cosa los hombres borrachera; bailaron ellos, bailaron los hombres "·¡viva la fiesta!</p>
+                <p xml:lang="span" n="126">En la casa al lado hacían mucha bulla, cantaban y bailaban.</p>
+
+                <p xml:lang="arn" n="127">Müchai wül'a, wut'án; petu kəme wünlái </p>
+                <p xml:lang="spa" n="127"> Luego después me levanto; todavía bien no amanece. </p>
+                <p xml:lang="span" n="127">No quiero levantarme todavía.</p>
+
+                <p xml:lang="arn" n="128">Famu təkul'el'pan kiñe wes'a, fachi wenu kús'a, inche ñi anüam. </p>
+                <p xml:lang="spa" n="128"> Acá ven a ponerme una frazada, este encima piedra, para mi sentarme.</p>
+                <p xml:lang="span" n="128">Mozo, pon una frazada sobre esta piedra; quiero sentarme.</p>
+
+                <p xml:lang="arn" n="129">Fel'kəpal'ŋe fachi meza </p>
+                <p xml:lang="spa" n="129"> Ojalá pon esta mesa.</p>
+                <p xml:lang="span" n="129">Ponme la mesa más acá.</p>
+
+                <p xml:lang="arn" n="130">Aŋkǘn; pichi kintul'men ko; fachi fül' təkuŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kó.</p>
+                <p xml:lang="spa" n="130">Tengo sed; un poco ve a buscarme agua; (en) este vaso pon el agua.</p>
+                <p xml:lang="span" n="130">Tengo sed; busca agua en este vaso.</p>
+
+                <p xml:lang="arn" n="131">As'eŋí fachi ko; kintul'men fís'kə ko </p>
+                <p xml:lang="spa" n="131">Está tibia esta agua; ve a buscarme fresca agua. </p>
+                <p xml:lang="span" n="131">Esta agua está tibia; tráeme agua fresca. </p>
+
+                <p xml:lang="arn" n="132">Kəme kətzafíŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> vazu </p>
+                <p xml:lang="spa" n="132"> Bien limpia el vaso.</p>
+                <p xml:lang="span" n="132">Limpia el vaso.</p>
+
+                <p xml:lang="arn" n="133">Kǘme l'if t'apu l'ipumfíŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> vazu </p>
+                <p xml:lang="spa" n="133"> Bien limpio trapo límpialo el vaso.</p>
+                <p xml:lang="span" n="133">Sécalo con un trapo limpio.</p>
+
+                <p xml:lang="arn" n="134">Fachi kuchiʎ'u l'ipǘmfiŋe kǘme, kuyem-mo; kətzafiŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kutzara, piŋüs'küáfimi.</p>
+                <p xml:lang="spa" n="134"> Este cuchillo límpialo bien, con arena; limpia la cuchara, la refregarás. </p>
+                <p xml:lang="span" n="134">Limpia el cuchillo y lava la cuchara.</p>
+
+                <p xml:lang="arn" n="135">L'epúün ; kəpal'el'en ial </p>
+                <p xml:lang="spa" n="135">Tengo hambre; traeme comida. </p>
+                <p xml:lang="span" n="135">Ahora tráeme a comer: tengo hambre.</p>
+
+                <p xml:lang="arn" n="136">Kəmelai fachi-il'ón; nümúi fachi-il'ón. </p>
+                <p xml:lang="spa" n="136">No está buena esta carne; huele esta carne. </p>
+                <p xml:lang="span" n="136">No puedo comer esta carne; tiene mal olor.</p>
+
+                <p xml:lang="arn" n="137">Pis'úi fachi-il'ón </p>
+                <p xml:lang="spa" n="137">Agusanada está esta carne. </p>
+                <p xml:lang="span" n="137">Está con gusanos.</p>
+
+                <p xml:lang="arn" n="138">Kiñe achoʎ' il'uain, l'aŋemien.</p>
+                <p xml:lang="spa" n="138">Una gallina comeremos, matamos.</p>
+                <p xml:lang="span" n="138">Mátame una gallina.</p>
+
+                <p xml:lang="arn" n="139">Charki kəmí </p>
+                <p xml:lang="spa" n="139">Charqui es bueno. </p>
+                <p xml:lang="span" n="139">Me gusta el charqui.</p>
+
+                <p xml:lang="arn" n="140">Kəme afünfiŋe charki.</p>
+                <p xml:lang="spa" n="140">Bien cuece (el) charqui. </p>
+                <p xml:lang="span" n="140">Hazlo cocer bien.</p>
+
+                <p xml:lang="arn" n="141">Kəmél'ái kət'al'; pichi-ketufiŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> mámel' üyamchi kət'al'. </p>
+                <p xml:lang="spa" n="141">No está bueno (el) fuego; chica haz la leña para encender el fuego.</p>
+                <p xml:lang="span" n="141">El fuego no está bueno; corte la leña en pedacitos chicos.</p>
+
+                <p xml:lang="arn" n="142">Kəmel'fíŋe kət'al'. </p>
+                <p xml:lang="spa" n="142">Bien haz (el) fuego. </p>
+                <p xml:lang="span" n="142">Arregla bien el fuego.</p>
+
+                <p xml:lang="arn" n="143">Pimufiŋe kət'al; petu tzúŋi </p>
+                <p xml:lang="spa" n="143">Sopla (el) fuego; todavía ? </p>
+                <p xml:lang="span" n="143">Sopla el fuego; está apagándose.</p>
+
+                <p xml:lang="arn" n="144">Kəme kənofiŋe kət'al; matukel'ŋe. </p>
+                <p xml:lang="spa" n="144">Bien arregla (el) fuego; apúralo. </p>
+                <p xml:lang="span" n="144">Vuelve a encender el fuego.</p>
+
+                <p xml:lang="arn" n="145">Minutu təkuŋe tufken ; s'əŋáltuŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> ket'al, wenutu təkuŋe tufken.</p>
+                <p xml:lang="spa" n="145">Adentro pon ceniza; entierra el fuego, encima pon ceniza.</p>
+                <p xml:lang="span" n="145">Entierra el fuego con ceniza para que no se apague.</p>
+
+                <p xml:lang="arn" n="146">Ko təkuŋe pu vazu <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> mushke wɐl'puz.</p>
+                <p xml:lang="spa" n="146">Agua pon al vaso el harina ulpo.</p>
+                <p xml:lang="span" n="146">Hazme un ulpo con harina tostada.</p>
+
+                <p xml:lang="arn" n="147">Matetuyu; as'eŋel'ŋe kó matetoam. </p>
+                <p xml:lang="spa" n="147">Mate me haces; calienta agua para hacer mate. </p>
+                <p xml:lang="span" n="147">Prepara un mate.</p>
+
+                <p xml:lang="arn" n="148">Lefŋéi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> mus'ke. </p>
+                <p xml:lang="spa" n="148">Está quemada (?) la harina. </p>
+                <p xml:lang="span" n="148">Esta harina está quemada.</p>
+
+                <p xml:lang="arn" n="149">Mus'keŋe kuzi-mo. </p>
+                <p xml:lang="spa" n="149">Prepara-harina con la piedra de moler</p>
+                <p xml:lang="span">. Hecha el trigo en esta piedra para molerlo.</p>
+
+                <p xml:lang="arn" n="150">Fachi mus'ke wüqanma maziao kəmei.</p>
+                <p xml:lang="spa" n="150">Esta harina con harina muy buena es.</p>
+                <p xml:lang="span" n="150">Esta harina con maíz es muy buena.</p>
+
+                <p xml:lang="arn" n="151">Was'kəfíŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kó; petu-as'kəlai. </p>
+                <p xml:lang="spa" n="151">Haz hervir el agua; todavía no hierve. </p>
+                <p xml:lang="span" n="151">Ve a cocer el agua; todavía no está hirviendo.</p>
+
+                <p xml:lang="arn" n="152">Inau təkualfiŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> pu kət'al kəme; konezu münái as'eŋai, was'küai. </p>
+                <p xml:lang="spa" n="152">Cerca ponla en el fuego bien; con eso luego se calentará, hervirá.</p>
+                <p xml:lang="span" n="152">Atraca la olla bien al fuego.</p>
+
+                <p xml:lang="arn" n="153">Entufiŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kos'fü fus'i-mo, petu t'ufpi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> ko. </p>
+                <p xml:lang="spa" n="153"> Saca la olla hacia atrás, ya se sale el agua. </p>
+                <p xml:lang="span" n="153">Saca la olla ahora; se está saliendo el agua.</p>
+
+                <p xml:lang="arn" n="154">Təkufiŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> ko </p>
+                <p xml:lang="spa" n="154"> Pon el agua. </p>
+                <p xml:lang="span" n="154">Echa el agua sobre el mate.</p>
+
+                <p xml:lang="arn" n="155">Wot'ulaimi; kuida vot'ulaimi; maziao as'ení</p>
+                <p xml:lang="spa" n="155">No botas; cuidado no botas; muy calienta está</p>
+                <p xml:lang="span" n="155">.No botes agua; porque está muy caliente.</p>
+
+                <p xml:lang="arn" n="156">¡Ifiŋe! ¿Cheu məl'í vombiʎa? ¡Kəpal'fíŋe! </p>
+                <p xml:lang="spa" n="156">¡Cómelo! ¿Dónde está (la) bombilla? ¡Tráela! </p>
+                <p xml:lang="span" n="156">Sírveme el mate. ¿Dónde está la bombilla? ¿Tráela!</p>
+
+                <p xml:lang="arn" n="157">¡Pichi ketufíŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kofke!</p>
+                <p xml:lang="spa" n="157">¡Haz chico el pan</p>
+                <p xml:lang="span" n="157">!Corta el pan en pedacitos.</p>
+
+                <p xml:lang="arn" n="158">Kəpal'el'el fis'ke ko.</p>
+                <p xml:lang="spa">Tráeme fresca agua.</p>
+                <p xml:lang="span">Tráeme agua fresca.</p>
+
+                <p xml:lang="arn" n="159">Kəpal'el'el kət'al pət'émtuám.</p>
+                <p xml:lang="spa" n="159">Tráeme fuego para fumar.</p>
+                <p xml:lang="span" n="159">Pásame fuego para fumar.</p>
+                <p xml:lang="spa"/>
+
+                <p xml:lang="arn" n="160">¡Alkǘŋe! ¿cheu məl'efúimi? Peláimi </p>
+                <p xml:lang="spa" n="160"> ¡Oye! ¿dónde estuviste? No te vi. </p>
+                <p xml:lang="span" n="160">Oye, muchacho, ¿Dónde estuviste? No te he visto.</p>
+
+                <p xml:lang="arn" n="161">Fámu məl'ekafún. Cheu no t'ipalán </p>
+                <p xml:lang="spa" n="161"> Acá estaba. A ninguna parte no salí. </p>
+                <p xml:lang="span" n="161">He estado aquí; no he salido de aquí.</p>
+
+                <p xml:lang="arn" n="162">Koil'atúi; mət'umfóimi, l'óumeláimi.</p>
+                <p xml:lang="spa" n="162"> Mientes; te llamaba, no respondiste.</p>
+                <p xml:lang="span" n="162">Mientes; te he llamado y no has oído.</p>
+
+                <p xml:lang="arn" n="163">Koil'atupaláimi. Nuŋka (tuchi antə no s'ume) koil'atulaian; ¡ŋel'el'mal'ean!</p>
+                <p xml:lang="spa" n="163"> No vas a mentir. Nunca me mentirás; ¡No me engañes!</p>
+                <p xml:lang="span" n="163">No debes mentir nunca; no puedes engañarme.</p>
+
+                <p xml:lang="arn" n="164">Ziempre koil'atulmi, inche kul'paŋel'an, füshentulaimi. </p>
+                <p xml:lang="spa" n="164">Siempre si mientes, yo no tengo la culpa, no te quejas.</p>
+                <p xml:lang="span" n="164"> Si no dices siempre la verdad, te castigaré.</p>
+
+                <p xml:lang="arn" n="165">¿Chun kəl'éimi? ¿Kəmeléimi mai? </p>
+                <p xml:lang="spa" n="165">¿Cómo estás? ¿Estás bien, pués? </p>
+                <p xml:lang="span" n="165">¿Cómo te va? ¿estás bién?</p>
+
+                <p xml:lang="arn" n="166">¿Aula məten wüt'áimi eimi? </p>
+                <p xml:lang="spa" n="166">¿Ahora solamente te levantaste tú? </p>
+                <p xml:lang="span" n="166">Ahora no más te levantaste.</p>
+
+                <p xml:lang="arn" n="167">¿Chému wüt'áimi fut'-antə? </p>
+                <p xml:lang="spa" n="167"> ¿Por qué te levantas grande día?</p>
+                <p xml:lang="span" n="167">¿Porqué te levantas tan tarde?</p>
+
+                <p xml:lang="arn" n="168">Ziempre inche kus'ún muñapún umáqen, konézu ñi wüt'amunáuün.</p>
+                <p xml:lang="spa" n="168"> Siempre yo me acuesto luego que anochece a dormir, con eso mi levantarme (a) poca alba.</p>
+                <p xml:lang="span" n="168">Siempre me acuesto temprano y me levanto con el alba.</p>
+
+                <p xml:lang="arn" n="169">Inche kai wüt'akén munáuün, fáchi pun munáuün kut'ánən; feimu wüt'alán. </p>
+                <p xml:lang="spa" n="169"> Yo también suelo acostarme a poca alba, esta noche a poca alba estuve enfermo; por eso no me levanté. </p>
+                <p xml:lang="span" n="169">Yo también suelo levantarme temprano, pero hoy estaba mal de salud.</p>
+
+                <p xml:lang="arn" n="170">¿Chumŋéchiŋi pi kut'aními? </p>
+                <p xml:lang="spa" n="170"> ¿Cómo es que estás enfermo? </p>
+                <p xml:lang="span" n="170">¿Qué te ha sucedido?</p>
+
+                <p xml:lang="arn" n="171">Pu s'üpü maziao mawǘi, maziao kətünéñi makún, móŋko kətǘi; feimo kut'anən.</p>
+                <p xml:lang="spa" n="171">En el camino mucho llovió, mucho se me mojó mi poncho, todo se mojó; de ahí estoy enfermo. </p>
+                <p xml:lang="span" n="171">En el camino llovió mucho y me mojé todo el cuerpo, por eso me he resfriado.</p>
+
+                <p xml:lang="arn" n="172">Wiya maziao kut'aní ñi l'ipan , ñi fus'í ka kut'ani; maziao tel'me <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kaweʎu; feimu mai kut'anpen.</p>
+                <p xml:lang="spa" n="172">Ayer mucho dolió mi hombro, mi espalda también está enferma; muy áspero el caballo; de ahí pues enfermé.</p>
+                <p xml:lang="span" n="172">Ayer me dolían el hombro y la espalda; porque mi caballo había sido muy duro.</p>
+
+                <p xml:lang="arn" n="173">Maziao kut'aní ñi tzaŋ; feimo tute-amolán </p>
+                <p xml:lang="spa" n="173"> Mucho duele mi pierna, por eso no acierto a andar. </p>
+                <p xml:lang="span" n="173">Tanto me dolían las piernas que no podía andar.</p>
+
+                <p xml:lang="arn" n="174">¿Aula kai petu moŋími? </p>
+                <p xml:lang="spa" n="174">¿Ahora ya tienes salud? </p>
+                <p xml:lang="span" n="174">Y ¿hoy estás mejor o no?</p>
+
+                <p xml:lang="arn" n="175">All'ü we pañul'man , aula petu pañul'man; maziao moŋelán.</p>
+                <p xml:lang="spa" n="175">Mucho recién voy aliviándome, ahora ya voy aliviándome; mucho no tengo salud. </p>
+                <p xml:lang="span" n="175">Sí, me encuentro mejor, pero no estoy bien todavía.</p>
+
+                <p xml:lang="arn" n="176">¿Chenzüŋu alkufími eimi famo? </p>
+                <p xml:lang="spa" n="176"> ¿Qué cosa oíste tú acá? </p>
+                <p xml:lang="span" n="176">¿Qué hay de nuevo?</p>
+
+                <p xml:lang="arn" n="177">¿Chem pi mi kumpan; chen ta züŋu kəpai akúi fachi mápu-mo?</p>
+                <p xml:lang="spa" n="177">¿Qué dice tu compañero; qué cosa viene llegó de esta tierra?</p>
+                <p xml:lang="span" n="177">¿Qué noticias trajo tu amigo de allá?</p>
+
+                <p xml:lang="arn" n="178">Inchén kəpalién kəla chukífo; t'ókin wes'küeyenmo; féimu kəpal'ién fáchi chukífo.</p>
+                <p xml:lang="spa" n="178">Nosotros trajimos tres ladrones; (el) juez nos mandó; por eso trajimos estos ladrones. </p>
+                <p xml:lang="span" n="178">Hemos traído tres ladrones por orden del juez.</p>
+
+                <p xml:lang="arn" n="179">¿Chen chuki fáchi chukífo? </p>
+                <p xml:lang="spa" n="179">¿Qué robaron estos ladrones? </p>
+                <p xml:lang="span" n="179">¿Qué es lo que han robado?</p>
+
+                <p xml:lang="arn" n="180">Kǘla múla tzukí, ka épu kawéʎu, ka kiñe wé kaweʎu, kapun kaweʎu. </p>
+                <p xml:lang="spa" n="180">Tres mulas robaron, y dos caballos, y un nuevo caballo, capado caballo. </p>
+                <p xml:lang="span" n="180">Han robado tres mulas, y dos caballos, un potro y un caballo.</p>
+
+                <p xml:lang="arn" n="181">¿lni pepayéu petu ñi chukín? </p>
+                <p xml:lang="spa" n="181">¿Quién fue a verlos durante su robo? </p>
+                <p xml:lang="span" n="181">¿Quién los ha tomado preso?</p>
+
+                <p xml:lang="arn" n="182">Kiñe mápu wént'u pil'aŋí; kiñe ul'men wiŋka; féi mai nǘi fachi ladron.</p>
+                <p xml:lang="spa" n="182">Por uno(s) tierra hombre(s) fueron pillados; un rico chileno; así pues tomaron estos ladrones.</p>
+                <p xml:lang="span" n="182">Algunos vecinos los han tomado, un hacendado chileno los ha sorprendido.</p>
+
+                <p xml:lang="arn" n="183">Aulá <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> t'oki akúi, epu zoldau; wes'kuŋe Valdivia, mandai <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> t'okín, petu el'ŋemi.</p>
+                <p xml:lang="spa" n="183">Ahora el juez llegó, dos soldados; manda (a) Valdivia, ordenó el juez, ya fueron dejados (?).</p>
+                <p xml:lang="span" n="183">Después vino el juez y dos policiales (soldados) a llevarlos a Valdivia.</p>
+
+                <p xml:lang="arn" n="184">Wapuwufúi, üʎ'kufúi; kewai. </p>
+                <p xml:lang="spa" n="184">Muy guapos eran, se enojaban; pelearon.</p>
+                <p xml:lang="span" n="184">No querían rendirse.</p>
+
+                <p xml:lang="arn" n="185">Kewái maziao tui <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> chukifo; maməltuŋi pu l'oŋko, al'fui ; zoi kul'paŋi. </p>
+                <p xml:lang="spa" n="185">Pelearon mucho esos ladrones; apaleado fue en (la) cabeza; se lastimó; más culpa es.</p>
+                <p xml:lang="span" n="185">Se han defendido mucho y han herido muy mal a uno de los colonos.</p>
+
+                <p xml:lang="arn" n="186">Kiñe l'aŋəmŋí, kaŋelu nüŋí (prezuŋí). </p>
+                <p xml:lang="spa" n="186">Uno fue muerto, los otros fueron tomados presos. </p>
+                <p xml:lang="span" n="186">Pero al fin los colonos mataron a uno y amarraron a los otros.</p>
+
+                <p xml:lang="arn" n="187">Kenzave moŋelai ñi l'ayáchi </p>
+                <p xml:lang="spa" n="187">¿Quién sabe no tiene salud (y) va a morir.</p>
+                <p xml:lang="span" n="187">Dicen que el herido va a morir.</p>
+
+
+                <p xml:lang="arn" n="188">¿Cheu wut'aimi? Fetichi went'u-mo amoal'o inche; məl'el'e peafin. Zuamtufin <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> went'u. </p>
+                <p xml:lang="spa" n="188">¿A dónde viajas? A ese hombre andando yo; si está lo veré. Lo necesito a este hombre.</p>
+                <p xml:lang="span" n="188">¿A dónde estabas andando ahora?</p>
+
+                <p xml:lang="arn" n="189">Inche mai amoal'u po kas'a kintual'i inche ial', küme ial', ŋiʎáman mishki.</p>
+                <p xml:lang="spa" n="189"> Yo pues andando a (la) ciudad a buscar yo a comer, buena comida, compraré manzana dulce.</p>
+                <p xml:lang="span"> Iba al mercado para ver si hay buena fruta.</p>
+
+                <p xml:lang="arn" n="190">Amoláimi pu kas'a. lnchimiŋemen pu kas'a; pelan chen no s'ume ñi zuamtuel'.</p>
+                <p xml:lang="spa" n="190"> No andas a (la) ciudad. Yo hice tu camino al pueblo; no vi nada para mi negocio (=que hacer).</p>
+                <p xml:lang="span" n="190">No vayas. Yo vengo de allá; no he visto nada de bueno.</p>
+
+                <p xml:lang="arn" n="191">Mishki eŋu peras yemen; uvas məl'el'ai </p>
+                <p xml:lang="spa" n="191">Manzana dulce con peras fui a traer; uvas no hay.</p>
+                <p xml:lang="span" n="191">Hay solo manzanas y peras; uvas no hay.</p>
+
+                <p xml:lang="arn" n="192">Maziao pil'ini ; feimu mai fün pelai fachi t'ipan; wes'a t'ipantu.</p>
+                <p xml:lang="spa" n="192"> Mucho heló; por eso pues fruta no hay este año; mal año.</p>
+                <p xml:lang="span" n="192">Este año maduran muy tarde todas las frutas porque ha hecho demasiado frío.</p>
+
+                <p xml:lang="arn" n="193">Matupaŋe, amoyu pu s'uka, üs'kəmaimi; chuŋechi moŋelai tze.</p>
+                <p xml:lang="spa" n="193"> Apúrate, vamos los dos a casa, comerás; de cualquier modo no vive (la) gente (=quien no come no vive).</p>
+                <p xml:lang="span" n="193">Ven conmigo a mi casa para almorzar.</p>
+
+                <p xml:lang="arn" n="194">Kəméi ñi fei pifiel; l'əpülan. </p>
+                <p xml:lang="spa" n="194">Bueno está; lo que así dices; no tengo hambre.</p>
+                <p xml:lang="span" n="194">Muchas gracias; pero todavía no tengo hambre.</p>
+
+                <p xml:lang="arn" n="195">Muchai tardepəle kəpâeimi, us'kəmpâimi, ipaimi ial'. </p>
+                <p xml:lang="spa" n="195"> Luego hacia la tarde vienes, a comer vienes, a comer vienes comida.</p>
+                <p xml:lang="span" n="195">Si no tienes hambre, ven sta noche a comer.</p>
+
+                <p xml:lang="arn" n="196">L'oftuyaimi, wel'u ¿poaimi pue? </p>
+                <p xml:lang="spa" n="196">Te esperaré (?), pero ¿llegarás pues? </p>
+                <p xml:lang="span" n="196">Te espero con seguridad.</p>
+
+                <p xml:lang="arn" n="197">¿Chumŋéchi poulafun? Pepoyaimi.</p>
+                <p xml:lang="spa" n="197"> ¿Cómo no llegaría? Llegaré a verte. </p>
+                <p xml:lang="span" n="197">¡Por qué no vendría!</p>
+
+                <p xml:lang="arn" n="198">Ka zuam məten munái akun, matuli, feimo mai pepolayafoimi. </p>
+                <p xml:lang="spa" n="198">Otro negocio solamente un poco llegar, si me apura, entonces pues no llegaría a verte.</p>
+                <p xml:lang="span" n="198">Solo si hay otra cosa que hacer, entonces no podría venir.</p>
+
+                <p xml:lang="arn" n="199">¿Kəpal'ai mi maʎ'é? </p>
+                <p xml:lang="spa" n="199">¿No viene tu tío? </p>
+                <p xml:lang="span" n="199">Traerás también a tu tío.</p>
+
+                <p xml:lang="arn" n="200">Mawünól'e; maziao mawül'e poulan; kəmeli, mawünól'e poán. </p>
+                <p xml:lang="spa" n="200"> Si no llueve; mucho si llueve no llegaré; si está bien, si no llueve llegaré.</p>
+                <p xml:lang="span" n="200">Si no llueve mucho y estoy de buena salud, iré.</p>
+
+                <p xml:lang="arn" n="201">Kəméi mi akún; máñiuméimi; tüyún mi akún-mo. </p>
+                <p xml:lang="spa" n="201">Buena está tu llegada; te agradezco; me alegro de tu llegada.</p>
+                <p xml:lang="span" n="201">Bueno está que has venido.</p>
+
+                <p xml:lang="arn" n="202"> Akulai, ŋepaí, pifun.</p>
+                <p xml:lang="spa" n="202">No llega, viene a ser, decía.</p>
+                <p xml:lang="span" n="202">Pensaba ya que no ibas a venir.</p>
+
+                <p xml:lang="arn" n="203">¿Cheú-mo kai kəpaláfun? zeumen ñi akuya famu. </p>
+                <p xml:lang="spa" n="203">¿De dónde no había de venir? voy a concluir mi llegada aquí. </p>
+                <p xml:lang="span" n="203">¡Cómo puedes pensar que no vengo!</p>
+
+                <p xml:lang="arn" n="204">Ponufuli, fus'entuyano <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> went'u; feimo kəpan.</p>
+                <p xml:lang="spa" n="204">Si no llegase, se va a quejar de mí el hombre; por eso vine.</p>
+                <p xml:lang="span" n="204">Si lo he dicho, cumplo con mi palabra.</p>
+
+                <p xml:lang="arn" n="205">Ka zúam kónmapafúl'i, wés'kül'e'lpayafóimi.</p>
+                <p xml:lang="spa" n="205">Si otro negocio viniese a ocurrirme, mensaje te habría mandado. </p>
+                <p xml:lang="span" n="205">Si no hubiera podido venir, te hubiera mandado aviso.</p>
+
+                <p xml:lang="arn" n="206">Konpakáməm puén; fâple s'upámən; anüpáŋen. </p>
+                <p xml:lang="spa" n="206"> Entrad pues; por acá pasad; sentaos. </p>
+                <p xml:lang="span" n="206">Ya está bien; entrad no más.</p>
+
+                <p xml:lang="arn" n="207">¿Chem-mo kəpaláfimi máʎ'e? </p>
+                <p xml:lang="spa" n="207">¿Por qué no trajiste (tu) tío? </p>
+                <p xml:lang="span" n="207">¿Por qué no has traído a tu tío?</p>
+
+                <p xml:lang="arn" n="208">Nüt'ameufin káŋe shuamtupayano <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> went'u fei pieufin. </p>
+                <p xml:lang="spa" n="208">Yo le había avisado otro negocio me vendrá (?) el hombre así me lo había dicho.</p>
+                <p xml:lang="span" n="208">Probablemente hay que traducir: El hombre me habría avisado: «Otro negocio me vendrá»; así me había dicho.</p>
+
+                <p xml:lang="arn" n="209">Fal'talai kântə ñi pasiatumeafiel </p>
+                <p xml:lang="spa" n="209"> No falta otro día su ir a visitarlo (?). </p>
+
+                <p xml:lang="arn" n="210">Zuamŋeno fúli pasiatumeaufin </p>
+                <p xml:lang="spa" n="210"> Si no tuviera que hacer a visitarlo habría venido. </p>
+                <p xml:lang="span" n="210">Si no hubiese tenido que hacer, habría venido.</p>
+
+                <p xml:lang="arn" n="211">Üshkümén puen kiñe ial'; weməten afúi fachi üs'küm; fis'kel'ai.</p>
+                <p xml:lang="spa" n="211">Vamos a comer pues un guiso; recién solamente se concluyó esta comida; fría no está.</p>
+
+                <p xml:lang="arn" n="212">Pichi fal'tan mai chazi; kəme seumalal'fimən <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> ial'. </p>
+                <p xml:lang="spa">Un poco falta pues sal; bien no preparasteis la comida. </p>
+
+                <p xml:lang="arn" n="213">Kəmé mai üs'küm; kəméi iál'; kəméi maziáo fil' ántə féiməŋechi iál i seumaaimən. Tumémən wüqá, kás'ü wüqá. Moʎ'ewüqaáimən. </p>
+                <p xml:lang="spa" n="213">Buena pues (la) comida; bueno es (el) guiso; bueno está mucho todo día así estando comida comer preparareis. Preparad choclo, verde choclo. Pelado maíz preparareis.</p>
+
+                <p xml:lang="arn" n="214">Kaŋkámən píchin il'ón fáchi wüt'an iá </p>
+                <p xml:lang="spa" n="214"> Asad un poco carne para este forastero comer después. </p>
+
+                <p xml:lang="arn" n="215">Máñiumai <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> wüt'án </p>
+                <p xml:lang="spa" n="215">Está agradecido pues el forastero. </p>
+
+                <p xml:lang="arn" n="216">Pichiéməmən pül'ku, fachi wüt'an ni üs'əm pil'koam </p>
+                <p xml:lang="spa" n="216">Tomad un poco (de) chicha, (para que) este forastero se remoje de chicha.</p>
+
+                <p xml:lang="arn" n="217">¿Ayüimi kupilkáimi, wüt'an? </p>
+                <p xml:lang="spa" n="217">¿Quieres chicha con harina, forastero?</p>
+
+                <p xml:lang="arn" n="218">Məlefúi pichin mus'ke, kupil'kafuimi.</p>
+                <p xml:lang="spa" n="218">Estaba un poco (de) harina, chicha con harina hacías.</p>
+
+                <p xml:lang="arn" n="219">L'el'kefol'i femŋes'kafúli.</p>
+                <p xml:lang="spa" n="219">Si me pasaras así me harías bien. </p>
+                <p xml:lang="span" n="219">Domingo tradujo: Si me haces la gracia, está bien.</p>
+
+                <p xml:lang="arn" n="220">Təfí kiñe ful'; kiñéntəkúŋe </p>
+                <p xml:lang="spa" n="220">Aquí (está) un vaso; toma un trago. </p>
+
+                <p xml:lang="arn" n="221">Fei ǘs'kə mai.</p>
+                <p xml:lang="spa" n="221">Así es de veras pues (?) (=muchas gracias).</p>
+
+                <p xml:lang="arn" n="222">Kiñe chas'u pul'ku. </p>
+                <p xml:lang="spa" n="222"> Un jarro de chicha.</p>
+
+                <p xml:lang="arn" n="223">Fani kiñentəkumam ni l'eikemo fiem. </p>
+                <p xml:lang="spa" n="223">Aquí para tomar yo un trago... ? </p>
+
+                <p xml:lang="arn" n="224">Féike mai. </p>
+                <p xml:lang="spa" n="224">Así es pues.</p>
+
+                <p xml:lang="arn" n="225">Ka kiñe chas'u yememən fachi wüt'an ía </p>
+                <p xml:lang="spa" n="225"> Otro jarro traed para este forastero a beber. </p>
+
+                <p xml:lang="arn" n="226">Ka kiñe təku, peñi wüt'an; opúchi chas'u.</p>
+                <p xml:lang="spa" n="226"> Otro toma, hermano huésped; lleno está el jarro.</p>
+
+                <p xml:lang="arn" n="227">S'ul'paŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> wüt'an-mo.</p>
+                <p xml:lang="spa" n="227"> Pásale al huésped.</p>
+
+                <p xml:lang="arn" n="228">Mal'u poñü seumamən; kəmekənoaimən ia'l.</p>
+                <p xml:lang="spa" n="228">Un guiso (de) papas preparad; bien haréis (la) comida. </p>
+
+                <p xml:lang="arn" n="229">Entuwün mai. S'upaüshkümi wüthan.</p>
+                <p xml:lang="spa" n="229"> Acabé ya. Concluyó de comer (el) huésped.</p>
+
+                <p xml:lang="arn" n="230">Entupatumən t'oko. </p>
+                <p xml:lang="spa" n="230"> Sacad (el) plato. </p>
+
+                <p xml:lang="arn" n="231">Miautuan fa; s'uamŋen mai ñi pu s'uka; suamŋenofúli, ka pichi kaŋe shuamafun.</p>
+                <p xml:lang="spa" n="231"> Voy a irme aquí; tengo que hacer pues en mi casa; si no tuviera que hacer otro poco otra cosa haría.</p>
+
+                <p xml:lang="arn" n="232">Ka pichi məleŋe; nət'amkalayu; peukelayu; peupanolu tze munai nel'kənokelai, t'anakənokelai. </p>
+                <p xml:lang="spa" n="232">Otro poco quédate; conversaremos; no nos hemos visto; no viniendo a verse (la) gente luego sola no se deja, vacía no se deja (= no se hace la visita tan corta).</p>
+
+                <p xml:lang="arn" n="233">¿Chúməl t'ipáyen, amoáyen? </p>
+                <p xml:lang="spa" n="233">¿Cuándo salimos, iremos? </p>
+
+                <p xml:lang="arn" n="234">Fáchi ántə t'ipafúyen; niensuám; wül'é t'ipáyen amoáyen.</p>
+                <p xml:lang="spa" n="234"> Este día debíamos salir; tengo negocio; mañana salimos, iremos.</p>
+                <p xml:lang="span" n="234">Habría debido salir ya, pero tenía que hacer todavía; mañana saldré.</p>
+
+                <p xml:lang="arn" n="235">lnche as'üáimi kiñe mula, kəme mula nien. </p>
+                <p xml:lang="spa" n="235"> Yo te prestaré (?) una mula, buena mula tengo.</p>
+
+                <p xml:lang="arn" n="236">¿Tumten fükean mi mula-mo?; eimi kishu piaimi. </p>
+                <p xml:lang="spa" n="236">¿Cuánto me pedirás por tu mula?; tu mismo dirás.</p>
+
+                <p xml:lang="arn" n="237">Epu patakon kiñe antə. </p>
+                <p xml:lang="spa" n="237">Dos pesos un día.</p>
+
+                <p xml:lang="arn" n="238">Pefichi mai <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> mula, ñi mot'inŋenchi; mot'inŋele kəmí.</p>
+                <p xml:lang="spa" n="238"> A ver pues la mula, si está gorda; si está gorda bien está.</p>
+
+                <p xml:lang="arn" n="239">Munáwün mut'áimi, umautəkuláimi maziao t'iuftunkəl'en. Kəpal'el'ean <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> mula inche ñi péya, ñi mot'inkəlenchi ñi matanŋenonchi .</p>
+                <p xml:lang="spa" n="239">Al amanecer te llamaré, no te quedes durmiendo mucho apurado, estoy (?). Me traerás la mula (para) yo ver, si está gorda si no está lastimada.</p>
+
+                <p xml:lang="arn" n="240">lnche femal'; chen piel'l'i feman.</p>
+                <p xml:lang="spa" n="240"> Yo así haré; lo que digas haré.</p>
+
+                <p xml:lang="arn" n="241">Inche famu məl'an, zeuma t'ipai <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> antə </p>
+                <p xml:lang="spa" n="241"> Yo aquí estaré, (cuando) ya salió el sol. </p>
+
+                <p xml:lang="arn" n="242">Kulai t'ipai fachi antə; chen-mo akulaimi kulai. Fentén feipieimi; akuaimi pieimi; akulaimi; futa-antə akuimi. </p>
+                <p xml:lang="spa" n="242">Endenántes salió este sol; por qué no llegaste endenántes. Tanto así te dije; llegarás te dije; no llegaste; alto día llegaste. </p>
+                <p xml:lang="span" n="242">Hace mucho que salió el sol y ahora no más acabas de llegar.</p>
+
+                <p xml:lang="arn" n="243">Fachi mula wait'u t'ipai pu potreriʎ'u; kintukefin awe, pelafin, feimo akulan.</p>
+                <p xml:lang="spa" n="243"> Esta mula ? salió al potrerillo; la he buscado a priesa, no la he visto, por eso no llegué.</p>
+
+                <p xml:lang="arn" n="244">Aúla ñi pefiel kǘpal'én fachi mula s'inokul'aia akupayán. </p>
+                <p xml:lang="spa" n="244">Ahora para verla he traído esta mula ? llegaré.</p>
+
+                <p xml:lang="span" n="245"> ¿Chumai kai?</p>
+                <p xml:lang="spa" n="245">¿Que se hará pues?</p>
+
+                <p xml:lang="arn" n="246">Chiʎ'al'é ñi mula, inche yeqan <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> mula chiʎ'alén. Tichi ka mula təkulel'fiŋe aparejo; feitiai <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> karqa.</p>
+                <p xml:lang="spa" n="246">Ensíllame mi mula, yo llevaré (?) la mula ensíllame. Esta otra mula ponle el aparejo; así se hará la carga. </p>
+
+                <p xml:lang="arn" n="247">Fúyümfiŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> mula kəme; konezu kiñe pəle s'upalai <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> karqa.</p>
+                <p xml:lang="spa" n="247"> Aprieta la mula bien; con eso a un lado no pasa la carga.</p>
+
+                <p xml:lang="arn" n="248">Kəmépepil'el'éni azión, wíŋa mel'én. </p>
+                <p xml:lang="spa" n="248"> Arréglame bien el ación, larga (?) está. </p>
+
+                <p xml:lang="arn" n="249">¿Manzítu fachi múla? Áukaŋel'e, ¡kuidao! mankəlaiáimo <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> múla.</p>
+                <p xml:lang="spa" n="249">¿Mansita esta mula? Si se levanta, ¡cuidado! que no te patee la mula.</p>
+
+                <p xml:lang="arn" n="250">S'ut'aniel'én fáchi múla s'iéntas'-mo; wit'ántəkuémo. </p>
+                <p xml:lang="spa" n="250">Ténmela agarrada esta mula con las riendas; ayúdame a subir. </p>
+
+                <p xml:lang="arn" n="251">Kǘme füyémafími <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kárqa; konézu kiñe pəl'e s'upanuám <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kárqa.</p>
+                <p xml:lang="spa" n="251"> Bien apretarás la carga para que a un lado no pase la carga.</p>
+                <p xml:lang="span" n="251">Amarre bien la carga para que no ladee.</p>
+
+                <p xml:lang="arn" n="252">Wel'é-mo soi fanéi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kárqa, kíñe cheuchi muna fánel'u-mo tekul'el'áfimi kús'a; konezu chau faneai <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> karqa; konezu kiñe pəle s'upalai <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kárqa.</p>
+                <p xml:lang="spa" n="252">A la izquerda más pesa la carga, una donde poco pesando le pondrás piedra; con eso igual (?) pesará la carga; con eso a un lado no pasa la carga.</p>
+                <p xml:lang="span" n="252">En el lado izquierdo está más pesada la carga; pon una piedra en el lado derecho para aparejarlo.</p>
+
+                <p xml:lang="arn" n="253">¿Cheu mápu amoáyen? </p>
+                <p xml:lang="spa" n="253">¿A donde (tierra) iremos? </p>
+                <p xml:lang="span" n="253">¿A dónde vamos?</p>
+
+                <p xml:lang="arn" n="254">Inché kíshu kimién; ¡amokáyu mətén! </p>
+                <p xml:lang="spa" n="254"> Yo solo llevo sabido; ¡vamos los dos tan solo! </p>
+
+                <p xml:lang="arn" n="255">Fáchi rǘpü ináfiyən. </p>
+                <p xml:lang="spa" n="255"> Este camino lo seguiremos.</p>
+                <p xml:lang="span" n="255">Salimos por este camino.</p>
+
+                <p xml:lang="arn" n="256">Fáchi l'éufu-mo noáyu, áula amoáyu, tiéchi pǘʎ'i-mu s'umáyu.</p>
+                <p xml:lang="spa" n="256">Por este río pasamos, ahora iremos por aquella cuesta pasamos.</p>
+                <p xml:lang="span" n="256">Después pasamos el río y subimos la cuesta.</p>
+
+                <p xml:lang="arn" n="257">¿Maziao wüth'aŋi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> pü'ʎ'i? </p>
+                <p xml:lang="spa" n="257">¿Mucho se levanta la cuesta?</p>
+                <p xml:lang="span" n="257">¿Es difícil la subida?</p>
+
+                <p xml:lang="arn" n="258">No, wüt'aŋel'ai. </p>
+                <p xml:lang="spa" n="258">No, no se levanta.</p>
+                <p xml:lang="span" n="258">No, señor.</p>
+
+                <p xml:lang="arn" n="259">¿Kəme s'üpǘ ŋepáyi?</p>
+                <p xml:lang="spa" n="259">¿Buen camino viene a ser?</p>
+                <p xml:lang="span" n="259">¿Cómo está el camino?</p>
+
+                <p xml:lang="arn" n="260">Kəmeláí.–Kəmí. </p>
+                <p xml:lang="spa" n="260">No es bueno.–Es bueno.</p>
+
+                <p xml:lang="arn" n="261">Maziáo kus'antuŋi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> rǘpü; naqpǘñi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> pǘʎ'i </p>
+                <p xml:lang="spa" n="261"> Muy pedregoso está el camino; baja mucho (?) la cuesta. </p>
+                <p xml:lang="span" n="261">Hay muchas piedras en el camino, y es escarpado.</p>
+
+                <p xml:lang="arn" n="262">Uneŋéimi; inché iñaŋeán; ñián <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kárqa.</p>
+                <p xml:lang="spa" n="262">Primero eres tú; yo seguiré; llevaré la carga.</p>
+                <p xml:lang="span" n="262">Anda adelante; yo sigo con la carga.</p>
+
+                <p xml:lang="arn" n="263">¿L'úfuŋi fachi l'eufu?</p>
+                <p xml:lang="spa" n="263">¿Hondo está este río?</p>
+                <p xml:lang="span" n="263">¿Está muy hondo el río?</p>
+
+                <p xml:lang="arn" n="264">Púekekaweʎ'úi. –Tzakíki <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> ko tzakukí mətén.</p>
+                <p xml:lang="spa" n="264">(Hasta la) barriga siempre (del) cabaJlo está.¬–(Hasta la) montura el agua pellejo solo.</p>
+                <p xml:lang="span" n="264">Alcanza hasta la barriga del caballo.</p>
+
+                <p xml:lang="arn" n="265">¿Maziáo wüt'úi fáchi l'éufu? </p>
+                <p xml:lang="spa" n="265"> ¿Muy correntoso es este río?</p>
+                <p xml:lang="span" n="265">¿Hay mucha corriente?</p>
+
+                <p xml:lang="arn" n="266">Kəmé nuáyu kaweʎu; pikaáfimi ispuéla-mo, konézo nowái <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kawéʎ'u. </p>
+                <p xml:lang="spa" n="266"> Bien pasaremos (con el) caballo; lo picarás con la espuela, entonces pasará el caballo.</p>
+
+                <p xml:lang="arn" n="267">Fáchi t'ipántu opulai <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> l'éufu; mawelái kai, féumo opulái <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> l'éufu. Ka t'ipán maziáo wés'a wenuŋéi, féimo <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> léufu mazaiáo maŋí .</p>
+                <p xml:lang="spa" n="267"> Este año no está lleno el río; y no llovió, por eso no está lleno el río. El año muy malo tiempo fue; por eso el río muy lleno estuvo.</p>
+
+                <p xml:lang="arn" n="268">Zéuma s'upáyen <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> wés'a rǘpü-mo fa. Áula fa kəmé s'úpu kíñe nó zuamtuamoáyu.</p>
+                <p xml:lang="spa" n="268"> Ya pasamos lo malo en el camino aquí. Ahora aquí buen camino ya no debemos tener cuidado.</p>
+                <p xml:lang="span" n="268">Ya no estamos en la cumbre del cerro; ahora sigue llano el camino.</p>
+
+                <p xml:lang="arn" n="269">Fámu wüs'awúi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> s'úpü. </p>
+                <p xml:lang="spa" n="269"> Aquí se divide el camino.</p>
+                <p xml:lang="span" n="269">Aquí se divide el camino.</p>
+
+                <p xml:lang="arn" n="270">¿Wél'e rǘpü-mo amoáyen? </p>
+                <p xml:lang="spa" n="270">¿En (el) izquierdo camino andaremos? </p>
+                <p xml:lang="span" n="270">¿Cuál camino tomamos?</p>
+
+                <p xml:lang="arn" n="271">Man s'üpü-mo amoayen, zoi kəme s'üpü; fáchi s'üpu zoi fúta s'üpü, zoi miaukí tze.</p>
+                <p xml:lang="spa" n="271">En (el) derecho camino andaremos, más buen camino; este camino más grande camino, más anda siempre gente. </p>
+                <p xml:lang="span" n="271">El de la derecha es más ancho y más trajinado.</p>
+
+                <p xml:lang="arn" n="272">Ñuwiláiyu , fáchi wél'e rǘpü-mo amóyu. </p>
+                <p xml:lang="spa" n="272">No nos perdemos los dos, en este izquierdo camino andamos. </p>
+                <p xml:lang="span" n="272">Tenemos que ir a la izquierda.</p>
+
+                <p xml:lang="arn" n="273">Éitichi wént'u s'amtukáfiŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> rǘpü; kenzáve ñuwiñkepapíyu.</p>
+                <p xml:lang="spa" n="273"> Ese hombre pregúntale por el camino; quien sabe perdiéndonos venimos.</p>
+                <p xml:lang="span" n="273">Allá va un muchacho; ¡pregúntale!</p>
+
+                <p xml:lang="arn" n="274">Inche mət'üméufin; ál'kulái </p>
+                <p xml:lang="spa" n="274"> Yo le he llamado; no oyó. </p>
+                <p xml:lang="span" n="274">Yo le llamé; no me oye.</p>
+
+                <p xml:lang="arn" n="275">Fáchi t'émche (fúcha) kǘpai; s'amtukáfiŋe s'ǘpü. </p>
+                <p xml:lang="spa" n="275"> Esta vieja (viejo) viene; pregúntale por (el) camino.</p>
+                <p xml:lang="span" n="275">Aquí viene una vieja (un viejo); ¡pregúntale!</p>
+
+                <p xml:lang="arn" n="276">¡Alküŋé, mamíta!; ¿fáchi rǘpü chewamói? ¿chéwamóimi? </p>
+                <p xml:lang="spa" n="276"> ¡Oye, mamita! ¿este camino a dónde va? ¿a dónde andas tú? </p>
+                <p xml:lang="span" n="276">Mira, mujer ¿a dónde va este camino?</p>
+
+                <p xml:lang="arn" n="277">Éitichi s'ǘpü kəmími. Kəpán inakafíŋe tíchi rǘpü ñuwinŋelái.</p>
+                <p xml:lang="spa" n="277">(En) aquel camino estás bien. Venir sigue ese camino, error no hay.</p>
+
+                <p xml:lang="arn" n="278">Kachiʎáwe məléi, féimo inál'tu s'umáimi. </p>
+                <p xml:lang="spa" n="278"> Trigal está, de ahí a la orilla pasarás. </p>
+                <p xml:lang="span" n="278">A los campos va.</p>
+
+                <p xml:lang="arn" n="279">¿Ñuwinŋeláichi fáchi rǘpü?</p>
+                <p xml:lang="spa" n="279">¿No se puede errar este camino? </p>
+                <p xml:lang="span" n="279">¿No puedo errar el camino?</p>
+
+                <p xml:lang="arn" n="280">Nuwiláimi; ináltu ko məlí kiñe s'úka; féimo s'amutukaŋéimi; féimo el'uŋáimi s'ǘpü. </p>
+                <p xml:lang="spa" n="280">No te perderás; a la orilla del agua está una casa; allí te darán cuenta; allí te darán camino. </p>
+
+                <p xml:lang="arn" n="281">S'ítu amóŋe mətén; kiñe peafími kiñe máməl; tayéchi kiñe máməl'-mu poáimi, áll'ü pu pél'i <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> máməl' amoáimi máimi iwel' s'upaáimi. </p>
+                <p xml:lang="spa" n="281">Derecho anda solamente; uno verás un árbol; a aquel un árbol llegarás, de lejos si ves el árbol caminarás a la derecha dando vuelta (?) pasarás.</p>
+                <p xml:lang="span" n="281">Anda derechito no más hasta aquellos árboles, y entonces vuelve a la derecha.</p>
+
+                <p xml:lang="arn" n="282">Kiñe píchi ko-mo s'umáimi; inakafími <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> s'ǘpü.</p>
+                <p xml:lang="spa" n="282">En un chico arroyo pasarás; sigues el camino.</p>
+
+                <p xml:lang="arn" n="283">Kíñe l'éufu mel'í; káshkelái .</p>
+                <p xml:lang="spa" n="283">Un río está; mucho no es.</p>
+
+                <p xml:lang="arn" n="284">Kíñe s'aŋiántə s'ǘpü, fut'a rǘpü.</p>
+                <p xml:lang="spa" n="284">Un medio día camino, ancho camino. </p>
+
+                <p xml:lang="arn" n="285">Épe náqən ántə poáimi </p>
+                <p xml:lang="spa" n="285">Apenas bajar el día llegarás.</p>
+
+                <p xml:lang="arn" n="286">S'amtukáyu <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> wént'u, chéu-moŋepáyi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> s'uka. </p>
+                <p xml:lang="spa" n="286">Preguntemos los dos al hombre, dónde viene a estar la casa. </p>
+
+                <p xml:lang="arn" n="287">Poáimi pu pláza-mo, s'amtukaqáimi, poáimi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> pu pláza; féimo t'üskənoŋáimi cheu məlén tifíchi ülmén.</p>
+                <p xml:lang="spa" n="287">Llegarás a (la) plaza, preguntarás llegarás a la plaza entonces te indicarán dónde vive ese rico.</p>
+
+                <p xml:lang="arn" n="288">Fáchi káʎe ináfiyu, kiñe kuádra-mo poayu W´es'a akúyu kimláufi chem ñi moŋén.</p>
+                <p xml:lang="spa" n="288"> Esta calle seguimos, a una cuadra legaremos. Apenas llegamos no sabemos (?) qué su vida (=morada (?))</p>
+
+                <p xml:lang="arn" n="289">¿Káchu ŋepáyi ia <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kawéʎu? </p>
+                <p xml:lang="spa" n="289">¿Pasto viene a estar a comer el caballo? </p>
+                <p xml:lang="span" n="289">¿Hay pasto para los animales?</p>
+
+                <p xml:lang="arn" n="290">Məl'el'ái kás'ü káchu; pinu aŋkǘn káchu məléi; kǘme iái <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kawéʎu fáchi t'afúya.</p>
+                <p xml:lang="spa" n="290"> No está verde pasto; paja seco pasto está; bien comerán los caballos esta tarde.</p>
+                <p xml:lang="span" n="290">Pasto verde no hay, solo hay pasto seco.</p>
+
+                <p xml:lang="arn" n="291">N̰iʎ'améŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> káchu, inché kuʎ'ián. </p>
+                <p xml:lang="spa" n="291">Ve a comprar el pasto, yo pagaré. </p>
+                <p xml:lang="span" n="291">Anda a buscar pasto bueno; te voy a pagar.</p>
+
+                <p xml:lang="arn" n="292">Wǘl'e kənoŋái <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kawéʎ'u kəmé kachu-mo. </p>
+                <p xml:lang="spa" n="292">Mañana se dejarán los caballos en buen pasto. </p>
+
+                <p xml:lang="arn" n="293">Kǘpaumáqen. Amóyu pu ŋetzántu. </p>
+                <p xml:lang="spa" n="293">Vengo (quiero) dormir. Vamos a la cama. </p>
+                <p xml:lang="span" n="293">¿Dónde puedo dormir yo?</p>
+
+                <p xml:lang="arn" n="294">Fámo məlí ŋetzántu. </p>
+                <p xml:lang="spa" n="294">Aquí está la cama. </p>
+
+                <p xml:lang="arn" n="295">Kiñe wéla üyemel'fímən fáchi wüt'án.</p>
+                <p xml:lang="spa" n="295"> Una vela prended a este huésped.</p>
+
+                <p xml:lang="arn" n="296">Mət'ofímən <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> ʎ'apin; kəméke l'if tzáku umaqán <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> wüt'an; konézu kəmé umaqái <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> wüt'án. </p>
+                <p xml:lang="spa" n="296"> Sacudid la estera; bien limpio cuero para dormir el huésped; así bien dormirá el huésped.</p>
+
+                <p xml:lang="arn" n="297">¿Chen ial' niéimi, máma? </p>
+                <p xml:lang="spa" n="297"> ¿Qué comida tienes, madre? </p>
+                <p xml:lang="span" n="297">¿Qué tienes a comer, madre?</p>
+
+                <p xml:lang="arn" n="298">¿Nieimi eimi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kus'am achol'? ¿nieimi we il'on? </p>
+                <p xml:lang="spa" n="298"> ¿Tienes tú los huevos (de) gallina? ¿tienes nueva carne? </p>
+                <p xml:lang="span" n="298">¿Tienes huevos, y carne fresca?</p>
+
+                <p xml:lang="arn" n="299">Məlelai we il'on; aŋkü il'on məlei. </p>
+                <p xml:lang="spa" n="299">No hay nueva carne; seca carne está. </p>
+                <p xml:lang="span" n="299">No hay carne fresca; solo charqui.</p>
+
+                <p xml:lang="arn" n="300"> Afumefimən kiñe kas'u; kəme kənul'afimən <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> winka; konezu mañumai.</p>
+                <p xml:lang="spa" n="300"> Id a cocer una cazuela (?); bien se lo hareis al español; con eso él agradecerá.</p>
+
+                <p xml:lang="arn" n="301">Kǘla kus'ám afuməlén. ¿Chuŋe chai ayüimi, mal'un u kaldu? </p>
+                <p xml:lang="spa" n="301"> Tres huevos prepárame. ¿Cómo quieres, sancochados o caldo?</p>
+                <p xml:lang="span" n="301">Hágame cocer tres huevos.</p>
+
+                <p xml:lang="arn" n="302">All'ü mañumpan.</p>
+                <p xml:lang="spa" n="302">Muy agradecido estoy.</p>
+
+                <p xml:lang="arn" n="303">Fei pifíŋe mi peñien; pichi kəpal'el'iafono ko </p>
+                <p xml:lang="spa" n="303">Así dile a tu chiquillo: un poco me traería agua.</p>
+                <p xml:lang="span" n="303">Diga a su hijo que me traiga agua.</p>
+
+                <p xml:lang="arn" n="304">As'eŋi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> ko; ¿fis'kə ko məl'epel'afoi?</p>
+                <p xml:lang="spa" n="304">Está tibia el agua; ¿fresca agua no había? </p>
+                <p xml:lang="span" n="304">Está muy tibia el agua.</p>
+
+                <p xml:lang="arn" n="305">Chi t'aŋka kəme nüs'üfaimən, t'ipanowam <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kaweʎ'u.</p>
+                <p xml:lang="spa" n="305">La tranca bien cerraréis, para que no salgan los caballos. </p>
+                <p xml:lang="span" n="305">Cierre bien la puerta del corral, para que no salgan los animales en la noche.</p>
+
+                <p xml:lang="arn" n="306">Wül'é petu ñi t'ipanon üs'küman pichün ial'.</p>
+                <p xml:lang="spa" n="306">Mañana aún no habiendo salido (el sol) comeré un poco de comida. </p>
+                <p xml:lang="span" n="306">Mañana antes de salir el sol quiero comer algo.</p>
+
+                <p xml:lang="arn" n="307">Chen ial' ayüimi; ¿kiñe l'aŋəmafun achol', iafuimi, ŋepai? -Kəmei. </p>
+                <p xml:lang="spa" n="307">Que guiso quieres; ¿una mataría gallina, comerias, viene a ser? Bien está.</p>
+                <p xml:lang="span" n="307">Haré una cazuela de ave.</p>
+
+                <p xml:lang="arn" n="308">Kul'ai el'uen kiñe zopa; fei numüi, aumai, kəmentulafin.</p>
+                <p xml:lang="spa" n="308">Endenantes me diste una sopa; esa olió, estuvo ahumada, no la encontré buena.</p>
+                <p xml:lang="span" n="308">La sopa que me diste hoy tenía gusto a humo.</p>
+
+                <p xml:lang="arn" n="309">¿Tunten fal'i mi achol'?</p>
+                <p xml:lang="spa" n="309">¿Cuánto vale tu pollo?</p>
+                <p xml:lang="span" n="309">¿Cuánto valen estos pollos?</p>
+
+                <p xml:lang="arn" n="310">Kiñe mas'i kovre ka kechu kovre </p>
+                <p xml:lang="spa" n="310"> Un diez cobres otro cinco cobres. </p>
+                <p xml:lang="span" n="310">Quince centavos.</p>
+
+                <p xml:lang="arn" n="311">Famo konpai maziao ut'e; kəpal'ŋe pinu, takufíŋe fa konezu konpalai ut'e.</p>
+                <p xml:lang="spa" n="311"> Aquí entra mucho frío; trae paja, tápalo aquí, con eso no entra frío.</p>
+                <p xml:lang="span" n="311">Aquí entra mucho frío; traiga paja para tapar este agujero.</p>
+
+                <p xml:lang="arn" n="312">Famu məli pinu. Poulai, ka pichün kəpal'ŋen </p>
+                <p xml:lang="spa" n="312"> Aquí esta paja. No alcanza, otro poco trae.</p>
+                <p xml:lang="span" n="312">Aquí hay paja. No alcanza. Traiga más.</p>
+
+                <p xml:lang="arn" n="313">¿Kəme í <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kaweʎu? </p>
+                <p xml:lang="spa" n="313">¿Bien comió el caballo? (o comieron los caballos).</p>
+                <p xml:lang="span" n="313">¿Han comido bien los animales?</p>
+
+                <p xml:lang="arn" n="314">Fiʎ' ilai.- Kəme ilai <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kaweʎu; kaz məlelai <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kachu. </p>
+                <p xml:lang="spa" n="314">Todo no comieron.- Bien no comieron los caballos; mucho no fue el pasto.</p>
+
+                <p xml:lang="arn" n="315">Ichi mula pichi al'fǘi ñi fus'i. Təkul'elafimi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> fis'ke ko; ka pichün chas'i təkuaimi; wenutu təkuaimi ko.</p>
+                <p xml:lang="spa" n="315">Esta mula un poco se lastimó su espalda. Le pondrás la fresca agua; y un poco de sal pondrás; encima pondrás agua. </p>
+                <p xml:lang="span" n="315">Una mula está lastimada en el lomo.</p>
+
+                <p xml:lang="arn" n="316">Kəme pepilafimi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> tantiafimi ñi tzaku zoi tzaku niepail'e l'aqentumáfimi.</p>
+                <p xml:lang="spa" n="316"> Bien no lo pudiendo (?) tanteas su pellejo (si) más pellejo viene a tener (?) le vas a quitar.</p>
+
+                <p xml:lang="arn" n="317">Nielai tzaku <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> aparejo. </p>
+                <p xml:lang="spa" n="317">No tiene pellejo el aparejo.</p>
+
+                <p xml:lang="arn" n="318">Nentunmafíŋe ñi tapadera <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kos'fü inche ñi peam.</p>
+                <p xml:lang="spa" n="318">Ve a quitar la tapa a la olla para ver yo.</p>
+                <p xml:lang="span" n="318">Saque la tapa de la olla para ver yo lo que hay.</p>
+
+                <p xml:lang="arn" n="319">Maziao fitunŋei famo.</p>
+                <p xml:lang="spa" n="319">Mucho humo hay aquí.</p>
+                <p xml:lang="span" n="319">Mucho humo hay aquí.</p>
+
+                <p xml:lang="arn" n="320">Maziao antəŋei fachi antə. Matukel'iyen, petu ñi as'eŋenonchi antə.</p>
+                <p xml:lang="spa" n="320">Mucho sol hay este día. Nos apuramos, durante el no ser caliente (el) día.</p>
+                <p xml:lang="span" n="320">Hace mucho sol. Apurémonos.</p>
+
+                <p xml:lang="arn" n="321">¿Tunten ŋepai, fal'ipai inche ta ni feməlepamom?</p>
+                <p xml:lang="spa" n="321">¿Cuánto viene a ser, a valer el que yo he venido así a estar aquí?</p>
+                <p xml:lang="span" n="321">¿Cuánto tengo que pagar por la noche?</p>
+
+                <p xml:lang="arn" n="322">Feməŋen fal'il'ai maiti; kiñe kəme zuŋun-mo </p>
+                <p xml:lang="spa" n="322"> Esto no vale nada; por una buena cosa (=amistad).</p>
+
+
+                <p xml:lang="arn" n="323">Mət'üməl'én mi went'u: kəpápe. Pichü ke zuamiefin </p>
+                <p xml:lang="spa" n="323"> Llámame tu hombre: que venga. Un poco negocio le tengo. </p>
+                <p xml:lang="span" n="323">Llámeme al hombre, tengo que hablarle.</p>
+
+                <p xml:lang="arn" n="324">¿Məl'epai kiñe puente noamchi leufü? </p>
+                <p xml:lang="spa" n="324">¿Viene a estar un puente para pasar el río? </p>
+                <p xml:lang="span" n="324">¿No hay un puente para pasar el río?</p>
+
+                <p xml:lang="arn" n="325">Məl'efúi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> puente, <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> maŋi yepaeu. </p>
+                <p xml:lang="spa" n="325"> Había el puente la avenida vino a llevárselo. </p>
+                <p xml:lang="span" n="325">Había puente; pero la corriente se lo llevó.</p>
+
+                <p xml:lang="arn" n="326">As'kül'e <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> l'eufü, feimo mai zeuma ŋetoi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> puente </p>
+                <p xml:lang="spa" n="326"> Si baja el río, entonces pues después se hace el puente. </p>
+                <p xml:lang="span" n="326">No puede restablecerse el puente antes de que baje el agua.</p>
+
+                <p xml:lang="arn" n="327">¿Cheu məl'epi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> ŋil'awe , kuñewüŋepelai ? </p>
+                <p xml:lang="spa" n="327">¿Dónde está el vado, peligro no hay? </p>
+                <p xml:lang="span" n="327">¿Dónde está el vado?</p>
+
+                <p xml:lang="arn" n="328">Cheu məlefúi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> puente che-mu wentétu məlí <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> ŋil'áwe; kimel'kai <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> miaupayem. </p>
+                <p xml:lang="spa" n="328">Donde estaba el puente de ahí hacia arriba está el vado; lo hace conocer el venir andando.</p>
+                <p xml:lang="span" n="328">Un poco río arriba desde el antiguo puente.</p>
+
+                <p xml:lang="arn" n="329">Nol'mi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> nome l'eufu, entonze məlí kiñe pantanítu; feimo komotuafimi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> pantano üpel'tu s'umaimi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> pu pantano. Weza s'üpüŋei, kuñetumáimi ; kuñetuwül'mi kəmé s'umáimi.</p>
+                <p xml:lang="spa" n="329">Si pasas al otro lado del río, entonces hay un pantanito; entonces mirarás bien el pantano en camino angosto pasaras por el pántano. Malo es (el) camino, irás con temor (=cuidado); si vas con temor (?) bien pasarás.</p>
+                <p xml:lang="span" n="329">Al otro lado hay mucho barro, (pantano).</p>
+
+                <p xml:lang="arn" n="330">Kimelái <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> s'ǘpü, kíñe fakeáno kintuáimi, ŋiyul'meáimo . </p>
+                <p xml:lang="spa">No se conoce el camino, un vaqueano te lo mostrará, él te guiará. </p>
+                <p xml:lang="span"> No veo el camino.</p>
+                <p xml:lang="spa"/>
+
+                <p xml:lang="arn" n="331">Peŋel'el'mén <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> l'eufu pouám inché <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> ŋil'áwe kai. Eimi nómeŋe ŋiyul'mén, el'meŋén. Uneŋe éimi fakeaneimi inche iñaŋeán.</p>
+                <p xml:lang="spa" n="331">Ve a hacerme ver el río para llegar yo y el vado. Tú al otro lado me vas a guiar, me vas a dejar. Anda primero tú (que) eres vaqueano yo seguiré.</p>
+                <p xml:lang="span" n="331">Muéstreme usted el camino al río.</p>
+
+                <p xml:lang="arn" n="332">Inche ñi fóchem ŋiyul'meáimo, nóme l'éufu el'meáimo.</p>
+                <p xml:lang="spa" n="332"> Mi hijo va a guiarte, al otro lado (del) río te va a dejar.</p>
+                <p xml:lang="span" n="332">Mi hijo te va a dejar al otro lado.</p>
+
+                <p xml:lang="arn" n="333">¿Kǘme kimfími <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> rǘpü? </p>
+                <p xml:lang="spa" n="333">¿Bien conoces el camino? </p>
+                <p xml:lang="span" n="333">¿Conoces bien el camino?</p>
+
+                <p xml:lang="arn" n="334">Kəmékimən. Shiwenuqáyu </p>
+                <p xml:lang="spa" n="334"> Bien sé. Nos acompañaremos los dos (vamos juntos.) </p>
+
+                <p xml:lang="arn" n="335">¿Chumə́l' s'upáimi? Wíya-épuému-pus'ánto kiñe. </p>
+                <p xml:lang="spa" n="335">¿Cuando pasaste? Ayer-anteayer-ocho dias uno=una semana.</p>
+
+                <p xml:lang="arn" n="336">¿Kətula ŋepái, fitulái ŋepi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> ko pu kárqa? </p>
+                <p xml:lang="spa" n="336">¿Hasta ahí no viene a ser, no alcanza sucede el agua en la carga? </p>
+                <p xml:lang="span" n="336">¿No se mojará la carga?</p>
+
+                <p xml:lang="arn" n="337">No; kəmé s'umáyen; áula zoi as'kǘi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> leufu. </p>
+                <p xml:lang="spa" n="337">No; bien pasaremos; ahora más bajó el río.</p>
+                <p xml:lang="span" n="337">No, señor; el río entonces tenía más agua que hoy.</p>
+
+                <p xml:lang="arn" n="338">Feimu s'umelaimi; ¡fapəle! famo kəpaŋe; mel'kaiŋi maziao </p>
+                <p xml:lang="spa" n="338"> Allá no pasas; ¡por acá! acá ven resbaloso está mucho. </p>
+                <p xml:lang="span" n="338">No pases allá; está muy resbaloso.</p>
+
+                <p xml:lang="arn" n="339">Famu zoi kəmé laqelŋí (?); inche wulnean (?), inapakáŋe mətén.</p>
+                <p xml:lang="spa" n="339"> Acá más bien se baja; yo iré primero, sígueme no más.</p>
+                <p xml:lang="span" n="339">Aquí es mejor la bajada; yo iré adelante, sígame usted.</p>
+
+                <p xml:lang="arn" n="340">Futake paŋku məli famo. Inapakaimi inche cheu s'upan; pikaniaimi kaweʎ'u.</p>
+                <p xml:lang="spa" n="340">Grandes siempre piedras están aquí. Sígueme yo donde paso; vas a picar (el) caballo.</p>
+                <p xml:lang="span" n="340">¿No hay piedras y peñascos en el río?</p>
+
+                <p xml:lang="arn" n="341">Məlelai paŋku famo; amokayo məten.</p>
+                <p xml:lang="spa" n="341"> No hay piedras aquí; caminemos no más. </p>
+                <p xml:lang="span" n="341">No, señor; el suelo es barroso.</p>
+
+                <p xml:lang="arn" n="342">Famo pichü məli <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> pantanitu, maziao no </p>
+                <p xml:lang="spa" n="342"> Aquí un poco hay el pantanito, mucho no. </p>
+
+                <p xml:lang="arn" n="343">T'ekanáŋe ; eimi namúntu s'upáimi; üt'unauful'mi , kəmelai. </p>
+                <p xml:lang="spa" n="343"> Apéate; tú a pie pasas, si te cayeras de golpe, no está bien. </p>
+                <p xml:lang="span" n="343">Apéese señor; la mula se hunde.</p>
+
+                <p xml:lang="arn" n="344">S'umayu kǘme; pəs'a kaweʎ'u, pat'on, amóyen. Zeumaŋelai wes'a s'üpü </p>
+                <p xml:lang="spa" n="344"> Pasamos bien; suba a caballo, patrón, vamos. Ya no hay mal camino.</p>
+                <p xml:lang="span" n="344">Ahora puede montar usted; ya no hay peligro.</p>
+
+
+                <p xml:lang="arn" n="345">¿Cheu píŋi fáchi l'il'? Nielai qǘi. </p>
+                <p xml:lang="spa" n="345">¿Dónde se llama este cerro? No tiene nombre. </p>
+                <p xml:lang="span" n="345">¿Cómo se llama este cerro?</p>
+
+                <p xml:lang="arn" n="346">¿Məlépi rüpü famoli s'umeya fachi l'il'-mo? </p>
+                <p xml:lang="spa" n="346">¿Existe camino para aquí pasar por este cerro? </p>
+                <p xml:lang="span" n="346">¿Hay un paso aquí en la cordillera?</p>
+
+                <p xml:lang="arn" n="347">Fucha l'il'; maziao məlépi pís'e (il'kü) fachi kordiʎera-mo. </p>
+                <p xml:lang="spa" n="347">Montaña alta; mucho existe nieve (nieve eterna) en esta cordillera.</p>
+
+                <p xml:lang="arn" n="348">¿Məlepi wanaku (l'uan) famo? Famo məl'elai; zoi all'ü pu məlei. Kil'kinchu, choike, kas'ua.</p>
+                <p xml:lang="spa" n="348"> ¿Hay guanacos acá? Acá no hay; más lejos hay. Quilquincho, avestruz, piuquen. </p>
+
+                <p xml:lang="arn" n="349">¿Kəmei fachi kil'kinchu iŋelmo? Maziao kəmí. </p>
+                <p xml:lang="spa" n="349">¿Es bueno este quilquincho para comer? Muy bueno es. </p>
+                <p xml:lang="span" n="349">¿Es buena para comer la carne de este animal?</p>
+
+                <p xml:lang="arn" n="350">¿Fachi l'eufu-mo məlépi chaʎ'wa? ¿Chuŋechi nüŋi fachi chaʎwa? Anzuelu-mo. </p>
+                <p xml:lang="spa" n="350">¿En este río hay pescado? ¿Cómo se cojen éstos pescados? Con el anzuelo.</p>
+                <p xml:lang="span" n="350">¿No hay pescado en esta laguna? ¿Cómo pillan los peces?</p>
+
+                <p xml:lang="arn" n="351">¿Chen küyén-mo tukúŋei poñu famo? </p>
+                <p xml:lang="spa" n="351">¿En qué mes se siembra (la) papa aquí? </p>
+                <p xml:lang="span" n="351">¿En qué mes se siembran las papas aquí?</p>
+
+                <p xml:lang="arn" n="352">Pəs'amŋí ket'an; moŋko nüi ni ket'an; zeuma el'kawe-mo nien.</p>
+                <p xml:lang="spa" n="352">Está cosechado (el) trigo; todo está guardado mi trigo; ya en el granero lo tengo.</p>
+
+                <p xml:lang="arn" n="352a">¿Chen küyen-mo zoi mawui famo? </p>
+                <p xml:lang="spa" n="352a">¿En qué mes más llueve aquí?</p>
+                <p xml:lang="span" n="352a">¿En qué mes hay más lluvia aquí?</p>
+
+                <p xml:lang="arn" n="353">Kiñe pəle s'upai <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> karqa; pepil'fiŋe. </p>
+                <p xml:lang="spa" n="353">A un lado pasó la carga; arréglala. </p>
+                <p xml:lang="span" n="353">Se ha ladeado la carga; arréglala.</p>
+
+                <p xml:lang="arn" n="354">Fachi pəl'en nülüfíŋe; ükelfíŋe ; s'ul'pafiŋe; füyemfíŋe. </p>
+                <p xml:lang="spa" n="354">Hacia acá suéltalo; átalo; pásalo; apriétalo. </p>
+                <p xml:lang="span" n="354">Suelte esta correa y póngala acá y apriétela bien.</p>
+
+                <p xml:lang="arn" n="355">Kəpale s'uméŋe; nüfiŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> yewǘn, üt'ünaunoam, wet'onoam.</p>
+                <p xml:lang="spa" n="355">Hacia el otro lado pasa; agarra la carga, para que no caiga, para que no se quiebre.</p>
+                <p xml:lang="span" n="355">Póngase al otro lado, agarre el bulto para que no se caiga.</p>
+
+                <p xml:lang="arn" n="356">Entul'mafiŋe frenu <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> mula pütükoam. </p>
+                <p xml:lang="spa" n="356">Ve a sacarle (el) freno (a) la mula para beber agua.</p>
+                <p xml:lang="span" n="356">La mula tiene mucha sed. Quítele el freno.</p>
+
+                <p xml:lang="arn" n="357">T'əminkəl'i <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> wenu t'ipalai antə, maual'u məŋí. </p>
+                <p xml:lang="spa" n="357">Oscuro está el cielo, no sale (el) sol, parece que lloverá.</p>
+                <p xml:lang="span" n="357">Parece que tendremos lluvia.</p>
+
+                <p xml:lang="arn" n="358">¿Maziao piʎ'anki famo?-Piʎ'anki.-Nüyun. </p>
+                <p xml:lang="spa" n="358">¿Mucho truena aquí? - Truena.- Temblor.</p>
+                <p xml:lang="span" n="358">¿Hay muchos truenos aquí?</p>
+
+                <p xml:lang="arn" n="359">Makun s'ul'el'paen. T'üputupayu famo </p>
+                <p xml:lang="spa" n="359">El poncho pásame. Vamos a quedar a la sombra aquí. </p>
+
+                <p xml:lang="arn" n="360">Təkupafiŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kaweʎu pu t'ü, <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> mula kai </p>
+                <p xml:lang="spa" n="360"> Pon los caballos a (la) sombra, la mula tambien. </p>
+
+                <p xml:lang="arn" n="361">Famo pichi umaqan; ükelfiŋe <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kaweʎu; umaq- s'umeful'ien, amoafúi <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> kaweʎu. </p>
+                <p xml:lang="spa" n="361"> Aquí un poco dormiré; amarra el caballo; si pasáramos a dormir, se irían los caballos. </p>
+
+                <note>Añado aquí algunas frases sueltas que he apuntado aparte, como digresiones de Quintuprai. </note>
+
+                <p xml:lang="arn" n="362">Kəme went'u ŋes'kími.</p>
+                <p xml:lang="spa" n="362"> Buen hombre eres de veras.</p>
+
+                <p xml:lang="arn" n="363">Kəme l'eukefimi pu wüt'an. </p>
+                <p xml:lang="spa" n="363">Bien recibes los forasteros (huéspedes). </p>
+
+                <p xml:lang="arn" n="364">Kiñe antə pouful'mi inche ñi s'uka-mo, inche kəmel'choiafóimi; inche kaniefun kiñe fuül'. Chenmeayun inche el'uyafoimi.</p>
+                <p xml:lang="spa" n="364"> Un dia si llegases (a) mi casa, yo te trataría igualmente bien (?); yo también tendria un vaso. Lo que me has hecho yo te lo diría.</p>
+
+                <p xml:lang="arn" n="365">Nontupaen, wenüi.</p>
+                <p xml:lang="spa" n="365">¡Balséame, amigo! </p>
+
+                <p xml:lang="arn" n="366">Nome ko kintufiŋe; munái wáichiaimi. </p>
+                <p xml:lang="spa" n="366">Al otro lado del agua ve a buscar; luego volverás. </p>
+
+                <p xml:lang="arn" n="367">Niemən kət'al puen?- Nien. Fañi məlen.</p>
+                <p xml:lang="spa" n="367">¿Teneis fuego (lumbre) pues?- Tengo. Aquí está. </p>
+
+                <p xml:lang="arn" n="368">Kəme il'ukənofimən fachi wüt'an; eimən kai kaŋeu miyal'imən, ka femŋechi kuizaŋeimən. </p>
+                <p xml:lang="spa" n="368">Bien dais a comer a este huésped; vosotros tambien otro tanto recibiréis (?), de la misma manera cuidados sereis. </p>
+
+                <p xml:lang="arn" n="369">Petu yepan mañum; kine mañum wiyeŋelái. </p>
+                <p xml:lang="spa" n="369"> Ya estoy recibiendo cariño; un cariño no se olvida. </p>
+
+                <p xml:lang="arn" n="370">Kəmes'ki fachi pül'kü ka </p>
+                <p xml:lang="spa" n="370">Muy buena está esta bebida. </p>
+
+                <p xml:lang="arn" n="371">Ialmai ni l'el'kefiel. </p>
+                <p xml:lang="spa" n="371">Voy a comer lo que me has dado. </p>
+
+                <note>NOTA. En algunos casos dudosos he escrito s en vez de z o de s', porque vacilaba en la transcripción. Parece que el sonido a veces está en medio entre z y s.</note>
+
+            </body>
+        </text>
+    </TEI>
