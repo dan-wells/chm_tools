@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Estudios Araucanos: materiales para el estudio de la lengua, la literatura, i las costumbres de los indios mapuche o araucanow: diálogos en cuatro dialectos, cuentos populares, narraciones históricas i descriptivas i cartas de los indios en la lengua mapuche<lb/>X cantos araucanos en dialecto moluche y pehuenche chileno (Pehuenche)</title>
+            <author>Rodolfo Lenz</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1895-1898 (elicited 1894)</date>
+               <name>Santiago de Chile, Imprenta Cervantes </name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Anales de la Universidad de Chile</publisher>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Tomo XCVII</p>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic texts</ab>
+            <ab>DIALECT: Pehuenche</ab>
+            <ab>INFORMANT: Calvun (Segundo Jara)</ab>
+            <ab>TRANSCRIBER: Rodolfo Lenz</ab>
+            <ab>LOCATION: Perquenco superior (place of residence of informant)</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>TEXT OCR AND CORRETIONS: Belén Villena and Team </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>ADDITIONAL FORMATTING: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p xml:lang="spa" n="5"> LA QUEJA DE LA MUJER</p>
+         <p xml:lang="arn" n="5"> <w xml:lang="arn" lemma="ülkantun" pos="V" corresp="song"><m baseForm="ülkantu" type="root" corresp="song/poem">ÜL</m><m baseForm="kantu" type="play">KATU</m><m baseForm="(ü)n" type="nmlz">N</m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">KIÑE</m></w> <w xml:lang="arn" lemma="domo" pos="N" corresp="woman"><m baseForm="domo" type="root" corresp="woman">DOMO</m></w></p>
+         <p xml:lang="arn"><w xml:lang="arn" lemma="füt'a" pos="N" corresp="husband"><m baseForm="füt'a" type="root" corresp="husband">Fü´tta</m></w> <w xml:lang="arn" lemma="ngelu" pos="N" corresp="being"><m baseForm="nge" type="root" corresp="be">ŋé</m><m baseForm="lu" type="svn">lu</m></w> <w xml:lang="arn" lemma="tüfeychi" pos="DP" corresp="that"><m baseForm="tüfeychi" type="DP">tvéichi</m></w> <w xml:lang="arn" lemma="domo" pos="N" corresp="woman"><m baseForm="domo" type="root" corresp="woman">dómo</m></w><lb/>
+            <w xml:lang="arn" lemma="yen" pos="V" corresp="carry/take"><m baseForm="ye" type="root" corresp="carry/take">yé</m><m baseForm="me" type="and">me</m><m baseForm="rke" type="rep">rké</m><m baseForm="iyu" corresp="ind1d">yu</m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w><w xml:lang="arn" lemma="wentru" pos="N" corresp="man"><m baseForm="went'u" type="root" corresp="man">wént’u</m></w><lb/>
+            <w xml:lang="arn" lemma="fücha" pos="AJ" corresp="old/big"><m baseForm="fücha" type="root" corresp="old/big">füttá</m></w> <w xml:lang="arn" lemma="kay" pos="AV" corresp="other/also"><m baseForm="kay" type="root" corresp="other/also">ka</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mápu</m></w>:<lb/>
+            <w xml:lang="arn" lemma="puwün" pos="V" corresp="arrive there/run out"><m baseForm="puw" type="root" corresp="arrive there/run out">púw</m><m baseForm="(ü)l" type="cause">l</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="rke" type="rep">rké</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="Wünfali" pos="NP" corresp="Huinfali">Wüñfáli</w>-<w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">méu</m></w>.</p>
+         <p xml:lang="arn" n="5"> <w xml:lang="arn" lemma="puwlu" pos="N" corresp="arriving there/running out"><m baseForm="puw" type="root" corresp="arrive there/run out">Púw</m><m baseForm="lu" type="svn">lú</m></w> <w xml:lang="arn" lemma="ülkantun" pos="V" corresp="song"><m baseForm="ülkantu" type="root" corresp="song/poem">ül</m><m baseForm="kantu" type="play">kátu</m><m baseForm="rke" type="rep">rké</m><m baseForm="iy" type="ind3">i</m></w><lb/>
+        <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">Véimeu</m></w> <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">véi</m></w> <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="rke" type="rep">rké</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="ülkantun" pos="V" corresp="song"><m baseForm="ülkantu" type="root" corresp="song/poem">ül</m><m baseForm="kantu" type="play">katú</m><m baseForm="(ü)n" type="nmlz">n</m></w>:<lb/>
+      </body>
+   </text>
+</TEI>

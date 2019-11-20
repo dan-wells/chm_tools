@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lecturas Araucanas (Narraciones, Costumbres, Cuentos, Canciones, etc.): Relaciones Modernas</title>
+            <author>Félix José de Augusta</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1910</date>
+               <name>Valdiva, Imprenta de la Prefectura Apostólica</name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher/>
+         </publicationStmt>
+         <seriesStmt>
+            <p/>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic Texts</ab>
+            <ab>DIALECT: Lafkenche?</ab>
+            <ab>INFORMANT: José Francisco Kolùñ (and others)</ab>
+            <ab>TRANSCRIBER: Fray Félix José de Augusta</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>ORIGINAL DOCUMENT: Biblioteca Nacional de Chile id: 96049</p>
+            <p>DOCUMENT SCAN: Memoria Chilena (MC0033389) http://www.memoriachilena.cl/602/w3-article-9601.html</p>
+            <p>TEXT OCR: Google Cloud Vision (using DH Dashboard, developed by Bryan Tarpley at the
+               Center for Digital Humanities Research here at Texas A&amp;M University.) </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>OCR CORRECTIONS: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div><pb n="3"/>
+<pb n="51"/>
+
+<head xml:lang="spa" n="1"> Impresiones que el ciego José Francisco Kolùñ
+llevó de la Misión, manifestadas en una conversación
+habida con sus padres, de regreso á su casa.<lb/>A. Conversación con la madre.</head>
+
+            <p xml:lang="arn" n="1"> „<w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">Kiñe</m></w> <w xml:lang="arn" lemma="akucha" pos="N" corresp="pendant/needle" source="sp:aguja"><m baseForm="akucha" type="root" corresp="pendant/needle">akucha</m></w> <w xml:lang="arn" lemma="regalan" pos="V" corresp="gift" source="sp:regalar"><m baseForm="regala">regalá</m><m baseForm="enew" type="ind3-1s">neu</m></w>
+               <w xml:lang="arn" lemma="padre" pos="N" corresp="priest" source="sp:padre"><m baseForm="padre" type="root" corresp="priest">Padre</m></w>", <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pí</m><m baseForm="(ü)n" type="ind1s">n</m></w> <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">iñche</m></w>.</p>
+
+            <p xml:lang="arn">„¡¿<w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">Ñi</m></w> <w xml:lang="arn" lemma="ngilatulelchi" pos="AJ" corresp="requested/bought"><m baseForm="ngilla" type="root" corresp="buy/get">ŋilla</m><m baseForm="tu" type="rest">tu</m><m baseForm="(ü)l" type="cause">l</m><m baseForm="etew" type="invNF3">etéu</m><m baseForm="chi" type="ajvz">chi</m></w> <w xml:lang="arn" lemma="akucha" pos="N" corresp="pendant/needle" source="sp:aguja"><m baseForm="akucha" type="root" corresp="pendant/needle">akucha</m></w>
+               <w xml:lang="arn" lemma="padre" pos="N" corresp="priest" source="sp:padre"><m baseForm="padre" type="root" corresp="priest">Padre</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>?!" <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="enew" type="ind3-1s">éneu</m></w> <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> <w xml:lang="arn" lemma="ñuke" pos="N" corresp="mother"><m baseForm="ñuke" type="root" corresp="mother">ñuke</m></w>.</p>
+
+         </div>
+      </body>
+   </text>
+</TEI>

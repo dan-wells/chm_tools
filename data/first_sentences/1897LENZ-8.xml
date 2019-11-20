@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Estudios Araucanos: materiales para el estudio de la lengua, la literatura, i las costumbres de los indios mapuche o araucanos : diálogos en cuatro dialectos, cuentos populares, narraciones históricas i descriptivas i cartas de los indios en la lengua mapuche<lb/>X cantos araucanos en dialecto moluche y pehuenche chileno (Moluche)</title>
+            <author>Rodolfo Lenz</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1895-1898 (elicited 1896)</date>
+               <name>Santiago de Chile, Imprenta Cervantes </name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Anales de la Universidad de Chile</publisher>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Tomo XCVII</p>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic texts</ab>
+            <ab>DIALECT: Moluche</ab>
+            <ab>INFORMANT: Benito Naguin Trensao (1) and other Moluche people (2-4), </ab>
+            <ab>TRANSCRIBER: these annonymous verses were taken down by Chiappa and corrected by Lenz and Calvun</ab>
+            <ab>LOCATION: Chollcholl (place of residence of informant) and other locations</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>TEXT OCR AND CORRETIONS: Belén Villena and Team </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>ADDITIONAL FORMATTING: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p xml:lang="spa" n="1"> VERSOS DEL MOLUCHE BENITO NAGUIN TRENSAO</p>
+         
+         <p xml:lang="arn" n="a"> <w xml:lang="arn" lemma="lamngen" pos="N" corresp="brother (of a woman) or sister"><m baseForm="lamngen" type="root" corresp="brother (of a woman) or sister">Lamŋén</m></w> <w xml:lang="arn" lemma="anay" pos="EP" corresp="friend!"><m baseForm="anay" type="root" corresp="friend!">anái</m></w>, <w xml:lang="arn" lemma="lamngen" pos="N" corresp="brother (of a woman) or sister"><m baseForm="lamngen" type="root" corresp="brother (of a woman) or sister">lamŋén</m></w> <w xml:lang="arn" lemma="anay" pos="EP" corresp="friend!"><m baseForm="anay" type="root" corresp="friend!">anái</m></w><lb/>
+            <w xml:lang="arn" lemma="fücha" pos="AJ" corresp="old/big"><m baseForm="fücha" type="root" corresp="old/big">vəta</m></w> <w xml:lang="arn" lemma="kuyfi" pos="AV" corresp="long time"><m baseForm="kuyfi" type="root" corresp="long time">kúivi</m></w> <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">mái</m></w> <w xml:lang="arn" lemma="pen" pos="V" corresp="see"><m baseForm="pe" type="root" corresp="see">pe</m><m baseForm="(u)w" type="reflex">ú</m><m baseForm="iyu" type="ind1d">yu</m></w> <w xml:lang="arn" lemma="lamngen" pos="N" corresp="brother (of a woman) or sister"><m baseForm="lamngen" type="root" corresp="brother (of a woman) or sister">lamŋən</m></w>,<lb/>
+            <w xml:lang="arn" lemma="lamngen" pos="N" corresp="brother (of a woman) or sister"><m baseForm="lamngen" type="root" corresp="brother (of a woman) or sister">ʎamŋén</m></w>  <w xml:lang="arn" lemma="anay" pos="EP" corresp="friend!"><m baseForm="anay" type="root" corresp="friend!">anái</m></w>, <w xml:lang="arn" lemma="lamngen" pos="N" corresp="brother (of a woman) or sister"><m baseForm="lamngen" type="root" corresp="brother (of a woman) or sister">ʎamŋén</m></w>.</p>
+         
+         <p xml:lang="arn" n="b"> <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">Pə´chi</m></w> <w xml:lang="arn" lemma="kompañen" pos="V" corresp="accompany" source="sp:acompañar"><m baseForm="kompañe" type="root" corresp="accompany">kómpañé</m><m baseForm="(ü)n" type="ind1s">n</m></w>, <w xml:lang="arn" lemma="anay" pos="EP" corresp="friend!"><m baseForm="anay" type="root" corresp="friend!">anai</m></w>;<lb/>
+            <w xml:lang="arn" lemma="amun" pos="V" corresp="go/walk"><m baseForm="amu" type="root" corresp="go/walk">ámu</m><m baseForm="tu" type="rest">ty</m><m baseForm="a" type="fut">á</m><m baseForm="iyu" corresp="ind1d">yu</m></w> <w xml:lang="arn" lemma="kay" pos="AV" corresp="other/also"><m baseForm="kay" type="root" corresp="other/also">ká</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mápu</m></w>.</p>
+         
+      </body>
+   </text>
+</TEI>

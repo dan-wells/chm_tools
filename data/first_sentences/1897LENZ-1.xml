@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Estudios Araucanos: materiales para el estudio de la lengua, la literatura, i las costumbres de los indios mapuche o araucanos : diálogos en cuatro dialectos, cuentos populares, narraciones históricas i descriptivas i cartas de los indios en la lengua mapuche<lb/>I Viaje al País de los Manzaneros</title>
+            <author>Rodolfo Lenz</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1895-1898 (elicited 1894)</date>
+               <name>Santiago de Chile, Imprenta Cervantes </name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Anales de la Universidad de Chile</publisher>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Tomo XCVII</p>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic texts</ab>
+            <ab>DIALECT: Huilliche</ab>
+            <ab>INFORMANT: Domingo Quintuprai</ab>
+            <ab>TRANSCRIBER: Rodolfo Lenz</ab>
+            <ab>LOCATION: Osorno (place of birth/residence of informant)</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>TEXT OCR AND CORRETIONS: Belén Villena and Team </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>ADDITIONAL FORMATTING: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <p xml:lang="arn" n="1"> <w xml:lang="arn" lemma="kiñechi" pos="AV" corresp="one-of"><m baseForm="kiñe"
+             type="root" corresp="one"/>Kiñe<m baseForm="chi" type="DA">chi</m></w> <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">mai</m></w>  <w xml:lang="arn" lemma="miawün" pos="V" corresp="wander"><m baseForm="miaw" type="root" corresp="wander">miáu</m><m baseForm="mee" type="and">me</m><m baseForm="(ü)n" type="ind1s">n</m></w> <w xml:lang="arn" lemma="waydüf" pos="AJ" corresp="tramontane"><m baseForm="waydüf" type="root" corresp="tramontane"></m>waizǘf</w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mápu</m></w> ; <w xml:lang="arn" lemma="yen" pos="V" corresp="carry/take">ye<m baseForm="(ü)n" type="ind1s">n</m></w>  <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">mai</m></w> <w xml:lang="arn" lemma="epu" pos="NUM" corresp="two"><m baseForm="epu" type="root" corresp="two">epu</m></w> <w xml:lang="arn" lemma="karqa" pos="N" corresp="load" source="sp:carga"><m baseForm="karqa" type="root" corresp="load">kárqa</m></w>  <w xml:lang="arn" lemma="pülku" pos="N" corresp="cider/wine"><m baseForm="pülku" type="root" corresp="cider/wine">pülku</m></w> <w xml:lang="arn" lemma="awardiente" pos="N" corresp="firewater/grappa" source="sp:aguardiente"><m baseForm="awardiente" type="root" corresp="firewater/grappa"></m>awardiénte</w>. </p>
+
+ <p xml:lang="arn"><w xml:lang="arn" lemma="amun" pos="V" corresp="go/walk"><m baseForm="amu" type="root" corresp="go/walk">Amó</m><m baseForm="ye" type="pl">ye</m><m baseForm="(ü)n" type="ind1s">n</m></w> <w xml:lang="arn" lemma="küla" pos="NUM" corresp="three"><m baseForm="küla" type="root" corresp="three">küla</m></w> <w xml:lang="arn" lemma="wentru" pos="N" corresp="man"><m baseForm="wentru" type="root" corresp="man">wént’u</m></w>; <w xml:lang="arn" lemma="epu" pos="NUM" corresp="two"><m baseForm="epu" type="root" corresp="two">epu</m></w> <w xml:lang="arn" lemma="karqa" pos="N" corresp="load" source="sp:carga"><m baseForm="karqa" type="root" corresp="load">kárqa</m></w> <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">ma</m></w>-<w xml:lang="arn" lemma="yen" pos="V" corresp="carry/take">yé<m baseForm="(Ü)n" type="ind1s">n</m></w>  , <w xml:lang="arn" lemma="epu" pos="NUM" corresp="two"><m baseForm="epu" type="root" corresp="two">épu</m></w> <w xml:lang="arn" lemma="kawellu" pos="N" corresp="horse" source="sp:caballo"><m baseForm="kawellu" type="root" corresp="horse">kaweʎu</m></w> <w xml:lang="arn" lemma="kay" pos="AV" corresp="other/also"><m baseForm="kay" type="root" corresp="other/also">ka</m></w>-<w xml:lang="arn" lemma="yen" pos="V" corresp="carry/take">ye<m baseForm="(Ü)n" type="ind1s">n</m></w> : <w xml:lang="arn" lemma="epu" pos="NUM" corresp="two"><m baseForm="epu" type="root" corresp="two">épu</m></w> <w xml:lang="arn" lemma="nel'" pos="AJ" corresp="loose"><m baseForm="nel'" type="root" corresp="loose">nel</m></w>  <w xml:lang="arn" lemma="kawellu" pos="N" corresp="horse" source="sp:caballo"><m baseForm="kawellu" type="root" corresp="horse">kawéʎu</m></w> <w xml:lang="arn" lemma="kay" pos="AV" corresp="other/also"><m baseForm="kay" type="root" corresp="other/also">ka</m></w>-<w xml:lang="arn" lemma="yen" pos="V" corresp="carry/take">yé<m baseForm="(Ü)n" type="ind1s">n</m></w>.</p>
+            <p xml:lang="arn">      <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">Kiñe</m></w> <w xml:lang="arn" lemma="antü" pos="N" corresp="day/sun"><m baseForm="antü" type="root" corresp="day/sun">ántə</m></w> <w xml:lang="arn" lemma="yen" pos="V" corresp="carry/take">ye<m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> <w xml:lang="arn" lemma="yewün" pos="N" corresp="load/belongiings/provisions"><m baseForm="ye" type="root" corresp="carry">ye</m><m baseForm="(u)w" type="reflex">w</m><m baseForm="(ü)n" type="nmlz">ǘn</m></w> <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> <w xml:lang="arn" lemma="epu" pos="NUM" corresp="two"><m baseForm="epu" type="root" corresp="two">épu</m></w> <w xml:lang="arn" lemma="kawellu" pos="N" corresp="horse" source="sp:caballo"><m baseForm="kawellu" type="root" corresp="horse">kawéʎu</m></w>, <w xml:lang="arn" lemma="kay" pos="AV" corresp="other/also"><m baseForm="kay" type="root" corresp="other/also">k</m></w><w xml:lang="arn" lemma="antü" pos="N" corresp="day/sun"><m baseForm="antü" type="root" corresp="day/sun">ántə</m></w>-<w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">mo</m></w> <w xml:lang="arn" lemma="chillan" pos="V" corresp="saddle" source="sp:silla"><m baseForm="chilla" type="root" corresp="saddle">chíʎa</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> <w xml:lang="arn" lemma="nel'" pos="AJ" corresp="loose"><m baseForm="nel'" type="root" corresp="loose">nel</m></w> <w xml:lang="arn" lemma="kawellu" pos="N" corresp="horse" source="sp:caballo"><m baseForm="kawellu" type="root" corresp="horse">kawéʎu</m></w>; <w xml:lang="arn" lemma="tükun" pos="V" corresp="place/sow"><m baseForm="tüku" type="root" corresp="place/sow">təku</m><m baseForm="(l)el" type="appl">lél</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="yewün" pos="N" corresp="load/belongiings/provisions"><m baseForm="ye" type="root" corresp="carry">ye</m><m baseForm="(u)w" type="reflex">w</m><m baseForm="(ü)n" type="nmlz">ǘn</m></w>.</p>
+
+      </body>
+   </text>
+</TEI>

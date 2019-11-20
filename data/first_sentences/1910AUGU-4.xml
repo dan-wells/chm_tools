@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lecturas Araucanas (Narraciones, Costumbres, Cuentos, Canciones, etc.): Canciones</title>
+            <author>Félix José de Augusta</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1910</date>
+               <name>Valdiva, Imprenta de la Prefectura Apostólica</name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher/>
+         </publicationStmt>
+         <seriesStmt>
+            <p/>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic Texts</ab>
+            <ab>DIALECT: Lafkenche?</ab>
+            <ab>INFORMANT: José Francisco Kolùñ (and others)</ab>
+            <ab>LOCATION: Costal areas between Bajo Imperial and Tolten (place of residence of informant)</ab>
+            <ab>TRANSCRIBER: Fray Félix José de Augusta</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>ORIGINAL DOCUMENT: Biblioteca Nacional de Chile id: 96049</p>
+            <p>DOCUMENT SCAN: Memoria Chilena (MC0033389) http://www.memoriachilena.cl/602/w3-article-9601.html</p>
+            <p>TEXT OCR: Google Cloud Vision (using DH Dashboard, developed by Bryan Tarpley at the Center for Digital Humanities Research here at Texas A&amp;M University.) </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>OCR CORRECTIONS: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+
+            <pb n="161"/>
+
+            <head xml:lang="spa" n="1"/>
+
+            <note xml:lang="spa">Ref. por Maria Francisca Painemilla de Wapi</note>
+
+            <p xml:lang="arn" n="1"> <w xml:lang="arn" lemma="ayenien" pos="V" corresp="make fun"><m baseForm="aye" type="root" corresp="laugh">Aye</m><m baseForm="nie" corresp="psist">nie</m><m baseForm="fall" type="cause">fal</m>-<m baseForm="la" type="neg">la</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="nguluche" pos="CN" corresp="west-people (Chileans)"><m baseForm="ngulu" type="root" corresp="west">Ŋulu</m><m baseForm="che" type="root" corresp="person">che</m></w>, <w xml:lang="arn" lemma="lamngen" pos="N" corresp="brother (of a woman) or sister"><m baseForm="lamngen" type="root" corresp="brother (of a woman) or sister">lamŋen</m></w> <w xml:lang="arn" lemma="em" pos="IJ" corresp="ouch!"><m baseForm="em" type="particle" corresp="ouch!">em</m></w>,<lb/> <w xml:lang="arn" lemma="ayenien" pos="N" corresp="laughing"><m baseForm="aye" type="root" corresp="laugh">Aye</m><m baseForm="nie" corresp="psist">nie</m><m baseForm="pass" type="pass">ŋe</m><m baseForm="(ü)n" type="nmlz">n</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> „<w xml:lang="arn" lemma="ayün" pos="V" corresp="want/love"><m baseForm="ayü" type="root" corresp="want/love">ayù</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="(ü)n" type="ind1">n</m></w>" <w xml:lang="arn" lemma="pilu" pos="V" corresp="saying"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="ka" type="cont">ka</m><m baseForm="rke" type="rep">rke</m><m baseForm="lu" type="svn">lu</m></w> <w xml:lang="arn" lemma="kay" pos="AV" corresp="other/also"><m baseForm="kay" type="root" corresp="other/also">kai</m></w>.</p>
+
+            <p xml:lang="arn" n="1"> <w xml:lang="arn" lemma="karü" pos="AJ" corresp="green"><m baseForm="karü" type="root" corresp="green">Karù</m></w> <w xml:lang="arn" lemma="manshana" pos="N" corresp="apple" source="sp:manzana"><m baseForm="manshana" type="root" corresp="apple">manshana</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="rul" pos="AV" corresp="all the time"><m>rul</m></w> <w xml:lang="arn" lemma="pan" pos="V" corresp="come/bring/coax"><m baseForm="pa" type="root" corresp="come/bring/coax">pa</m><m baseForm="a" type="fut">ia</m><m baseForm="fi" type="3dir">fi</m><m baseForm="(iy)iñ" type="ind1p">ñ</m></w>, <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="rke" type="rep">rke</m><m baseForm="lle" type="affirm">lle</m><m baseForm="fu" type="bi">fu</m><m baseForm="lu" type="svn">lu</m></w> <w xml:lang="arn" lemma="kay" pos="AV" corresp="other/also"><m baseForm="kay" type="root" corresp="other/also">kai</m></w>, <w xml:lang="arn" lemma="lamngen" pos="N" corresp="brother (of a woman) or sister"><m baseForm="lamngen" type="root" corresp="brother (of a woman) or sister">lamŋen</m></w> <w xml:lang="arn" lemma="em" pos="IJ" corresp="ouch!"><m baseForm="em" type="particle" corresp="ouch!">em</m></w>!</p>
+
+         </div>
+      </body>
+   </text>
+</TEI>

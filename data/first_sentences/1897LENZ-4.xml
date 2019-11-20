@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Estudios Araucanos: materiales para el estudio de la lengua, la literatura, i las costumbres de los indios mapuche o araucanos : diálogos en cuatro dialectos, cuentos populares, narraciones históricas i descriptivas i cartas de los indios en la lengua mapuche<lb/>IV Trozos Menores en Picunche y Huilliche (Picunche: LA FIESTA DE LA TRILLA)</title>
+            <author>Rodolfo Lenz</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1895-1898 (elicited 1894)</date>
+               <name>Santiago de Chile, Imprenta Cervantes </name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Anales de la Universidad de Chile</publisher>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Tomo XCVII</p>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic texts</ab>
+            <ab>DIALECT: Picunche</ab>
+            <ab>INFORMANT: Juan Amasa</ab>
+            <ab>TRANSCRIBER: Rodolfo Lenz</ab>
+            <ab>LOCATION: Collipulli, near the Malleco River (place of residence of informant)</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>TEXT OCR AND CORRETIONS: Belén Villena and Team </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>ADDITIONAL FORMATTING: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <head>Canto de Trilla</head>
+         <p xml:lang="arn"> <w xml:lang="arn" lemma="amun" pos="V" corresp="go/walk"><m baseForm="amu" type="root" corresp="go/walk">Ámo</m><m baseForm="(kü)le" type="prog">lé</m><m baseForm="iyu" type="ind1d">yo</m></w>, <w xml:lang="arn" lemma="amun" pos="V" corresp="go/walk"><m baseForm="amu" type="root" corresp="go/walk">ámo</m><m baseForm="(kü)le" type="prog">lé</m><m baseForm="iyu" type="ind1d">yu</m></w>, <w xml:lang="arn" lemma="chachan" pos="N" corresp="friend"><m baseForm="chachan" type="root" corresp="friend">cháchan</m></w>. <lb/></p>
+
+         <p xml:lang="arn">¿<w xml:lang="arn" lemma="chem" pos="WH" corresp="why/what"><m baseForm="chem" type="particle" corresp="why/what">Chém</m></w> <w xml:lang="arn" lemma="anta" pos="IP" corresp="?" ana="See Smeets 2008, 32.9"><m baseForm="anta" type="root" corresp="?">anta</m></w> <w xml:lang="arn" lemma="püñon" pos="V" corresp="step on/stomp"><m baseForm="püño" type="root" corresp="step on/stomp">pəño</m>-<m baseForm="pe" type="px">pe</m><m baseForm="fi" type="3dir">v</m><m baseForm="imi" type="ind2s">ími</m></w>, <w xml:lang="arn" lemma="chachan" pos="N" corresp="friend"><m baseForm="chachan" type="root" corresp="friend">cháchan</m></w>? <lb/></p>
+
+         <p xml:lang="arn">¿<w xml:lang="arn" lemma="kawella" pos="N" corresp="barley"><m baseForm="kawella" type="root" corresp="barley">Kaweʎa</m></w> <w xml:lang="arn" lemma="anta" pos="IP" corresp="?" ana="See Smeets 2008, 32.9"><m baseForm="anta" type="root" corresp="?">anchi</m></w> <w xml:lang="arn" lemma="püñon" pos="V" corresp="step on/stomp"><m baseForm="püño" type="root" corresp="step on/stomp">pəño</m>-<m baseForm="pe" type="px">pe</m><m baseForm="fi" type="3dir">v</m><m baseForm="imi" type="ind2s">ími</m></w>, <w xml:lang="arn" lemma="chachan" pos="N" corresp="friend"><m baseForm="chachan" type="root" corresp="friend">chachan</m></w>? <lb/></p>
+
+         <p xml:lang="arn"><w xml:lang="arn" lemma="famün" pos="V" corresp="be thus"><m baseForm="fam" type="root" corresp="thus">Fam</m><m baseForm="ka" type="cont">ka</m><m baseForm="ke" type="habit">ke</m><m baseForm="fu" type="bi">fu</m><m baseForm="(ü)n" type="ind1s">n</m></w> <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> <w xml:lang="arn" lemma="püñon" pos="V" corresp="step on/stomp"><m baseForm="püño" type="root" corresp="step on/stomp">pəño</m><m baseForm="yüm" type="temp">yəm</m></w> <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> <w xml:lang="arn" lemma="kawella" pos="N" corresp="barley"><m baseForm="kawella" type="root" corresp="barley">kaweʎá</m></w>, <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="chachan" pos="N" corresp="friend"><m baseForm="chachan" type="root" corresp="friend">chacha</m></w> yem.<lb/></p>
+
+         <p xml:lang="arn"><w xml:lang="arn" lemma="trekan" pos="V" corresp="walk/step"><m baseForm="treka" type="root" corresp="walk/step">T’eka</m><m baseForm="(kü)le" type="prog">le</m><m baseForm="nge" type="imp2s">ŋe</m></w>, <w xml:lang="arn" lemma="chachan" pos="N" corresp="friend"><m baseForm="chachan" type="root" corresp="friend">chachan</m></w>, <w xml:lang="arn" lemma="amun" pos="V" corresp="go/walk"><m baseForm="amu" type="root" corresp="go/walk">amo</m><m baseForm="(kü)le" type="prog">le</m><m baseForm="nge" type="imp2s">ŋe</m></w>; <lb/> <w xml:lang="arn" lemma="tüfeychi" pos="DP" corresp="that"><m baseForm="tüfeychi" type="DP">Təvei</m></w>, <w xml:lang="arn" lemma="tüfeychi" pos="DP" corresp="that"><m baseForm="tüfeychi" type="DP">təvei</m></w>, <w xml:lang="arn" lemma="chachan" pos="N" corresp="friend"><m baseForm="chachan" type="root" corresp="friend">chachan</m></w>. <lb/></p>
+
+         <p xml:lang="arn"><w xml:lang="arn" lemma="tüfeychi" pos="DP" corresp="that"><m baseForm="tüfeychi" type="DP">Təvei</m></w>, <w xml:lang="arn" lemma="tüfeychi" pos="DP" corresp="that"><m baseForm="tüfeychi" type="DP">təvei</m></w>, <w xml:lang="arn" lemma="amun" pos="V" corresp="go/walk"><m baseForm="amu" type="root" corresp="go/walk">amu</m><m baseForm="(kü)le" type="prog">le</m><m baseForm="nge" type="imp2s">ŋe</m></w>, <w xml:lang="arn" lemma="chachan" pos="N" corresp="friend"><m baseForm="chachan" type="root" corresp="friend">chachan</m></w>. <lb/></p>
+
+         <p xml:lang="arn"><w xml:lang="arn" lemma="tiken" pos="V" corresp="touch?"><m baseForm="tike" type="root" corresp="touch?">Tike</m><m baseForm="elmew" type="ind3-2">qelmu</m></w> <w xml:lang="arn" lemma="müta" pos="N" corresp="horn"><m baseForm="müta" type="root" corresp="horn">məta</m></w> <w xml:lang="arn" lemma="waka" pos="N" corresp="cow" source="sp:vaca"><m baseForm="waka" type="root" corresp="cow">waka</m></w> <w xml:lang="arn" lemma="tüfa" pos="DP"><m baseForm="tüfa" type="DP">təv’e</m></w> <lb/> <w xml:lang="arn" lemma="repülen" pos="V" corresp="copulate"><m baseForm="repü" type="root" corresp="fire drill/copulation">Repə</m><m baseForm="le" type="vb">le</m><m baseForm="ke" type="habit">ke</m><m baseForm="elmew" type="ind3-2">qelmu</m></w>, <w xml:lang="arn" lemma="chachan" pos="N" corresp="friend"><m baseForm="chachan" type="root" corresp="friend">chachan</m></w>. <lb/></p>
+
+                                     <p xml:lang="arn"><w xml:lang="arn" lemma="amun" pos="V" corresp="go/walk"><m baseForm="amu" type="root" corresp="go/walk">Amu</m><m baseForm="(kü)le" type="prog">le</m><m baseForm="nge" type="imp2s">ŋe</m></w>.</p>
+
+      </body>
+   </text>
+</TEI>

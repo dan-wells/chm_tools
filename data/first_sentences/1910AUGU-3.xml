@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lecturas Araucanas (Narraciones, Costumbres, Cuentos, Canciones, etc.): Cuentos</title>
+            <author>Félix José de Augusta</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1910</date>
+               <name>Valdiva, Imprenta de la Prefectura Apostólica</name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher/>
+         </publicationStmt>
+         <seriesStmt>
+            <p/>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic Texts</ab>
+            <ab>DIALECT: Lafkenche?</ab>
+            <ab>INFORMANT: Carmen Painemilla (and others)</ab>
+            <ab>LOCATION: Costal areas between Bajo Imperial and Tolten (place of residence of informant)</ab>
+            <ab>TRANSCRIBER: Fray Félix José de Augusta</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>ORIGINAL DOCUMENT: Biblioteca Nacional de Chile id: 96049</p>
+            <p>DOCUMENT SCAN: Memoria Chilena (MC0033389) http://www.memoriachilena.cl/602/w3-article-9601.html</p>
+            <p>TEXT OCR: Google Cloud Vision (using DH Dashboard, developed by Bryan Tarpley at the Center for Digital Humanities Research here at Texas A&amp;M University.) </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>OCR CORRECTIONS: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n="71"/>
+
+            <head xml:lang="spa">El caballo blanco.</head>
+
+            <note xml:lang="spa">referido por Carmen Painemilla</note>
+
+            <p xml:lang="arn" n="1"> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">Kiñe</m></w> <w xml:lang="arn" lemma="fücha" pos="AJ" corresp="old/big"><m baseForm="fücha" type="root" corresp="old/big">fùcha</m></w> <w xml:lang="arn" lemma="wentru" pos="N" corresp="man"><m baseForm="wentru" type="root" corresp="man">wentru</m></w> <w xml:lang="arn" lemma="küla" pos="NUM" corresp="three"><m baseForm="küla" type="root" corresp="three">kùla</m></w> <w xml:lang="arn" lemma="fot'üm" pos="N" corresp="son (of a man)"><m baseForm="fot'üm" type="root" corresp="son (of a man)">fotəm</m></w> <w xml:lang="arn" lemma="nien" pos="V" corresp="have"><m baseForm="nie" type="root" corresp="have">nie</m><m baseForm="iy" type="ind3">i</m></w>; <w xml:lang="arn" lemma="nien" pos="V" corresp="have"><m baseForm="nie" type="root" corresp="have">nie</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="kachilla" pos="N" corresp="wheat" source="sp:Castilla"><m baseForm="kachilla" type="root" corresp="wheat">kachilla</m></w> <w xml:lang="arn" lemma="tüfeychi" pos="DP" corresp="that"><m baseForm="tichi" type="DP">tichi</m></w> <w xml:lang="arn" lemma="fücha" pos="AJ" corresp="old/big"><m baseForm="fücha" type="root" corresp="old/big">fùcha</m></w> <w xml:lang="arn" lemma="wentru" pos="N" corresp="man"><m baseForm="wentru" type="root" corresp="man">wentru</m></w>.</p>
+
+            <p xml:lang="arn" n="2"> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">Kiñe</m></w> <w xml:lang="arn" lemma="antü" pos="N" corresp="day/sun"><m baseForm="antü" type="root" corresp="day/sun">antù</m></w> <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="fi" type="dir3">fí</m><m baseForm="iy" type="ind3" change="deletion"></m></w> ñi <w xml:lang="arn" lemma="wünen" pos="AJ" corresp="first/front one"><m baseForm="wüne" type="root" corresp="first/front">wəne</m><m baseForm="(ü)n" type="nmlz">n</m></w> <w xml:lang="arn" lemma="fot'üm" pos="N" corresp="son (of a man)"><m baseForm="fot'üm" type="root" corresp="son (of a man)">fotəm</m></w>: „<w xml:lang="arn" lemma="chumngelu" pos="WH" corresp="why"><m baseForm="chumngelu" type="particle" corresp="why">Chumŋelu</m></w> <w xml:lang="arn" lemma="kam" pos="IP"><m baseForm="kam" type="particle">kam</m></w> <w xml:lang="arn" lemma="afün" pos="V" corresp="complete/cook"><m baseForm="af" type="root" corresp="complete/cook">af</m><m baseForm="iy" type="ind3"></m>í</w> <w xml:lang="arn" lemma="tayu" pos="PP" corresp="both of our"><m baseForm="tayu" type="1d" corresp="both of our">tayu</m></w> <w xml:lang="arn" lemma="kachilla" pos="N" corresp="wheat" source="sp:Castilla"><m baseForm="kachilla" type="root" corresp="wheat">kachilla</m></w>, <w xml:lang="arn" lemma="fot'üm" pos="N" corresp="son (of a man)"><m baseForm="fot'üm" type="root" corresp="son (of a man)">fotəm</m></w>? <w xml:lang="arn" lemma="ngünen" pos="V" corresp="dominate/govern/protect"><m baseForm="ngüne" type="root" corresp="dominate/govern/protect">Ŋənei</m><m baseForm="ke" type="habit">ke</m><m baseForm="a" type="fut">a</m><m baseForm="imi" type="ind2s">imi</m></w> <w xml:lang="arn" lemma="kachilla" pos="N" corresp="wheat" source="sp:Castilla"><m baseForm="kachilla" type="root" corresp="wheat">kachilla</m></w>; <w xml:lang="arn" lemma="kollipüllilen" pos="V" corresp="to have red earth"><m baseForm="kolli" type="root" corresp="red">kolli</m><m baseForm="pülli" type="root" corresp="ground/floor">pùlli</m><m baseForm="le" type="vb">le</m><m baseForm="we" type="psist">we</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="tayu" pos="PP" corresp="both of our"><m baseForm="tayu" type="1d" corresp="both of our">tayu</m></w> <w xml:lang="arn" lemma="kachillalmum" pos="N" corresp="place of wheat (planting)"><m baseForm="kachilla" type="root" corresp="wheat">kachilla</m><m baseForm="(ü)l" type="cause">l</m><m baseForm="mum" type="situ">mom</m></w>."</p>
+            <p xml:lang="arn"><w xml:lang="arn" lemma="lladkün" pos="N" corresp="sadness/affliction"><m baseForm="lladkü" type="root" corresp="become sad/lament">Lladkù</m><m baseForm="ke" type="habit">ke</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">mai</m></w> <w xml:lang="arn" lemma="tüfachi" pos="DP" corresp="this/those"><m baseForm="tüfachi" type="DP">təfachi</m></w> <w xml:lang="arn" lemma="fücha" pos="AJ" corresp="old/big"><m baseForm="fücha" type="root" corresp="old/big">fùcha</m></w> <w xml:lang="arn" lemma="wentru" pos="N" corresp="man"><m baseForm="wentru" type="root" corresp="man">wentru</m></w>.</p>
+
+         </div>
+      </body>
+   </text>
+</TEI>

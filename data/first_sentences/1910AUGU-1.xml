@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lecturas Araucanas (Narraciones, Costumbres, Cuentos, Canciones, etc.): Algunas costumbres de los Araucanos</title>
+            <author>Félix José de Augusta</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1910</date>
+               <name>Valdiva, Imprenta de la Prefectura Apostólica</name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher/>
+         </publicationStmt>
+         <seriesStmt>
+            <p/>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic Texts</ab>
+            <ab>DIALECT: Lafkenche?</ab>
+            <ab>INFORMANT: Pascual Segundo Painemilla Ñamcucheu (and others)</ab>
+            <ab>TRANSCRIBER: Fray Félix José de Augusta</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>ORIGINAL DOCUMENT: Biblioteca Nacional de Chile id: 96049</p>
+            <p>DOCUMENT SCAN: Memoria Chilena (MC0033389) http://www.memoriachilena.cl/602/w3-article-9601.html</p>
+            <p>TEXT OCR: Google Cloud Vision (using DH Dashboard, developed by Bryan Tarpley at the
+               Center for Digital Humanities Research here at Texas A&amp;M University.) </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>OCR CORRECTIONS: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div><pb n="3"/>
+
+<head xml:lang="spa" n="1"> Rogativas, como las solían hacer los indios de la costa entre Bajo Imperial y Tolten,</head> <note xml:lang="spa">referidas por Pascual Segundo Painemilla Ñamcucheu.</note>
+
+            <p xml:lang="arn" n="1"> <w xml:lang="arn" lemma="witrakünun" pos="V" corresp="help to stand/pull along"><m baseForm="witra" type="root" corresp="stand/pull along">Witra</m><m baseForm="künu" type="root" corresp="palce/help">kənu</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="ke" type="habit">ke</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="rewe" pos="N" corresp="rehue(totemic tree/pole)"><m baseForm="rewe" type="root" corresp="rehue(totemic tree/poloe)">rewe</m></w>, <w xml:lang="arn" lemma="ka" pos="C" corresp="and"><m baseForm="ka" type="C">ka</m></w>  <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="elün" pos="V" corresp="place/set"><m baseForm="el" type="root" corresp="place/set">el</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="ke" type="habit">ke</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="llangillangui" pos="N" corresp="ritual pedestal"><m baseForm="llangui" type="root" corresp="cupboard">llaŋi</m><m baseForm="llangui" type="redup">-llaŋi</m></w> <w xml:lang="arn" lemma="altar" pos="N" corresp="altar" source="sp:altar"><m baseForm="altar" type="root" corresp="altar">altar</m></w> <w xml:lang="arn" lemma="femngechi" type="AV" corresp="thus"><m baseForm="femngechi" type="root" corresp="thus">femŋechi</m></w>, <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="elam" pos="AV" corresp="for placing/setting"><m baseForm="el" type="root" corresp="place/set">el</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="am" type="purp">am</m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> <w xml:lang="arn" lemma="fücha" pos="AJ" corresp="old/big"><m baseForm="fücha" type="root" corresp="old/big">fùchá</m></w> <w xml:lang="arn" lemma="ral'i" pos="N" corresp="wooden plate"><m baseForm="ral'i" type="root" corresp="wooden plate">ral·i</m></w> <w xml:lang="arn" lemma="mollfüñ" pos="N" corresp="blood"><m baseForm="mollfüñ" type="root" corresp="blood">mollfùñ</m></w>, <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="iael" pos="N" corresp="food"><m baseForm="iael" type="root" corresp="food">iaqel</m></w> <w xml:lang="arn" lemma="feychi" pos="D"><m baseForm="fey" type="D">fei</m><m baseForm="chi" type="DA">chi</m></w> <w xml:lang="arn" lemma="ngünemapun" pos="CN" corresp="God/master of the earth"><m baseForm="ngüne" type="root" corresp="dominate/govern/protect">Ŋəne</m><m baseForm="mapu" type="root" corresp="land">mapu</m><m baseForm="(ü)n" type="nmlz">n</m></w>.</p>
+
+            <p xml:lang="arn" n="2"> <w xml:lang="arn" lemma="wema" pos="AV" corresp="first"><m baseForm="wema" type="root" corresp="first">Wema</m></w> <w xml:lang="arn" lemma="l'angümün" pos="V" type="kill"><m baseForm="l'a" type="root" corresp="die">l·aŋ</m><m baseForm="(ü)m" type="cause">əm</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="ke" type="habit">ke</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="ruka" pos="N" corresp="house"><m baseForm="ruka" type="root" corresp="house">ruka</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="waka" pos="N" corresp="cow" source="sp:vaca"><m baseForm="waka" type="root" corresp="cow">waka</m></w>, <w xml:lang="arn" lemma="awka" pos="N" corresp="mare"><m baseForm="awka" type="root" corresp="mare">auka</m></w>, <w xml:lang="arn" lemma="ofida" pos="N" corresp="sheep" source="sp:oveja"><m baseForm="ofida" type="root" corresp="sheep">ofisha</m></w>, <w xml:lang="arn" lemma="shañwe" pos="N" corresp="pig"><m baseForm="shañwe" type="root" corresp="pig">shañwe</m></w>; afùn <w xml:lang="arn" lemma="ilo" pos="N" corresp="meat"><m baseForm="ilo" type="root" corresp="meat">ilo</m></w> <w xml:lang="arn" lemma="yen" pos="V" corresp="carry/take"><m baseForm="ye" type="root" corresp="carry/take">ye</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="ke" type="habit">ke</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="kawiñwe" pos="N" corresp="place of celebration"><m baseForm="kawiñ" type="root" corresp="celebration/party">kawiñ</m><m baseForm="we" type="ins">we</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Estudios Araucanos: materiales para el estudio de la lengua, la literatura, i las costumbres de los indios mapuche o araucanos : diálogos en cuatro dialectos, cuentos populares, narraciones históricas i descriptivas i cartas de los indios en la lengua mapuche<lb/>II Diálogos araucanos en dialecto huilliche</title>
+                <author>Rodolfo Lenz</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>1895-1898 (elicited 1894)</date>
+                    <name>Santiago de Chile, Imprenta Cervantes </name>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Anales de la Universidad de Chile</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Tomo XCVII</p>
+            </seriesStmt>
+            <sourceDesc>
+                <ab>Ethnographic texts</ab>
+                <ab>DIALECT: Huilliche</ab>
+                <ab>INFORMANT: Domingo Quintuprai</ab>
+                <ab>TRANSCRIBER: Sigifredo de Frauenhäusl</ab>
+                <ab>LOCATION: Osorno (place of birth/residence of informant)</ab>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p> Corpus of Historical Mapudungun </p>
+            </projectDesc>
+            <samplingDecl>
+                <p>TEXT OCR AND CORRETIONS: Belén Villena and Team </p>
+                <p>https://benmolineaux.github.io/bookshelf/</p>
+            </samplingDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change>
+                    <p>ADDITIONAL FORMATTING: Benjamin Molineaux</p>
+                    <date/>
+                </change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head>II Diálogos araucanos en dialecto huilliche</head>
+            <p xml:lang="arn" n="1"> <w xml:lang="arn" lemma="tüfamew" pos="AV" corresp="here"><m baseForm="tüfamew" type="root" corresp="here">Təfámu</m></w> <w xml:lang="arn" lemma="petu" pos="AV" corresp="yet/still"><m baseForm="petu" type="particle" corresp="yet/still">pétu</m></w> <w xml:lang="arn" lemma="mütrümün" pos="V" corresp="call"><m baseForm="mütrüm" type="root" corresp="call">métəm</m><m baseForm="nge" type="pass">ŋé</m><m baseForm="imi" type="ind2s">imi</m></w>. </p>
+                <p xml:lang="spa" n="1"> Aquí aún llamado eres. </p>
+
+            <p xml:lang="arn" n="2"> <w xml:lang="arn" lemma="küpan" pos="V" corresp="come"><m baseForm="küpa" type="root" corresp="come">Kəpá</m><m baseForm="nge" type="imp2s">ŋe</m></w> <w xml:lang="arn" lemma="tüfamew" pos="AV" corresp="here"><m baseForm="tüfamew" type="root" corresp="here">təfámu</m></w>; <w xml:lang="arn" lemma="konün" pos="V" corresp="enter"><m baseForm="kon" type="root" corresp="enter">kon</m><m baseForm="pa" type="cis">pa</m><m baseForm="nge" type="imp2s">ŋé</m></w> <w xml:lang="arn" lemma="ruka" pos="N" corresp="house"><m baseForm="ruka" type="root" corresp="house">s'uká</m></w>-<w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">mo</m></w>. </p>
+                <p xml:lang="spa" n="2"> Ven acá; entra en (la) casa. </p>
+
+            <p xml:lang="arn" n="3"> <w xml:lang="arn" lemma="wekun" pos="AV" corresp="outside"><m baseForm="wekun" type="root" corresp="outside">Wekun</m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> <w xml:lang="arn" lemma="mülen" pos="V" corresp="be"><m baseForm="müle" type="root" corresp="be">məl'</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="wentru" pos="N" corresp="man"><m baseForm="wentru" type="root" corresp="man">went’u</m></w> (<w xml:lang="arn" lemma="mal'en" pos="N" corresp="woman"><m baseForm="mal'en" type="root" corresp="woman">mal'qén</m></w>, <w xml:lang="arn" lemma="witran" pos="N" corresp="travler"><m baseForm="witra"
+                type="root" corresp="travel">wüt'an</m></w>) </p>
+                <p xml:lang="spa" n="3"> Afuera uno está hombre (mujer, forastero). </p>
+
+            <p xml:lang="arn" n="4"> <w xml:lang="arn" lemma="pen" pos="V" corresp="see"><m baseForm="pe" type="room" corresp="see">Pé</m><m baseForm="me" type="and">me</m><m baseForm="fi" type="3dir">fí</m><m baseForm="nge" type="imp2s">ŋe</m></w>; <w xml:lang="arn" lemma="düngun" pos="V" corresp="speak/think"><m baseForm="düngu" type="root" corresp="thing/news/word/thought">züŋu</m><m baseForm="me" type="and">me</m><m baseForm="fi" type="3dir">fí</m><m baseForm="nge" type="imp2s">ŋe</m></w> <w xml:lang="arn" lemma="witran" pos="N" corresp="travler"><m baseForm="witra"
+                type="root" corresp="travel">wüt'an</m></w>; <w xml:lang="arn" lemma="wekun" pos="AV" corresp="outside"><m baseForm="wekun" type="root" corresp="outside">wekun</m></w> <w xml:lang="arn" lemma="mülen" pos="V" corresp="be"><m baseForm="müle" type="root" corresp="be">məl'e</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> <w xml:lang="arn" lemma="witran" pos="N" corresp="travler"><m baseForm="witra" type="root" corresp="travel">wüt'an</m></w>; <w xml:lang="arn" lemma="petu" pos="AV" corresp="yet/still"><m baseForm="petu" type="particle" corresp="yet/still">petu</m></w> <w xml:lang="arn" lemma="mütrümün" pos="V" corresp="call"><m baseForm="mütrüm" type="root" corresp="call">mət'um</m><m baseForm="eymew" type="ind3-2s">eimo</m></w>.</p>
+                <p xml:lang="spa" n="4"> Ve a verlo; ve a hablar al forastero (viajero); afuera está el viajero; todavía él te llama.</p>
+            </body>
+        </text>
+    </TEI>

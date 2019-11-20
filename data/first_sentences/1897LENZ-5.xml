@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Estudios Araucanos: materiales para el estudio de la lengua, la literatura, i las costumbres de los indios mapuche o araucanos : diálogos en cuatro dialectos, cuentos populares, narraciones históricas i descriptivas i cartas de los indios en la lengua mapuche<lb/>IV Trozos Menores en Picunche y Huilliche (Huilliche)</title>
+            <author>Rodolfo Lenz</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1895-1898 (elicited 1894)</date>
+               <name>Santiago de Chile, Imprenta Cervantes </name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Anales de la Universidad de Chile</publisher>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Tomo XCVII</p>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic texts</ab>
+            <ab>DIALECT: Huilliche</ab>
+            <ab>INFORMANT: Domingo Quintrupai</ab>
+            <ab>TRANSCRIBER: Rodolfo Lenz</ab>
+            <ab>LOCATION: Osorno (place of residence of informant)</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>TEXT OCR AND CORRETIONS: Belén Villena and Team </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>ADDITIONAL FORMATTING: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+         <note>EPISODIO HISTÓRICO DE LA GUERRA DE LA INDEPENDENCIA</note>
+
+         <p xml:lang="arn" n="1"> <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">Inche</m></w> <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">mai</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="my"><m baseForm="ñi" type="1s">ni</m></w> <w xml:lang="arn" lemma="l'aku" pos="N" corresp="(paternal) grandfather/grandchild"><m baseForm="l'aku" type="root" corresp="(paternal) grandfather/grandchild">láku</m></w> <w xml:lang="arn" lemma="mongen" pos="V" corresp="live/be healthy"><m baseForm="monge" type="root" corresp="live/be healthy">moŋe</m><m baseForm="fu" type="bi">fú</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="kuyfi" pos="AV" corresp="long time"><m baseForm="kuyfi" type="root" corresp="long time">kúifi</m></w> <w xml:lang="arn" lemma="antü" pos="N" corresp="day/sun"><m baseForm="antü" type="root" corresp="day/sun">ántə</m></w>.</p>
+
+         <p xml:lang="arn"><w xml:lang="arn" lemma="Juan" pos="NP" corresp="Juan">Juan</w> <w xml:lang="arn" lemma="José" pos="NP" corresp="José">José</w> <w xml:lang="arn" lemma="Kintuprai" pos="NP" corresp="Kintuprai">Kintuprai</w> <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="fu" type="bi">fu</m><m baseForm="iy" type="ind3s"></m></w>-<w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">inche</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="l'aku" pos="N" corresp="(paternal) grandfather/grandchild"><m baseForm="l'aku" type="root" corresp="(paternal) grandfather/grandchild">laku</m></w>; pichü <w xml:lang="arn" lemma="müt'en" pos="AV" corresp="merely/only"><m baseForm="müt'e" type="root" corresp="very/much">məte</m><m baseForm="(ü)n" type="nmlz">n</m></w> <w xml:lang="arn" lemma="kimün" pos="V" corresp="know"><m baseForm="kim" type="root" corresp="know">kim</m><m baseForm="pa" type="cis">pa</m><m baseForm="fi" type="3dir">fí</m><m baseForm="(ü)n" type="ind1s">n</m></w>.</p>
+
+         <p xml:lang="arn" n="2"> <w xml:lang="arn" lemma="feychi" pos="D"><m baseForm="fey" type="D">Fei</m><m baseForm="chi" type="DA">ti</m></w> <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">mai</m></w> <w xml:lang="arn" lemma="rupan" pos="V" corresp="pass"><m baseForm="rupa" type="root" corresp="pass">rupa</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="weichan" pos="N" corresp="war/battle"><m baseForm="weicha" type="root" corresp="fight">weicha</m><m baseForm="(ü)n" type="nmlz">n</m></w>-<w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">mo</m></w>.</p>
+
+         <p xml:lang="arn"><w xml:lang="arn" lemma="kombidan" pos="V" corresp="share/invite" source="sp:convidar"><m baseForm="kombidan" type="root" corresp="share/invite">Kombídan</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> <w xml:lang="arn" lemma="kasike" pos="N" corresp="chieftain" source="sp:casique"><m baseForm="kasike" type="root" corresp="chieftain">kasike</m></w>; <w xml:lang="arn" lemma="düngun" pos="N" corresp="thing/news/word/thought"><m baseForm="düngu" type="root" corresp="thing/news/word/thought">züŋu</m><m baseForm="eyeu" type="indinv3-3">eu</m></w> <w xml:lang="arn" lemma="chi" pos="DA"><m baseForm="chi" type="DA">chi</m></w> <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> <w xml:lang="arn" lemma="kawallero" pos="N" corresp="gentleman" source="sp:caballero"><m baseForm="kawallero" type="root" corresp="gentleman">kawaʎero</m></w> <w xml:lang="arn" lemma="nielu" pos="N" corresp="having"><m baseForm="nie" type="root" corresp="have">nie</m><m baseForm="lu" type="svn">l’u</m></w> <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="weichan" pos="N" corresp="war/battle"><m baseForm="weicha" type="root" corresp="fight">weicha</m><m baseForm="(ü)n" type="nmlz">n</m></w> <w xml:lang="arn" lemma="awkandüngu" pos="CN" corresp="words of uprising"><m baseForm="awkan" type="root" corresp="wild/rebellious">aukan</m><m baseForm="düngu" type="root" corresp="thing/news/word/thought">züŋu</m></w>: </p>
+      </body>
+   </text>
+</TEI>

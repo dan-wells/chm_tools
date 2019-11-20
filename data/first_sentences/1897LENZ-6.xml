@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Estudios Araucanos: materiales para el estudio de la lengua, la literatura, i las costumbres de los indios mapuche o araucanos : diálogos en cuatro dialectos, cuentos populares, narraciones históricas i descriptivas i cartas de los indios en la lengua mapuche<lb/>V Diálogos en dialecto pehuenche chileno</title>
+            <author>Rodolfo Lenz</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1895-1898 (elicited 1894)</date>
+               <name>Santiago de Chile, Imprenta Cervantes </name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Anales de la Universidad de Chile</publisher>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Tomo XCVII</p>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic texts</ab>
+            <ab>DIALECT: Pehuenche</ab>
+            <ab>INFORMANT: Calvun (Segundo Jara)</ab>
+            <ab>TRANSCRIBER: Rodolfo Lenz</ab>
+            <ab>LOCATION: Perquenco superior (place of residence of informant)</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>TEXT OCR AND CORRETIONS: Belén Villena and Team </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>ADDITIONAL FORMATTING: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<note>AUTOBIOGRAFÍA DEL INDIO SEGUNDO JARA (KAVÜN)</note>
+
+<p xml:lang="arn" n="1"> <w xml:lang="arn" lemma="Kopiñ" pos="NP" corresp="Copiñ">Kopiñ</w> <w xml:lang="arn" lemma="koñin" pos="V" corresp="give birth"><m baseForm="koñi" type="root" corresp="give birth">koñi</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="(ü)n" type="ind1s">n</m></w>.</p>
+
+<p xml:lang="arn"><w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">Tañi</m></w> <w xml:lang="arn" lemma="chaw" pos="N" corresp="father/sonny"><m baseForm="chaw" type="root" corresp="father/sonny">chao</m></w> <w xml:lang="arn" lemma="Katriñ" pos="NP" corresp="Katriñ">Kat’iñ</w> <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="iy" type="ind3">i</m></w>, <w xml:lang="arn" lemma="ñi" pos="PP" corresp="my"><m baseForm="ñi" type="1s">ñi</m></w> <w xml:lang="arn" lemma="ñuke" pos="N" corresp="mother"><m baseForm="ñuke" type="root" corresp="mother">ñuke</m></w> <w xml:lang="arn" lemma="Rupayllang" pos="NP" corresp="Rupayllang">Rupaiʎaŋ</w> <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="iy" type="ind3">i</m></w>.</p>
+
+<p xml:lang="arn" n="2"> <w xml:lang="arn" lemma="pichin" pos="AV" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">Pəchü</m><m baseForm="(ü)n" type="nmlz">n</m></w> <w xml:lang="arn" lemma="non" pos="V" corresp="pass/cross"><m baseForm="no" type="root" corresp="pass/cross">no</m><m baseForm="pa" type="cis">pa</m><m baseForm="(ü)n" type="ind1s">n</m></w> <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="Kautün" pos="NP" corresp="Cautín">Kautün</w>.</p>
+
+         <p xml:lang="arn"><w xml:lang="arn" lemma="küme" pos="AJ" corresp="good"><m baseForm="küme" type="root" corresp="good">Kəme</m></w> <w xml:lang="arn" lemma="wentru" pos="N" corresp="man"><m baseForm="wentru" type="root" corresp="man">went’u</m></w> <w xml:lang="arn" lemma="nien" pos="V" corresp="have"><m baseForm="nie" type="root" corresp="have">nie</m><m baseForm="fu" type="bi">vu</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> <w xml:lang="arn" lemma="chaw" pos="N" corresp="father/sonny"><m baseForm="chaw" type="root" corresp="father/sonny">chao</m></w> <w xml:lang="arn" lemma="em" pos="IJ" corresp="ouch!"><m baseForm="em" type="particle" corresp="ouch!">em</m></w>; <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there/therefore"><m baseForm="feymew" type="root" corresp="there/therefore">feimeu</m></w> <w xml:lang="arn" lemma="kureyen" pos="V" corresp="marry"><m baseForm="kure" type="root" corresp="wife">kure</m><m baseForm="ye" type="vb">ye</m><m baseForm="iy" type="in3s">i</m></w> <w xml:lang="arn" lemma="Lemunaw" pos="NP" corresp="Lemunau">Lemunau</w> <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> <w xml:lang="arn" lemma="ñawe" pos="N" corresp="daughter (of a man)"><m baseForm="ñawe" type="root" corresp="daughter (of a man)">ñawe</m></w>. </p>
+
+      </body>
+   </text>
+</TEI>

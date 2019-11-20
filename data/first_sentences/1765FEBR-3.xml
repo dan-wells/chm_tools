@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Doctrina Christiana en Chilli Dugu (Christian doctrine in Chillidungu)</title>
+            <author>Andres Febres</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1765 (1st Edition)</date>
+               <name>Lima, Peru (Calle de la Encarnación)</name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher/>
+         </publicationStmt>
+         <seriesStmt>
+            <p/>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>DIALECT: Imperial/Angol (Central/Northern Mapudungun)</ab>
+            <ab>Grammar/Missionary Texts</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>ORIGINAL DOCUMENT: Biblioteca Nacional de Chile (id MC: MC0013039/id BN: 62696)</p>
+            <p>DOCUMENT SCAN: http://www.memoriachilena.cl/602/w3-article-8486.html</p>
+            <p>TEXT OCR AND CORRETIONS: Transcribed (single key) by AEL Data 01.2014. RN1
+               (http://darwin-online.org.uk/content/frameset?pageseq=1&amp;amp;itemID=A709&amp;amp;ampviewtype=text) </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>ADDITIONAL FORMATTING AND OCR CORRECTIONS: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <pb n="183"/>
+
+         <note xml:lang="spa">SEGUNDA PARTE. DOCTRINA CHRISTIANA EN Chilli Dugu. CAP. 1.</note>
+         <note xml:lang="spa">EL REZO.</note>
+
+         <note xml:lang="spa">¶ Nòtese, que las Oraciones van divilidas con una estrellita puesta à
+            cada dos, ò tres palabras, conforme los Indios suelen rezarlas, siguiendo todos al que
+            va adelante; y lo misimo harè en el Catecismo.</note>
+
+         <anchor n="299"/>
+
+         <note xml:lang="spa">Por la señal &amp;c.</note>
+
+         <p xml:lang="arn"> <w xml:lang="spa" lemma="santa" pos="AJ" corresp="holy">SAnta</w> <w xml:lang="spa" lemma="cruz" pos="N" corresp="cross">Cruz</w> * <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> <w xml:lang="arn" lemma="ngünel" pos="N" corresp="signal/governing"><m baseForm="ngüne" type="root" corresp="dominate/govern">gùne</m><m baseForm="el" type="nmlz">l</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> ✠ * <w xml:lang="arn" lemma="iñchiñ" pos="PN" corresp="we/us"><m baseForm="iñchiñ" type="1p" corresp="we/us">inchiñ</m></w> <w xml:lang="arn" lemma="taiñ" pos="PP" corresp="our"><m baseForm="taiñ" type="1p" corresp="our">taiñ</m></w> ✠ * <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> <w xml:lang="arn" lemma="kayñe" pos="N" corresp="enemy"><m baseForm="kayñe" type="root" corresp="enemy">cayñe</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> * <w xml:lang="arn" lemma="montun" pos="V" corresp="save"><m baseForm="montu" type="root" corresp="save">montu</m><m baseForm="(ü)l" type="cause">l</m><m baseForm="muiñ" type="ind2-1p">moiñ</m></w>
+                 ✠ * <w xml:lang="arn" lemma="iñchiñ" pos="PN" corresp="we/us"><m baseForm="iñchiñ" type="1p" corresp="we/us">inchiñ</m></w> <w xml:lang="arn" lemma="taiñ" pos="PP" corresp="our"><m baseForm="taiñ" type="1p" corresp="our">taiñ</m></w> <w xml:lang="spa" lemma="señor" pos="N" corresp="mister">Señor</w> <w xml:lang="spa" lemma="Dios" pos="N" corresp="God">Dios</w>.</p>
+                 <p xml:lang="arn">* <w xml:lang="arn" lemma="chaw" pos="N" corresp="father/sonny"><m baseForm="chaw" type="root" corresp="father/sonny">Chao</m></w>, * <w xml:lang="arn" lemma="fot'üm" pos="N" corresp="son (of a man)"><m baseForm="fot'üm" type="root" corresp="son (of a man)">Votùm</m></w> <w xml:lang="arn" lemma="kay" pos="AV" corresp="other/also"><m baseForm="kay" type="root" corresp="other/also">cay</m></w>, ✠ * <w xml:lang="spa" lemma="espíritu" pos="N" corresp="spirit">Espiritu</w> <w xml:lang="spa" lemma="santo" pos="AJ" corresp="holy">Santo</w> <w xml:lang="arn" lemma="kay" pos="AV" corresp="other/also"><m baseForm="kay" type="root" corresp="other/also">cay</m></w> * <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> <w xml:lang="arn" lemma="üy" pos="N" corresp="name"><m baseForm="üy" type="root" corresp="name">ghùy</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+         <anchor n="300"/>
+
+         <note xml:lang="spa">EL PADRE NUESTRO.</note>
+
+         <p xml:lang="arn"> <w xml:lang="arn" lemma="iñchiñ" pos="PN" corresp="we/us"><m baseForm="iñchiñ" type="1p" corresp="we/us">INchiñ</m></w> <w xml:lang="arn" lemma="taiñ" pos="PP" corresp="our"><m baseForm="taiñ" type="1p" corresp="our">taiñ</m></w> <w xml:lang="arn" lemma="chaw" pos="N" corresp="father/sonny"><m baseForm="chaw" type="root" corresp="father/sonny">Chao</m></w>, * <w xml:lang="arn" lemma="wenu" pos="N" corresp="sky/heaven/weather"><m baseForm="wenu" type="root" corresp="above/up/sky/heaven/weather">huenu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="mülen" pos="V" corresp="be"><m baseForm="müle" type="root" corresp="be">mle</m><m baseForm="imi" type="ind2s">ymi</m></w>: * <w xml:lang="arn" lemma="ufchin" pos="V" corresp="revere/hallow"><m baseForm="ufchi" type="root" corresp="revere/hallow">uvchi</m><m baseForm="nge" type="pass">ge</m><m baseForm="pe" type="imp3">pe</m></w> <w xml:lang="arn" lemma="tami" pos="PP" corresp="your(s)"><m baseForm="tami" type="2s" corresp="your(s)">tami</m></w> <w xml:lang="arn" lemma="üy" pos="N" corresp="name"><m baseForm="üy" type="root" corresp="name">ghùy</m></w>: * <w xml:lang="arn" lemma="eymi" pos="PN" corresp="you(s)"><m baseForm="eymi" type="2s">eymi</m></w>
+            <w xml:lang="arn" lemma="tami" pos="PP" corresp="your(s)"><m baseForm="tami" type="2s" corresp="your(s)">tami</m></w> <w xml:lang="spa" lemma="reyno" pos="N" corresp="kingdom">reyno</w> * <w xml:lang="arn" lemma="iñchiñ" pos="PN" corresp="we/us"><m baseForm="iñchiñ" type="1p" corresp="we/us">inchiñ</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="küpan" pos="V" corresp="come"><m baseForm="küpa" type="root" corresp="come">cùpa</m><m baseForm="pe" type="imp3">pe</m></w>: * <w xml:lang="arn" lemma="chumngechi" pos="AV" corresp="how"><m baseForm="chumngechi" type="root" corresp="how">chumgechi</m></w> <w xml:lang="arn" lemma="tami" pos="PP" corresp="your(s)"><m baseForm="tami" type="2s" corresp="your(s)">tami</m></w> <w xml:lang="arn" lemma="piel" pos="N" corresp="will/order"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="el" type="nmlz">el</m></w> * <w xml:lang="arn" lemma="femngen" pos="V" corresp="be thus"><m baseForm="femnge" type="root" corresp="thus">vemg</m><m baseForm="ke" type="habit">que</m><m baseForm="iy" type="ind3">y</m></w> <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> * <w xml:lang="arn" lemma="wenu" pos="N" corresp="sky/heaven/weather"><m baseForm="wenu" type="root" corresp="above/up/sky/heaven/weather">huenu</m></w></p>
+
+      </body>
+   </text>
+</TEI>

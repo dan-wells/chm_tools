@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gramática Araucana: III. Parte - Lectura</title>
+            <author>Félix José de Augusta</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1903</date>
+               <name>Valdiva, Imprenta Central, J. Lampert</name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher/>
+         </publicationStmt>
+         <seriesStmt>
+            <p/>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Grammar/Missionary Texts</ab>
+            <ab>DIALECT: Lafkenche?</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>TEXT OCR: Google Cloud Vision (using DH Dashboard, developed by Bryan Tarpley at the
+               Center for Digital Humanities Research here at Texas A&amp;M University.) </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>OCR CORRECTIONS: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="335"/>
+         <div>
+            <head xml:lang="arn"> <w xml:lang="arn" lemma="kimün" pos="V" corresp="know"><m baseForm="kim" type="root" corresp="know">Kim</m><m baseForm="fall" type="cause">fal</m><m baseForm="(kü)le" type="prog">kəle</m><m baseForm="la" type="neg">la</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="chumlen" pos="N" corresp="being how"><m baseForm="chum" type="root" corresp="how">chum</m><m baseForm="le" type="vb">le</m><m baseForm="(ü)n" type="nmlz">n</m></w> <w xml:lang="arn" lemma="küla" pos="NUM" corresp="three"><m baseForm="küla" type="root" corresp="three">küla</m></w> <w xml:lang="arn" lemma="personangen" pos="AJ" corresp="be a person" source="sp:persona"><m baseForm="persona" type="root" corresp="person">persona</m><m baseForm="nge" type="vb">ŋe</m><m baseForm="chi" type="ajvz">chi</m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="be one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m><m baseForm="(ü)n" type="inf">n</m></w> <w xml:lang="spa" lemma="Dios" pos="NP" corresp="God">Dios</w>.</head>
+
+            <p xml:lang="arn"> <w xml:lang="spa" lemma="san" pos="AJ" corresp="Saint">San</w> <w xml:lang="spa" lemma="Augustin" pos="NP" corresp="Augustine">Agustin</w> <w xml:lang="arn" lemma="pingechi" pos="V" corresp="called"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="nge" type="vb">ŋe</m><m baseForm="chi" type="adjz">chi</m></w> <w xml:lang="spa" lemma="obispo" pos="N" corresp="bishop">obispo</w> <w xml:lang="arn" lemma="fentren" pos="AV" corresp="much"><m baseForm="fentren" type="root" corresp="much">fentren</m></w> <w xml:lang="arn" lemma="rakiduamün" pos="N" corresp="think/reason"><m baseForm="raki" type="root" corresp="count/calculate">raki</m><m baseForm="duam" type="root" corresp="business/need/intention">duam</m><m baseForm="(kü)le" type="prog">kəle</m><m baseForm="fi" type="bi">fu</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="rüf" type="AV" corresp="really"><m baseForm="rüf" type="root" corresp="really">rəf</m></w> <w xml:lang="arn" lemma="kimlu" pos="V" corresp="know"><m baseForm="kim" type="root" corresp="knowing">kim</m><m baseForm="a" type="fut">a</m><m baseForm="fi" type="3dir">fi</m><m baseForm="lu" type="svn">lu</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w>
+               <w xml:lang="arn" lemma="chumlen" pos="N" corresp="being how"><m baseForm="chum" type="root" corresp="how">chum</m><m baseForm="le" type="vb">le</m><m baseForm="(ü)n" type="nmlz">n</m></w> <w xml:lang="arn" lemma="küla" pos="NUM" corresp="three"><m baseForm="küla" type="root" corresp="three">küla</m></w> <w xml:lang="arn" lemma="personangen" pos="AJ" corresp="be a person" source="sp:persona"><m baseForm="persona" type="root" corresp="person">persona</m><m baseForm="nge" type="vb">ŋe</m><m baseForm="chi" type="ajvz">chi</m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="be one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m><m baseForm="(ü)n" type="inf">n</m></w> <w xml:lang="spa" lemma="Dios" pos="NP" corresp="God">Dios</w>.</p>
+
+            <p xml:lang="arn"> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">Kiñe</m></w> <w xml:lang="arn" lemma="antü" pos="N" corresp="day/sun"><m baseForm="antü" type="root" corresp="day/sun">antü</m></w> <w xml:lang="arn" lemma="amun" pos="V" corresp="go/walk"><m baseForm="amu" type="root" corresp="go/walk">amu</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="pashialu" pos="N" corresp="strolling/taking a trip" source="sp:paseo"><m baseForm="pashia" type="root" corresp="stroll/take a trip">pashia</m><m baseForm="a" type="fut">ia</m><m baseForm="lu" type="svn">lu</m></w> <w xml:lang="arn" lemma="playa" pos="N" corresp="beach" source="sp:playa"><m baseForm="playa" type="root" corresp="beach">playa</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, <w xml:lang="arn" lemma="rakiduam" pos="N" corresp="thought/mind"><m baseForm="raki" type="root" corresp="count/calculate">raki</m><m baseForm="duam" type="root" corresp="business/need/intention">duam</m></w> <w xml:lang="arn" lemma="engu" pos="PC" corresp="along with"><m baseForm="engu" type="3d">eŋu</m></w> <w xml:lang="arn" lemma="amun" pos="V" corresp="go/walk"><m baseForm="amu" type="root" corresp="go/walk">amu</m><m baseForm="iy" type="ind3">i</m></w>, <w xml:lang="arn" lemma="rüf" type="AV" corresp="really"><m baseForm="rüf" type="root" corresp="really">rəf</m></w>
+                <w xml:lang="arn" lemma="rakiduamün" pos="N" corresp="think/reason"><m baseForm="raki" type="root" corresp="count/calculate">raki</m><m baseForm="duam" type="root" corresp="business/need/intention">duam</m><m baseForm="(ki)yaw" type="amb">kiau</m><m baseForm="ka" type="cont">ka</m><m baseForm="fu" type="bi">fu</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="tañi" pos="PP" corresp="his/her/their"><m baseForm="tañi" type="3">tañi</m></w> <w xml:lang="arn" lemma="amun" pos="N" corresp="walking"><m baseForm="amu" type="root" corresp="go/walk">amu</m><m baseForm="(kü)le" type="prog">le</m><m baseForm="(ü)n" type="inf">n</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+                <p xml:lang="arn"><w xml:lang="arn" lemma="amulu" pos="N" corresp="walking"><m baseForm="amu" type="root" corresp="go/walk">Amu</m><m baseForm="(kü)le" type="prog">le</m><m baseForm="lu" type="svn">lu</m></w> <w xml:lang="arn" lemma="pen" pos="V" corresp="see"><m baseForm="pe" type="root" corresp="see">pe</m><m baseForm="pu" corresp="trloc">pu</m><m baseForm="fi" type="dir3">fi</m><m baseForm="iy" type="ind3" change="deletion"></m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> <w xml:lang="arn" lemma="müt'e" pos="AV" corresp="very/much"><m baseForm="müt'e" type="root" corresp="very/much">məte</m></w> <w xml:lang="arn" lemma="ayünngechi" pos="AJ" corresp="want/love"><m baseForm="ayü" type="root" corresp="want/love">ayün</m><m baseForm="nge" type="vb">ŋe</m><m baseForm="chi" type="ajvz">chi</m></w> <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> <w xml:lang="arn" lemma="weche" pos="N" corresp="young person"><m baseForm="we" type="root" corresp="new/fresh">we</m><m baseForm="che" type="root" corresp="person">che</m></w> 
+               <w xml:lang="arn" lemma="inal" pos="N" corresp="shore/edge"><m baseForm="inal" type="root" corresp="shore/edge">inal</m></w> <w xml:lang="arn" lemma="l'afken'" pos="N" corresp="lake/sea"><m baseForm="l'afken'" type="root" corresp="lake/sea">l·afken·</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>, <w xml:lang="arn" lemma="dewmadewman" pos="V" corresp="build/make/complete with much effort"><m baseForm="dewma" type="root" corresp="build/make/complete">deumá</m><m baseForm="dewma" type="root" corresp="build/make/complete">deuma</m><m baseForm="ye" type="cf">ye</m><m baseForm="fu" type="bi">fú</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">kiñe</m></w> <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m></w> <w xml:lang="arn" lemma="rüŋan" pos="N" corresp="hole"><m baseForm="runga" type="root" corresp="dig">rəŋa</m><m baseForm="(ü)n" type="nmlz">n</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="pichi" pos="AJ" corresp="young/small"><m baseForm="pichi" type="root" corresp="young/small">pichi</m><m baseForm="ke" type="p">ke</m></w> <w xml:lang="arn" lemma="kug" pos="N" corresp="hand"><m baseForm="kug" type="root" corresp="hand">kuq</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vida y costumbres de los indígenas araucanos en la segunda mitad del siglo XIX</title>
+            <author>Ernesto Wilhelm de Moesbach</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1930 (elicited 1924-1927)</date>
+               <name>Santiago de Chile, Imprenta Cervantes </name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Anales de la Universidad de Chile</publisher>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Tomo XCVII</p>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic texts</ab>
+            <ab>DIALECT: Lafkenche (Central Mapudungun)</ab>
+            <ab>INFORMANT: Pascual Coña</ab>
+            <ab>TRANSCRIBER: Ernesto Wilhelm de Moesbach</ab>
+            <ab>LOCATION: Lake Budi (place of residence of informant)</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>ORIGINAL DOCUMENT: Biblioteca Nacional de Chile id: 232322</p>
+            <p>DOCUMENT SCAN: Memoria Chilena (MC0008879) http://www.memoriachilena.cl/602/w3-article-8190.html</p>
+            <p>TEXT OCR: Gertrudis Payás</p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>ADDITIONAL FORMATTING: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <div>
+            <head xml:lang="spa">PRÓLOGO DEL NARRADOR PASCUAL COÑA</head>
+
+            <p xml:lang="arn"> <w xml:lang="arn" lemma="kuyfi" pos="AV" corresp="long time"><m baseForm="kuyfi" type="root" corresp="long time">Kuifi</m><m baseForm="ke" type="pl">ke</m></w> <w xml:lang="arn" lemma="mapuche" pos="CN" corresp="land-people/Mapuche"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m><m baseForm="che" type="root" corresp="person">che</m></w> <w xml:lang="arn" lemma="em" pos="IJ" corresp="ouch!"><m baseForm="em" type="particle" corresp="ouch!" change="glide epenthesis">yem</m></w> <w xml:lang="arn" lemma="chumngechi" pos="AV" corresp="how"><m baseForm="chumngechi" type="root" corresp="how">chumŋechi</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="admongel" pos="N" corresp="way of life"><m baseForm="ad" type="root" corresp="exterior/face/surface">ad</m><m baseForm="monge" type="root" corresp="live">moŋe</m><m baseForm="fu" type="bi">f</m><m baseForm="el" type="nmlz">el</m></w> <w xml:lang="arn" lemma="engün" pos="PN" corresp="they/them"><m baseForm="engün" type="3p" corresp="they/them">eŋn</m></w>.</p>
+
+            <p xml:lang="arn"><w xml:lang="arn" lemma="kiñe" pos="NUM" corresp="one"><m baseForm="kiñe" type="root" corresp="one">Kiñe</m></w> <w xml:lang="arn" lemma="düngu" pos="N" corresp="thing/news/word/thought"><m baseForm="düngu" type="root" corresp="thing/news/word/thought">dëŋu</m></w> <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="a" type="fut">a</m><m baseForm="(ü)n" type="ind1s">n</m></w>:<lb/> <w xml:lang="arn" lemma="dew" pos="AV" corresp="then/finally"><m baseForm="dew" type="root" corresp="end">Deu</m></w> <w xml:lang="arn" lemma="füchan" pos="V" corresp="become old/big"><m baseForm="fücha" type="root" corresp="old/big">fücha</m><m baseForm="(ü)n" type="ind1s">n</m></w> <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">iñche</m></w>, <w xml:lang="arn" lemma="doy" pos="AV" corresp="more/most"><m baseForm="doy" type="root" corresp="more/most">doi</m></w> <w xml:lang="arn" lemma="pura" pos="NUM" corresp="eight"><m baseForm="pura" type="root" corresp="eight">pura</m></w> <w xml:lang="arn" lemma="mari" pos="NUM" corresp="ten"><m baseForm="mari" type="root" corresp="ten">mari</m></w> <w xml:lang="arn" lemma="tripantu" pos="N" corresp="year"><m baseForm="tripantu" type="root" corresp="year">tripantu</m></w> <w xml:lang="arn" lemma="nielu" pos="N" corresp="having"><m baseForm="nie" corresp="have">nie</m><m baseForm="lu" type="svn">lu</m></w> <w xml:lang="arn" lemma="trokin" pos="V" corresp="seem"><m baseForm="troki" type="root" corresp="seem">troki</m><m baseForm="(u)w" type="reflex">uw</m><m baseForm="(ü)n" type="ind1s">n</m></w>.</p>
+
+            <p xml:lang="arn"> <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">Fei</m></w> <w xml:lang="arn" lemma="tüfachi" pos="DP" corresp="this/those"><m baseForm="tüfachi" type="DP">tëfachi</m></w> <w xml:lang="arn" lemma="fentren" pos="AV" corresp="much"><m baseForm="fentren" type="root" corresp="much">fentren</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="mongemum" pos="N" corresp="thus/there living"><m baseForm="monge" type="root" corresp="live">moŋe</m><m baseForm="mum" type="situ">mum</m></w> <w xml:lang="arn" lemma="kimün" pos="V" corresp="know"><m baseForm="kim" type="root" corresp="know">kim</m><m baseForm="ye" type="cf">ye</m><m baseForm="pa" type="cis">pa</m><m baseForm="fi" type="3dir">fi</m><m baseForm="(iy)iñ" type="ind1p">ñ</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="chumel" pos="N" corresp="how-doing/custom"><m baseForm="chum" type="root" corresp="how">chum</m><m baseForm="ke" type="pl">ke</m><m baseForm="fu" type="bi">f</m><m baseForm="el" type="nmlz">el</m></w> <w xml:lang="arn" lemma="kuyfi" pos="AV" corresp="long time"><m baseForm="kuyfi" type="root" corresp="long time">kuifi</m><m baseForm="ke" type="pl">ke</m></w> <w xml:lang="arn" lemma="che" pos="N" corresp="person"><m baseForm="che" type="root" corresp="person">che</m></w> <w xml:lang="arn" lemma="em" pos="IJ" corresp="ouch!"><m baseForm="em" type="particle" corresp="ouch!" change="glide epenthesis">yem</m></w>, <w xml:lang="arn">kom</w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="kakewme" pos="AJ" corresp="different"><m baseForm="kakewme" type="root" corresp="different">kakeume</m></w> <w xml:lang="arn" lemma="admongel" pos="N" corresp="way of life"><m baseForm="ad" type="root" corresp="exterior/face/surface">ad</m><m baseForm="monge" type="root" corresp="live">moŋe</m><m baseForm="fu" type="bi">f</m><m baseForm="el" type="nmlz">el</m></w> <w xml:lang="arn" lemma="engün" pos="PN" corresp="they/them"><m baseForm="engün" type="3p" corresp="they/them">eŋn</m></w> <w xml:lang="arn" lemma="kimnien" pos="V" corresp="have knowledge"><m baseForm="kim" type="root" corresp="know">kim</m><m baseForm="nie" corresp="have">nie</m><m baseForm="ke" type="habit">ke</m><m baseForm="(ü)n">n</m></w>; <w xml:lang="arn" lemma="küme" pos="AJ" corresp="good"><m baseForm="küme" type="root" corresp="good">küme</m><m baseForm="ke" type="p">ke</m></w> <w xml:lang="arn" lemma="adngen" pos="N" corresp="custom"><m baseForm="ad" type="root" corresp="exterior/face/surface">ad</m><m baseForm="nge" type="root" corresp="be">ŋe</m><m baseForm="fu" type="bi">fu</m><m baseForm="ingün" type="ind3p">ingün</m></w>, <w xml:lang="arn" lemma="weda" pos="AJ" corresp="bad"><m baseForm="weda" type="root" corresp="bad" change="palatalisation">wesha</m><m baseForm="ke" type="pl">ke</m></w> <w xml:lang="arn" lemma="ad" pos="N" corresp="exterior/face/surface/custom"><m baseForm="ad" type="root" corresp="exterior/face/surface">ad</m></w> <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ká</m></w> <w xml:lang="arn" lemma="ngen" pos="V" corresp="be"><m baseForm="nge" type="root" corresp="be">ŋe</m><m baseForm="fu" type="bi">fu</m><m baseForm="ingün" type="ind3p">ingün</m></w>.</p>
+
+         </div>
+      </body>
+   </text>
+</TEI>

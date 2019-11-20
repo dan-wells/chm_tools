@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><w xml:lang="spa" lemma="Dios" pos="NP" corresp="God">Dios</w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="düngu" pos="N" corresp="thing/news/word/thought"><m baseForm="düngu" type="root" corresp="thing/news/word/thought">dəŋu</m></w>: <w xml:lang="arn" lemma="kom" pos="AV" corresp="all"><m baseForm="kom" type="root" corresp="all">Kom</m></w> <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> <w xml:lang="arn" lemma="kristiano" pos="N" corresp="christian" source="sp:cristiano"><m baseForm="kristiano" type="root" corresp="christian">kristiano</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="kimel" pos="N" corresp="knowing"><m baseForm="kim" type="root" corresp="know">kim</m><m baseForm="a" type="fut">a</m><m baseForm="el" type="nmlz">qel</m></w>  <w xml:lang="arn" lemma="tüfa" pos="DP"><m baseForm="tüfa" type="DP">təfa</m></w></title>
+            <author>Félix José de Augusta</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1902</date>
+               <name>Valdiva, Imprenta Central, J. Lampert</name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher/>
+         </publicationStmt>
+         <seriesStmt>
+            <p/>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Missionary Texts</ab>
+            <ab>DIALECT: Lafkenche?</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>TEXT OCR: Google Cloud Vision (using DH Dashboard, developed by Bryan Tarpley at the
+               Center for Digital Humanities Research here at Texas A&amp;M University.) </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>OCR CORRECTIONS: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <pb n="3"/>
+
+         <p xml:lang="arn"> <w xml:lang="spa" lemma="Dios" pos="NP" corresp="God">Dios</w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="düngu" pos="N" corresp="thing/news/word/thought"><m baseForm="düngu" type="root" corresp="thing/news/word/thought">dəŋu</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="felen" pos="V" corresp="be thus"><m baseForm="fele" type="root" corresp="be thus">fele</m><m baseForm="(ü)n" type="ind1s">n</m></w> .</p>
+
+         <p xml:lang="arn"><w xml:lang="spa" lemma="santa" pos="AJ" corresp="holy">Santa</w> <w xml:lang="spa" lemma="cruz" pos="N" corresp="cross">Kruz</w> + <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w>  <w xml:lang="arn" lemma="ngünel" pos="N" corresp="signal/governing"><m baseForm="ngüne" type="root" corresp="dominate/govern">ŋəne</m><m baseForm="el" type="nmlz">l</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w><lb/>> <w xml:lang="arn" lemma="iñchiñ" pos="PN" corresp="we/us"><m baseForm="iñchiñ" type="1p" corresp="we/us">iñchiñ</m></w> <w xml:lang="arn" lemma="taiñ" pos="PP" corresp="our"><m baseForm="taiñ" type="1p" corresp="our">taiñ</m></w> + <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> <w xml:lang="arn" lemma="kaiñe" pos="N" corresp="enemy"><m baseForm="kaiñe" type="root" corresp="enemy">kaiñe</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w><lb/>>
+            <w xml:lang="arn" lemma="montun" pos="V" corresp="save"><m baseForm="montu" type="root" corresp="save">montu</m><m baseForm="(ü)l" type="cause">l</m><m baseForm="muiñ" type="ind2-1p">moiñ</m></w> + <w xml:lang="arn" lemma="taiñ" pos="PP" corresp="our"><m baseForm="taiñ" type="1p" corresp="our">taiñ</m></w> <w xml:lang="spa" lemma="señor" pos="N" corresp="mister">Señor</w> <w xml:lang="spa" lemma="Dios" pos="N" corresp="God">Dios</w><lb/>> <w xml:lang="arn" lemma="chaw" pos="N" corresp="father/sonny"><m baseForm="chaw" type="root" corresp="father/sonny">Chau</m></w> <w xml:lang="arn" lemma="ka" pos="C" corresp="and"><m baseForm="ka" type="C">ka</m></w> <w xml:lang="arn" lemma="fot'üm" pos="N" corresp="son (of a man)"><m baseForm="fot'üm" type="root" corresp="son (of a man)">Fotəm</m></w> + <w xml:lang="arn" lemma="ka" pos="C" corresp="and"><m baseForm="ka" type="C">ka</m></w> <w xml:lang="spa" lemma="espíritu" pos="N" corresp="spirit">Espíritu</w> <w xml:lang="spa" lemma="santo" pos="AJ" corresp="holy">Santo</w> <w xml:lang="arn" lemma="tañi" pos="PP" corresp="my"><m baseForm="tañi" type="1s" corresp="my">tañi</m></w> <w xml:lang="arn" lemma="üy" pos="N" corresp="name"><m baseForm="üy" type="root" corresp="name">üi</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.<lb/>>
+            <w xml:lang="spa" lemma="amen" pos="IJ" corresp="amen">Amen</w>.</p>
+        
+      </body>
+   </text>
+</TEI>

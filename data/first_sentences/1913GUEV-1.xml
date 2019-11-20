@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Las Últimas Familias – Costumbres Araucanas: Capítulo II: Genealogías Araucanas</title>
+            <author>Tomás de Guevara</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1913</date>
+               <name>Santiago de Chile, Imprenta, Litografía i Encuadernacion «Barcelona</name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher/>
+         </publicationStmt>
+         <seriesStmt>
+            <p/>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic texts</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>TEXT OCR: Google Cloud Vision (using DH Dashboard, developed by Bryan Tarpley at the Center for Digital Humanities Research here at Texas A&amp;M University.) </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>OCR CORRECTIONS: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <div>
+            <head xml:lang="spa">La familia de los Kolipi, por Lorenzo Koliman</head>
+
+            <p xml:lang="arn" n="1"> <w xml:lang="arn" lemma="Lorensu" pos="NP" corresp="Lorenzo"><m baseForm="Lorensu" type="root" corresp="Lorenzo">Lorenzu</m></w> <w xml:lang="arn" lemma="Kolüpi" pos="NP" corresp="Kolipi"><m baseForm="Kolüpi" type="root" corresp="Kolipi">Kolüpi</m></w> <w xml:lang="arn" lemma="ñidol" pos="N" corresp="master/leader"><m baseForm="ñidol" type="root" corresp="master/leader">ñidol</m></w> <w xml:lang="arn" lemma="longko" pos="N" corresp="head/chief"><m baseForm="longko" type="root" corresp="head/chief">lonko</m></w> <w xml:lang="arn" lemma="ngen" pos="V" corresp="be"><m baseForm="nge" type="root" corresp="be">nge</m><m baseForm="fu" type="bi">fu</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="kom" pos="AV" corresp="all"><m baseForm="kom" type="root" corresp="all">kom</m></w> <w xml:lang="arn" lemma="nag" pos="N" corresp="time/instance"><m baseForm="nag" type="root" corresp="time/instance">naq</m><m baseForm="pu" type="trloc">pu</m><m baseForm="le" type="subj3">le</m></w> <w xml:lang="arn" lemma="che" pos="N" corresp="person"><m baseForm="che" type="root" corresp="person">che</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+            <p xml:lang="arn"> <w xml:lang="arn" lemma="tremün" pos="V" corresp="grow"><m baseForm="trem" type="root" corresp="grow">Trem</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="Remeweyko" pos="NP" corresp="Remehueico"><m baseForm="Remeweyko" type="root" corresp="Remehueico">Remeweiko</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="Puren" pos="NP" corresp="Purén"><m baseForm="Puren" type="root" corresp="Purén">Puren</m></w> <w xml:lang="arn" lemma="engu" pos="PC" corresp="along with"><m baseForm="engu" type="3d">eŋu</m></w> <w xml:lang="arn" lemma="Lumako" pos="NP" corresp="Lumaco"><m baseForm="Lumako" type="root" corresp="Lumaco">Lumaco</m></w> <w xml:lang="arn" lemma="püle" pos="N" corresp="side/place"><m baseForm="püle" type="root" corresp="side/place">ple</m></w> <w xml:lang="arn" lemma="mülelu" pos="V" corresp="be"><m baseForm="müle" type="root" corresp="be">müle</m><m baseForm="lu" type="svn">lu</m></w>.</p>
+            <p xml:lang="arn"> <w xml:lang="arn" lemma="Kolüpi" pos="NP" corresp="Kolipi"><m baseForm="Kolüpi" type="root" corresp="Kolipi">Kolüpi</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="chaw" pos="N" corresp="father/sonny"><m baseForm="chaw" type="root" corresp="father/sonny">chao</m></w> <w xml:lang="arn" lemma="Weychao" pos="NP" corresp="Hueichao"><m baseForm="Weychao" type="root" corresp="Hueichao">Weichao</m></w> <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="fu" type="bi">fu</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="ka" pos="C" corresp="and"><m baseForm="ka" type="C">ka</m></w> <w xml:lang="arn" lemma="nien" pos="V" corresp="have"><m baseForm="nie" type="root" corresp="have">nie</m><m baseForm="fu" type="bi">fu</m><m baseForm="iy" type="ind3">i</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

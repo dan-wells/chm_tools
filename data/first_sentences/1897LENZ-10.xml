@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Estudios Araucanos: materiales para el estudio de la lengua, la literatura, i las costumbres de los indios mapuche o araucanow: diálogos en cuatro dialectos, cuentos populares, narraciones históricas i descriptivas i cartas de los indios en la lengua mapuche<lb/>XI TROZOS DESCRIPTIVOS Y DOCUMENTOS PARA EL ESTUDIO DEL FOLKLORE ARAUCANO</title>
+            <author>Rodolfo Lenz</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1895-1898 (elicited 1896)</date>
+               <name>Santiago de Chile, Imprenta Cervantes </name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Anales de la Universidad de Chile</publisher>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Tomo XCVII</p>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic texts</ab>
+            <ab>DIALECT: Pehuenche</ab>
+            <ab>INFORMANT: Calvun (Segundo Jara)</ab>
+            <ab>TRANSCRIBER: Rodolfo Lenz</ab>
+            <ab>LOCATION: Perquenco superior (place of residence of informant)</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>TEXT OCR AND CORRETIONS: Belén Villena and Team </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>ADDITIONAL FORMATTING: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p xml:lang="spa" n="1"> DESCRIPCIÓN DE LA TRILLA ENTRE LOS PEHUENCHES POR SEGUNDO JARA CALVUN
+</p>
+         <p xml:lang="arn" n="1a"> <w xml:lang="arn" lemma="nürtamkan" pos="N" corresp="account"><m baseForm="nütramka" type="root" corresp="tell/relate">ŊƏT’AMKA</m><m baseForm="(ü)n" type="nmlz">N</m></w> <w xml:lang="arn" lemma="ñiwiñngen" pos="N" corresp="threshing"><m baseForm="ñiwiñ" type="root" corresp="thresh">ÑIWI</m><m baseForm="nge" type="pass">ŊE</m><m baseForm="(ü)n" type="nmlz">N</m></w>
+</p>
+<p xml:lang="arn" n="1"> <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">Veimeu</m></w> <w xml:lang="arn" lemma="nütramkan" pos="V" corresp="tell/relate"><m baseForm="nütramka" type="root" corresp="tell/relate">ŋət’amka</m><m baseForm="a" type="fut">yaa</m><m baseForm="iyu" type="ind1d">yu</m></w> <w xml:lang="arn" lemma="tüfa" pos="DP"><m baseForm="tüfa" type="DP">tva</m></w>, <w xml:lang="arn" lemma="anay" pos="EP" corresp="friend!"><m baseForm="anay" type="root" corresp="friend!">anei</m></w>, <w xml:lang="arn" lemma="chumlen" pos="AV" corresp="how"><m baseForm="chum" type="root" corresp="how">chum</m><m baseForm="le" type="vb">le</m><m baseForm="ke" type="habit">ke</m><m baseForm="n" type="nmlz">n</m></w> <w xml:lang="arn" lemma="ñiwiñngen" pos="N" corresp="threshing"><m baseForm="ñiwiñ" type="root" corresp="thresh">ñiwi</m><m baseForm="nge" type="pass">ŋe</m><m baseForm="(ü)n" type="nmlz">n</m></w> <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> <w xml:lang="arn" lemma="mapuche" pos="CN" corresp="land-people/Mapuche"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m><m baseForm="che" type="root" corresp="person">che</m></w>.</p>
+<p xml:lang="arn"><w xml:lang="arn" lemma="angküyem" pos="AJ" corresp="be dry"><m baseForm="angkü" type="root" corresp="dry">Aŋkü</m><m baseForm="(y)em" type="ex">yem</m></w> <w xml:lang="arn" lemma="tükun" pos="N" corresp="field"><m baseForm="tüku" type="root" corresp="place/sow">tuku</m><m baseForm="(ü)n" type="nmlz">n</m></w>: <w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">veimeu</m></w>  <w xml:lang="arn" lemma="nielu" pos="N" corresp="having"><m baseForm="nie" type="root" corresp="have">nie</m><m baseForm="lu" type="svn">lu</m></w> <w xml:lang="arn" lemma="kachilla" pos="N" corresp="wheat" source="sp:Castilla"><m baseForm="kachilla" type="root" corresp="wheat">kachiʎa</m></w> , <w xml:lang="arn" lemma="kawella" pos="N" corresp="barley"><m baseForm="kawella" type="root" corresp="barley">kaweʎa</m></w>  <w xml:lang="arn" lemma="wichan" pos="V" corresp="invite"><m baseForm="wicha" type="root" corresp="ally">wicha</m><m baseForm="che" type="root" corresp="person">che</m><m baseForm="ke" type="habit">ke</m><m baseForm="iy" type="ind3">i</m></w>; <w xml:lang="arn" lemma="wichan" pos="V" corresp="invite"><m baseForm="wicha" type="root" corresp="ally">wicha</m><m baseForm="ke" type="habit">ke</m><m baseForm="fi" type="3dir">ví</m><m baseForm="iy" type="ind3"></m></w> <w xml:lang="arn" lemma="pu" pos="PL"><m baseForm="pu" type="PL">pu</m></w> <w xml:lang="arn" lemma="domo" pos="N" corresp="woman"><m baseForm="domo" type="root" corresp="woman">domo</m></w> <w xml:lang="arn" lemma="suchelu" pos="N" corresp="trimming (the heads off wheat)"><m baseForm="suche" type="root" corresp="trim (the heads off wheat)">suche</m><m baseForm="a" type="fut">a</m><m baseForm="lu" type="svn">lu</m></w> .
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Estudios Araucanos: materiales para el estudio de la lengua, la literatura, i las costumbres de los indios mapuche o araucanow: diálogos en cuatro dialectos, cuentos populares, narraciones históricas i descriptivas i cartas de los indios en la lengua mapuche<lb/>VI-IX Cuentos araucanos en dialecto pehuenche chileno</title>
+            <author>Rodolfo Lenz</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1895-1898 (elicited 1894)</date>
+               <name>Santiago de Chile, Imprenta Cervantes </name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Anales de la Universidad de Chile</publisher>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Tomo XCVII</p>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic texts</ab>
+            <ab>DIALECT: Pehuenche</ab>
+            <ab>INFORMANT: Calvun (Segundo Jara)</ab>
+            <ab>TRANSCRIBER: Rodolfo Lenz</ab>
+            <ab>LOCATION: Perquenco superior (place of residence of informant)</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>TEXT OCR AND CORRETIONS: Belén Villena and Team </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>ADDITIONAL FORMATTING: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+<note>I. CUENTOS DE ANIMALES</note>
+
+         <p xml:lang="arn" n="1"> <w xml:lang="arn" lemma="epew" pos="N" corresp="story"><m baseForm="epew" type="root" corresp="story">EPEU</m></w> <w xml:lang="arn" lemma="traru" pos="N" corresp="traro (bird of prey)"><m baseForm="traru" type="root"
+            corresp="traro (a bird of prey)">T’ARU</m></w> <w xml:lang="arn" lemma="engu" pos="PC" corresp="along with"><m baseForm="engu" type="3d">YEŊU</m></w> <w xml:lang="arn" lemma="kanin" pos="N" corresp="jote (turkey vulture)"><m baseForm="kanin" type="root" corresp="jote (turkey vulture)">KANIN</m></w></p>
+
+         <p xml:lang="arn" n="1"> <w xml:lang="arn" lemma="epu" pos="NUM" corresp="two"><m baseForm="epu" type="root" corresp="two">Epu</m></w> <w xml:lang="arn" lemma="üñüm" pos="N" corresp="bird"><m baseForm="üñüm" type="root" corresp="bird">üñəm</m></w> “<w xml:lang="arn" lemma="kuden" pos="V" corresp="play"><m baseForm="kude" type="root" corresp="play/bet">kude</m><m baseForm="a" type="fut">a</m><m baseForm="iyu" corresp="ind1d">yu</m></w>” <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="rke" type="rep">rke</m><m baseForm="iy" type="ind3">i</m></w>;<lb/>
+                 “<w xml:lang="arn" lemma="amun" pos="V" corresp="go/walk"><m baseForm="amu" type="root" corresp="go/walk">amo</m><m baseForm="a" type="fut">a</m><m baseForm="iyu" corresp="ind1d">yu</m></w> <w xml:lang="arn" lemma="l'afken'" pos="N" corresp="lake/sea"><m baseForm="l'afken'" type="root" corresp="lake/sea">lafken</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> ” <w xml:lang="arn" lemma="pin" pos="V" corresp="say"><m baseForm="pi" type="root" corresp="say">pi</m><m baseForm="rke" type="rep">rke</m><m baseForm="ingu" type="ind3d">iŋu</m></w> <w xml:lang="arn" lemma="traru" pos="N" corresp="traro (bird of prey)"><m baseForm="traru" type="root" corresp="traro (a bird of prey)">t’aru</m></w> <w xml:lang="arn" lemma="engu" pos="PC" corresp="along with"><m baseForm="engu" type="3d">yeŋu</m></w> <w xml:lang="arn" lemma="kanin" pos="N" corresp="jote (turkey vulture)"><m baseForm="kanin" type="root" corresp="jote (turkey vulture)">kanin</m></w>.<lb/></p>
+            <p xml:lang="arn"><w xml:lang="arn" lemma="feymew" pos="AV" corresp="there"><m baseForm="feymew" type="root" corresp="there">Feimu</m></w> <w xml:lang="arn" lemma="kuden" pos="V" corresp="play"><m baseForm="kude" type="root" corresp="play/bet">kude</m><m baseForm="(ü)l" type="cause">l</m><m baseForm="ke" type="habit">ke</m><m baseForm="ingu" type="ind3d">iŋu</m></w> <w xml:lang="arn" lemma="iney" pos="WH" corresp="who"><m baseForm="iney" type="particle" corresp="who">iñei</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="his/her/their"><m baseForm="ñi" type="3">ñi</m></w> <w xml:lang="arn" lemma="doy" pos="AV" corresp="more/most"><m baseForm="doy" type="root" corresp="more/most">doi</m></w> <w xml:lang="arn" lemma="lefel" pos="N" corresp="run"><m baseForm="lef" type="root" corresp="run">lev</m><m baseForm="a" type="fut">a</m><m baseForm="el" type="nmlz">el</m></w>.</p>
+
+
+      </body>
+   </text>
+</TEI>

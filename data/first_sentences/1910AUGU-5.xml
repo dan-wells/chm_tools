@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lecturas Araucanas (Narraciones, Costumbres, Cuentos, Canciones, etc.): Cartas</title>
+            <author>Félix José de Augusta</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1910</date>
+               <name>Valdiva, Imprenta de la Prefectura Apostólica</name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher/>
+         </publicationStmt>
+         <seriesStmt>
+            <p/>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>Ethnographic Texts</ab>
+            <ab>DIALECT: Lafkenche?</ab>
+            <ab>INFORMANT: José Francisco Kolùñ (and others)</ab>
+            <ab>LOCATION: Costal areas between Bajo Imperial and Tolten (place of residence of informant)</ab>
+            <ab>TRANSCRIBER: Fray Félix José de Augusta</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>ORIGINAL DOCUMENT: Biblioteca Nacional de Chile id: 96049</p>
+            <p>DOCUMENT SCAN: Memoria Chilena (MC0033389) http://www.memoriachilena.cl/602/w3-article-9601.html</p>
+            <p>TEXT OCR: Google Cloud Vision (using DH Dashboard, developed by Bryan Tarpley at the Center for Digital Humanities Research here at Texas A&amp;M University.) </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>OCR CORRECTIONS: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+
+
+            <pb n="177"/>
+
+            <head xml:lang="spa" n="1"> Carta que nos ha dictado el joven Kuriñamko de Wente (Missión de Bajo Imperial)</head>
+
+            <note xml:lang="spa"> dirigida al Preceptor de un Colegio regentado por Religiosos en Santiago, en el cual había hechos sus estudios.</note>
+
+            <p xml:lang="arn" n="1"> <w xml:lang="arn" lemma="akun" pos="V" corresp="arrive"><m baseForm="aku" type="root" corresp="arrive">Aku</m><m baseForm="tu" type="rest">tu</m><m baseForm="(ü)n" type="ind1s">n</m></w> <w xml:lang="arn" lemma="faw" pos="AV" corresp="here" ana="contraction of tufa mew"><m baseForm="faw" type="root" corresp="here">fau</m></w>. <w xml:lang="arn" lemma="küpan" pos="V" corresp="come"><m baseForm="küpa" type="root" corresp="come">Kùpa</m><m baseForm="tu" type="rest">tu</m><m baseForm="(ü)n" type="ind1s">n</m></w> <w xml:lang="spa" lemma="Purisima" pos="NP" corresp="Purisima">Purisima</w> <w xml:lang="arn" lemma="antü" pos="N" corresp="day/sun"><m baseForm="antü" type="root" corresp="day/sun">antù</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>.</p>
+
+            <p xml:lang="arn"> <w xml:lang="arn" lemma="domingo" pos="AV" corresp="Sunday" source="sp:domingo">Domingo</w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="spa" lemma="a las cinco de la tarde" pos="AV" corresp="at five in the afternoon">á las cinco de la tarde</w> <w xml:lang="arn" lemma="akun" pos="V" corresp="arrive"><m baseForm="aku" type="root" corresp="arrive">aku</m><m baseForm="tu" type="rest">tu</m><m baseForm="(ü)n" type="ind1s">n</m></w> <w xml:lang="arn" lemma="faw" pos="AV" corresp="here" ana="contraction of tufa mew"><m baseForm="faw" type="root" corresp="here">fau</m></w>.</p>
+
+            <p xml:lang="arn"> <w xml:lang="arn" lemma="epu" pos="NUM" corresp="two"><m baseForm="epu" type="root" corresp="two">Epu</m></w> <w xml:lang="arn" lemma="antü" pos="N" corresp="day/sun"><m baseForm="antü" type="root" corresp="day/sun">antù</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">mu</m></w> <w xml:lang="arn" lemma="müngel" pos="AV" corresp="precisely"><m baseForm="müngel" type="root" corresp="precisely">məŋel</m></w> <w xml:lang="arn" lemma="küpan" pos="V" corresp="come"><m baseForm="küpa" type="root" corresp="come">kùpa</m><m baseForm="(ü)n" type="ind1s">n</m></w>.</p>
+
+            <p xml:lang="arn"> <w xml:lang="arn" lemma="uman" pos="V" corresp="lodge"><m baseForm="uma" type="root"
+                corresp="lodge">Uma</m><m baseForm="la" type="neg">la</m><m baseForm="(ü)n" type="ind1s">n</m></w> <w xml:lang="arn" lemma="Temuko" pos="NP" corresp="Temuco"><m baseForm="Temuko" type="root" corresp="Temuco">Temuco</m></w>, <w xml:lang="arn" lemma="dewma" pos="AV" corresp="in the end"><m baseForm="dewma" type="root" corresp="build/make/complete">deuma</m></w> <w xml:lang="arn" lemma="alkansan" pos="V" corresp="catch/reach" source="sp:alcanzar"><m baseForm="alkansa" type="root" corresp="catch/reach">alcanza</m><m baseForm="pa" type="cis">pa</m><m baseForm="(ü)n" type="ind1s">n</m></w> <w xml:lang="arn" lemma="tren" pos="N" corresp="train" source="sp:tren"><m baseForm="tren" type="root" corresp="train">tren</m></w>; <w xml:lang="arn" lemma="fey" pos="D"><m baseForm="fey" type="D">fei</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w> <w xml:lang="arn" lemma="rupafemün" pos="V" corresp="pass there"><m baseForm="rupa" type="root" corresp="pass">rupá</m><m></m><m baseForm="fem" type="root" corresp="thus/here">fem</m><m baseForm="iyu" type="ind1d">iyu</m></w>, <w xml:lang="arn" lemma="uman" pos="V" corresp="lodge"><m baseForm="uma" type="root" corresp="lodge">Uma</m><m baseForm="la" type="neg">la</m><m baseForm="yu" type="ind1d">yu</m></w> <w xml:lang="arn" lemma="feychi" pos="D"><m baseForm="fey" type="D">fei</m><m baseForm="chi" type="DA">chi</m></w> <w xml:lang="arn" lemma="Temuko" pos="NP" corresp="Temuco"><m baseForm="Temuko" type="root" corresp="Temuco">Temuco</m></w>.</p>
+
+         </div>
+      </body>
+   </text>
+</TEI>

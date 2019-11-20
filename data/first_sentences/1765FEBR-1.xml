@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/profiles/local/html/scratch.xsl"?>
+<?xml-stylesheet type="text/css" href="dark-theme.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Arte de la lengua general del reyno de Chile: Epu ghulmen gañi dugulun (Dialogue
+               of two chiefs)</title>
+            <author>Andres Febres</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1765 (1st Edition)</date>
+               <name>Lima, Peru (Calle de la Encarnación)</name>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher/>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Tomo XCVII</p>
+         </seriesStmt>
+         <sourceDesc>
+            <ab>DIALECT: Imperial/Angol (Central/Northern Mapudungun)</ab>
+            <ab>Grammar/Missionary Texts</ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p> Corpus of Historical Mapudungun </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>ORIGINAL DOCUMENT: Biblioteca Nacional de Chile (id MC: MC0013039/id BN: 62696)</p>
+            <p>DOCUMENT SCAN: http://www.memoriachilena.cl/602/w3-article-8486.html</p>
+            <p>TEXT OCR AND CORRETIONS: Transcribed (single key) by AEL Data 01.2014. RN1
+               (http://darwin-online.org.uk/content/frameset?pageseq=1&amp;itemID=A709&amp;ampviewtype=text) </p>
+            <p>https://benmolineaux.github.io/bookshelf/</p>
+         </samplingDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <p>ADDITIONAL FORMATTING AND OCR CORRECTIONS: Benjamin Molineaux</p>
+               <date/>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <pb n="100"/>
+
+         <head>EPU GHÙLMEN GAÑI DUGULUN. Quiñegelu D. Ighnacio Levihueque, cagelu D.Pedro
+            Llancahuenu pigelu.</head>
+
+         <anchor n="267"/>
+         <p xml:lang="arn" n="LEvihueque"> <w xml:lang="arn" lemma="marimari" pos="IJ" corresp="hello/greetings!"><m baseForm="marimari" type="root" corresp="hello/greetings">Marimari</m></w> <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w>, <w xml:lang="arn" lemma="nay" pos="N" corresp="friend"><m baseForm="nay" type="root" corresp="friend">nay</m></w>. </p>
+         <p xml:lang="arn" n="Liancahucnu"> <w xml:lang="arn" lemma="marimari" pos="IJ" corresp="hello/greetings!"><m baseForm="marimari" type="root" corresp="hello/greetings">Marimari</m></w> <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w>, <w xml:lang="arn" lemma="nay" pos="N" corresp="friend"><m baseForm="nay" type="root" corresp="friend">nay</m></w>. </p>
+         <p xml:lang="arn" n="Lev"> <w xml:lang="arn" lemma="feyllefe" pos="N" corresp="?"><m baseForm="fey" type="D">Vey</m><m baseForm="lle" type="affirm">lle</m><m baseForm="fe" type="agent">ve</m></w>, <w xml:lang="arn" lemma="tüfachiyawn" pos="V" corresp="be around here"><m baseForm="tüfachi" type="DP">Vachi</m><m baseForm="(ki)yaw" corresp="amb">yau</m><m baseForm="imi" type="ind2s">ymi</m></w>? </p>
+         <p xml:lang="arn" n="Llanc"> <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">May</m></w>, <w xml:lang="arn" lemma="tüfachiyawn" pos="V" corresp="be around here"><m baseForm="tüfachi" type="DP">vachi</m><m baseForm="(ki)yaw" corresp="amb">yau</m><m baseForm="(ü)n" type="ind1s">n</m></w> <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w>, <w xml:lang="arn" lemma="peñi" pos="N" corresp="brother (of a man)"><m baseForm="peñi" type="root" corresp="brother (of a man)">peñi</m></w>. </p>
+         <p xml:lang="arn" n="Lev"> <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">Ca</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="ngepen" pos="V" corresp="seem"><m baseForm="nge" type="root" corresp="be">ge</m><m baseForm="pe" type="px">pe</m><m baseForm="imi" type="ind2s">ymi</m></w> <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="tüfa" pos="DP"><m baseForm="tüfa" type="DP">tva</m></w>, <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">inche</m></w> <w xml:lang="arn" lemma="may" pos="AV" corresp="yes/indeed"><m baseForm="may" corresp="yes/indeed">may</m></w> <w xml:lang="arn" lemma="ta" pos="DA"><m baseForm="ta" type="DA">ta</m></w> <w xml:lang="arn" lemma="pen" pos="V" corresp="see"><m baseForm="pe" type="root" corresp="see">pe</m><m baseForm="ke" type="habit">que</m><m baseForm="la" type="neg">la</m><m baseForm="eyu" type="ind1s-2s">yu</m></w> <w xml:lang="arn" lemma="tüfachi" pos="DP" corresp="this/those"><m baseForm="tüfachi" type="DP">vachi</m> </w><w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="mew" pos="P"><m baseForm="mew" type="P">meu</m></w>. </p>
+         <p xml:lang="arn" n="Llanc"> <w xml:lang="arn" lemma="mupin" pos="V" corresp="tell the truth"><m baseForm="mupi" type="root" corresp="tell the truth">Mupi</m><m baseForm="imi" type="ind2s">mi</m></w> <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w>, <w xml:lang="arn" lemma="nay" pos="N" corresp="friend"><m baseForm="nay" type="root" corresp="friend">nay</m></w>; <w xml:lang="arn" lemma="ka" pos="AV" corresp="again"><m baseForm="ka" type="root" corresp="again">ca</m></w> <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w> <w xml:lang="arn" lemma="ngen" pos="V" corresp="be"><m baseForm="nge" type="root" corresp="be">ge</m><m baseForm="(ü)n" type="ind1s">n</m></w> <w xml:lang="arn" lemma="iñche" pos="PN" corresp="I/me"><m baseForm="iñche" type="1s">inche</m></w>, <w xml:lang="arn" lemma="fewla" pos="AV" corresp="now"><m baseForm="fewla" type="root" corresp="now">veula</m></w> <w xml:lang="arn" lemma="ñi" pos="PP" corresp="my"><m baseForm="ñi" type="1">ñi</m></w> <w xml:lang="arn" lemma="konün" pos="V" corresp="enter"><m baseForm="kon" type="root" corresp="enter">con</m><m baseForm="pa" type="cis">pa</m><m baseForm="(ü)n" corresp="ind1s">n</m></w> <w xml:lang="arn" lemma="tüfachi" pos="DP" corresp="this/those"><m baseForm="tüfachi" type="DP">vachi</m></w>
+            <w xml:lang="arn" lemma="mapu" pos="N" corresp="land/earth"><m baseForm="mapu" type="root" corresp="land/earth">mapu</m></w>. </p>
+      </body>
+   </text>
+</TEI>
