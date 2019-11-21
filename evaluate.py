@@ -3,6 +3,7 @@
 import argparse
 import csv
 from collections import defaultdict
+import Levenshtein
 
 # TODO: is it useful to include indices per sentence anywhere?
 
@@ -15,15 +16,21 @@ def baseline_copy(reference):
         ref = csv.DictReader(inf, delimiter='\t', fieldnames=ref_header, quoting=csv.QUOTE_NONE)
         total = 0
         correct = 0
+        wrong = 0
+        distance = 0
         for word in ref:
             if word['xpostag'] == 'PUNCT':
                 continue
             word['form'] = word['form'].lower()
             if word['form'] == word['lemma']:
                 correct += 1
+            else:
+                wrong += 1
+                distance += Levenshtein.distance(word['form'], word['lemma'])
             total += 1
         copy_acc = correct / total
-    return copy_acc
+        edit_dis = distance / wrong
+    return copy_acc, edit_dis
 
 def baseline_most_frequent(train, valid):
     """Evaluate lemmatization accuracy predicting most common lemma."""
@@ -44,6 +51,8 @@ def baseline_most_frequent(train, valid):
         words = csv.DictReader(inf, delimiter='\t', fieldnames=ref_header, quoting=csv.QUOTE_NONE)
         total = 0
         correct = 0
+        wrong = 0
+        distance = 0
         for word in words:
             if word['xpostag'] == 'PUNCT':
                 continue
@@ -55,9 +64,13 @@ def baseline_most_frequent(train, valid):
                 pred = word['form']
             if pred == word['lemma']:
                 correct += 1
+            else:
+                wrong += 1
+                distance += Levenshtein.distance(pred, word['lemma'])
             total += 1
     most_frequent_acc = correct / total
-    return most_frequent_acc
+    edit_dis = distance / wrong
+    return most_frequent_acc, edit_dis
 
 def evaluate_predicted(reference, predicted, merged='merged.tsv'):
     """Evaluate lemmatization accuracy of predictions in one CoNNL file against another."""
@@ -70,6 +83,8 @@ def evaluate_predicted(reference, predicted, merged='merged.tsv'):
     merge_header = pred_header + ["misc"]
     total = 0
     correct = 0
+    wrong = 0
+    distance = 0
     with open(reference) as ref, open(predicted) as pred, open(merged, 'w') as merge:
         merge_tsv = csv.DictWriter(merge, delimiter='\t', fieldnames=merge_header, quoting=csv.QUOTE_NONE)
         ref_words = csv.DictReader(ref, delimiter='\t', fieldnames=ref_header, quoting=csv.QUOTE_NONE)
@@ -79,12 +94,16 @@ def evaluate_predicted(reference, predicted, merged='merged.tsv'):
                 continue
             if rw['lemma'] == pw['plemma']:
                 correct += 1
+            else:
+                wrong += 1
+                distance += Levenshtein.distance(rw['lemma'], pw['plemma'])
             total += 1
             merge_word = pw
             merge_word.update({'lemma': rw['lemma'], 'pos': rw['xpostag'], 'feats': rw['feats'], 'misc': rw['misc']})
             merge_tsv.writerow(merge_word)
-    pred_acc = correct / total
-    return pred_acc
+    pred_acc = correct  / total
+    edit_dis = distance / wrong
+    return pred_acc, edit_dis
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -101,11 +120,11 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     if args.reference is not None:
-        copy_acc = baseline_copy(args.reference)
-        print("Copy baseline:\t{0:.2%}".format(copy_acc))
+        copy_acc, edit_dis = baseline_copy(args.reference)
+        print("Copy baseline:\t{0:.2%}\tEdit Distance: {1}".format(copy_acc,edit_dis))
     if args.train is not None and args.reference is not None:
-        most_frequent_acc = baseline_most_frequent(args.train, args.reference)
-        print("Most frequent baseline:\t{0:.2%}".format(most_frequent_acc))
+        most_frequent_acc, edit_dis = baseline_most_frequent(args.train, args.reference)
+        print("Most frequent baseline:\t{0:.2%}\tEdit Distance: {1}".format(most_frequent_acc,edit_dis))
     if args.reference is not None and args.predicted is not None:
-        pred_acc = evaluate_predicted(args.reference, args.predicted, args.merge)
-        print("Predicted accuracy:\t{0:.2%}".format(pred_acc))
+        pred_acc, edit_dis = evaluate_predicted(args.reference, args.predicted, args.merge)
+        print("Predicted accuracy:\t{0:.2%}\tEdit Distance: {1}".format(pred_acc, edit_dis))
